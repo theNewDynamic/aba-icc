@@ -1,0 +1,31 @@
+---
+layout: default
+section: page
+---
+<section class="content">
+{% if page.splash_image %}
+	{% include snippets/page-splash.html %}
+{% endif %}
+
+
+{% if page.include %}
+      {% include {{page.include}} %}
+    {% endif %}
+
+
+<article class="hentryTK {% if page.class %}{{page.class}}{% endif %}">
+  
+  <div class="entry-content prose columns-2 "><!--  //CONTENT -->
+    {{ content }}
+  </div>
+  {% if site.include_addthis_sharing %}
+    <div class="sharing">
+      {% include articles/sharing.html %}
+    </div>
+  {% endif %}
+    <!-- include global/edit.html -->
+</article>
+
+</section>
+
+

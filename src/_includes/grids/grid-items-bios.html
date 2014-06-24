@@ -1,0 +1,28 @@
+{% assign bios = site.data.aba-icc-board-bios %}
+
+
+<ul class="grid-list-items" style="margin:auto;">
+  {% for item in bios %}
+    <li class="grid-list-item-image grid-list-item {% cycle 'dark' ,'light' %}">
+
+      
+        <div class="figure">
+          {% if item.image %}
+            <img src="/assets/img/{{item.image}}" alt="" style="text-align:center;">
+         {% endif %} 
+        </div>
+      
+        <div class="info">
+          <h1>{{item.name}}</h1>
+          
+          <div class="text">
+          <h5>{{item.title}}</h5>
+            
+          </div>
+        </div>
+
+
+
+    </li>
+  {% endfor %}
+</li>

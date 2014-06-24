@@ -1,0 +1,38 @@
+{% assign the_author = site.data.authors | where: 'twitter', {{page.author}} %}
+<article class="hentry {% if page.class %}{{page.class}}{% endif %}">
+  <header>
+     {% if page.title %}
+    <h1 class="entry-title">{{page.title}}</h1>
+    {% endif %}
+    {% if page.subtitle %}
+    <h2>
+      {{page.subtitle}}
+    </h2>
+    {% endif %}
+    {% if page.date %}
+      <time class='date' datetime="{{ page.date | date:'%Y-%m-%d' }}">
+        <small>
+          {{ page.date | date:'%A %b %d, %Y' }}
+        </small>
+      </time>
+    {% endif %}
+    <hr />
+    {% for author in the_author %}
+      name: {{author.name}}<br />
+      email: {{author.email}}
+    {% endfor %}
+  </header>
+  <div class="entry-content prose"><!--  //CONTENT -->
+    {{ content }}
+    {% if page.include %}
+      {% include {{page.include}} %}
+    {% endif %}
+  </div>
+  {% if site.include_addthis_sharing %}
+    <div class="sharing">
+      {% include articles/sharing.html %}
+    </div>
+  {% endif %}
+    <!-- include global/edit.html -->
+</article>
+{% include articles/prev-next-links.html %}

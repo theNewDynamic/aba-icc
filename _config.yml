@@ -1,0 +1,88 @@
+url: http://aba-icc.pubspringdev1.com/
+sitename: 'ABA-ICC PROJECT'
+description: 'ABA Center for Human Rights'
+# do not include  https://github.com/...
+repo: 'sonnetmedia/aba-icc.org'
+branch: master
+default_author: "Bud Parr"
+source: src
+
+#Jekyll Options
+# if using more than one Jekyll instance on your local machine
+port: 4049
+permalink:  pretty
+
+# Dependencies
+markdown: kramdown
+
+include: ['_pages']
+# relative_permalinks: false # won't need this as of 2.0: Deprecation: Starting in 2.0, permalinks for pages in subfolders must be relative to the site source directory, not the parent directory. Also will change exclude directory
+exclude: ['readme.md','license.md','Gemfile','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'content-list.yaml']
+# gems:
+  #- jekyll-sitemap
+
+# dev options (true/false)
+# if site is in production, 'production: true'
+production: false
+include_jquery: false
+use_jquery_cdn: true
+include_addthis_sharing: false
+bust_css_cache: true
+
+# options (data)
+google_analytics_id: UA-XXXXXXX-X
+disqus_id:
+addthis_id:
+# CONTACT FORM http://getsimpleform.com/
+simple_form_api_token:
+
+# options (social)
+# facebook_id:
+twitter_id: budparr
+
+sass:
+    style: :expanded
+    sass_dir: assets/css/_sass
+
+# source: content
+
+collections:
+ the-aba-icc-project:
+  tagline: "The ABA-ICC Project"
+  output: true
+  permalink: /:collection/:path/
+  description: "Its mission is to strengthen, regularize, and broaden U.S. engagement with the ICC by creating dynamic forums where meaningful and sustained dialogue can occur on both practical and policy issues among and between the ICC and various American audiences. These initiatives will advance the field of international criminal law as well as enhance understanding and trust between the U.S. and the ICC."
+ about-the-icc:
+  tagline: About the ICC
+  output: true
+  permalink: /:path/
+ the-aba-icc-project:
+  tagline: About the ICC Project
+  output: true
+  permalink: /:collection/:path/
+ rights-of-the-participants:
+  output: true
+  permalink: /:collection/:path
+ evolution-of-international-criminal-justice:
+  tagline: "This is the Label, Dude"
+  output: true
+  splash_image: "Nuremberg_Trials.jpg"
+  description: "A timeline for you to explore the evolution of international criminal justice and learn about the multiple and varied influences that have shaped this field of international affairs."
+
+
+defaults:
+  -
+    scope:
+      path: "news"
+      type: "post" # empty string for all files
+    values:
+      layout: "timeline-card"
+  -
+    scope:
+      path: "ipsos"
+      type: "post" # empty string for all files
+    values:
+      splash_image: banner-ipsos.png
+
+
+

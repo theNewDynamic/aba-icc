@@ -1,0 +1,61 @@
+--- 
+The-ABA-ICC-Project:
+ - 
+  slug: /
+  title: "Home"
+ - 
+  slug: /the-aba-icc-project/about-the-project.html
+  title: "About the Project"
+ - 
+  slug: /news
+  title: "News & Events"
+ - 
+  slug: /the-aba-icc-project/board-of-advisors.html
+  title: "Board of Avisors"
+ -
+  slug: /the-aba-icc-project/proven-practices.html
+  title: "Proven Practices in International Criminal Justice"
+
+About-the-ICC:
+ - 
+  slug: /about-the-icc/what-is-the-icc.html
+  title: "What is the ICC?"
+ - 
+  slug: /evolution-of-international-criminal-justice
+  title: "Evolution of International Criminal Justice"
+ - 
+  slug: /about-the-icc/state-parties-to-the-icc.html
+  title: "State Parties"
+ - 
+  slug: /about-the-icc/icc-jurisdiction.html
+  title: Jurisdiction
+ - 
+  slug: /about-the-icc/from-investigation-to-trial.html
+  title: "From Investigation to Trial"
+ -
+  slug: /rights-of-the-participants/rights-of-the-victims.html
+  title: "Rights of the Victims"
+ -
+  slug: /rights-of-the-participants/rights-of-the-parties.html
+  title: "Rights of the Parties"
+ -
+  slug: /about-the-icc/structure-of-the-icc.html
+  title: "Structure of the ICC"
+ -  
+  slug: /about-the-icc/current-icc-situations-and-cases.html
+  title: "Current ICC Situations and Cases"
+ - 
+  slug: /about-the-icc/the-us-icc-relationship
+  title: "The U.S.-ICC Relationship"
+
+
+International-Criminal-Justice-Today:
+ - 
+  slug: /international-criminal-justice-today
+  title: "International Criminal Justice Today"
+ - 
+  slug: //
+  title: "Arguendo Experts Roundtable Discussion"
+ - 
+  slug: //
+  title: "IPSOS Poll Results"

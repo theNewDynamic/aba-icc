@@ -1,0 +1,89 @@
+--- 
+The-ABA-ICC-Project:
+ - 
+  slug: about-the-project
+  title: "About the Project"
+  layout: "page"
+  content: text
+ - 
+  slug: news
+  title: "News & Events"
+  layout: "page:  with list includes"
+  content: "text and posts + js list"
+ - 
+  slug: aba-icc-project-boad-of-advisors
+  title: "Board of Avisors"
+  layout: "page with cards/box includes"
+  content: "page + listed content"
+ -
+  slug: proven-practices-in-international-criminal-justice
+  title: "Proven Practices in International Criminal Justice"
+  layout: "page"
+  content: text
+
+About-the-ICC:
+ - 
+  slug: about-the-icc/what-is-the-icc
+  title: "What is the ICC?"
+  layout: "page"
+  content: text
+ - 
+  slug: evolution-of-international-criminal-justice
+  title: "Evolution of International Criminal Justice"
+  layout: "cards"
+  content: "collection of pages/cards"
+ - 
+  slug: about-the-icc/state-parties-to-the-icc
+  title: "State Parties"
+  layout: map
+  content: map
+ - 
+  slug: about-the-icc/jurisdiction-of-the-icc
+  title: Jurisdiction
+  layout: "page with infographic"
+  content: infographic
+ - 
+  slug: about-the-icc/from-investigation-to-trial
+  title: "From Investigation to Trial"
+  layout: "page with infographic"
+  content: infographic
+ -
+  slug: about-the-icc/rights-of-the-victims
+  title: "Rights of the Victims"
+  layout: table
+  content: table
+ -
+  slug: about-the-icc/rights-of-the-parties
+  title: "Rights of the Parties"
+  layout: table
+  content: table
+ -
+  slug: about-the-icc/structure-of-the-icc
+  title: "Structure of the ICC"
+  layout: "Page with Graph"
+  content: graphic
+ -  
+  slug: about-the-icc/current-icc-situations-and-cases
+  title: "Current ICC Situations and Cases"
+  layout: "map"
+  content: map
+ - 
+  slug: about-the-icc/the-us-icc-relationship
+  title: "The U.S.-ICC Relationship"
+  layout: "cards"
+  content: timeline
+
+
+International-Criminal-Justice-Today:
+ - 
+  slug: international-criminal-justice-today
+  title: "International Criminal Justice Today"
+  layout: "page with home page"
+ - 
+  slug: arguendo
+  title: "Arguendo Experts Roundtable Discussion"
+  layout: "Discussions"
+ - 
+  slug: ipsos/dd-mm-yyyy/title
+  title: "IPSOS Poll Results"
+  layout: "post"

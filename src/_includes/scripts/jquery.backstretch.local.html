@@ -1,0 +1,15 @@
+
+
+{% if page.splash_image %}
+	{% if page.splash_image contains 'http' %}
+    {% capture image_url %}{{page.splash_image}}{% endcapture %}
+  {% else %}
+    {% capture image_url %}/assets/img/{{page.splash_image}}{% endcapture %}
+  {% endif %}
+  $(".splash").backstretch("{{image_url}}",{fade:'fast'});
+
+{% elsif page.categories.home %}
+ {% else %}
+$("aside.sidebar-right").backstretch("/assets/img/Astfeld-023-large_041621.jpg",{fade:'fast'});
+{% endif %}
+

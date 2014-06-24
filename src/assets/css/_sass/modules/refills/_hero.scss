@@ -1,0 +1,66 @@
+.hero {
+	$hero-background: $base-body-color;//desaturate(darken($base-accent-color, 20), 30);	
+	$hero-color: white;
+
+	// background: url(https://raw.github.com/Magnus-G/Random/master/lake-transparent.png);
+	// background: url(/assets/img/Astfeld-023-large.jpg);
+	 background-color: $hero-background;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding-bottom: 4em;
+	min-height: 20em;
+
+	.hero-logo img {
+		height: 6em;
+		margin-bottom: 1em;
+	}
+
+	.hero-inner {
+		@include outer-container;
+		@include clearfix;
+		padding: 3em;
+		margin: auto;
+		text-align: center;
+		color: $hero-color;
+
+		button {
+			@include button(simple, $base-accent-color);
+			font-size: $base-font-size;
+			outline: none;
+		}
+
+		.hero-copy {
+			text-align: left;
+			
+			h1 {
+				font-size: 1.4em;
+				margin-top: 2em;
+				margin-bottom: .2em;
+				// background-color: #000;
+				// background-color: rgba(0,0,0,0.7);
+				background-color: $navigation-background-color;
+				background-color: tranparentize($navigation-background-color, 0.7 );
+				background-color: rgba(0,0,0,0.7);
+				border-radius: 3px;
+				width: 60%;
+				padding: .4em .3em .4em .7em;
+
+				@include media($large-screen) {
+					font-size: 2.8em;
+				}
+			}
+
+			p {
+				margin: auto;
+				margin-bottom: 3em;	
+				font-weight: 200;
+
+				@include media($large-screen) {
+					font-size: 1.2em;
+					max-width: 40%;
+				}
+			}
+		}
+	}
+}

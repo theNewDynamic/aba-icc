@@ -1,0 +1,14 @@
+{% include global/head.html %}
+	<body class="{{page.layout}} {{page.category | replace: ' ','-' | downcase}}{{page.categories | first}}{% if page.splash_image %} content_splash{% endif %}{% if page.sidebar_width %} {{ page.sidebar_width }}{% endif %}">
+		{% include nav/nav-top.html  %}
+		{%  include nav/nav-side-left.html %}
+		{% include nav/nav-side-right.html %}
+		
+		{{content}}
+		
+
+		 <!-- include global/footer.html  -->
+		{% include global/scripts.html %}
+	</body>
+</html>
+

@@ -1,0 +1,21 @@
+{% assign bios = site.data.aba-icc-board-bios %}
+<div class="cards">
+  {% for item in bios %}
+    <div class="card">
+      {% if item.image %}
+      <div class="card-image">
+        <img src="{{site_baseurl}}/assets/img/{{item.image}}" alt="">
+      </div>
+      {% endif %}
+
+      <div class="card-header">
+        {{item.name}}
+        
+      </div>
+      <div class="card-copy" >
+        {{item.title}}
+        <div style="display:none;">{{ item.bio | markdownify | truncatewords:10 }}</div>
+      </div>
+    </div>
+  {% endfor %}
+</div>

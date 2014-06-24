@@ -1,0 +1,15 @@
+---
+layout: default
+section: page-full-width
+---
+{% if page.splash_image %}
+		{% include snippets/page-splash.html %}
+	{% endif %}
+<section class="content content_grid">
+<article class="hentryf">
+	{{content}}
+	</article>
+		{% if page.include %}
+			{% include {{page.include}} %}
+		{% endif %}
+</section>

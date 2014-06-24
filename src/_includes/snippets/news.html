@@ -1,0 +1,27 @@
+{% for news in site.posts limit:250 %}
+<div class="comment">
+  <div class="comment-image">
+    {% if news.featured_image %}
+     <img src="{% if news.featured_image contains 'http://' %}{{news.featured_image}}{% else %}/assets/img/{{news.featured_image}}{% endif %}" alt="">
+    {% else %}
+       <img src="/assets/img/gorilla-400x200.jpeg" alt="">
+    {% endif %}
+  </div>
+  <div class="comment-content">
+    <small>{{news.tags}}</small>
+    <h2>
+      <a href="{{news.url}}">
+        {{ news.title }} <i class="icon-right-openTK icon-ion-link"></i>
+      </a>
+    </h2>
+    {% if include.excerpt == 'yes' %}
+      {{news.excerpt}}
+    {% endif %}
+    <p class="comment-detail">
+      <small>
+        {{ news.date | date: "%B %d, %Y" }}
+      </small>
+    </p>
+  </div>
+</div><!--  //COMMENT -->
+{% endfor %}

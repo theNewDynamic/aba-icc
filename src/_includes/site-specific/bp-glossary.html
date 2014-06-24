@@ -1,0 +1,14 @@
+{% assign glossary = site.data.best-practices-glossary %}
+
+
+
+
+	{% for definition in glossary %}
+
+
+	
+	
+				{{definition.title}}: {{definition.definition}}<hr />
+	
+	
+	{% endfor %}

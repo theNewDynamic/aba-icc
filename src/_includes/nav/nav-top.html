@@ -1,0 +1,57 @@
+{% assign links_global = site.data.navigation-global %}
+{% assign links_follow = site.data.navigation-follow %}
+
+<header class="navigation">
+  <div class="menu-wrapper">
+    <a href="/" class="logo">
+      <img src="/assets/img/logo-aba-icc_144xb.png" alt="" style="display:block;">
+    </a>
+    <p class="navigation-menu-button" id="js-mobile-menu">MENU</p>
+    <div class="nav">
+      <ul id="navigation-menu">
+      {% for links in links_global %}
+        <li class="nav-link more">
+          <a href="javascript:void(0)">{{links[0] | replace: '-', ' '}} <i class="icon-ion-ios7-arrow-down"></i></a>
+            {% assign heading = links[1] %}
+          <ul class="submenu">
+            {% for sublink in heading %}
+              <li>
+                <a href="{{sublink.slug}}"> {{sublink.title}}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% endfor %}
+      </ul>
+      
+   </div>
+    <div class="navigation-tools">
+    <ul id="navigation-menu">
+      {% for links in links_follow %}
+        <li class="nav-link more follow">
+          <a href="javascript:void(0)">{{links[0] | replace: '-', ' '}} <i class="icon-ion-ios7-arrow-down"></i></a>
+            {% assign heading = links[1] %}
+          <ul class="submenu">
+            {% for sublink in heading %}
+              <li>
+                <a href="{{sublink.slug}}"> {{sublink.title}}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% endfor %}
+      </ul>
+
+
+      <!-- <div class="search-bar">
+        <div class="search-and-submit">
+          <input type="search" placeholder="Enter Search" />
+          <button type="submit">
+            <img src="https://raw.githubusercontent.com/Magnus-G/Random/master/search-icon.png" alt="">
+          </button>
+        </div>
+      </div> -->
+      <!-- <a href="javascript:void(0)" class="sign-up">Sign Up</a> -->
+    </div>
+  </div>
+</header>

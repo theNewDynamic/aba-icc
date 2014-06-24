@@ -1,0 +1,166 @@
+@mixin grid-item-columns($columns) {
+  width: (100% / 12) * $columns;
+}
+
+.grid-items {
+  $grid-items-background: $blue-dark;//$base-body-color;
+  $grid-item-background: #000;//$base-body-color;// desaturate($base-accent-color, 30);
+  $grid-item-colors:
+    $blue-dark,//desaturate($base-accent-color, 30),
+    $blue-dark,
+    $blue-dark,
+    $blue-dark,
+    $blue-dark,
+    $blue-dark,
+    $blue-dark;
+// ADJUST BORDERS HERE:
+  $grid-item-border-size: 0px;
+  $grid-item-columns: 4;
+  $grid-item-big-columns: 8;
+  $grid-item-color: white;
+  $grid-item-height: 18em;
+
+
+margin: $grid-item-border-size;
+// minor adjustments to make the border around the grids look even
+// margin-right: $grid-item-border-size - 4px;
+// margin-left: $grid-item-border-size - 4px;
+
+  @include clearfix;
+
+  .grid-item {
+    @include transition (all 0.2s ease-in-out);
+    height: $grid-item-height;
+    background: $grid-item-background;
+    width: 100%;
+    overflow: hidden;
+    float: left;
+    padding: 2em;
+    border-top: 0;
+    border-bottom: $grid-item-border-size solid $grid-items-background;
+    border-left: $grid-item-border-size /2 solid $grid-items-background;
+    border-right: $grid-item-border-size /2 solid $grid-items-background;
+    text-align: center;
+    cursor: pointer;
+
+    @include media($large-screen) {
+      @include grid-item-columns($grid-item-columns);
+    }
+
+    @for $i from 1 to 8 { // assign colors from $grid-item-colors list
+      &:nth-child(#{$i}) {
+        $background-from-list: nth($grid-item-colors, $i);
+        background-color: $background-from-list;
+        //box-shadow: inset 0px 0px 1px 2px darken($background-from-list, 10);
+        &:hover {
+          background-color: darken($background-from-list, 10);
+          background-repeat: no-repeat;
+          background-position: top;
+          background-size: cover;
+        }
+      }
+    }
+  }
+
+  .grid-item img {
+      display: block;
+      height: 3em;
+      margin: auto;
+      margin-bottom: 1em;
+    }
+
+  .grid-item h1 {
+      color: $grid-item-color;
+      font-size: 1.3em;
+      //margin-bottom: .4em;
+      // margin: auto;
+      // display: table-cell;
+      // vertical-align: middle;
+      text-align: center;
+    }
+
+  .grid-item p {
+      margin: auto;
+      color: transparentize($grid-item-color, .2);
+      @include media($medium-screen) {
+        max-width: 70%;
+      }
+    }
+
+  .grid-item-big {
+    @include media($large-screen) {
+      @include grid-item-columns($grid-item-big-columns);
+    }
+    p {
+      @include media($medium-screen) {
+        max-width: 80%;
+      }
+    }
+  }
+
+  .grid-item-image {
+    background: url(/images/lake-transparent.png);
+    background-color: $grid-item-background;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+  }
+}
+
+
+
+/// FANCY caption-side: 
+
+
+// .grid-item, .grid-item figcaption, .grid-item figcaption h1, .grid-item figcaption p {
+
+//   @include transition (all 1.0s ease-in-out);
+// }
+
+// .grid-item figcaption h1 {
+//   opacity: 0;
+
+// }
+
+// .grid-item figcaption p {
+// opacity: 1;
+
+// }
+
+// .grid-item {
+// //opacity: .8;
+// -webkit-filter: grayscale(100%);
+//   -webkit-filter: grayscale(1);
+//   filter: grayscale(100%);
+
+//   filter: url('/assets/img/gray.svg#grayscale');
+//   filter: gray;
+
+// }
+
+
+// .grid-item:hover { 
+// //opacity: 1;
+
+// -webkit-filter: grayscale(0%);
+//   -webkit-filter: grayscale(0);
+//   filter: grayscale(0%);
+// }
+
+// .grid-item:hover figcaption p {
+// //opacity: 0.2;
+// }
+
+
+// .grid-item:hover figcaption h1 {
+//   opacity: 1;
+// }
+
+// img.grayscale {
+//   -webkit-filter: grayscale(100%);
+//   -webkit-filter: grayscale(1);
+//   filter: grayscale(100%);
+
+//   filter: url('/assets/img/gray.svg#grayscale');
+//   filter: gray;
+// }
