@@ -1,5 +1,5 @@
 .hero {
-	$hero-background: $base-body-color;//desaturate(darken($base-accent-color, 20), 30);	
+	$hero-background: $base-body-color;//desaturate(darken($base-accent-color, 20), 30);
 	$hero-color: white;
 
 	// background: url(https://raw.github.com/Magnus-G/Random/master/lake-transparent.png);
@@ -9,7 +9,13 @@
 	background-position: center;
 	background-size: cover;
 	padding-bottom: 4em;
-	min-height: 20em;
+	//min-height: 20em;
+
+		display:none;
+		@include media ($d-vp) {
+				display:block;
+				}
+
 
 	.hero-logo img {
 		height: 6em;
@@ -32,7 +38,7 @@
 
 		.hero-copy {
 			text-align: left;
-			
+
 			h1 {
 				font-size: 1.4em;
 				margin-top: 2em;
@@ -53,7 +59,7 @@
 
 			p {
 				margin: auto;
-				margin-bottom: 3em;	
+				margin-bottom: 3em;
 				font-weight: 200;
 
 				@include media($large-screen) {

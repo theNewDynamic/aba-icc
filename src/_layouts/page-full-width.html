@@ -4,12 +4,20 @@ section: page-full-width
 ---
 {% if page.splash_image %}
 		{% include snippets/page-splash.html %}
+		<h1>{{ page.title }}</h1>
+
+	{% else %}	
+	
 	{% endif %}
-<section class="content content_grid">
-<article class="hentryf">
-	{{content}}
+	{{content}}	
+<div class="contentf">
+<h1>{{ page.title }}</h1>
+{% if content %}
+<article class="hentry">
+
 	</article>
+{% endif %}	
 		{% if page.include %}
 			{% include {{page.include}} %}
 		{% endif %}
-</section>
+</div>

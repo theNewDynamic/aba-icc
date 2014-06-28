@@ -48,16 +48,19 @@ show other documents in the collection:
 {% endcomment %}
 
 {{ site.collections.[the_collection].description | markdownify }}
+
+
+
 <nav class="card-menu columns-small">
-  <ul>
+  <ul class="nav-sidebar">
     {% for links in document_first %} {% comment %}Includes the Index file{% endcomment %}
-      <li id="{{links.url}}" class="header nav-sidebar-item{% if links.title == page.title %} active{% endif %}">
+      <li id="{{links.url}}" class="header arrow {% if links.url contains page.url %} arrow-left{% endif %}">
         <a href="{{links.url}}">{{links.title}}</a>
       </li>
     {% endfor %} 
     {% for links in document %}{% comment %}EXCLUDES the Index file{% endcomment %}
-      <li class="link{% if links.title == page.title %} active{% endif %}">
-        <a href="#{{ links.title | remove: '', | downcase }}">{{links.title}}</a>
+      <li class="nav-sidebar-item ">
+        <a href="{{ links.url }}" class="arrow {% if links.url contains page.url %} arrow-left{% endif %}">{{links.title}}</a>
       </li>
         {% comment %}the first if statement looks through and creates prev/next links, the index statement below it creates a next url for the index page outside of this loop
           TODO: Make first loop back to index
@@ -81,11 +84,6 @@ show other documents in the collection:
     {% endfor %}
   </ul>
 </nav>
-
-<div class="page-icons">
-  <a href="{{prevurl}}" class="previous"><i class="icon-left-open"></i></a>
-  <a href="{{nexturl}}" class="next"><i class="icon-right-open"></i></a>
-</div>
 
 <script>
 document.body.onkeyup = function(e){

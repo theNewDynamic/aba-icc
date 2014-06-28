@@ -13,7 +13,8 @@ section: page
     {% endif %}
 
 
-<article class="hentryTK {% if page.class %}{{page.class}}{% endif %}">
+<article class="{% if page.class %}{{page.class}}{% endif %}">
+
   <header>
      {% if page.title %}
     <h1 class="entry-title">{{page.title}}</h1>

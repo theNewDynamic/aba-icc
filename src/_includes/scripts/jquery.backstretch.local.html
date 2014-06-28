@@ -9,7 +9,11 @@
   $(".splash").backstretch("{{image_url}}",{fade:'fast'});
 
 {% elsif page.categories.home %}
- {% else %}
 $("aside.sidebar-right").backstretch("/assets/img/Astfeld-023-large_041621.jpg",{fade:'fast'});
+ {% else %}
+
 {% endif %}
 
+{% if page.layout == 'article' %}
+$("aside.sidebar-right").backstretch("/assets/img/Astfeld-023-large_041621.jpg",{fade:'fast'});
+{% endif %}

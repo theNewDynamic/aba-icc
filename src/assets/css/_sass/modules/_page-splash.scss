@@ -6,11 +6,11 @@ $splash-color-background:$navigation-background;//#DDD !default;
 
 
 // If we declare 'splash_image:' in our frontmatter, we want to splash that image across the top of the screen.
-// .splash is added to the page 1) in the content with the image as an inline background image, and 
+// .splash is added to the page 1) in the content with the image as an inline background image, and
 // 2) as a body.content_splash, primarily so we can move our content down out of the way.
 
 .splash {
-	
+
 	margin-top: $navigation-height;
 	//margin-top: $navigation-height * -1;
 	min-height: $splash-height;
@@ -21,7 +21,7 @@ $splash-color-background:$navigation-background;//#DDD !default;
 
 		@include media($d-vp) {
 			display: block;
-			//The following items fix our image so that we can use 
+			//The following items fix our image so that we can use
 			// the parallax effect//dependency for the parallax effect
 			// position: fixed;
 			// top:0;
@@ -33,7 +33,7 @@ $splash-color-background:$navigation-background;//#DDD !default;
 				background-repeat: no-repeat;
 
 		}
-		
+
 		max-height:$splash-height;
 		width: 100%;
 		//background-color: $splash-color-background;
@@ -59,7 +59,7 @@ article .splash {
 				background-repeat: no-repeat;
 			}
 
-	
+
 
 body.content_splash .content, .content_splashf {
 		margin-top: 0;
@@ -69,9 +69,7 @@ body.content_splash .content, .content_splashf {
 				//	margin-top: $splash-height;
 		}
 
-		
+
 
 
 }
-
-

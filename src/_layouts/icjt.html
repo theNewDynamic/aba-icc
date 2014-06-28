@@ -2,12 +2,30 @@
 layout: default
 section: page
 ---
-{% include global/hero.html %}
-
-<div class="layout">
-<section class="news-list">
-<h2>News & Events </h2>
-	{% include snippets/news.html excerpt="no" %}
+<div class="content">
+	{% include global/hero.html %}
+	<div class="layout">
+		<section class="news-list">
+				<hr />
+LATEST ARTICLES
+<hr />
+	{% include snippets/news-blocks.html excerpt="no" %}
 </section>
 
+
+<aside class="news-list">
+				<hr />
+FROM AROUND THE WEB
+<hr />
+	
+
+
+<div id="content_tumblr"></div>
+
+
+
+
+</aside>
+
+</div>
 </div>

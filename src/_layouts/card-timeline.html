@@ -3,29 +3,31 @@ layout: default
 section: page
 ---
 <section class="content">
-{% if page.splash_image %}
-	{% include snippets/page-splash.html %}
-{% endif %}
-
-
-{% if page.include %}
-      {% include {{page.include}} %}
-    {% endif %}
-
-
-<article class="hentryTK {% if page.class %}{{page.class}}{% endif %}">
-  
-  <div class="entry-content prose columns-2 "><!--  //CONTENT -->
-    {{ content }}
-  </div>
-  {% if site.include_addthis_sharing %}
-    <div class="sharing">
-      {% include articles/sharing.html %}
-    </div>
+  {% if page.splash_image %}
+   {% include snippets/page-splash.html %}
   {% endif %}
-    <!-- include global/edit.html -->
-</article>
+  {% if page.include %}
+    {% include {{page.include}} %}
+  {% endif %}
 
+  <div class="content-icons-pagination">
+  <a href="{{prevurl}}" class="previous"><i class="icon-ion-chevron-left"></i></a>
+  <a href="{{nexturl}}" class="next"><i class="icon-ion-chevron-right"></i></a>
+</div>
+
+  <article class="hentryTK {% if page.class %}{{page.class}}{% endif %}">
+    
+    <div class="entry-content prose columns-2 "><!--  //CONTENT -->
+
+      {{ content }}
+    </div>
+    {% if site.include_addthis_sharing %}
+      <div class="sharing">
+        {% include articles/sharing.html %}
+      </div>
+    {% endif %}
+  <!-- include global/edit.html -->
+  </article>
 </section>
 
 

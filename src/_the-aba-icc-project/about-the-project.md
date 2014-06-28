@@ -1,6 +1,6 @@
 ---
 # layout: card-article
-layout: page
+layout: article
 title: About the ABA-ICC Project
 order: 07
 # include: "site-specific/bp-glossary.html"

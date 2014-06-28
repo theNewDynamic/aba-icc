@@ -9,7 +9,7 @@
   $comment-image-padding: .7em;
   $comment-image-width: 25em;
   $comment-color: $base-font-color;
-  $comment-background: #f6f6f6;// lighten($base-accent-color, 15);
+  $comment-background: $lightest-gray;//darken($base-accent-color, 5%);
   $comment-detail-color: transparentize($comment-color, .5);
   $comment-image-vert-alignment: top;
 
@@ -18,6 +18,11 @@
   margin-bottom: $base-line-height;
   padding-bottom: 1em;
   border-bottom: 1px solid transparentize($comment-color, .9);
+  background-color: $comment-background;
+
+  &:hover {
+    background-color: darken($comment-background, 2%);
+  }
 
   .comment-image,
   .comment-content {
@@ -48,7 +53,7 @@
     width: 100%;
 
     h2 {
-      
+
       margin-bottom: .5em;
     }
 
@@ -63,4 +68,3 @@
     }
   }
 }
-

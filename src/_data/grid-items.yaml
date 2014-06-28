@@ -1,6 +1,6 @@
 home:
 - 
- heading: "Events"
+ # heading: "Events"
  background_image: aba-icc-image-event.jpg
  copy: 
  link: "#"
@@ -9,43 +9,57 @@ home:
 
 - 
  heading: "History of International Criminal Justice"
- background_image: Nuremberg_Trials.jpg
+ 
+ heading: "Events"
  copy: 
  link: "#"
- class: "grid-item-big grid-item-quote"
 
 - 
- # background_image: jackson-nuremberg-dark.jpg
- copy: "Of one thing we may be sure. The future will never have to ask, with misgiving, what could the Nazis have said in their favor. History will know that whatever could be said, they were allowed to say. They have been given the kind of a Trial which they, in the days of their pomp and power, never gave to any man… <br /><small>— Justice Jackson, from his closing statement at Nuremberg</small>"
- link: "/about-the-icc/icc-timeline/"
- class: "grid-item-big grid-item-imageTK"
-- 
- heading: "About the International Criminal Court"
+
  background_image: "bensouda-getty.jpg"
  copy: 
  link: "#"
  # bg_position: "top center"
+-
+ heading: "About the International Criminal Court"
+ # background_image: placeholder-stock-photo-2148589-survey.jpg
+ #copy: Expert Debate
+ link: "#"
+ bg_position: "top center"
+
 - 
- heading: "Board of Advisors"
+ heading: "History of International Criminal Justice"
+ #background_image: Nuremberg_Trials.jpg
+ copy: 
+ link: "#"
+
+- 
+ background_image: jackson-nuremberg-dark.jpg
+ copy: "Of one thing we may be sure. The future will never have to ask, with misgiving, what could the Nazis have said in their favor. History will know that whatever could be said, they were allowed to say. They have been given the kind of a Trial which they, in the days of their pomp and power, never gave to any man… <br /><small>— Justice Jackson, from his closing statement at Nuremberg</small>"
+ link: "/about-the-icc/icc-timeline/"
+ class: "grid-item-big grid-item-imageTK"
+ bg_position: "center center"
+
+
+- 
+ # heading: "Board of Advisors"
  background_image: "1365092094-davidscheffer.png"
  copy: 
  link: "#"
  class: 
-
-# -
-#  #heading: "Public Opinion Polls"
-#  background_image: ipsos-600x400.png
-#  class: "grid-item-big grid-item-image"
-#  # background_size: contain
-#  # bg_position: "center center"
+ class: "grid-item-big grid-item-imageTK"
+-
+ heading: "Board of Advisors"
 
 -
- heading: "Arguendo"
- # background_image: placeholder-stock-photo-2148589-survey.jpg
- copy: Expert Debate
- link: "#"
- class: "grid-item-big"
- bg_position: "top center"
+ heading: "Ipsos Polling Data"
+
+-
+ #heading: "Public Opinion Polls"
+ background_image: ipsos-800x290.png
+ class: "grid-item-big grid-item-image"
+ # background_size: contain
+ # bg_position: "center center"
 
 
 news:

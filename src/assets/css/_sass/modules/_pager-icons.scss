@@ -10,7 +10,7 @@ a.previous, a.next {
 
 	@include media($medium-screen-up) {
   	position: fixed;
-  	top: 52%;
+  	top: $navigation-height + 415px;
   	height: 3.5em;
   }
 }
@@ -29,6 +29,6 @@ border-radius: 0 4px 4px 0;
 
 a.next {
 border-radius: 4px 0 0 4px;
-right: 0%;
+right: $sidebar-right-width;
 
 }

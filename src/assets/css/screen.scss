@@ -20,18 +20,23 @@
 @import "modules/navigation-side";
 @import "modules/refills/nav-top";
 @import "modules/refills/grid-items";
+@import "modules/refills/grid-items-lines";
+@import "modules/refills/hero";
 
 // OPTIONAL MODULES
 @import "modules/refills/tables";
 @import "modules/columns";
 @import "modules/comments";
 @import "modules/page-splash";
-
-//
-// .content {
-// 	background-color: $lightest-gray;
-// 	min-height: 100%;
-// }
+@import "modules/pager-icons";
+@import "modules/layouts";
+@import "modules/cycle-slideshow";
+@import "modules/item-list";
+.content {
+	background-color: $lightest-gray;
+  height: auto;
+	min-height: 1200px;
+}
 
  li.follow {
 	text-align: center;
@@ -45,14 +50,11 @@
 	width:auto;
 }
 
-
-
 .hidden-small-screens {
 	display: none;
-@include media($large-screen-up) {
-display: block;
-
-}
+    @include media($large-screen-up) {
+      display: block;
+    }
 }
 // body.home {
 // 	background-color: $sidebar-right-color-background;
@@ -61,4 +63,11 @@ display: block;
 .selected {
 	background-color: red;
 	color: black;
+}
+
+body.card-timeline blockquote{
+  display: none;
+}
+body.card-timeline article p{
+  font-size:110%;
 }

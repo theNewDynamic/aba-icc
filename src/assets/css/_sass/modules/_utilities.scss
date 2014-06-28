@@ -1,19 +1,4 @@
 
-// .layout {
-//   margin-top: 5em;
-//   @include outer-container;
-
-//     aside { @include span-columns(3); }
-//     article { @include span-columns(9); }
-
-//     section {
-//       @include span-columns(7);      
-//     }
-
-
-// }
-
-
 body, .content {
   background-color:$base-body-color;
   //margin-top: $navigation-height; //use this only if nav-top is position:fixed
@@ -74,6 +59,6 @@ h2 a > i {
 }
 h2 a:hover > i {
   visibility: visible;
-  
+
   @include animation(scale 1.0s ease-in, slide 2.0s ease);
 }

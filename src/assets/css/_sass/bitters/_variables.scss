@@ -6,7 +6,7 @@ $lora: lora, $georgia;
 ///////////////////////////////////////////////////////////////////////////////
 $sans-serif-alt: "myriad-pro", "Avenir 45 Book","Lato", "Open Sans" ,"Helvetica Neue", Segoe, "Segoe UI", Arial, sans-serif;//$lato;// $helvetica;
 $serif: "freight-text-pro", "freight-display-pro", Baskerville, "Baskerville old face", "Hoefler Text", Garamond, "Times New Roman", serif;//$georgia;
-$sans-serif: BlenderProBook ,"Helvetica Neue", Segoe, "Segoe UI", Arial, sans-serif;//$lato;// $helvetica;
+$sans-serif: "Roboto",BlenderProBook ,"Helvetica Neue", Segoe, "Segoe UI", Arial, sans-serif;//$lato;// $helvetica;
 
 
 $base-font-family: $sans-serif-alt;
@@ -17,12 +17,12 @@ $base-font-size: 1em;
 $base-line-height: $base-font-size * 1.5;
 $unitless-line-height: $base-line-height / ($base-line-height * 0 + 1); // Strip units from line-height: https://developer.mozilla.org/en-US/docs/Web/CSS/line-height#Prefer_unitless_numbers_for_line-height_values
 $header-line-height: $base-font-size * 1.25;
-$base-border-radius: em(3);
+$base-border-radius: 3px;//em(3);
 
 // Colors
 ///////////////////////////////////////////////////////////////////////////////
 
-$blue: #1C82C7;// #477DCA;
+$blue: #0e486d;//#1C82C7;// #477DCA;
 $blue-dark: #041621;
 $dark-gray: #333;
 $medium-gray: #555;
@@ -40,11 +40,11 @@ $navigation-color-active: red;
 
 // Body Color
 $base-body-color:$lightest-gray;// $blue;//white;
-$base-background-color:$lightest-gray;// #041621;//#141414;//transparentize(#000, 0.09);//$lightest-gray;
+$base-background-color:$base-body-color;//$blue-dark;//$lightest-gray;// #041621;//#141414;//transparentize(#000, 0.09);//$lightest-gray;
 
 //  Font Colors
 $base-font-color: $medium-gray;//$dark-gray;
-$base-accent-color: $blue;
+$base-accent-color: saturate($blue, 30);
 
 //  Text Link Colors
 $base-link-color: $base-accent-color;
@@ -74,13 +74,13 @@ $form-font-family: $base-font-family;
 
 
 // SIDEBAR
-$sidebar-right-color-background: #041621;
+$sidebar-right-color-background: darken($blue, 17%);
 
 
 //topbar
-$navigation-background-color: darken(#0e486d, 3%);//#182024;//#2f353e;//transparentize(#111, 0.9999);//#111;//#191919;//transparent;#1c1c1e;//
+$navigation-background-color: $base-accent-color;//darken(#0e486d, 0%);//#182024;//#2f353e;//transparentize(#111, 0.9999);//#111;//#191919;//transparent;#1c1c1e;//
 $navigation-background: $navigation-background-color;
-$navigation-color: transparentize(white, 0.3);
+$navigation-color: #f6f6f6;//transparentize(white, 0.2);
 
 
 $navigation-height: 90px;//auto;

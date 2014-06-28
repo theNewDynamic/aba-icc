@@ -1,11 +1,10 @@
 ---
 title: Rights of the Parties
 # layout: page-full-width
-layout: page
+layout: page-full-width-no-margin
+sidebar_width: narrow
 category:
 ---
-# Rights of the Parties
-
 <table>
   <tr>
     <th></th>

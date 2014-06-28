@@ -1,6 +1,12 @@
 ---
 ---
-{% include scripts/jquery/dist/jquery.min.js %}
+{% include scripts/moment/min/moment.min.js %}
+{% include scripts/underscore/underscore.js %}
+{% include scripts/events.js %}
+
+{% include scripts/smooth-scroll.js %}
+
+
 {% include scripts/jquery.backstretch.min.js %}
 {% include scripts/nav-top-mobile.js %}
 {% include scripts/smooth-scroll.js %}
@@ -9,8 +15,11 @@
 
 
 
-
 {% comment %}
+{% include scripts/jquery/dist/jquery.min.js %}
+{% include scripts/jquery_cycle/jquery.cycle2.min.js %}
+{% include scripts/jquery_cycle/jquery.cycle2.carousel.min.js %}
+
 $("aside.sidebar-right").backstretch("/assets/img/document.write=(splash_image);",{fade:'fast'});
 
 {% capture splash_image %}{{ page.splash_image }}{% endcapture %}

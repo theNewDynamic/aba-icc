@@ -15,7 +15,7 @@ header.navigation {
 
   background-color: $navigation-background;
   border-bottom: 1px solid darken($navigation-background, 10);
-  font-family: $sans-serif;
+  font-family: $sans-serif-alt;
   height: $navigation-height;
   width: 100%;
   z-index: 999;
@@ -34,7 +34,7 @@ top: 0;
   }
 
   .logo {
-    float: left;    
+    float: left;
     max-height: $navigation-height; // * 1.2
     //padding-left: $navigation-padding;
     padding-right: 2em;
@@ -74,7 +74,7 @@ top: 0;
     }
   }
 
-  ul#navigation-menu {    
+  ul#navigation-menu {
     clear: both;
     -webkit-transform-style: preserve-3d; // stop webkit flicker
     display: none;
@@ -83,7 +83,7 @@ top: 0;
     padding: 0;
     width: 100%;
     z-index: 9999;
-    //font-size: 1.1em;
+    font-size: 1rem;
 
     @include media ($horizontal-bar-mode) {
       display: inline;
@@ -108,13 +108,14 @@ top: 0;
       display: inline;
       line-height: $navigation-height;
       padding-right: 2em;
-      
+
       text-decoration: none;
       width: auto;
     }
 
     a {
-      font-weight: 400;
+      font-weight: 500;
+      letter-spacing: 0.0625em;
       color: $navigation-color;
 
       &:hover {
@@ -151,7 +152,7 @@ top: 0;
 
     @include media($horizontal-bar-mode) {
       position: absolute;
-      top: 1.125em;
+      top: 1.25em;
       //left: -$navigation-submenu-padding;
 
     }
@@ -165,7 +166,7 @@ top: 0;
       @include media($horizontal-bar-mode) {
         line-height: 1.4;//$navigation-height /1.3;
 
-        
+
 
         &:first-child a {
           padding-top: 1em;
@@ -203,10 +204,16 @@ top: 0;
     clear: both;
     background: #505050;
 
+
     @include media($large-screen) {
       background: transparent;
-      float: right;
+      //float: right;
       clear: none;
+      //fixing the position because the right sidebar is fixed.
+      position: fixed;
+      top: 0;
+      right:2em;
+      //z-index:2000;
     }
   }
 
@@ -216,9 +223,9 @@ top: 0;
     @include transition (all 0.2s ease-in-out);
     display: inline;
     background: $navigation-nav-button-background;
-    border-radius: $base-border-radius; 
+    border-radius: $base-border-radius;
     color: white;
-    font-size: .8em;  
+    font-size: .8em;
     font-weight: 800;
     text-transform: uppercase;
     padding: .4em .5em;
@@ -237,7 +244,7 @@ top: 0;
     $search-bar-border: 1px solid $search-bar-border-color;
     $search-bar-background: lighten($search-bar-border-color, 10);
 
-    padding: 13px 5px; 
+    padding: 13px 5px;
     float: left;
     .search-and-submit {
       position: relative;
@@ -268,7 +275,7 @@ top: 0;
 
     @include media($horizontal-bar-mode) {
       width: 16em;
-      position: relative; 
+      position: relative;
       display: inline-block;
 
       input {

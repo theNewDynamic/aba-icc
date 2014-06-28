@@ -18,39 +18,46 @@
   }
 }
 */
- 
+
  [class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "ion";
   font-style: normal;
   font-weight: normal;
   speak: none;
- 
+
   display: inline-block;
   text-decoration: inherit;
   width: 1em;
   margin-right: .2em;
   text-align: center;
   /* opacity: .8; */
- 
+
   /* For safety - reset parent styles, that can break glyph codes*/
   font-variant: normal;
   text-transform: none;
-     
+
   /* fix buttons height, for twitter bootstrap */
   line-height: 1em;
- 
+
   /* Animation center compensation - margins should be symmetric */
   /* remove if not needed */
   margin-left: .2em;
- 
+
   /* you can be more comfortable with increased icons size */
-  
-  font-size: 90%; 
- 
+
+
+  font-size: 140%;
+
+
   /* Uncomment for 3D effect */
-  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+  text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3);
 }
- 
+
+header [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-size: 90%;
+}
+
+
 .icon-ion-ios7-arrow-down:before { content: '\e800'; } /* '' */
 .icon-ion-chevron-left:before { content: '\e80a'; } /* '' */
 .icon-ion-chevron-right:before { content: '\e80b'; } /* '' */

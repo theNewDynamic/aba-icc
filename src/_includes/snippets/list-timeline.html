@@ -11,26 +11,22 @@
 {% for event in timeline %}
 
 {% capture url_slug %} {{ event.title | remove: '', | downcase }} {% endcapture %}
+
+
   <div id="{{ event.title | remove: '', | downcase }}" class="section{% if event.title == page.title %} active{% endif %}" style="margin-bottom:100px;height:500px;width:100%;background-color:#CCC;background:url(/assets/img/{{ event.splash_image }});background-size:cover;">
 
 
     <h1 class="black-label">{{ event.title }}</h1>
-
-
-
-
-
-
-{% if page.url contains '{{ url_slug }}' %}
-
-<h1>HALLLLLLLL</h1>
+{% if event.events %}
+event: {{ event.events | markdownify }}
 {% endif %}
+
+
 
   </div>
 
 
-
-
+{{ event.content }}
 
 
 

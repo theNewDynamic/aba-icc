@@ -5,8 +5,8 @@ title: The ABA-ICC PROJECT
 include: "grids/grid-items-home.html"
 sharing: false
 published: true
-# sidebar_width: medium
 category: home
+tweets: 3
 order: 12
 excerpt: "Creating Dialogue between the International Criminal Court and American Audiences"
 ---	

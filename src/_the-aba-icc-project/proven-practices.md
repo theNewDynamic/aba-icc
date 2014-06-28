@@ -1,7 +1,8 @@
 ---
 title: Proven Practices in International Criminal Justice
-layout: page
+layout: article
 category: proven
+excerpt: "This online resource created by and for international criminal practitioners will help this field of law become increasingly more effective and efficient, and important objective shared by all."
 ---
 The investigation, prosecution, and adjudication of genocide, crimes against humanity, and war crimes is some of the most difficult criminal casework, regardless if done at the international or national level. The practical approaches, methodologies, and strategies used by investigators, lawyers, and judges often dictate just how effective and efficient international criminal justice is. 
 

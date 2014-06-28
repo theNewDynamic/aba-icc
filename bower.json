@@ -21,7 +21,12 @@
   "dependencies": {
         "jquery": "latest",
         "respond": "latest",
+        "jquery-backstretch": "latest",
         "html5shiv": "latest",
-        "listjs": "latest"
+        "listjs": "latest",
+        "moment": "latest",
+        "modernizr": "latest",
+        "underscore": "latest"
+
     }
 }

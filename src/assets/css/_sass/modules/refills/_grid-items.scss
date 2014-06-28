@@ -3,28 +3,28 @@
 }
 
 .grid-items {
-  $grid-items-background: $blue-dark;//$base-body-color;
-  $grid-item-background: #000;//$base-body-color;// desaturate($base-accent-color, 30);
+  $grid-items-background: $base-body-color;
+  $grid-item-background: desaturate($base-accent-color, 30);
   $grid-item-colors:
-    $blue-dark,//desaturate($base-accent-color, 30),
-    $blue-dark,
-    $blue-dark,
-    $blue-dark,
-    $blue-dark,
-    $blue-dark,
-    $blue-dark;
-// ADJUST BORDERS HERE:
-  $grid-item-border-size: 0px;
-  $grid-item-columns: 4;
-  $grid-item-big-columns: 8;
+    $base-accent-color,
+    #1d262b, //saturate($base-accent-color, 30),//#3581A5,
+    darken($blue, 17%), //desaturate($base-accent-color, 50),//#5FBEBE,
+    desaturate($base-accent-color, 80),//#98C79A,
+    darken($blue, 17%), //desaturate($base-accent-color, 30),//#A7A891,
+    desaturate($base-accent-color, 10),//#BDCC97,
+    saturate($base-accent-color, 30);//#979EA0;
+  $grid-item-border-size: 9px;
+  $grid-item-columns: 3;
+  $grid-item-big-columns: 9;
   $grid-item-color: white;
-  $grid-item-height: 18em;
+  $grid-item-height: 16em;
 
 
-margin: $grid-item-border-size;
+  margin: $grid-item-border-size;
 // minor adjustments to make the border around the grids look even
-// margin-right: $grid-item-border-size - 4px;
-// margin-left: $grid-item-border-size - 4px;
+margin-right: $grid-item-border-size - 4px;
+margin-left: $grid-item-border-size - 4px;
+
 
   @include clearfix;
 
@@ -43,6 +43,19 @@ margin: $grid-item-border-size;
     text-align: center;
     cursor: pointer;
 
+
+
+    .grid-item:before {
+      content: "";
+      position: absolute;
+      left: -25px;
+      top: 0;
+      border-top: 15px solid transparent;
+      border-bottom: 15px solid transparent;
+      border-right: 15px solid lighten($sidebar-right-color-background, 14%);;
+
+    }
+
     @include media($large-screen) {
       @include grid-item-columns($grid-item-columns);
     }
@@ -51,12 +64,17 @@ margin: $grid-item-border-size;
       &:nth-child(#{$i}) {
         $background-from-list: nth($grid-item-colors, $i);
         background-color: $background-from-list;
-        //box-shadow: inset 0px 0px 1px 2px darken($background-from-list, 10);
+        ///////////box-shadow: inset 0px 0px 1px 2px darken($background-from-list, 10);
         &:hover {
           background-color: darken($background-from-list, 10);
           background-repeat: no-repeat;
           background-position: top;
           background-size: cover;
+
+
+
+          box-shadow: 0 17px 50px 0 rgba(0,0,0,.19)''
+
         }
       }
     }
@@ -72,16 +90,12 @@ margin: $grid-item-border-size;
   .grid-item h1 {
       color: $grid-item-color;
       font-size: 1.3em;
-      //margin-bottom: .4em;
-      // margin: auto;
-      // display: table-cell;
-      // vertical-align: middle;
-      text-align: center;
+      margin-bottom: .4em;
     }
 
   .grid-item p {
       margin: auto;
-      color: transparentize($grid-item-color, .2);
+      color: transparentize($grid-item-color, .3);
       @include media($medium-screen) {
         max-width: 70%;
       }
@@ -93,7 +107,7 @@ margin: $grid-item-border-size;
     }
     p {
       @include media($medium-screen) {
-        max-width: 80%;
+        max-width: 77%;
       }
     }
   }
@@ -106,61 +120,3 @@ margin: $grid-item-border-size;
     background-size: cover;
   }
 }
-
-
-
-/// FANCY caption-side: 
-
-
-// .grid-item, .grid-item figcaption, .grid-item figcaption h1, .grid-item figcaption p {
-
-//   @include transition (all 1.0s ease-in-out);
-// }
-
-// .grid-item figcaption h1 {
-//   opacity: 0;
-
-// }
-
-// .grid-item figcaption p {
-// opacity: 1;
-
-// }
-
-// .grid-item {
-// //opacity: .8;
-// -webkit-filter: grayscale(100%);
-//   -webkit-filter: grayscale(1);
-//   filter: grayscale(100%);
-
-//   filter: url('/assets/img/gray.svg#grayscale');
-//   filter: gray;
-
-// }
-
-
-// .grid-item:hover { 
-// //opacity: 1;
-
-// -webkit-filter: grayscale(0%);
-//   -webkit-filter: grayscale(0);
-//   filter: grayscale(0%);
-// }
-
-// .grid-item:hover figcaption p {
-// //opacity: 0.2;
-// }
-
-
-// .grid-item:hover figcaption h1 {
-//   opacity: 1;
-// }
-
-// img.grayscale {
-//   -webkit-filter: grayscale(100%);
-//   -webkit-filter: grayscale(1);
-//   filter: grayscale(100%);
-
-//   filter: url('/assets/img/gray.svg#grayscale');
-//   filter: gray;
-// }

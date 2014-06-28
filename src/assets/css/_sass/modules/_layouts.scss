@@ -1,0 +1,15 @@
+.layout {
+  //margin-top: 5em;
+
+    @include outer-container;
+    max-width:95%;
+
+    aside { @include span-columns(5); }
+    article { @include span-columns(9); }
+
+    section {
+      @include span-columns(7);
+    }
+
+
+}
