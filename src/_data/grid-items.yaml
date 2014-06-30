@@ -32,12 +32,12 @@ home:
  #background_image: Nuremberg_Trials.jpg
  copy: 
  class: text-right
- link: "/evolution-of-international-criminal-justice/"
+ link: "/evolution-of-international-criminal-justice/introduction/"
 
 - 
  background_image: jackson-nuremberg-dark.jpg
  copy: "Of one thing we may be sure. The future will never have to ask, with misgiving, what could the Nazis have said in their favor. History will know that whatever could be said, they were allowed to say. They have been given the kind of a Trial which they, in the days of their pomp and power, never gave to any man… <br /><small>— Justice Jackson, from his closing statement at Nuremberg</small>"
- link: "/about-the-icc/icc-timeline/"
+ link: "/evolution-of-international-criminal-justice/introduction/"
  class: "grid-item-big grid-item-imageTK"
  bg_position: "center center"
 
