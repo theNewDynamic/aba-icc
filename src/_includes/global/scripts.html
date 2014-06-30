@@ -1,136 +1,42 @@
 {% if site.use_jquery_cdn == true %}
 	 <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
-    
 {% endif %}
-
 <script src="/assets/js/concatenate-scripts.js"></script>
-
 <script type="text/javascript">{% include scripts/jquery.backstretch.local.html %}</script>
-
-
-
-
 <script type="text/javascript" src="/assets/js/jquery.cycle2.min.js"></script>
 <script type="text/javascript" src="/assets/js/jquery.cycle2.carousel.min.js"></script>
 
 
-
-
-
-
-
 <script type="text/javascript">
-// var url = "http://api.tumblr.com/v2/blog/aba-icc.tumblr.com/posts/text?api_key=712yUR7HNAL8B8YXhrRwvH3sCnAgjV74BlYezAD8KWtbtXM9Ij&limit=3"
-// var src;
-// var caption;
-//var url = "http://aba-icc.tumblr.com/posts?api_key=712yUR7HNAL8B8YXhrRwvH3sCnAgjV74BlYezAD8KWtbtXM9Ij&limit=5&callback=?";
-    // The variable "tumblr_api_read" is now set to your tumblr feed.
-//     document.write(
-//         '<a href="' + tumblr_api_read['posts'][0]['url'] + '">My most recent Tumblr postyo</a>'
-//     );
-
-
-
-
-// $('#wrapper').append("<h1>"+tumblr_api_read.tumblelog.name + "</h1>"); 
-
-// for (var i=0;i<tumblr_api_read.posts.length;i++) {
-//     var thisPost = tumblr_api_read.posts[i];
-
-//     $('#wrapper').append("<img src='" + thisPost["photo-url-500"] + "'>" +  thisPost["photo-caption"]  + "<p>Posted on " + thisPost["date"] + "</p><hr>");
-// }
-
-
-
-
-
-// $.getJSON(url, function(results){
-// $.each(results.response.posts, function(i, item){
-//     var src = item.photos[0].alt_sizes[0].url; // first picture, first size
-//     var caption = item.caption;
-//     $("<img/>").attr("src", src).appendTo("#wrapper").wrap('<div class="postImage"></div>').after('<span class="postCaption">' + caption + '</div>');
-// });
-
-
-// $.ajax({
-//     url: "http://api.tumblr.com/v2/blog/aba-icc.tumblr.com/posts/text?api_key=712yUR7HNAL8B8YXhrRwvH3sCnAgjV74BlYezAD8KWtbtXM9Ij&limit=3",
-//     dataType: 'jsonp',
-//     success: function(results){
-//         $("body").append(
-//             $("<pre/>").text(JSON.stringify(results, null, "    "))
-//         );
-//     }
-// });
-
-$(document).ready(function() {
-
-$.ajax({
-    url: "http://api.tumblr.com/v2/blog/aba-icc.tumblr.com/posts?api_key=712yUR7HNAL8B8YXhrRwvH3sCnAgjV74BlYezAD8KWtbtXM9Ij&limit=10",
-    dataType: 'jsonp',
-    success: function(results){
-				 console.log(results); 
-
-
-
- //$("<img/>").attr("body", src).appendTo("#wrapper").wrap('<div class="postImage"></div>').after('<span class="postCaption">' + body + '</div>');
-
-
-//$( '<p>' + body + '</p>' ).appendTo( "#wrapper" );
-
-
-$.each(results.response.posts, function(i, item){
-
-
-    //var src = item.photos.url; // first picture, first size
-    var caption = item.caption;
-    var body = item.body;
-    var description = item.description;
-    //$("<img/>").attr("src", src).appendTo("#wrapper").wrap('<div class="postImage"></div>').after('<span class="postCaption">' + body + '</div>');
-
-
-				if(item.title && item.post_url) {
-            
-            
-            
-          
-
-            $('<h5><a href="' + item.post_url +   '">' +  item.title + '</a></h5>').appendTo('#content_tumblr');
-
-            	}
-
-
-            	else if(item.title) {
-            		$('<h5>' + item.title + '</h5>').appendTo('#content_tumblr');
-            	
-
-          };
-
-
- 			
- 			if(item.description) {
-            $('<span>' + description + '</span>').appendTo('#content_tumblr');
-          };
-
-          if(item.post_url) {
-            $('<a href="' + item.post_url +   '</span>').appendTo('#content_tumblr');
-          };
-
-
-          		$('<hr />').appendTo('#content_tumblr')
-
-
-
-});
-
-
-
-
-    }
-});
-
-});
-
-
+  $(document).ready(function() {
+    $.ajax({
+        url: "http://api.tumblr.com/v2/blog/aba-icc.tumblr.com/posts?api_key=712yUR7HNAL8B8YXhrRwvH3sCnAgjV74BlYezAD8KWtbtXM9Ij&limit=10",
+        dataType: 'jsonp',
+        success: function(results){
+    			console.log(results); 
+          $.each(results.response.posts, function(i, item){
+              //var src = item.photos.url; // first picture, first size
+              var caption = item.caption;
+              var body = item.body;
+              var description = item.description;
+              //$("<img/>").attr("src", src).appendTo("#wrapper").wrap('<div class="postImage"></div>').after('<span class="postCaption">' + body + '</div>');
+              if(item.title && item.post_url) {
+                  $('<h5><a href="' + item.post_url +   '">' +  item.title + '</a> <small><i class="icon-link-ext"></i></small> </h5>').appendTo('#content_tumblr');
+                  	}
+                  	else if(item.title) {
+                  		$('<h5>' + item.title + '</h5>').appendTo('#content_tumblr');
+                }; 			
+              if(item.description) {
+                  $('<span>' + description + '</span>').appendTo('#content_tumblr');
+                };
+                if(item.post_url) {
+                  $('<a href="' + item.post_url +   '</span>').appendTo('#content_tumblr');
+                };
+                		$('<hr />').appendTo('#content_tumblr')
+              });
+            }
+          });
+        });
 </script>
 
 

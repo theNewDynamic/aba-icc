@@ -18,3 +18,11 @@ On August 7, 2013, American Univeristy Washington College of Law hosted a panel 
 
 > “We’re never going to get rid of atrocities, its just about how to deal with them in the aftermath.”  
 — Kip Hale
+
+[Audio](http://www.wcl.american.edu/podcast/audio/20130305_WCL_WCRO.mp3)
+
+[Photos](https://owa.abanet.org/exchange/weiglk/Inbox/Just%20resending%20so%20all%20in%20one%20place..EML/FW:%20Audio%20from%20the%20War%20Crimes%20Commission%20Event-1.EML/photo.JPG/C58EA28C-18C0-4a97-9AF2-036E93DDAFB3/photo.JPG?attach=1;)
+
+[Photos](https://owa.abanet.org/exchange/weiglk/Inbox/Just%20resending%20so%20all%20in%20one%20place..EML/FW:%20Audio%20from%20the%20War%20Crimes%20Commission%20Event-1.EML/photo2.JPG/C58EA28C-18C0-4a97-9AF2-036E93DDAFB3/photo2.JPG?attach=1;)
+
+[Photos](https://owa.abanet.org/exchange/weiglk/Inbox/Just%20resending%20so%20all%20in%20one%20place..EML/FW:%20Audio%20from%20the%20War%20Crimes%20Commission%20Event-1.EML/photo3%20cropped.jpg/C58EA28C-18C0-4a97-9AF2-036E93DDAFB3/photo3%20cropped.jpg?attach=1)

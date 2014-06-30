@@ -1,0 +1,49 @@
+---
+layout: default
+section: page
+---
+<section class="content">
+  {% if page.splash_image %}
+  	{% if page.splash_image contains 'http' %}
+    {% capture image_url %}{{page.splash_image}}{% endcapture %}
+  {% else %}
+    {% capture image_url %}/assets/img/{{page.splash_image}}{% endcapture %}
+  {% endif %}
+  <div class='splash' style="background-image:url({{image_url}});">
+    
+  </div>
+  {% endif %}
+  <article class="{% if page.class %}{{page.class}}{% endif %}">
+    <header>
+       {% if page.title %}
+      <h2 class="entry-title">{{page.title}}</h2>
+      {% endif %}
+      {% if page.subtitle %}
+      <h2>
+        {{page.subtitle}}
+      </h2>
+      {% endif %}
+      {% if page.date %}
+        <time class='date' datetime="{{ page.date | date:'%Y-%m-%d' }}">
+          <small>
+            {{ page.date | date:'%A %b %d, %Y' }}
+          </small>
+        </time>
+      {% endif %}
+    </header>
+    <div class="entry-content prose columns-2 "><!--  //CONTENT -->
+      {{ content }}
+    </div>
+    {% if site.include_addthis_sharing %}
+      <div class="sharing">
+        {% include articles/sharing.html %}
+      </div>
+    {% endif %}
+      <!-- include global/edit.html -->
+    {% if page.include %}
+      {% include {{page.include}} %}
+    {% endif %}
+  </article>
+</section>
+
+

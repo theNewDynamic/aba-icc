@@ -25,7 +25,7 @@
 
 // OPTIONAL MODULES
 @import "modules/refills/tables";
-@import "modules/columns";
+/////////////////////////////////@import "modules/columns";
 @import "modules/comments";
 @import "modules/page-splash";
 @import "modules/pager-icons";
@@ -71,3 +71,16 @@ body.card-timeline blockquote{
 body.card-timeline article p{
   font-size:110%;
 }
+
+.bio {
+	margin-left:0;
+	margin-right:1em;
+	display:inline-block;
+	float:left;
+
+}
+.bio img {
+	//border-radius: 50%;
+	max-width: 150px;
+	float: left;
+	}

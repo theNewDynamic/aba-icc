@@ -3,6 +3,7 @@ title: Rights of the Parties
 # layout: page-full-width
 layout: page-full-width-no-margin
 sidebar_width: narrow
+excerpt: "Copy about this page goes here"
 category:
 ---
 <table>

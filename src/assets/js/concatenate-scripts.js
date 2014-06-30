@@ -1,4 +1,5 @@
 ---
+layout: nil
 ---
 {% include scripts/moment/min/moment.min.js %}
 {% include scripts/underscore/underscore.js %}

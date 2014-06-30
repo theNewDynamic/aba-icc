@@ -1,55 +1,14 @@
-{% capture the_collection %}evolution-of-international-criminal-justice{{page.collection}}{% endcapture %}
+{% capture the_collection %}{{page.collection}}{% endcapture %}
 {% assign  document = site[the_collection] | where: 'exclude', -'true' %}
 {% assign  document_first = site[the_collection] | where: 'exclude', 'true'  %}
 
 
-  
-  <!-- assign  collection_info = site.collections.evolution-of-international-criminal-justice  -->
-  
-{% comment %}
-  COLLECTION: {{the_collection}}
-<hr />
-  collection.description: {{site.collections.[the_collection].description }}
-<hr /><hr />
+<h1>Evolution of International Criminal Justice</h1>
 
-{% for item in site.collections.evolution-of-international-criminal-justice %}
-(( {{ item.label }} ))
-{% endfor %}
-
-
-
-
-{% for item in site.collections.evolution-of-international-criminal-justice %}
-(( {{ item }} ))
-{% endfor %}
-
-
-|||  {{  page.collection[description] }}  |||
-
-{% for item in site.collections.evolution-of-international-criminal-justice %}
-(( {{ item }} ))
-{% endfor %}
-
-
-show the collection: page.collection
-
-Get collection data: any meta data assigned to it
-
-show other documents in the collection:
-
-
-{% endcomment %}
-
-
-
-{% comment %}
-<h6>{{collection_info.label}}</h6>
-{{page.url}}
-{% endcomment %}
-
-{{ site.collections.[the_collection].description | markdownify }}
-
-
+{% if site.collections[the_collection].description %}
+<small>{{ site.collections[the_collection].description | markdownify }}</small>
+{% endif %}
+      
 
 <nav class="card-menu columns-small">
   <ul class="nav-sidebar">

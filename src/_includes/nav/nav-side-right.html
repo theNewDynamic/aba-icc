@@ -1,15 +1,11 @@
 <aside class="sidebar-right">	
 	{% if page.url contains '/evolution-of-international-criminal-justice' %}
 		{% include nav/navigation-local.html %}
-
 	{% elsif page.url contains '/news/' %}	
-
 	<h2>Upcoming Events</h2> <!-- TODO: Need to make this go away if there are no events -->
-
 		<div id="calendar"></div>
-
-
-
+	{% elsif page.url contains '/arguendo/' %}		
+		{% include nav/nav-arguendo.html %}
 
 	{% else %}
 		<h1>{{ page.title }}</h1>

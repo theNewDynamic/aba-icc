@@ -1,6 +1,6 @@
 ---
 title: What is the ICC?
-layout: page
+layout: article
 splash_image: Astfeld-023-992x400.jpg
 ---
 # The ICC

@@ -1,8 +1,8 @@
 ---
-title: ABA-ICC Board of Directors
+title: ABA-ICC Board of Advisors
 layout: page-grid
 category:
-include: "grids/grid-items-bios.html"
+include: grids/grid-items-bios.html
 ---
 
 # Our Board of Advisors

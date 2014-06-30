@@ -1,0 +1,107 @@
+{% capture the_collection %}{{page.collection}}{% endcapture %}
+{% assign  document = site[the_collection] | where: 'exclude', -'true' %}
+{% assign  document_first = site[the_collection] | where: 'exclude', 'true'  %}
+
+
+  
+  <!-- assign  collection_info = site.collections.evolution-of-international-criminal-justice  -->
+  
+{% comment %}
+  COLLECTION: {{the_collection}}
+<hr />
+  collection.description: {{site.collections.[the_collection].description }}
+<hr /><hr />
+
+{% for item in site.collections.evolution-of-international-criminal-justice %}
+(( {{ item.label }} ))
+{% endfor %}
+
+
+
+
+{% for item in site.collections.evolution-of-international-criminal-justice %}
+(( {{ item }} ))
+{% endfor %}
+
+
+|||  {{  page.collection[description] }}  |||
+
+{% for item in site.collections.evolution-of-international-criminal-justice %}
+(( {{ item }} ))
+{% endfor %}
+
+
+show the collection: page.collection
+
+Get collection data: any meta data assigned to it
+
+show other documents in the collection:
+
+
+{% endcomment %}
+
+
+
+{% comment %}
+<h6>{{collection_info.label}}</h6>
+{{page.url}}
+{% endcomment %}
+
+{{ site.collections.[the_collection].description | markdownify }}
+
+
+
+<nav class="card-menu columns-small">
+  <ul class="nav-sidebar">
+    {% for links in document_first %} {% comment %}Includes the Index file{% endcomment %}
+      <li id="{{links.url}}" class="header arrow {% if links.url contains page.url %} arrow-left{% endif %}">
+        <a href="{{links.url}}">{{links.title}}</a>
+      </li>
+    {% endfor %} 
+    {% for links in document %}{% comment %}EXCLUDES the Index file{% endcomment %}
+      <li class="nav-sidebar-item ">
+        <a href="{{ links.url }}" class="arrow {% if links.url contains page.url %} arrow-left{% endif %}">{{links.title}}</a>
+      </li>
+        {% comment %}the first if statement looks through and creates prev/next links, the index statement below it creates a next url for the index page outside of this loop
+          TODO: Make first loop back to index
+        {% endcomment %}
+      {% if links.title == page.title %}          
+        {% unless forloop.first %}
+          {% assign prevurl = prev.url %} 
+        {% endunless %}
+        {% unless forloop.last %}
+          {% assign next = document[forloop.index] %}
+          {% assign nexturl = next.url %}
+        {% endunless %}
+      {% endif %}
+      {% if page.url contains '/index.html' %}{% comment %}TODO: THIS MAY CHANGE to '' IF MOVE TO NON HTML FILE ENDING{% endcomment %}
+        {% if forloop.first %}
+          {% assign next = document[forloop.index] %}
+          {% assign nexturl = links.url %}
+        {% endif %}
+      {% endif %}
+      {% assign prev = links %}
+    {% endfor %}
+  </ul>
+</nav>
+
+<script>
+document.body.onkeyup = function(e){
+if (e.keyCode == '37') { window.location = '{{prevurl}}'; }
+if (e.keyCode == '39') { window.location = '{{nexturl}}'; }
+};
+
+
+// TODO: Attempting to add touch/swipe capabilities. clean out if unused
+// function processingRoutine() {
+//   var swipedElement = document.getElementById(triggerElementID);
+//   if ( swipeDirection == 'left' ) {
+//       window.location.href = '{{prevurl}}';
+//   } else if ( swipeDirection == 'right' ) {
+//       window.location.href = '{{nexturl}}';
+//   } 
+// };
+
+
+</script>
+

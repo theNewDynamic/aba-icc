@@ -45,6 +45,8 @@ margin-left: $grid-item-border-size - 4px;
 
 
 
+
+
     .grid-item:before {
       content: "";
       position: absolute;
@@ -119,4 +121,13 @@ margin-left: $grid-item-border-size - 4px;
     background-position: top;
     background-size: cover;
   }
+}
+
+
+.text-left h1{
+  text-align:left;
+}
+
+.text-right h1{
+text-align:right;
 }

@@ -9,11 +9,54 @@ section: article
 
 
 {% if page.include %}
-      {% include {{page.include}} %}
-    {% endif %}
+  {% include {{page.include}} %}
+{% endif %}
 
 
 <article class="hentryTK {% if page.class %}{{page.class}}{% endif %}">
+
+
+
+
+
+{% if page.url contains '/arguendo' %}
+<h5>Arguendo</h5>
+
+    {% for links in questions %}{% comment %}EXCLUDES the Index file{% endcomment %}
+    {% if links.question == page.question %}
+      <li class="nav-sidebar-item ">
+        <a href="{{ links.url }}" class="arrow {% if links.url == page.url %} arrow-left{% endif %}">{{links.title}}</a>
+      </li>
+      
+      
+      {% endif %}
+    {% endfor %}
+  
+
+
+{% endif %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <header>
      {% if page.title %}
     <h1 class="entry-title">{{page.title}}</h1>
