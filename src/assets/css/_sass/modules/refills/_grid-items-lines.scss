@@ -162,3 +162,17 @@
   padding: 1.5em 2em 2em 1.5em;
     
 }
+
+
+body.arguendo .grid-item {
+
+  height: 12em;
+  height: auto;
+  min-height:11em;
+
+  @include media($large-screen) {
+
+    width:100%;
+  }
+
+}
