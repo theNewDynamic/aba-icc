@@ -4,7 +4,7 @@
     <a href="{{ item.link }}" class="grid-item{% if item.class %} {{ item.class }}{% endif %}" {% if item.background_image %}style="background:url(/assets/img/{{ item.background_image }}){% if item.bg_position %} {{ item.bg_position }}{% endif %};background-size:{% if item.background_size %}{{ item.background_size }}{% else %}cover{% endif %};"{% endif %}>
       <figcaption>
       {% if item.heading %}
-        <h1 class="black-labelTK">{{ item.heading }}</h1>
+        <h1>{{ item.heading }}</h1>
       {% endif %}
       {% if item.copy %}
         {{ item.copy | markdownify }}
