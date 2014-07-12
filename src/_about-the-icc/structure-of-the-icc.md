@@ -9,7 +9,7 @@ The ICC is an international judicial institution that was formed by a multilater
 
 The ICC is composed of four primary organs: The Presidency, the Judicial Divisions, the Office of the Prosecutor and the Registry.
 
-- Presidency
+# Presidency
 
 #### Overview
 
@@ -33,7 +33,7 @@ Judge Cuno TARFUSSER (Italy), Second Vice-President
 
  
 
-- Judicial Divisions
+# Judicial Divisions
 
 #### Overview
 
@@ -59,7 +59,8 @@ Judge Anita Ušacka (Latvia)
 
 Judge Sanji Mmasenono Monageng (Botswana)
 
-- Office of the Prosecutor
+
+# Office of the Prosecutor
 
 #### Overview
 
@@ -85,7 +86,9 @@ Head of the Jurisdiction, Complementarity and Cooperation Division
 
 Michel de Smedt, Head of Investigation
 
-- Registry
+
+
+# Registry
 
 #### Overview 
 
@@ -101,7 +104,7 @@ The Registry provides judicial and administrative support to all organs of the C
 
 #### Incumbent Personnel 
 
-- Other Offices
+# Other Offices
 
 #### Office of Public Counsel for Victims
 

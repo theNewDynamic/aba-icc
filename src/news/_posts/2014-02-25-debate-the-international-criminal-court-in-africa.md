@@ -3,7 +3,7 @@ venue: "American Bar Association"
 title: "Debate: The International Criminal Court in Africa"
 layout: article
 date: "2014-02-25 12:00:00"
-date: "2015-02-25 12:00:00"
+date: "2014-02-25 12:00:00"
 featured_image: ICC-photo-of-all-panelists-2-25-2014.jpg
 splash_image: 2014-02-24-event-screenshot.jpg
 sponsor: "American Bar Association & American University Council on African Studies"
@@ -15,6 +15,7 @@ press_release: "http://diasporamessenger.com/us-groups-to-debate-kenyan-icc-case
 ---
 ![](http://carllevan.com/wp-content/uploads/2014/02/ICC-photo-of-all-panelists-2-25-2014.jpg) On February 25, 2014, American University's Council on Africa Studies hosted a panel debate on Africa and the ICC with a special focus on recent ICC cases against senior Kenyan governmental officials. The debaters were Prof. David Bosco,f American University and author of "Rough Justice"; Stephen Lamony, senior advisor to the Coalition for the ICC; and Regina Njogu, private Kenya attorney with experience in human rights issues.The moderator of this debate was Michael Greco, former ABA President and chair of the ABA-ICC Project, who began by explaining the ABA’s long-standing support of  the ICC, stating, “The ABA has long been a strong supporter of international criminal justice. Going back to the 1970’s the first policy adopted by the ABA regarding international criminal justice was to endorse the idea of a permanent tribunal for international justice.” Mrs. Njogu's statements were critical of the ICC, alleging ICC incompetence in bringing justice to Africa, specifically in the case of Kenya. However, these allegations were firmly rejected by the other panelists who provided evidence to the contrary.  
 
+<iframe src="//giphy.com/embed/ToMjGpIMlROY1zj0Qxy" width="500" height="375" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <iframe src="//player.vimeo.com/video/87830365?byline=0" width="700" height="392" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/87830365">ICC in Africa v2</a> from <a href="http://vimeo.com/user12560655">School of International Service</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
