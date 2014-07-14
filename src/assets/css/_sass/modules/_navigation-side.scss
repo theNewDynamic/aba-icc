@@ -38,10 +38,10 @@ $sidebar-right-color: #999 !default;
         body.narrow .content{
           margin-right:  $sidebar-right-width-narrow;
       }
-        body.article .content{
-          margin-right:  $sidebar-right-width-wide;
+      //   body.article .content{
+      //     margin-right:  $sidebar-right-width-wide;
 
-      }
+      // }
 }
 
 
@@ -189,7 +189,8 @@ $sidebar-right-color: #999 !default;
         body.narrow  .sidebar-right{
           width:  $sidebar-right-width-narrow;
         }
-        body.article .sidebar-right{
-          width:  $sidebar-right-width-wide;
-        }
+        // body.article .sidebar-right{
+        //   //  width:  $sidebar-right-width-wide;
+
+        // }
       }

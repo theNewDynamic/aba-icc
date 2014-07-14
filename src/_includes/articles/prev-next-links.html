@@ -1,15 +1,55 @@
-
 {% assign nexturl = page.previous.url %} 
 {% assign prevurl = page.next.url %}
-<div class="page-icons">
-  <a href="{{prevurl}}" class="previous"><i class="icon-left-open icon-ion-chevron-left"></i></a>
-  <a href="{{nexturl}}" class="next"><i class="icon-right-open icon-ion-chevron-right"></i></a>
-</div>
+{% capture the_collection %}{{page.collection}}{% endcapture %}
+{% assign  document = site[the_collection] %}
+
+
+
+
+{% if site.collections[the_collection].tagline %}
+<hr />
+<h2>{{ site.collections[the_collection].tagline | markdownify }}</h2>
+{% endif %}
+      
+
+
+<nav class="card-menu columns-small">
+  <ul class="nav-sidebar">
+    {% for links in document %}
+
+      <li class="nav-sidebar-item ">
+        <a href="{{ links.url }}" class="arrow {% if links.url contains page.url %} arrow-left{% endif %}">{{links.title}}</a>
+      </li>
+        {% comment %}the first if statement looks through and creates prev/next links, the index statement below it creates a next url for the index page outside of this loop
+          TODO: Make first loop back to index
+        {% endcomment %}
+      {% if links.title == page.title %}          
+        {% unless forloop.first %}
+          {% assign prevurl = prev.url %} 
+        {% endunless %}
+        {% unless forloop.last %}
+          {% assign next = document[forloop.index] %}
+          {% assign nexturl = next.url %}
+        {% endunless %}
+      {% endif %}
+      {% if page.url contains '/index.html' %}{% comment %}TODO: THIS MAY CHANGE to '' IF MOVE TO NON HTML FILE ENDING{% endcomment %}
+        {% if forloop.first %}
+          {% assign next = document[forloop.index] %}
+          {% assign nexturl = links.url %}
+        {% endif %}
+      {% endif %}
+      {% assign prev = links %}
+    {% endfor %}
+  </ul>
+</nav>
+
 <script>
 document.body.onkeyup = function(e){
 if (e.keyCode == '37') { window.location = '{{prevurl}}'; }
 if (e.keyCode == '39') { window.location = '{{nexturl}}'; }
 };
+
+
 // TODO: Attempting to add touch/swipe capabilities. clean out if unused
 // function processingRoutine() {
 //   var swipedElement = document.getElementById(triggerElementID);
@@ -19,5 +59,14 @@ if (e.keyCode == '39') { window.location = '{{nexturl}}'; }
 //       window.location.href = '{{nexturl}}';
 //   } 
 // };
+
+
 </script>
+<div class="page-icons">
+  <a href="{{prevurl}}" class="previous"><i class="icon-left-open icon-ion-chevron-left"></i></a>
+  <a href="{{nexturl}}" class="next"><i class="icon-right-open icon-ion-chevron-right"></i></a>
+</div>
+
+
+
 

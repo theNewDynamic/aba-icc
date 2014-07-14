@@ -9,9 +9,10 @@ article {
     margin: 0 0 1.5em 0;
 
   @include media($small-screen-up) {
-
+    p img {
       float: left;
       margin: .5em 1.4em 1.5em 0;
+    }
   }
 
 }
@@ -108,6 +109,10 @@ sub { top: 0.4em; }
 .footnotes li {
 //@extend small;
 
+}
+
+.entry-content li {
+  margin-bottom: 1.5em;
 }
 
 .sharing {
