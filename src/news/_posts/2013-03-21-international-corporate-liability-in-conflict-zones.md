@@ -1,7 +1,6 @@
 ---
 venue: "American Bar Association"
 title: International Corporate Liability in Conflict Zones
-layout: article
 date: "2013-03-21 12:00:00"
 sponsor: "American Bar Association & Counseil National des Barreaux"
 participants: "Fatou Bensouda (Chief Prosecutor of the International Criminal Court) Ambassador Stephen Rapp, U.S. Ambassador to War Crimes, Elisa Massimino, Executive Director Human Rights First, New York, NY"

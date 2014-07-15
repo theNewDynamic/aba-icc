@@ -38,17 +38,8 @@
 
       <link rel="icon" href="/favicon.ico" type="image/x-icon">
           <!-- Stylesheets -->
-
-      {% if site.use_pure_css == true %}
-        <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.4.2/pure-min.css">
-        {% else %} {% comment %}?generated time stamps the css file for cachebusting - it can be turned off in config{% endcomment %}
-        <link href='/assets/css/screen.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" />
-      {% endif %}
-
-
-      {% if site.include_font_awesome %}
-          <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-      {% endif %}
+          
+<link href='/assets/css/screen.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" />
 
       {% include global/meta-data.html %}
 

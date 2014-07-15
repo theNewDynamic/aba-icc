@@ -1,6 +1,6 @@
 ---
 title: Proven Practices in International Criminal Justice
-layout: article
+layout: page
 category: proven
 excerpt: "This online resource created by and for international criminal practitioners will help this field of law become increasingly more effective and efficient, and important objective shared by all."
 ---

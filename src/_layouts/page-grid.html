@@ -6,9 +6,11 @@ section: page-grid
 	{% if page.splash_image %}
 		{% include snippets/page-splash.html %}
 	{% endif %}
+	<div class="layout">
+		<h1 style="margin:1em 0;">{{page.title}}</h1>
+		<h2>{{content}}</h2>
+	</div>
 	{% if page.include %}
 		{% include {{page.include}} %}
 	{% endif %}
 </section>
-
-

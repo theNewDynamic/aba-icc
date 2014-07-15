@@ -1,7 +1,6 @@
 ---
 venue: "Huffington Post Live"
 title: "Why Is It So Hard To Convict War Criminals?"
-layout: article
 date: "2013-06-20 12:00:00"
 sponsor: "HuffPost Live"
 splash_image: 2013-06-20-event-screenshot-hufpost-live.jpg

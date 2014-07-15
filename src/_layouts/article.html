@@ -2,88 +2,17 @@
 layout: default
 section: article
 ---
-<section class="content">
 {% if page.splash_image %}
-	{% include snippets/page-splash.html %}
-{% endif %}
-
-
-{% if page.include %}
-  {% include {{page.include}} %}
-{% endif %}
-
-
-<article class="hentryTK {% if page.class %}{{page.class}}{% endif %}">
-
-
-
-
-
-{% if page.url contains '/arguendo' %}
-<h5>Arguendo</h5>
-
-    {% for links in questions %}{% comment %}EXCLUDES the Index file{% endcomment %}
-    {% if links.question == page.question %}
-      <li class="nav-sidebar-item ">
-        <a href="{{ links.url }}" class="arrow {% if links.url == page.url %} arrow-left{% endif %}">{{links.title}}</a>
-      </li>
-      
-      
-      {% endif %}
-    {% endfor %}
-  
-
-
-{% endif %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <header>
-     {% if page.title %}
-    <h1 class="entry-title">{{page.title}}</h1>
-    {% endif %}
-    {% if page.subtitle %}
-    <h2>
-      {{page.subtitle}}
-    </h2>
-    {% endif %}
-    {% if page.date %}
-      <time class='date' datetime="{{ page.date | date:'%Y-%m-%d' }}">
-        <small>
-          {{ page.date | date:'%A %b %d, %Y' }}
-        </small>
-      </time>
-    {% endif %}
-    
-  </header>
-  <div class="entry-content prose columns-2 "><!--  //CONTENT -->
-    {{ content }}
-  </div>
-  {% if site.include_addthis_sharing %}
-    <div class="sharing">
-      {% include articles/sharing.html %}
-    </div>
+  	{% include snippets/page-splash.html %}
   {% endif %}
-    <!-- include global/edit.html -->
+<section class="content">
+  {% if page.include %}
+    {% include {{page.include}} %}
+  {% endif %}
+<article class="hentry {% if page.class %}{{page.class}}{% endif %}">
+  
+{% include articles/article.html %}
+
 </article>
 
 </section>

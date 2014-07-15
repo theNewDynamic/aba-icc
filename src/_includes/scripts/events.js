@@ -20,12 +20,11 @@ $(document).ready(function() {
     days.forEach(function(day) {
       if (moment(day).isAfter(moment().subtract('days', 1))) {
 
-
         $('<h5><time class="dt-start dtstart">' + moment(day).format('MMMM Do, YYYY') + '</time></h5>').appendTo('#calendar');
         groups[day].forEach(function(event) {
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar');
       if(event.name) {
-            $('<span><h3>' + event.name + '</h3>  </span>').appendTo('#calendar');
+            $('<span><h3><a href="' + event.url + '">' + event.name + '</a></h3>  </span>').appendTo('#calendar');
           }
        if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar');

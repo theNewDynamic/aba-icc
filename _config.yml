@@ -1,4 +1,4 @@
-url: http://aba-icc.pubspringdev1.com/
+url: http://aba-icc.org
 sitename: 'ABA-ICC PROJECT'
 description: 'ABA Center for Human Rights'
 # do not include  https://github.com/...
@@ -24,14 +24,14 @@ exclude: ['readme.md','license.md','Gemfile','links.jsonp', 'CNAME', 'rakefile',
 # if site is in production, 'production: true'
 production: false
 include_jquery: false
-use_jquery_cdn: true
-include_addthis_sharing: false
+use_jquery_cdn: false
+include_addthis_sharing: true
 bust_css_cache: true
 
 # options (data)
 google_analytics_id: UA-XXXXXXX-X
 disqus_id:
-addthis_id:
+addthis_id: "ra-53c565a74f2c5c5b"
 # CONTACT FORM http://getsimpleform.com/
 simple_form_api_token:
 
@@ -47,22 +47,18 @@ sass:
 
 collections:
  the-aba-icc-project:
-  tagline: "The ABA-ICC Project"
+  collection_name: "The ABA-ICC Project"
   output: true
   permalink: /:collection/:path/
-  description: "Its mission is to strengthen, regularize, and broaden U.S. engagement with the ICC by creating dynamic forums where meaningful and sustained dialogue can occur on both practical and policy issues among and between the ICC and various American audiences. These initiatives will advance the field of international criminal law as well as enhance understanding and trust between the U.S. and the ICC."
  about-the-icc:
   tagline: About the ICC
   output: true
   permalink: /:path/
- the-aba-icc-project:
-  tagline: About the ICC Project
-  output: true
-  permalink: /:collection/:path/
  rights-of-the-participants:
   output: true
   permalink: /:collection/:path/
  evolution-of-international-criminal-justice:
+  collection_name: "The Evolution of International Criminal Justice"
   permalink: /:collection/:path/
   output: true
   splash_image: "Nuremberg_Trials.jpg"
@@ -86,13 +82,15 @@ defaults:
       path: "news"
       type: "post" # empty string for all files
     values:
-      layout: "timeline-card"
+      layout: "article"
+      category: "Event"
   -
     scope:
-      path: "ipsos"
-      type: "post" # empty string for all files
+      path: "the-aba-icc-project"
+      type: "" # empty string for all files
     values:
-      splash_image: banner-ipsos.png
+      sharing: false
+      comments: false
   -
     scope:
       path: "arguendo"

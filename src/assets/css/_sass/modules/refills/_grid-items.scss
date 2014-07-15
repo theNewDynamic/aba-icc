@@ -87,13 +87,13 @@
     }
 
   .grid-item p {
-    
+
       font-size:1.8vh;
       max-width: 90%;
       margin: auto;
       color: transparentize($grid-item-color, .3);
       @include media($medium-screen) {
-        font-size:1.6vh;
+        font-size:1.7vh;
         max-width: 80%;
       }
       @include media($wide-screen-up) {

@@ -10,12 +10,10 @@ $include-sidebar-right: true !default;
 $sidebar-right-width: 28%;// 33% !default;
 $sidebar-right-width-narrow: 15% !default;
 $sidebar-right-width-wide: 33% !default;
-$sidebar-right-breakpoint: $e-vp !default;
+$sidebar-right-breakpoint: $d-vp !default;
 $sidebar-right-color-background: transparentize(#000, 0.09) !default;// transparent !global !default;//#000 !default;
 $sidebar-right-color: #999 !default;
 
-
-// NEW WAY? TODO $navigation-background-color: $navigation-background !global !default;
 
 // =============== RIGHT SIDEBAR ===============
 
@@ -24,12 +22,12 @@ $sidebar-right-color: #999 !default;
   //.content
   .content, .splash
    {
-    margin-right: 0;
+//    margin-right: 0;
+    width:100%;
+
     @include media($sidebar-right-breakpoint) {
-        margin-right:  $sidebar-right-width;
 
-        // the following two classes allow us to change the width of the sidebar from front matter by adding sidebar_width: narrow or sidebar_width: medium
-
+        width: 100% - $sidebar-right-width;
     }
   }
 
@@ -49,7 +47,7 @@ $sidebar-right-color: #999 !default;
   .sidebar-right {
 
   // BASIC STYLING (FOR SMALLEST SCREENS - ADJUST BELOW)
-  font-family: $sans-serif;
+    font-family: $sans-serif;
       margin-top:0;
       clear: both;
       overflow: hidden;
@@ -82,7 +80,7 @@ $sidebar-right-color: #999 !default;
         margin-bottom:.5em;
       }
       a {
-        color: $sidebar-right-color;
+        color: #FFF;//$sidebar-right-color;
       }
   //SET THE PARAGRAPH SIZES TO ADJUST TO VARIOUS SCREENS
       p {
@@ -106,7 +104,7 @@ $sidebar-right-color: #999 !default;
       list-style: none;
       text-align: left;
       width: 100%;
-      font-size:1.1em;
+      font-size:1.2em;
     }
     .nav-sidebar-item a{
       width: 100%;
@@ -133,6 +131,7 @@ $sidebar-right-color: #999 !default;
       //color:#fff;
       padding-left:1.6em;
       margin-left:-20px;
+
     }
 
     /*left arrow*/
@@ -189,14 +188,7 @@ $sidebar-right-color: #999 !default;
 }
 
 
-@include media($sidebar-right-breakpoint) {
 
-// the following two classes allow us to change the width of the sidebar from front matter by adding sidebar_width: narrow or sidebar_width: medium
-        body.narrow  .sidebar-right{
-          width:  $sidebar-right-width-narrow;
-        }
-        // body.article .sidebar-right{
-        //   //  width:  $sidebar-right-width-wide;
-
-        // }
+      .section-heading {
+        margin-top:2.25em;
       }

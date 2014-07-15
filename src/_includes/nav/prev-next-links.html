@@ -1,24 +1,32 @@
+{% capture the_collection %}{{page.collection}}{% endcapture %}
 {% assign nexturl = page.previous.url %} 
 {% assign prevurl = page.next.url %}
-{% capture the_collection %}{{page.collection}}{% endcapture %}
-{% assign  document = site[the_collection] %}
 
-
-
-
-{% if site.collections[the_collection].tagline %}
-<hr />
-<h4>{{ site.collections[the_collection].tagline | markdownify }}</h4>
+{% if page.collection %}
+  {% assign  document = site[the_collection] %}
+{% else %}
+  {% assign  document = site.posts %}
 {% endif %}
-      
 
+<div class="section-heading">
+  {% if page.sidebar_heading %}
+    <h4>{{page.sidebar_heading | markdownify | remove: '<p>' | remove: '</p>'  }}</h4>
+  {% endif %}
+
+{% if page.categories contains 'news' %}
+<hr />
+<h4>More Posts</h4>
+{% endif %}
+</div>
 
 <nav class="card-menu columns-small">
   <ul class="nav-sidebar">
-    {% for links in document %}
+    {% capture entries_limit %}{{include:limit}}{% endcapture %}
+    {% for links in document limit:{{entries_limit}} %}
 
       <li class="nav-sidebar-item ">
-        <a href="{{ links.url }}" class="arrow {% if links.url contains page.url %} arrow-left{% endif %}">{{links.title}}</a>
+      {% capture title %}{{ links.title }}{% endcapture %}
+        <a href="{{ links.url }}" class="arrow {% unless page.section == 'home' %}{% if links.url contains page.url %} arrow-left{% endif %}{% endunless %}">{{ title | truncate:52 }}</a>
       </li>
         {% comment %}the first if statement looks through and creates prev/next links, the index statement below it creates a next url for the index page outside of this loop
           TODO: Make first loop back to index
@@ -62,12 +70,12 @@ if (e.keyCode == '39') { window.location = '{{nexturl}}'; }
 
 
 </script>
-
-<div class="prev-nxt-icons">
+<hr />
+<div class="prev-nxt-icons" style="margin:4em 0;">
   {% if prevurl %}<a href="{{prevurl}}" class="prev"><i class="icon-left-openTK icon-ion-chevron-left"></i></a>{% endif %}
   {% if nexturl %}<a href="{{nexturl}}" class="nxt"><i class="icon-right-openTK icon-ion-chevron-right"></i></a>{% endif %}
 </div>
-
+<hr />
 
 
 

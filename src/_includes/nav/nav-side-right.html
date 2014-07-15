@@ -1,37 +1,41 @@
+{% capture the_collection %}{{page.collection}}{% endcapture %}
 <aside class="sidebar-right">	
-	{% if page.url contains '/evolution-of-international-criminal-justice' %}
-		<div class="sidebar-content">
-			{% include nav/navigation-local.html %}
-		</div>
-	{% elsif page.url contains '/arguendo/' %}
-		<div class="sidebar-content">		
-			{% include nav/nav-arguendo.html %}
-		</div>	
-	{% else %}
-		<div class="sidebar-content">
-			<h1>{{ page.title }}</h1>
-			{% if page.excerpt %}
-				{{ page.excerpt | markdownify }}
-			{% endif %}
+
+	<div class="sidebar-content">
+	<!-- //COLLECTION INFORMATION -->
 		
+			{% if site.collections[the_collection].collection_name %}
+				<hr />
+				<h1>{{ site.collections[the_collection].collection_name | markdownify | remove: '<p>' | remove: '</p>'  }}</h1>
+			{% endif %}
+			{% if site.collections[the_collection].tagline %}
+				<hr />
+				<h2>{{ site.collections[the_collection].tagline | markdownify | remove: '<p>' | remove: '</p>'  }}</h2>
+			{% endif %}
+			{% if site.collections[the_collection].description %}
+				{{ site.collections[the_collection].description | markdownify }}
+			{% endif %}
+		{% if page.title %}
+			<!-- //PAGE INFORMATION -->
+			<h2>{{ page.title }}</h2>
+		{% endif %}
+		{% if page.excerpt %}
+			<p>{{ page.excerpt | markdownify | strip_html | truncatewords: 30 }}</p>
+		{% endif %}
 		{% if page.url contains '/news/' %}	
 			<!--<h5>Upcoming Events</h5>  TODO: Need to make this go away if there are no events -->
 			<hr />
 			<div id="calendar"></div>
 		{% endif %}
-		</div>
-
-			{% include nav/prev-next-links.html %}
-
+	</div>
+	
+	{% if page.category == 'home' %}
 		<div class="sidebar-content hidden-small-screens">
 			<hr />
-			{% if page.tweets > 0 %}
-				{% capture tweet_count %}{{page.tweets}}{% endcapture %}
-				{% include snippets/twitter-tweets.html count='1' %}
-			{% endif %}
-				{% if page.twitter_list == true %}
-				{% include snippets/twitter-list.html count='3' %}
-			{% endif %}
+			{% include snippets/twitter-tweets.html count='1' %}
+			{% include nav/prev-next-links.html limit="3" %}
 		</div>
-	{% endif %}  
+	{% else %}
+		{% include nav/prev-next-links.html  limit="25" %}
+	{% endif %}
 </aside>

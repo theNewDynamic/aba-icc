@@ -1,7 +1,6 @@
 ---
 venue: "Denver University, Sturm College of Law"
 title: "The International Criminal Justice Movement: Past, Present, Future - and Where the U.S. Fits into It All"
-layout: article
 date: "2014-02-20 12:00:00"
 sponsor: "Denver University, Sturm College of Law"
 participants: "Kip Hale, Senior Counsel, American Bar Association Center for Human Rights"
