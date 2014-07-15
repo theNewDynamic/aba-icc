@@ -61,10 +61,11 @@ home:
 
 -
  #heading: "Public Opinion Polls"
- background_image: ipsos-800x290.png
+ # background_image: ipsos-800x290.png
+ background_image: ipsos-1400x400.jpg
  class: "grid-item-big grid-item-image"
  link: /ipsos/
- # background_size: contain
+ background_size: cover
  # bg_position: "center center"
 
 

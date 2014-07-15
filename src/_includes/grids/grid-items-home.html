@@ -1,7 +1,7 @@
 {% assign grid_items = site.data.grid-items.home %}
-<figure class="grid-items">
+<figure class="grid-items" style="background-color:white;">
   {% for item in grid_items %}
-    <a href="{{ item.link }}" class="grid-item{% if item.class %} {{ item.class }}{% endif %}" {% if item.background_image %}style="background:url(/assets/img/{{ item.background_image }}){% if item.bg_position %} {{ item.bg_position }}{% endif %};background-size:{% if item.background_size %}{{ item.background_size }}{% else %}cover{% endif %};"{% endif %}>
+    <a href="{{ item.link }}" class="grid-item{% if item.class %} {{ item.class }}{% endif %}" {% if item.background_image %}style="background:url(/assets/img/{{ item.background_image }}){% if item.bg_position %} {{ item.bg_position }}{% endif %};background-size:{% if item.background_size %}{{ item.background_size }}{% else %}cover{% endif %};{% endif %}background-repeat:no-repeat;background-position:center center;">
       <figcaption>
       {% if item.heading %}
         <h1>{{ item.heading }}</h1>

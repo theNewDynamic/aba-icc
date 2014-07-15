@@ -38,8 +38,13 @@ $brand-color: #3594cb;
 $heading-color: #090909;
 $navigation-color-active: red;
 
+// SIDEBAR-content
+$sidebar-right-color-background: darken($blue, 17%);
+$content-color-background: $lightest-gray;
+
+
 // Body Color
-$base-body-color:$lightest-gray;// $blue;//white;
+$base-body-color:$sidebar-right-color-background;//$lightest-gray;// $blue;//white;
 $base-background-color:$base-body-color;//$blue-dark;//$lightest-gray;// #041621;//#141414;//transparentize(#000, 0.09);//$lightest-gray;
 
 //  Font Colors
@@ -72,9 +77,6 @@ $form-font-family: $base-font-family;
 
 //////////// MODULES
 
-
-// SIDEBAR
-$sidebar-right-color-background: darken($blue, 17%);
 
 
 //topbar

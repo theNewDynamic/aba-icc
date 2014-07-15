@@ -25,7 +25,7 @@ $(document).ready(function() {
         groups[day].forEach(function(event) {
           $('<div class="event" id="' + event.citystate + '"><h4><span class="title">' + event.citystate + '</span></h4>').appendTo('#calendar');
       if(event.name) {
-            $('<span><strong>' + event.name + '</strong>  </span>').appendTo('#calendar');
+            $('<span><h3>' + event.name + '</h3>  </span>').appendTo('#calendar');
           }
        if(event.allday != 'true') {
             $('<span><strong>' + event.starttime + '</strong>  </span>').appendTo('#calendar');

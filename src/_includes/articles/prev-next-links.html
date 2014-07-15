@@ -8,7 +8,7 @@
 
 {% if site.collections[the_collection].tagline %}
 <hr />
-<h2>{{ site.collections[the_collection].tagline | markdownify }}</h2>
+<h4>{{ site.collections[the_collection].tagline | markdownify }}</h4>
 {% endif %}
       
 
@@ -62,9 +62,9 @@ if (e.keyCode == '39') { window.location = '{{nexturl}}'; }
 
 
 </script>
-<div class="page-icons">
-  <a href="{{prevurl}}" class="previous"><i class="icon-left-open icon-ion-chevron-left"></i></a>
-  <a href="{{nexturl}}" class="next"><i class="icon-right-open icon-ion-chevron-right"></i></a>
+<div class="prev-nxt-icons">
+  <a href="{{prevurl}}" class="prev"><i class="icon-left-openTK icon-ion-chevron-left"></i></a>
+  <a href="{{nexturl}}" class="nxt"><i class="icon-right-openTK icon-ion-chevron-right"></i></a>
 </div>
 
 

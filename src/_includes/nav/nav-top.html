@@ -29,7 +29,7 @@
     <ul id="navigation-menu">
       {% for links in links_follow %}
         <li class="nav-link more follow">
-          <a href="javascript:void(0)">{{links[0] | replace: '-', ' '}} <i class="icon-ion-ios7-arrow-down"></i></a>
+          <a href="javascript:void(0)"><i class="icon-ion-social-facebook"></i> <i class="icon-ion-social-twitter"></i> {{links[0] | replace: '-', ' '}} <i class="icon-ion-ios7-arrow-down"></i></a>
             {% assign heading = links[1] %}
           <ul class="submenu">
             {% for sublink in heading %}

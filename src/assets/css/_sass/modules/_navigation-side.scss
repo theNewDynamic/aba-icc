@@ -7,7 +7,7 @@
 $include-sidebar-right: true !default;
 
 //These must be in % values to calculate widths
-$sidebar-right-width: 25%;// 33% !default;
+$sidebar-right-width: 28%;// 33% !default;
 $sidebar-right-width-narrow: 15% !default;
 $sidebar-right-width-wide: 33% !default;
 $sidebar-right-breakpoint: $e-vp !default;
@@ -53,7 +53,7 @@ $sidebar-right-color: #999 !default;
       clear: both;
       overflow: hidden;
       //z-index: 1000;
-      margin-top: 0;//$navigation-height;
+      //margin-top: $navigation-height;
       width: 100%;
       height: auto;
       position: static;
@@ -78,25 +78,25 @@ $sidebar-right-color: #999 !default;
   // SET TEXT COLORS
       h1 {
         color: $light-gray;
+        margin-bottom:.5em;
       }
       a {
         color: $sidebar-right-color;
       }
   //SET THE PARAGRAPH SIZES TO ADJUST TO VARIOUS SCREENS
       p {
-        font-size: 1.2em;
+        font-size: 1.1em;
           @include media($normal-screen-up) {
-            font-size: 1.4em;
+            font-size: 1.3em;
           }
           @include media($wide-screen-up) {
-            font-size: 1.6em;
+            font-size: 1.5em;
           }
         }
         hr {
-       margin:1em auto;
-      border-top: 1px solid darken($sidebar-right-color-background, 1%);
-
-    }
+          margin:1em auto;
+          border-top: 1px solid darken($sidebar-right-color-background, 1%);
+        }
 
     /* Sidebar nav */
     .nav-sidebar {
@@ -130,6 +130,8 @@ $sidebar-right-color: #999 !default;
       margin-bottom:.255em;
       //text-align:center;
       //color:#fff;
+      padding-left:1.6em;
+      margin-left:-20px;
     }
 
     /*left arrow*/
@@ -137,6 +139,8 @@ $sidebar-right-color: #999 !default;
       background-color: lighten($sidebar-right-color-background, 14%);
       color: #f6f6f6;
     }
+
+    @include media($sidebar-right-breakpoint) {
     .arrow-left:before, .nav-sidebar-item .arrow:hover:before {
         content: "";
         position: absolute;
@@ -145,6 +149,7 @@ $sidebar-right-color: #999 !default;
         border-top: 15px solid transparent;
         border-bottom: 15px solid transparent;
         border-right: 15px solid lighten($sidebar-right-color-background, 14%);;
+    }
     }
 
    // ADJUST PADDING AND POSITIONING FOR VARIOUS SCREENS
@@ -155,8 +160,8 @@ $sidebar-right-color: #999 !default;
 
         background-position: top 20%; // Background position needs to be at top for desktop?
 
-        //margin-top: $navigation-height;
-        padding: 8em 3em;
+        margin-top: $navigation-height;
+        padding: 4em 3em;
         //padding-top: $navigation-height;// + 40px;
         width: $sidebar-right-width;
         height: 100%;

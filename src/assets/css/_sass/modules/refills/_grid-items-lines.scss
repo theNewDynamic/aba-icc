@@ -3,8 +3,8 @@
 }
 
 .grid-items-lines {
-  $grid-items-background: $base-body-color;
-  $grid-item-background: $base-body-color;
+  $grid-items-background: $content-color-background;
+  $grid-item-background: $content-color-background;
   $grid-item-border: 1px solid transparentize($base-font-color, .8);
   $grid-item-columns: 4;
   $grid-item-big-columns: 8;
@@ -129,7 +129,7 @@
 
 .flip {
   -webkit-perspective: 800;
-   
+
 }
 .flip .card.flipped {
   -webkit-transform: rotatex(-180deg);
@@ -149,7 +149,7 @@
   -webkit-backface-visibility: hidden ;
   z-index: 2;
   padding: 2em 2em 2em 1em;
-    
+
 }
 .flip .card .front {
   position: absolute;
@@ -160,7 +160,7 @@
 .flip .card .back {
   -webkit-transform: rotatex(-180deg);
   padding: 1.5em 2em 2em 1.5em;
-    
+
 }
 
 

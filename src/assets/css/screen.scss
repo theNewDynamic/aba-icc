@@ -19,8 +19,8 @@
 @import "modules/article";
 @import "modules/navigation-side";
 @import "modules/refills/nav-top";
-@import "modules/refills/grid-items";
-@import "modules/refills/grid-items-lines";
+@import "modules/refills/grid-items"; // HOME PAGE
+@import "modules/refills/grid-items-lines"; // BIO PAGE
 @import "modules/refills/hero";
 
 // OPTIONAL MODULES
@@ -33,7 +33,7 @@
 @import "modules/cycle-slideshow";
 @import "modules/item-list";
 .content {
-	background-color: $lightest-gray;
+	background-color: $content-color-background;
   height: auto;
 	min-height: 1200px;
 }

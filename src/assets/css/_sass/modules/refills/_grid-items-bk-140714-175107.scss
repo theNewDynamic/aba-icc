@@ -3,22 +3,28 @@
 }
 
 .grid-items {
-  //margin-top: $navigation-height + 10px;
-  $grid-items-background: $base-body-color;
-  $grid-item-background: $base-body-color;//desaturate($base-accent-color, 30);
+  $grid-items-background: white;//$base-body-color;
+  $grid-item-background: desaturate($base-accent-color, 30);
   $grid-item-colors:
-    $base-body-color,
-    $base-body-color,
-    $base-body-color,
-    $base-body-color,
-    $base-body-color,
-    $base-body-color,
-    $base-body-color;
-  $grid-item-border-size: 0px;//19px;
-  $grid-item-columns: 4;
-  $grid-item-big-columns: 8;
+    $base-accent-color,
+    #1d262b, //saturate($base-accent-color, 30),//#3581A5,
+    darken($blue, 17%), //desaturate($base-accent-color, 50),//#5FBEBE,
+    desaturate($base-accent-color, 80),//#98C79A,
+    darken($blue, 17%), //desaturate($base-accent-color, 30),//#A7A891,
+    desaturate($base-accent-color, 10),//#BDCC97,
+    saturate($base-accent-color, 30);//#979EA0;
+  $grid-item-border-size: 9px;
+  $grid-item-columns: 3;
+  $grid-item-big-columns: 9;
   $grid-item-color: white;
-  $grid-item-height: 18em;
+  $grid-item-height: 16em;
+
+
+  margin: $grid-item-border-size;
+// minor adjustments to make the border around the grids look even
+margin-right: $grid-item-border-size - 4px;
+margin-left: $grid-item-border-size - 4px;
+
 
   @include clearfix;
 
@@ -37,6 +43,21 @@
     text-align: center;
     cursor: pointer;
 
+
+
+
+
+    .grid-item:before {
+      content: "";
+      position: absolute;
+      left: -25px;
+      top: 0;
+      border-top: 15px solid transparent;
+      border-bottom: 15px solid transparent;
+      border-right: 15px solid lighten($sidebar-right-color-background, 14%);;
+
+    }
+
     @include media($large-screen) {
       @include grid-item-columns($grid-item-columns);
     }
@@ -45,12 +66,17 @@
       &:nth-child(#{$i}) {
         $background-from-list: nth($grid-item-colors, $i);
         background-color: $background-from-list;
-        box-shadow: inset 0px 0px 1px 2px darken($background-from-list, 10);
+        ///////////box-shadow: inset 0px 0px 1px 2px darken($background-from-list, 10);
         &:hover {
           background-color: darken($background-from-list, 10);
           background-repeat: no-repeat;
           background-position: top;
           background-size: cover;
+
+
+
+          box-shadow: 0 17px 50px 0 rgba(0,0,0,.19)''
+
         }
       }
     }
@@ -77,29 +103,31 @@
       }
     }
 
-    .grid-item .text {
-      height: 4em;
-      background-color: red;
-    }
-
   .grid-item-big {
     @include media($large-screen) {
       @include grid-item-columns($grid-item-big-columns);
     }
     p {
       @include media($medium-screen) {
-        max-width: 80%;
+        max-width: 77%;
       }
     }
   }
 
   .grid-item-image {
-    //background: url(https://raw.github.com/Magnus-G/Random/master/lake-transparent.png);
-    background: url(/assets/img/jackson-nuremberg-dark.jpg);
-
-    background-color: black;//$grid-item-background;
+    background: url(/images/lake-transparent.png);
+    background-color: $grid-item-background;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: top;
     background-size: cover;
   }
+}
+
+
+.text-left h1{
+  text-align:left;
+}
+
+.text-right h1{
+text-align:right;
 }
