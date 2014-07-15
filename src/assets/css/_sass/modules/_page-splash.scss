@@ -63,7 +63,7 @@ article .splash {
 
 body.content_splash .content, .content_splashf {
 		margin-top: 0;
-		background-color: white;
+		background-color: $content-color-background;
 
 			@include media($d-vp) {
 				//	margin-top: $splash-height;

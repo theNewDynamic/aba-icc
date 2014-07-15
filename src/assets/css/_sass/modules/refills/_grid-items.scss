@@ -22,7 +22,11 @@
   $grid-item-big-columns: 9;
   $grid-item-color: white;
   $grid-item-height: 16em;
-  $grid-item-height: 22vh;
+
+  @include media($normal-screen-up) {
+    $grid-item-height: 22.275vh;
+  }
+
 
   @include clearfix;
 ////BP
@@ -40,7 +44,9 @@
     overflow: hidden;
     float: left;
     padding: 2em;
+    @include media($normal-screen-up) {
     padding: 2vh;
+  }
     border-top: 0;
     border-bottom: $grid-item-border-size solid $grid-items-background;
     border-left: $grid-item-border-size /2 solid $grid-items-background;
@@ -81,7 +87,7 @@
     }
 
   .grid-item p {
-
+    
       font-size:1.8vh;
       max-width: 90%;
       margin: auto;

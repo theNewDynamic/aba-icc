@@ -4,13 +4,12 @@ $lora: lora, $georgia;
 
 // Typography
 ///////////////////////////////////////////////////////////////////////////////
-$sans-serif-alt: "myriad-pro", "Avenir 45 Book","Lato", "Open Sans" ,"Helvetica Neue", Segoe, "Segoe UI", Arial, sans-serif;//$lato;// $helvetica;
-$serif: "freight-text-pro", "freight-display-pro", Baskerville, "Baskerville old face", "Hoefler Text", Garamond, "Times New Roman", serif;//$georgia;
-$sans-serif: "Roboto",BlenderProBook ,"Helvetica Neue", Segoe, "Segoe UI", Arial, sans-serif;//$lato;// $helvetica;
+$sans-serif: "myriad-pro", "Avenir 45 Book","Lato", "Open Sans" ,"Helvetica Neue", Segoe, "Segoe UI", Arial, sans-serif;//$lato;// $helvetica;
+$serif: Georgia, Baskerville, "Baskerville old face", "Hoefler Text", Garamond, "Times New Roman", serif;//$georgia;
 
 
-$base-font-family: $sans-serif-alt;
-$header-font-family: $sans-serif-alt;
+$base-font-family: $sans-serif;//$sans-serif-alt;
+$header-font-family: $sans-serif;
 
 // Sizes
 $base-font-size: 1em;
@@ -40,7 +39,7 @@ $navigation-color-active: red;
 
 // SIDEBAR-content
 $sidebar-right-color-background: darken($blue, 17%);
-$content-color-background: $lightest-gray;
+$content-color-background: #f2f2f2;//$lightest-gray;
 
 
 // Body Color
@@ -85,7 +84,7 @@ $navigation-background: $navigation-background-color;
 $navigation-color: #f6f6f6;//transparentize(white, 0.2);
 
 
-$navigation-height: 90px;//auto;
+$navigation-height: 80px;//auto;
 $navigation-color-hover: $light-gray !default;//white;
 $navigation-nav-button-background: $base-accent-color !default;
 $navigation-nav-button-background-hover: lighten($navigation-background, 10) !default;
