@@ -28,14 +28,22 @@
 			<div id="calendar"></div>
 		{% endif %}
 	</div>
+		<div class="hidden-large-screens">
+				<a href="#menu-local">more posts</a>
+		</div>
 	
 	{% if page.category == 'home' %}
 		<div class="sidebar-content hidden-small-screens">
+			
+			
+			{% include nav/prev-next-links.html limit="3" %}
 			<hr />
 			{% include snippets/twitter-tweets.html count='1' %}
-			{% include nav/prev-next-links.html limit="3" %}
 		</div>
 	{% else %}
-		{% include nav/prev-next-links.html  limit="25" %}
+		<div class="hidden-small-screens">
+			{% include nav/prev-next-links.html  limit="25" %}
+		</div>
 	{% endif %}
+	
 </aside>

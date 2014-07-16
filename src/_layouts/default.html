@@ -10,7 +10,11 @@
 		{{content}}
 		
 
-		 <!-- include global/footer.html  -->
+		<aside id="menu-local" class="hidden-large-screens">
+			{% include nav/prev-next-links.html  limit="25" %}
+		</aside>
+
+		 {% include global/footer.html %}
 		{% include global/scripts.html %}
 	</body>
 </html>

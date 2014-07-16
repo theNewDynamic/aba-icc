@@ -48,6 +48,15 @@
       display: block;
     }
 }
+
+.hidden-large-screens {
+	display: block;
+		@include media($large-screen-up) {
+			display: none;
+		}
+}
+
+
 // body.home {
 // 	background-color: $sidebar-right-color-background;
 // }
@@ -75,4 +84,10 @@ body.card-timeline article p{
 	//border-radius: 50%;
 	max-width: 150px;
 	float: left;
+	}
+	footer {
+		background-color: $light-gray;
+		font-size:.75em;
+		padding: 2.125em 0 .375em 9.5em;
+
 	}
