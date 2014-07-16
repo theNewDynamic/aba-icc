@@ -43,6 +43,7 @@ p {
   margin: 0 0 ($base-line-height * .5);
   //text-align:justify;
 }
+article.hentry p,
 .wf-active article.hentry p {
   font-size: 1.0625em;
   line-height: $unitless-line-height * 1.1;
