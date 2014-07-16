@@ -43,13 +43,20 @@
 		</div>
 	
 	{% if page.category == 'home' %}
+
+
+
 		<div class="sidebar-content hidden-small-screens">
 			
 			
 			{% include nav/prev-next-links.html limit="3" %}
 			<hr />
-			{% include snippets/twitter-tweets.html count='1' %}
+			<div style="height:115px;">{% include snippets/twitter-tweets.html count='1' %}</div>
 		</div>
+			<figure style="margin:30px 0 30px 0;">
+			<p><small>Thank you to the generous sponsors of the ABA-ICC Project</small></p>
+		<img src="/assets/img/RO_KN_Logo_1_RGB_diap_en.png">
+		</figure>
 	{% else %}
 		<div class="hidden-small-screens">
 			{% include nav/prev-next-links.html  limit="25" %}
