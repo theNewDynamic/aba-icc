@@ -9,5 +9,5 @@ sidebar_heading: Latest News
 category: home
 tweets: 3
 order: 12
-excerpt: "Creating Dialogue between the International Criminal Court and American Audiences"
+excerpt: "Supporting the International Criminal Court & US-ICC relations through advocacy, education, and practical legal assistance."
 ---	

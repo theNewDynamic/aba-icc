@@ -1,8 +1,9 @@
-{% assign bios = site.data.people | where: 'board', true | sort: 'last_name' %}
+{% assign bios = site[board-of-advisors] %}
+yo
 <section class="grid-items-lines">
-  {% for item in bios | sort: 'last_name' %}
+  {% for item in bios %}
     <div class="grid-item flip">
-    <i class="icon-ion-loop" style="float:right;color:#999;"></i>
+    <i class="icon-loop" style="float:right;color:#999;"></i>
       <div class="card-flush">
         <div class="face front">
           <span class="figure">
@@ -11,9 +12,9 @@
             {% endif %}
           </span>
           <h2 class="h6">
-            <strong>{{item.name}}</strong>
+            <strong>{{item.title}}</strong>
           </h2>
-          <small>{{item.title}}</small>
+          <small>{{item.position}}</small>
         </div>
         <div class="face back">
           <small>{{ item.bio | truncatewords: 45 }}</small>

@@ -47,6 +47,10 @@ article.hentry p,
 .wf-active article.hentry p {
   font-size: 1.0625em;
   line-height: $unitless-line-height * 1.1;
+
+    a {
+      border-bottom: 1px dashed $base-link-color;
+    }
 }
 
 

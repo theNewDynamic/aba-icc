@@ -69,12 +69,23 @@ collections:
   permalink: /:collection/:path/
   layout: arguendo
   class: arguendo
+ board-of-advisors:
+  collection_name: "Board of Advisors"
+  main_page_link: "/the-aba-icc-project/board-of-advisors/"
+  output: true
+  permalink: /:collection/:path/
 
 defaults:
   - 
     scope:
       path: ''
       type: page
+    values:
+      layout: page
+  - 
+    scope:
+      path: ""
+      type: 'board-of-advisors'
     values:
       layout: page
   -

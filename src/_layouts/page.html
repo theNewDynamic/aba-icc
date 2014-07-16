@@ -18,6 +18,21 @@ section: page
       {% endif %}
     </header>
     <div class="entry-content prose columns-2 "><!--  //CONTENT -->
+        {% if page.image %}
+
+
+          {% if page.image contains 'http' %}
+            {% capture image_url %}{{page.image}}{% endcapture %}
+          {% else %}
+            {% capture image_url %}/assets/img/{{page.image}}{% endcapture %}
+          {% endif %}
+            
+
+            <img src="{{image_url}}" style="max-width:300px;">
+
+
+        {% endif %}
+
       {{ content }}
     </div>
       <!-- include global/edit.html -->

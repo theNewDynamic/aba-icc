@@ -6,7 +6,17 @@
 		
 			{% if site.collections[the_collection].collection_name %}
 				<hr />
-				<h1>{{ site.collections[the_collection].collection_name | markdownify | remove: '<p>' | remove: '</p>'  }}</h1>
+				
+					{% if site.collections[the_collection].main_page_link %}
+					<h1 style="display:inline-block;">
+						<a href="{{ site.collections[the_collection].main_page_link }}">
+							{{ site.collections[the_collection].collection_name | markdownify | remove: '<p>' | remove: '</p>'  }}
+						</a>
+					</h1> <a href="{{ site.collections[the_collection].main_page_link }}"><i class="icon-undo"></i></a>
+					{% else %}	
+						<h1>{{ site.collections[the_collection].collection_name | markdownify | remove: '<p>' | remove: '</p>'  }}</h1>
+					{% endif %}
+				
 			{% endif %}
 			{% if site.collections[the_collection].tagline %}
 				<hr />
