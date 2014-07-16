@@ -70,6 +70,7 @@ $sidebar-right-color: #999 !default;
      -webkit-transition: background 1.25s ease-in-out;
       //END
 
+
       .content-sidebar {
         background: $sidebar-right-color-background;
       }
@@ -80,7 +81,7 @@ $sidebar-right-color: #999 !default;
         margin-bottom:.5em;
       }
       a {
-        color: #FFF;//$sidebar-right-color;
+        color: $content-color-background;//$sidebar-right-color;
       }
   //SET THE PARAGRAPH SIZES TO ADJUST TO VARIOUS SCREENS
       p {
@@ -97,60 +98,6 @@ $sidebar-right-color: #999 !default;
           border-top: 1px solid darken($sidebar-right-color-background, 1%);
         }
 
-    /* Sidebar nav */
-    .nav-sidebar {
-      padding-left: 0;
-      //margin-left:-3rem;
-      list-style: none;
-      text-align: left;
-      width: 100%;
-      font-size:1.2em;
-    }
-    .nav-sidebar-item a{
-      width: 100%;
-      display: block;
-      //padding-top: .5em;
-      //padding-bottom: .5em;
-    }
-    .nav-sidebar-item a:hover,
-    .nav-sidebar-item a:focus {
-      text-decoration: none;
-      color: lighten($sidebar-right-color, 5%);
-      background-color: lighten($sidebar-right-color-background, 14%);
-    }
-      // ARROW AND ARROW LEFT, SIDEBAR NAV-WAYFINDING
-    .arrow{
-      position: relative;
-      //width:120px;
-      background-color: lighten($sidebar-right-color-background, 6%);
-      background-color: $sidebar-right-color-background;
-      height:30px;
-      line-height: 30px;
-      margin-bottom:.255em;
-      //text-align:center;
-      //color:#fff;
-      padding-left:1.6em;
-      margin-left:-20px;
-
-    }
-
-    /*left arrow*/
-    .arrow-left {
-      background-color: lighten($sidebar-right-color-background, 14%);
-      color: #f6f6f6;
-    }
-
-    @include media($sidebar-right-breakpoint) {
-    .arrow-left:before, .nav-sidebar-item .arrow:hover:before {
-        content: "";
-        position: absolute;
-        left: -15px;
-        top: 0;
-        border-top: 15px solid transparent;
-        border-bottom: 15px solid transparent;
-        border-right: 15px solid lighten($sidebar-right-color-background, 14%);;
-    }
-    }
 
    // ADJUST PADDING AND POSITIONING FOR VARIOUS SCREENS
 
@@ -186,6 +133,89 @@ $sidebar-right-color: #999 !default;
         display:none;
     }
 }
+
+
+
+/* Sidebar nav */
+.nav-sidebar {
+  padding-left: 0;
+  //margin-left:-3rem;
+  list-style: none;
+  text-align: left;
+  width: 100%;
+  font-size:1.1em;
+}
+.nav-sidebar-item a{
+  width: 100%;
+  display: block;
+  letter-spacing: .0625em;
+  //padding-top: .5em;
+  //padding-bottom: .5em;
+}
+.nav-sidebar-item a:hover,
+.nav-sidebar-item a:focus {
+  text-decoration: none;
+  color: lighten($sidebar-right-color, 5%);
+  background-color: lighten($sidebar-right-color-background, 14%);
+}
+  // ARROW AND ARROW LEFT, SIDEBAR NAV-WAYFINDING
+.arrow{
+  position: relative;
+  //width:120px;
+  background-color: lighten($sidebar-right-color-background, 6%);
+  background-color: $sidebar-right-color-background;
+  height:30px;
+  line-height: 30px;
+  margin-bottom:.255em;
+  //text-align:center;
+  //color:#fff;
+  padding-left:1.6em;
+  margin-left:-20px;
+
+}
+
+/*left arrow*/
+.arrow-left {
+  background-color: lighten($sidebar-right-color-background, 14%);
+  color: #f6f6f6;
+}
+
+@include media($sidebar-right-breakpoint) {
+.arrow-left:before, .nav-sidebar-item .arrow:hover:before {
+    content: "";
+    position: absolute;
+    left: -15px;
+    top: 0;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-right: 15px solid lighten($sidebar-right-color-background, 14%);;
+}
+}
+
+
+aside#menu-local {
+  padding-bottom:4em;
+  hr {
+    margin:1em auto;
+    border-top: 1px solid darken($sidebar-right-color-background, 1%);
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

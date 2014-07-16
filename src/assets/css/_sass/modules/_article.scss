@@ -3,9 +3,14 @@ article {
   background-color: $content-color-background;
   margin:auto;
   max-width: 100%;
+
+
     &.hentry {
       max-width: $e-vp;
+
+
     }
+
 
     img:first-child {
       float: none;

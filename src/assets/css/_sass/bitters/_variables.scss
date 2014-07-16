@@ -25,7 +25,7 @@ $blue: #0e486d;//#1C82C7;// #477DCA;
 $blue-dark: #041621;
 $dark-gray: #333;
 $medium-gray: #555;
-$lightest-gray: #f6f6f6;
+$lightest-gray: #efefef;// #f6f6f6;#f2f2f2;
 $light-gray: #DDD;
 $light-red: #FBE3E4;
 $light-yellow: #FFF6BF;
@@ -39,7 +39,7 @@ $navigation-color-active: red;
 
 // SIDEBAR-content
 $sidebar-right-color-background: darken($blue, 17%);
-$content-color-background: #f2f2f2;//$lightest-gray;
+$content-color-background: $lightest-gray;//#f2f2f2;//$lightest-gray;
 
 
 // Body Color
@@ -81,7 +81,7 @@ $form-font-family: $base-font-family;
 //topbar
 $navigation-background-color: $base-accent-color;//darken(#0e486d, 0%);//#182024;//#2f353e;//transparentize(#111, 0.9999);//#111;//#191919;//transparent;#1c1c1e;//
 $navigation-background: $navigation-background-color;
-$navigation-color: #f6f6f6;//transparentize(white, 0.2);
+$navigation-color: $content-color-background;//transparentize(white, 0.2);
 
 
 $navigation-height: 80px;//auto;
