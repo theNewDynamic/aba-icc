@@ -112,6 +112,7 @@ defaults:
    path: "arguendo"
   values:
    layout: "arguendo"
+   class: "arguendo"
  -
   scope:
    path: ""

@@ -25,15 +25,16 @@
   {{ page.content | markdownify }}
 </aside>
 
+
 <!-- // Articles to answer-->
   <section class="grid-items-lines">
+
+
     {% for article in articles %}
       {% capture  the_author %}{{ article.author }}{% endcapture %}
         {% assign  authors = site.data.people | where: 'last_name', {{the_author}}  %}
       {% if article.question == {{the_question}} %}
-        <a class="grid-item {% cycle 'dark' ,'light' %}" href="{{ article.url }}">
-          <div class="card-non-flip">
-            <div class="front">
+        <a class="grid-item grid-item-big grid-item-list {% cycle 'dark' ,'light' %}" href="{{ article.url }}">
               {% for author in authors %}
                 {% if author.image %}
                   <span class="figure">
@@ -48,11 +49,16 @@
                 {{author.name}}            
               </h2>
               <strong>{{article.title}}</strong>
-            </div>
-          </div>
+
         </a>
       {% endif %}
     {% endfor %}
+  
+
   </section>
+
+
+
+
 </div>
 {% endfor %}
