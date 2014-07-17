@@ -1,5 +1,5 @@
 ---
-title: "Michael S. Greco"
+title: "Michael S. Greco (Chair)"
 position: "President of the American Bar Association (2006-2007)"
 image: "greco_michael.jpg"
 bio:

@@ -10,7 +10,7 @@ layout: nil
 
 // Mobile nav button/dropdown
 {% include scripts/nav-top-mobile.js %}
-
+{% include scripts/links-new-window.js %}
 
 // BOARD PAGE CARDS WITH BIO ON BACK
 $('.flip').click(function(){

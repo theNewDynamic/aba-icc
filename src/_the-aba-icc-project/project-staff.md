@@ -1,5 +1,5 @@
 ---
-title: ABA-ICC Project Staff
+title: Staff
 layout: page
 ---
 ## Kip Hale
