@@ -110,6 +110,8 @@ $(function() {
       });
     });
   });
+//opens non-local links in new window
+$('a:not([href^=""]):not([href^="#"]):not([href^="/"])').attr("target","_blank");
 
 
 // BOARD PAGE CARDS WITH BIO ON BACK
