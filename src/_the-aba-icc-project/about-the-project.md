@@ -7,6 +7,8 @@ excerpt: "The project's mission is to strengthen, regularize, and broaden U.S. e
 ---
 The American Bar Association-International Criminal Court Project (ABA-ICC Project) implements longstanding ABA policies on international criminal justice.  The ABA was amongst the voices that called for establishment of a permanent international tribunal by multilateral treaty – what later became the Rome Statute that established the International Criminal Court (ICC)  – and did so starting in 1978.  The ABA participated in the negotiations of the Rome Statute as an observer, advocated for the treaty’s adoption, and urged the United States to become a State Party. Most recently, the ABA urged the US government to forge greater support for, and engagement with, the ICC.
 
+#### [Click Here to Join our Mailing List](/follow/)
+
 ---
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/79mZ8-CkHOU?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -26,7 +28,7 @@ With nearly 400,000 members worldwide and a respected voice among diverse stakeh
 When requested by the ICC to help augment internal efforts, organizing practitioner engagements on proven practices and methodologies, forums for exchanges of legal expertise between ICC judges and lawyers and their international counterparts, and continuing legal education initiatives.
 
 
-![ICJC LOGO](/assets/img/logo-icjc-140109-170718.png) The ABA is a proud member of the **International Criminal Justice Consortium**, an independent and non-partisan alliance of specialized and diverse organizations, representing a broad range of regions and legal traditions, which formed with  the purpose to help support the ICC and national jurisdictions with their international criminal justice mandate and do so through capacity-building activities. 
+![ICJC LOGO](/assets/img/logo-icjc-140109-170718.png) The ABA is a proud member of the **International Criminal Justice Consortium**, an independent and non-partisan alliance of specialized and diverse organizations, representing a broad range of regions and legal traditions, which formed with  the purpose to help support the ICC and national jurisdictions with their international criminal justice mandate and do so through capacity-building activities.
 
 
 
