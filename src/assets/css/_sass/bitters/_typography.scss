@@ -10,7 +10,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $header-font-family;
   line-height: $header-line-height;
-  margin: 0;
+  margin: 0 0 ($base-line-height * .25);
   text-rendering: optimizeLegibility; // Fix the character spacing for headings
 }
 
@@ -41,8 +41,19 @@ h6, .h6{
 
 p {
   margin: 0 0 ($base-line-height * .5);
-  text-align:justify;
+  //text-align:justify;
 }
+article.hentry p,
+.wf-active article.hentry p {
+  font-size: 1.0625em;
+  line-height: $unitless-line-height * 1.1;
+
+    a {
+      border-bottom: 1px dashed $base-link-color;
+    }
+}
+
+
 
 aside p {
   text-align:left;

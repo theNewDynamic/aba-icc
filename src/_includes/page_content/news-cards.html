@@ -1,0 +1,45 @@
+{% assign news = site.posts %}
+{% assign news_featured = site.posts | where: 'featured', true %}
+
+<div class="layout">
+
+
+
+<div class="cards">
+
+
+{% for news in news limit:250 %}
+  <div class="card">
+    <div class="card-image">
+      <a href="{{news.url}}">
+        {% if news.featured_image %}
+          <img src="{% if news.featured_image contains 'http://' %}{{news.featured_image}}{% else %}/assets/img/{{news.featured_image}}{% endif %}" alt="">
+        {% elsif news.splash_image %}
+          <img src="{% if news.splash_image contains 'http://' %}{{news.splash_image}}{% else %}/assets/img/{{news.splash_image}}{% endif %}" alt="">
+        {% else %}
+         <img src="/assets/img/Astfeld-023.jpg" alt="" >
+        {% endif %}
+      </a>
+    </div>
+    <div class="card-header">
+      <a href="{{news.url}}">{{news.title}}</a>
+    </div>
+    <div class="card-copy">
+      {{news.excerpt | strip_html | truncate: 140 }}
+    </div>
+    <div class="card-stats">
+      <ul>
+        <li>Published<!-- news.date | date: "%Y-%b-%d" --><span>{{ news.date | date: "%Y-%b-%d" }}</span></li>
+        <li>Comments<span><a href="{{news.url}}#disqus_thread" data-disqus-identifier="{{news.url}}">leave a comment</a></span></li>
+        <li>Category<span>{{news.category}}</span></li>
+      </ul>
+    </div>
+  </div>
+{% endfor %}
+
+
+
+
+
+</div>
+</div>

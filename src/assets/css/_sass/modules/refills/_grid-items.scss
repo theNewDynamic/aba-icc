@@ -3,31 +3,39 @@
 }
 
 .grid-items {
-  $grid-items-background: $base-body-color;
-  $grid-item-background: desaturate($base-accent-color, 30);
+  $grid-items-background: $content-color-background;//$base-body-color;
+  $grid-item-background: $sidebar-right-color-background;//lighten($sidebar-right-color-background, 2%);
   $grid-item-colors:
-    $base-accent-color,
-    #1d262b, //saturate($base-accent-color, 30),//#3581A5,
-    darken($blue, 17%), //desaturate($base-accent-color, 50),//#5FBEBE,
-    desaturate($base-accent-color, 80),//#98C79A,
-    darken($blue, 17%), //desaturate($base-accent-color, 30),//#A7A891,
-    desaturate($base-accent-color, 10),//#BDCC97,
-    saturate($base-accent-color, 30);//#979EA0;
+    lighten($sidebar-right-color-background, 1%),
+    lighten($sidebar-right-color-background, 6%),
+    lighten($sidebar-right-color-background, 10%),
+    lighten($sidebar-right-color-background, 14%),
+    lighten($sidebar-right-color-background, 3%),
+    lighten($sidebar-right-color-background, 5%),
+    lighten($sidebar-right-color-background, 15%),
+    lighten($sidebar-right-color-background, 5%),
+    lighten($sidebar-right-color-background, 95%),
+    lighten($sidebar-right-color-background, 95%),
+    lighten($sidebar-right-color-background, 95%);
   $grid-item-border-size: 9px;
   $grid-item-columns: 3;
   $grid-item-big-columns: 9;
   $grid-item-color: white;
   $grid-item-height: 16em;
 
-
-  margin: $grid-item-border-size;
-// minor adjustments to make the border around the grids look even
-margin-right: $grid-item-border-size - 4px;
-margin-left: $grid-item-border-size - 4px;
+  @include media($normal-screen-up) {
+    $grid-item-height: 22.275vh;
+  }
 
 
   @include clearfix;
-
+////BP
+  position: relative;
+  margin-top:0;
+  margin-right: $grid-item-border-size - 4px;
+  margin-left: $grid-item-border-size - 4px;
+  padding-top:$grid-item-border-size;
+////END BP
   .grid-item {
     @include transition (all 0.2s ease-in-out);
     height: $grid-item-height;
@@ -36,27 +44,15 @@ margin-left: $grid-item-border-size - 4px;
     overflow: hidden;
     float: left;
     padding: 2em;
+    @include media($normal-screen-up) {
+    padding: 2vh;
+  }
     border-top: 0;
     border-bottom: $grid-item-border-size solid $grid-items-background;
     border-left: $grid-item-border-size /2 solid $grid-items-background;
     border-right: $grid-item-border-size /2 solid $grid-items-background;
     text-align: center;
     cursor: pointer;
-
-
-
-
-
-    .grid-item:before {
-      content: "";
-      position: absolute;
-      left: -25px;
-      top: 0;
-      border-top: 15px solid transparent;
-      border-bottom: 15px solid transparent;
-      border-right: 15px solid lighten($sidebar-right-color-background, 14%);;
-
-    }
 
     @include media($large-screen) {
       @include grid-item-columns($grid-item-columns);
@@ -66,17 +62,12 @@ margin-left: $grid-item-border-size - 4px;
       &:nth-child(#{$i}) {
         $background-from-list: nth($grid-item-colors, $i);
         background-color: $background-from-list;
-        ///////////box-shadow: inset 0px 0px 1px 2px darken($background-from-list, 10);
+        //box-shadow: inset 0px 0px 1px 2px darken($background-from-list, 10);
         &:hover {
           background-color: darken($background-from-list, 10);
           background-repeat: no-repeat;
-          background-position: top;
+          background-position: center;
           background-size: cover;
-
-
-
-          box-shadow: 0 17px 50px 0 rgba(0,0,0,.19)''
-
         }
       }
     }
@@ -96,10 +87,18 @@ margin-left: $grid-item-border-size - 4px;
     }
 
   .grid-item p {
+
+      font-size:1.8vh;
+      max-width: 90%;
       margin: auto;
       color: transparentize($grid-item-color, .3);
       @include media($medium-screen) {
-        max-width: 70%;
+        font-size:1.7vh;
+        max-width: 80%;
+      }
+      @include media($wide-screen-up) {
+        font-size: 1.4vh;
+        max-width: 80%;
       }
     }
 
@@ -109,7 +108,7 @@ margin-left: $grid-item-border-size - 4px;
     }
     p {
       @include media($medium-screen) {
-        max-width: 77%;
+        max-width: 78%;
       }
     }
   }
@@ -122,7 +121,6 @@ margin-left: $grid-item-border-size - 4px;
     background-size: cover;
   }
 }
-
 
 .text-left h1{
   text-align:left;

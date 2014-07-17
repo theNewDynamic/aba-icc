@@ -1,20 +1,26 @@
 article {
-  padding: 1.5rem;
+  padding: 1.2em;
+  background-color: $content-color-background;
   margin:auto;
   max-width: 100%;
-  &.hentry {
-  max-width: $d-vp;
-  img:first-child {
-    float: none;
-    margin: 0 0 1.5em 0;
 
-  @include media($small-screen-up) {
 
+    &.hentry {
+      max-width: $e-vp;
+
+
+    }
+
+
+    img:first-child {
+      float: none;
+      margin: .5em 0 1.5em 0;
+
+    @include media($small-screen-up) {
       float: left;
       margin: .5em 1.4em 1.5em 0;
-  }
+    }
 
-}
   }
   //min-height: $c-vp;
   overflow: hidden;
@@ -29,59 +35,16 @@ article {
   }
 }
 
-//setup typographical style of indented paragraphs
-// p:first-child,
-// h1 + p,
-// h2 + p,
-// h3 + p,
-// h4 + p,
-// h5 + p,
-// h6 + p,
-// hr + p {
-//   text-indent: 0;
-// }
+  aside.sidebar-right {
 
-// p {
-// text-indent: 1.5rem;
-// }
-
-aside.sidebar-right {
-//@extend .font-var;
-font-size: 12px;//$iota;
-
+    font-size: .75em;
 }
-
-// .tagsNote {
-// background-color: rgba(45,126,165,0.8);
-//  color: #FFF;
-//  padding: 1em;
-// }
-small {
-//@extend .as-heading__smallest;
-//@include adjust-font-size-to($kappa);
-//@extend .font-var;
-}
-
-
-
-blockquote {
-//@extend .as-blockquote--typeset ;
-
-}
-
 
 object, embed, iframe {
   max-width: 100% !important;
 }
 
 
-// the dev class on an article doesn't have indented paragraphs, but has space between them.
-article.dev {
-p {
-  margin-bottom: 1.25em;
-  text-indent: 0;
-}
-}
 
 hr {
 //margin-top:    @line-height-computed;
@@ -108,6 +71,10 @@ sub { top: 0.4em; }
 .footnotes li {
 //@extend small;
 
+}
+
+.entry-content li {
+  margin-bottom: 1.5em;
 }
 
 .sharing {

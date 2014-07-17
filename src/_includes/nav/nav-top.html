@@ -9,38 +9,14 @@
     <p class="navigation-menu-button" id="js-mobile-menu">MENU</p>
     <div class="nav">
       <ul id="navigation-menu">
-      {% for links in links_global %}
-        <li class="nav-link more">
-          <a href="javascript:void(0)">{{links[0] | replace: '-', ' '}} <i class="icon-ion-ios7-arrow-down"></i></a>
-            {% assign heading = links[1] %}
-          <ul class="submenu">
-            {% for sublink in heading %}
-              <li>
-                <a href="{{sublink.slug}}"> {{sublink.title}}</a>
-              </li>
-            {% endfor %}
-          </ul>
-        </li>
-      {% endfor %}
+        {% include nav/navigation-global.html %}
       </ul>
-      
+
    </div>
     <div class="navigation-tools">
-    <ul id="navigation-menu">
-      {% for links in links_follow %}
-        <li class="nav-link more follow">
-          <a href="javascript:void(0)">{{links[0] | replace: '-', ' '}} <i class="icon-ion-ios7-arrow-down"></i></a>
-            {% assign heading = links[1] %}
-          <ul class="submenu">
-            {% for sublink in heading %}
-              <li>
-                <a href="{{sublink.slug}}"> {{sublink.title}}</a>
-              </li>
-            {% endfor %}
-          </ul>
-        </li>
-      {% endfor %}
-      </ul>
+    <ul class="secondary" id="navigation-menu">
+      {% include nav/navigation-secondary.html %}
+    </ul>
 
 
       <!-- <div class="search-bar">

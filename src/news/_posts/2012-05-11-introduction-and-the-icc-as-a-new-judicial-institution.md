@@ -3,7 +3,6 @@ venue: "ICC - Stanford Conference"
 title: "Introduction & The ICC as a New Judicial Institution: Achievements and Challenges ICC Turns Ten: Reviewing the Past, Assessing the Future"
 date: "2012-05-11 12:00:00"
 sponsor: "Stanford Law School"
-layout: article
 participants: "Alan Wiener, Director of International & Comparative Law Institute at Stanford Law; His Excellency Judge Cuno Tarfusser, Vice President, International Criminal Court; Ms. Shamila Batohi, Senior Legal Advisor of the Prosecutor, International Criminal Court; His Excellency Ambassador Stephen J. Rapp, U.S. Ambassador-at-Large, Office of Global Criminal Justice; Mr. Benjamin Ferencz, Former Prosecutor, Nuremberg Military Tribunals; Mr. Michael S. Greco, Chair, ABA Center for Human Rights and former President of the ABA; Professor David Kaye, Executive Director, International Human Rights Program at UCLA, School of Law; Professor Ruth Wedgwood, Director of the International Law and Organizations Program, The Paul H. Nitze School of Advanced International Studies, John Hopkins University"
 flyer: "http://www.law.stanford.edu/sites/default/files/event/266747/media/slspublic/Final%20conference%20programme%20(2012).pdf"
 photos: "http://www.flickr.com/photos/stanford_law/sets/72157629685072634/"

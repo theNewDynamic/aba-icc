@@ -7,7 +7,7 @@ The-ABA-ICC-Project:
   slug: /the-aba-icc-project/about-the-project/
   title: "About the Project"
  - 
-  slug: /news
+  slug: /the-aba-icc-project/news
   title: "News & Events"
  - 
   slug: /the-aba-icc-project/board-of-advisors/
@@ -18,10 +18,10 @@ The-ABA-ICC-Project:
 
 About-the-ICC:
  - 
-  slug: /about-the-icc/what-is-the-icc/
+  slug: /about-the-icc/
   title: "What is the ICC?"
  - 
-  slug: /evolution-of-international-criminal-justice/introduction/
+  slug: /evolution-of-international-criminal-justice/01-introduction/
   title: "Evolution of International Criminal Justice"
  - 
   slug: /about-the-icc/state-parties-to-the-icc/

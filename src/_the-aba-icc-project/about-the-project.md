@@ -1,29 +1,35 @@
 ---
-# layout: card-article
-layout: article
-title: About the ABA-ICC Project
+layout: page
+title: About the Project
 order: 07
-# include: "site-specific/bp-glossary.html"
-# splash_image: test-bg-mountains.jpg
-# splash_image: Nuremberg_Trials.jpg
-splash_image: unsplash_52ce83efb2b0b_1.jpg
 splash_image: "Benjamin_Ferencz_-_Chief_Prosecutor_in_1947_Einsatzgruppen_Trial_-_In_Courtroom_600_Where_Nuremberg_Trials_Were_Held_-_Palace_of_Justice_-_Nuremberg-Nurnberg_-_Germany_-_01.jpg"
 excerpt: "The project's mission is to strengthen, regularize, and broaden U.S. engagement with the ICC by creating dynamic forums where meaningful and sustained dialogue can occur on both practical and policy issues among and between the ICC and various American audiences. These initiatives will advance the field of international criminal law as well as enhance understanding and trust between the U.S. and the ICC."
 ---
-The International Criminal Court (ICC) Project converts the ABA’s strong policies on the ICC into concrete action. Its mission is to strengthen, regularize, and broaden U.S. engagement with the ICC by creating dynamic forums where meaningful and sustained dialogue can occur on both practical and policy issues among and between the ICC and various American audiences. These initiatives will advance the field of international criminal law as well as enhance understanding and trust between the U.S. and the ICC.
+The American Bar Association-International Criminal Court Project (ABA-ICC Project) implements longstanding ABA policies on international criminal justice.  The ABA was amongst the voices that called for establishment of a permanent international tribunal by multilateral treaty – what later became the Rome Statute that established the International Criminal Court (ICC)  – and did so starting in 1978.  The ABA participated in the negotiations of the Rome Statute as an observer, advocated for the treaty’s adoption, and urged the United States to become a State Party. Most recently, the ABA urged the US government to forge greater support for, and engagement with, the ICC.
+
+#### [Click Here to Join our Mailing List](/follow/)
+
+---
+
+<iframe width="700" height="394" src="//www.youtube.com/embed/SICq5kqkMC8?rel=0" frameborder="0" allowfullscreen></iframe>
+
+---
+
+With nearly 400,000 members worldwide and a respected voice among diverse stakeholders, the ABA is well-positioned to raise awareness in the US about the crucial mandate of the ICC to investigate and prosecute the international atrocity crimes of genocide, crimes against humanity, and war crimes, and to support the Court’s legal activities. The ABA-ICC Project provides such support through:
+
+## Advocacy and Education
+
+- Engaging with the American people, legal profession, and policymakers on the ICC and its vital role in helping protect human rights, establish the rule of law globally, and foster durable peace, thereby engendering broad-based familiarity with the ICC and enhancing US-ICC relations.
+- Convening high-level briefings on the ICC before the US legislative and executive branches, offering ICC education courses for American lawyers, providing assistance to ABA members advocating for greater US support for the ICC’s mandate, and establishing dialogs between US, ICC, and other key stakeholders.
+- Through the ABA-ICC Project website, providing innovative and interactive content that educates website visitors on the ICC and its jurisdiction, judicial process, constituent organs, State Parties, and US-ICC relations.  In collaboration with **Stanford Law School**, the website also features International Criminal Justice Today, an online periodical with IPSOS market research polling data and up-to-date developments in the field and includes Arguendo, a regular roundtable forum where distinguished experts from different fields discuss and debate the most pressing international criminal justice issues.
+
+## Practical Legal Assistance
+
+When requested by the ICC to help augment internal efforts, organizing practitioner engagements on proven practices and methodologies, forums for exchanges of legal expertise between ICC judges and lawyers and their international counterparts, and continuing legal education initiatives.
 
 
-<iframe width="700" height="525" src="//www.youtube.com/embed/5Qj1Hr04NN4?rel=0" frameborder="0" allowfullscreen></iframe>
+![ICJC LOGO](/assets/img/logo-icjc-140109-170718.png) The ABA is a proud member of the **International Criminal Justice Consortium**, an independent and non-partisan alliance of specialized and diverse organizations, representing a broad range of regions and legal traditions, which formed with  the purpose to help support the ICC and national jurisdictions with their international criminal justice mandate and do so through capacity-building activities.
 
 
-### International Criminal Justice: Mass Atrocities, the International Criminal Court, and the Role of States
 
-On April 10, 2014, the ABA-ICC Project, the Aspen Institute Justice and Society Program, the Coalition for the International Criminal Court (CICC), and the Embassy of the Kingdom of the Netherlands co-sponsored two panel programs in Washington, DC. at an event entitled "International Criminal Justice: Mass Atrocities, the International Criminal Court, and the Role of States" that was hosted by the Jones Day law firm at their beautiful offices overlooking the US Capitol.
-
-The first panel program was devoted to the US role in international criminal justice.  The distinguished panelists were the Hon. Patricia Wald, former judge of the US Court of Appeals - DC Circuit and of the International Criminal Tribunal for the former Yugoslavia (ICTY), and Stephen Rapp, US Ambassador for Global Criminal Justice. The program was moderated by Stephen Lamony of the CICC.
-
-The second panel program focused on the successes and challenges at the ICC, and the distinguished panelists were Fatou Bensouda, Prosecutor of the ICC, and Justice Richard Goldstone, former Prosecutor of both the ICTY and International Criminal Tribunal for Rawanda.  The program was moderated by former ABA President Michael S. Greco, Chair of the ABA-ICC Project and its Board of Advisors.
-
-During the panel discussion some of the issues among many addressed by Prosecutor Bensouda were the politicization of the ICC, the lack of adequate resources for the ICC, and the misconceptions of the Court’s operations which are undermining the ICC and its important casework:  “Misconceptions are another challenge that the court is facing. I think one of the biggest enemies of the court - if I may put it that way - are the misconceptions or misperceptions or deliberately making sure that the Court is not understood. We need cooperation from states to make sure that the limitations of the court are understood.” 
-
-One subject among others addressed by Justice Goldstone was the evolution of the US-ICC relationship:  “I can’t exaggerate the importance that the US has played in the field of international criminal justice. I would go so far as to say that without the United States, we would not have a field of international criminal justice at all.”  The video of the highly informative full program may be viewed below.
+In collaboration with the **University of Denver Sturm College of Law** and the **Ved Nanda Center for International and Comparative Law**, developing the world’s only online repository of proven practices in international criminal justice.  The repository will be an indispensable resource for international tribunal practitioners as well as national practitioners undertaking complementarity proceedings.

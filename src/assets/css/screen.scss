@@ -1,10 +1,5 @@
 ---
 ---
-// @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,800italic,400,300,800);
-// @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900|); //HIDING ON THE TRAIN ONLY
-// @import url(http://fonts.googleapis.com/css?family=Lato:300,900,300italic,900italic|Lora:400,700,400italic,700italic);
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
-
 
 // REQUIRED
 @import "libs/_normalize";
@@ -13,14 +8,14 @@
 @import "libs/neat/neat";
 
 
-@import "libs/font-icons-ion";
+@import "libs/font-icons";
 
 // BASIC MODULES
 @import "modules/article";
 @import "modules/navigation-side";
 @import "modules/refills/nav-top";
-@import "modules/refills/grid-items";
-@import "modules/refills/grid-items-lines";
+@import "modules/refills/grid-items"; // HOME PAGE
+@import "modules/refills/grid-items-lines"; // BIO PAGE
 @import "modules/refills/hero";
 
 // OPTIONAL MODULES
@@ -32,10 +27,13 @@
 @import "modules/layouts";
 @import "modules/cycle-slideshow";
 @import "modules/item-list";
+@import "modules/refills/card";
 .content {
-	background-color: $lightest-gray;
+	background-color: $content-color-background;
   height: auto;
-	min-height: 1200px;
+	//min-height: 1200px;
+	padding-bottom:2em;
+	min-height:100%;
 }
 
  li.follow {
@@ -52,6 +50,15 @@
       display: block;
     }
 }
+
+.hidden-large-screens {
+	display: block;
+		@include media($large-screen-up) {
+			display: none;
+		}
+}
+
+
 // body.home {
 // 	background-color: $sidebar-right-color-background;
 // }
@@ -79,4 +86,10 @@ body.card-timeline article p{
 	//border-radius: 50%;
 	max-width: 150px;
 	float: left;
+	}
+	footer {
+		background-color: $light-gray;
+		font-size:.75em;
+		padding: 2.125em 0 .375em 9.5em;
+
 	}

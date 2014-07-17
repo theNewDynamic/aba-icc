@@ -10,13 +10,13 @@ $splash-color-background:$navigation-background;//#DDD !default;
 // 2) as a body.content_splash, primarily so we can move our content down out of the way.
 
 .splash {
-
 	margin-top: $navigation-height;
 	//margin-top: $navigation-height * -1;
 	min-height: $splash-height;
+	max-height:$splash-height;
 	overflow: visible;
-	display: none;
-	background-position:50% 50%;
+	//display: none;
+	background-position:top top;
 	background-repeat: no-repeat;
 
 		@include media($d-vp) {
@@ -24,19 +24,17 @@ $splash-color-background:$navigation-background;//#DDD !default;
 			//The following items fix our image so that we can use
 			// the parallax effect//dependency for the parallax effect
 			// position: fixed;
-			// top:0;
+			// top:$navigation-height;
 			// left:0;
-			// z-index: $z-index-splash;
-			position: static;
+			// z-index: -100000;//$z-index-splash;
+				//position: static;
 				margin-top: 0;
-				background-position: center top;
+				background-position: left 30%;
 				background-repeat: no-repeat;
+				background-size: cover;
+
 
 		}
-
-		max-height:$splash-height;
-		width: 100%;
-		//background-color: $splash-color-background;
 
 		h1 {
 		color: white;
@@ -47,29 +45,24 @@ $splash-color-background:$navigation-background;//#DDD !default;
 		text-align: center;
 		//vertical-align: middle;
 		padding-top: 15%;
-}
+	}
 
 }
 
-// For splash images on card pages, we put the splash inside the article, so we don't want the fixed behavior from above.
-article .splash {
-				position: static;
-				margin-top: 0;
-				background-position: center top;
-				background-repeat: no-repeat;
-			}
-
-
-
-body.content_splash .content, .content_splashf {
-		margin-top: 0;
-		background-color: white;
-
-			@include media($d-vp) {
-				//	margin-top: $splash-height;
-		}
-
-
-
-
+h1.splash_title {
+color: white;
+margin: auto;
+border-radius: 3px;
+//display: table-cell;
+//height: $splash-height;
+text-align: center;
+//vertical-align: middle;
+padding:.45em;
+max-width:60%;
+position: relative;
+top:200px;
+text-align:center;
+//left:200px;
+background-color:#111;
+background-color:rgba(0,0,0,0.7);
 }

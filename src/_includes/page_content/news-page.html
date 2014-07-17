@@ -1,6 +1,6 @@
 {% include global/hero.html %}
 
-{% assign news_featured = site.posts | where: 'featured', true %}
+{% assign news_featured = site.posts | where: 'featuredTK', true %}
 
 <div class="layout">
 
@@ -18,7 +18,7 @@
     <small>{{news_item.tags}}</small>
     <h2 class="h4">
       <a href="{{news_item.url}}">
-        {{ news_item.title }} <!-- TODO: <i class="icon-right-openTK icon-ion-link"></i> -->
+        {{ news_item.title }} <!-- TODO: <i class="icon-right-openTK icon-link"></i> -->
       </a>
     </h2>
     {% if include.excerpt == 'yes' %}
@@ -57,7 +57,7 @@
     <small>{{news.tags}}</small>
     <h2 class="h4">
       <a href="{{news.url}}">
-        {{ news.title }} <!-- TODO: <i class="icon-right-openTK icon-ion-link"></i> -->
+        {{ news.title }} <!-- TODO: <i class="icon-right-openTK icon-link"></i> -->
       </a>
     </h2>
     {% if include.excerpt == 'yes' %}
@@ -71,4 +71,4 @@
   </div>
 </div>
 {% endfor %}
-</section>  
+</section>

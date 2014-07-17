@@ -3,6 +3,8 @@ title: Structure of the ICC
 layout: article
 category:
 ---
+## _Check back soon for changes to this page_
+
 **Overview**
 
 The ICC is an international judicial institution that was formed by a multilateral international treaty, the Rome Statute. The ICC, which is independent of the United Nations, is based in The Hague, the Netherlands, although it may sit elsewhere.

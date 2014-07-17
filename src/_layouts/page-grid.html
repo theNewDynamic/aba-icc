@@ -4,13 +4,13 @@ section: page-grid
 ---
 <section class="content">
 	{% if page.splash_image %}
-		<div class='splash'>
-			<h1>{{ page.title }}</h1>
-		</div>
+		{% include global/page-splash.html %}
 	{% endif %}
-	 {% if page.include %}
-      {% include {{page.include}} %}
-    {% endif %}
+	<div class="layout">
+		<h1 style="margin:1em 0;">{{page.title}}</h1>
+		<h2>{{content}}</h2>
+	</div>
+	{% if page.include %}
+		{% include {{page.include}} %}
+	{% endif %}
 </section>
-
-

@@ -1,5 +1,5 @@
 ---
-title: "The pity of the International Criminal Court (ICC) is that it could have been a useful and relevant institution"
+title: "The Pity of the International Criminal Court (ICC) is that it Could have been a Useful and Relevant Institution"
 question: "What are the next steps in the US-ICC relationship?"
 author: Rademaker
 layout: article-arguendo

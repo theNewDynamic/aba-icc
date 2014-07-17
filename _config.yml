@@ -1,5 +1,5 @@
-url: http://aba-icc.pubspringdev1.com/
-sitename: 'ABA-ICC PROJECT'
+url: http://www.aba-icc.org
+sitename: 'The ABA-ICC Project'
 description: 'ABA Center for Human Rights'
 # do not include  https://github.com/...
 repo: 'sonnetmedia/aba-icc.org'
@@ -22,16 +22,16 @@ exclude: ['readme.md','license.md','Gemfile','links.jsonp', 'CNAME', 'rakefile',
 
 # dev options (true/false)
 # if site is in production, 'production: true'
-production: false
+production: true
 include_jquery: false
-use_jquery_cdn: true
-include_addthis_sharing: false
+use_jquery_cdn: false
+include_addthis_sharing: true
 bust_css_cache: true
 
 # options (data)
-google_analytics_id: UA-XXXXXXX-X
+google_analytics_id: UA-51919693-2
 disqus_id:
-addthis_id:
+addthis_id: "ra-53c565a74f2c5c5b"
 # CONTACT FORM http://getsimpleform.com/
 simple_form_api_token:
 
@@ -40,62 +40,89 @@ simple_form_api_token:
 twitter_id: budparr
 
 sass:
-    style: :expanded
+    style: :compressed
     sass_dir: assets/css/_sass
 
 # source: content
 
 collections:
  the-aba-icc-project:
-  tagline: "The ABA-ICC Project"
+  collection_name: "The ABA-ICC Project"
   output: true
   permalink: /:collection/:path/
-  description: "Its mission is to strengthen, regularize, and broaden U.S. engagement with the ICC by creating dynamic forums where meaningful and sustained dialogue can occur on both practical and policy issues among and between the ICC and various American audiences. These initiatives will advance the field of international criminal law as well as enhance understanding and trust between the U.S. and the ICC."
- about-the-icc:
-  tagline: About the ICC
+ international-criminal-justice-today:
+  collection_name: "International Criminal Justice Today"
   output: true
   permalink: /:path/
- the-aba-icc-project:
-  tagline: About the ICC Project
+ about-the-icc:
+  collection_name: About the ICC
   output: true
-  permalink: /:collection/:path/
+  permalink: /:path/
  rights-of-the-participants:
   output: true
   permalink: /:collection/:path/
  evolution-of-international-criminal-justice:
+  collection_name: "The Evolution of International Criminal Justice"
   permalink: /:collection/:path/
   output: true
   splash_image: "Nuremberg_Trials.jpg"
   description: "A timeline to explore the evolution of international criminal justice and learn about the multiple and varied influences that have shaped this field of international affairs."
  arguendo:
+  collection_name: "Arguendo"
   output: true
   description: "Experts debate issues of the day on International Criminal Justice"
+  main_page_link: "/arguendo/"
   permalink: /:collection/:path/
   layout: arguendo
   class: arguendo
+ board-of-advisors:
+  collection_name: "Board of Advisors"
+  main_page_link: "/the-aba-icc-project/board-of-advisors/"
+  output: true
+  permalink: /:collection/:path/
 
 defaults:
-  - 
-    scope:
-      path: ''
-      type: page
-    values:
-      layout: page
-  -
-    scope:
-      path: "news"
-      type: "post" # empty string for all files
-    values:
-      layout: "timeline-card"
-  -
-    scope:
-      path: "ipsos"
-      type: "post" # empty string for all files
-    values:
-      splash_image: banner-ipsos.png
-  -
-    scope:
-      path: "arguendo"
-    values:
-      layout: "arguendo"
-
+ - 
+  scope:
+   path: ''
+   type: page
+  values:
+   layout: page
+ - 
+  scope:
+   path: ""
+   type: 'board-of-advisors'
+  values:
+   layout: page
+ -
+  scope:
+   path: "news"
+   type: "post" # empty string for all files
+  values:
+   layout: "article"
+   category: "Event"
+ -
+  scope:
+   path: ""
+   type: "the-aba-icc-project" # empty string for all files
+  values:
+   sharing: false
+   comments: false
+ -
+  scope:
+   path: "arguendo"
+  values:
+   layout: "arguendo"
+   class: "arguendo"
+ -
+  scope:
+   path: ""
+   type: "international-criminal-justice-today"
+  values:
+   layout: "page"
+ - 
+  scope:
+   path: "/arguendo/article/"
+   type: post
+  values:
+   layout: article-arguendo

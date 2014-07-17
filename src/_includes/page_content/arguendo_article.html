@@ -1,0 +1,37 @@
+{% if page.splash_image %}
+  {% include global/page-splash.html %}
+{% endif %}
+<section class="content">
+  <article class="hentryTK {% if page.class %}{{page.class}}{% endif %}">
+    {% capture the_collection %}{{page.collection}}{% endcapture %}
+    {% assign  questions = site.[the_collection] | where: 'type', 'question' | sort: 'date' | reverse %}
+    {% capture the_question %}{{ page.title }}{% endcapture %}
+    {% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse   %}
+
+<div class="layout-content-with-grid">
+  <aside>
+  <h1>
+    <a href="{{ page.url }}" class="arrowTK {% if page.url contains page.url %} arrow-leftTK{% endif %}">
+      {{page.title}}
+    </a>
+  </h1>
+  {% if page.date %}
+      <time class='date' datetime="{{ page.date | date:'%Y-%m-%d' }}">
+        <small>
+          {{ page.date | date:'%A %b %d, %Y' }}
+        </small>
+      </time>
+    {% endif %}
+
+
+</aside>
+  <section class="grid-items-lines">
+    {{ page.content | markdownify }}
+  </section>
+</div>
+
+
+
+</article>
+
+</section>

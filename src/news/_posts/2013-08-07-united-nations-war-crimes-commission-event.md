@@ -1,7 +1,6 @@
 ---
 venue: "American University, Washington College of Law"
 title: United Nations War Crimes Commission Event
-layout: article
 date: "2013-08-07 12:00:00"
 sponsor: "American University, Washington College of Law"
 participants: "Kip Hale, Senior Counsel, American Bar Association Center for Human Rights; Shanti Sattler, Legal Fellow, University of London; Chris Simpson, Communications Professor, American University"

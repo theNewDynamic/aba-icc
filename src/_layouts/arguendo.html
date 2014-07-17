@@ -2,73 +2,19 @@
 layout: default
 section: arguendo
 ---
-<section class="content">
 {% if page.splash_image %}
-	{% include snippets/page-splash.html %}
-{% endif %}
-
-<article class="hentryTK {% if page.class %}{{page.class}}{% endif %}">
+    {% include global/page-splash.html %}
+  {% endif %}
+<section class="content">
+  <article class="hentry {% if page.class %}{{page.class}}{% endif %}">
     
-      {% capture the_collection %}{{page.collection}}{% endcapture %}
-{% assign  questions = site.[the_collection] | where: 'type', 'question' | sort: 'date' | reverse %}
-
-  {% capture the_question %}{{ page.title }}{% endcapture %}
-  {% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse   %}
-  
-    
-
-
-<div class="layout-content-with-grid">
-  <aside>
-  <h1>
-    <a href="{{ page.url }}" class="arrow {% if page.url contains page.url %} arrow-left{% endif %}">
-      {{page.title}} 
-    </a>
-  </h1>
-  {% if page.date %}
-      <time class='date' datetime="{{ page.date | date:'%Y-%m-%d' }}">
-        <small>
-          {{ page.date | date:'%A %b %d, %Y' }}
-        </small>
-      </time>
+      <!-- include global/edit.html -->
+    {% if page.include %}
+      {% include {{page.include}} %}
     {% endif %}
-    
-  {{ page.content | markdownify }}
-</aside>
-  <section class="grid-items-lines">
-    {% for article in articles %}
-      {% capture  the_author %}{{ article.author }}{% endcapture %}
-        {% assign  authors = site.data.people | where: 'last_name', {{the_author}}  %}
-      {% if article.question == {{the_question}} %}
-        <a class="grid-item {% cycle 'dark' ,'light' %}" href="{{ article.url }}">
-          <div class="card-non-flip">
-            <div class="front">
-              {% for author in authors %}
-                {% if author.image %}
-                  <span class="figure">
-                    <img src="/assets/img/{{author.image}}">       
-                  </span>
-                {% endif %} 
-              {% endfor %}
-              <h2 class="h6">
-                {% for author in authors  %}
-                  {{author.name}}
-                {% endfor %}
-                {{author.name}}            
-              </h2>
-              <strong>{{article.title}}</strong>
-            </div>
-          </div>
-        </a>
-      {% endif %}
-    {% endfor %}
-  </section>
-</div>
-  
-  
-  
-</article>
-
+    {% include page_content/arguendo_landing.html %}
+  </article>
 </section>
+
 
 

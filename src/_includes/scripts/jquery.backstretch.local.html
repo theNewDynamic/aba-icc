@@ -1,25 +1,36 @@
 
 
 {% if page.splash_image %}
+
 	{% if page.splash_image contains 'http' %}
     {% capture image_url %}{{page.splash_image}}{% endcapture %}
   {% else %}
     {% capture image_url %}/assets/img/{{page.splash_image}}{% endcapture %}
-  {% endif %}
-  $(".splash").backstretch("{{image_url}}",{fade:'fast'});
+	{% endif %}
+	
 
-{% elsif page.categories.home %}
-$("aside.sidebar-right").backstretch("/assets/img/Astfeld-023-large_041621.jpg",{fade:'fast'});
- {% else %}
+
+	$(".splash").backstretch("{{image_url}}",{fade:'fast'});
 
 
 {% endif %}
 
-{% if page.layout == 'article' %}
+
+
+{% comment %}
+{% if page.categories.homeTK %}
+$("aside.sidebar-right").backstretch("/assets/img/Astfeld-023-large_041621.jpg",{fade:'fast'});
+ {% endif %}
+
+
+
+
+{% if page.layout == 'articleTK' %}
 $("aside.sidebar-right").backstretch("/assets/img/Astfeld-023-large_041621.jpg",{fade:'fast'});
 {% endif %}
 
 
-{% if page.layout == 'default'  %}
+{% if page.layout == 'defaultTK'  %}
 $("aside.sidebar-right").backstretch("/assets/img/Astfeld-023-large_041621.jpg",{fade:'fast'});
 {% endif %}
+{% endcomment %}

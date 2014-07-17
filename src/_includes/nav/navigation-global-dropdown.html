@@ -1,0 +1,13 @@
+{% for links in links_global %}
+  <li class="nav-link more">
+    <a href="javascript:void(0)">{{links[0] | replace: '-', ' '}} <i class="icon-angle-down"></i></a>
+      {% assign heading = links[1] %}
+    <ul class="submenu">
+      {% for sublink in heading %}
+        <li>
+          <a href="{{sublink.slug}}"> {{sublink.title}}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </li>
+{% endfor %}

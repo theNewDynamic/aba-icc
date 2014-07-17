@@ -1,43 +1,99 @@
 ---
 layout: nil
 ---
-{% include scripts/moment/min/moment.min.js %}
-{% include scripts/underscore/underscore.js %}
-{% include scripts/events.js %}
+{% include scripts/jquery.min.js %}
 
-{% include scripts/smooth-scroll.js %}
+// EVENTS PRESENTATION
+	{% include scripts/moment/min/moment.min.js %}
+	{% include scripts/underscore/underscore.js %}
+	{% include scripts/events.js %}
 
-
-{% include scripts/jquery.backstretch.min.js %}
+// Mobile nav button/dropdown
 {% include scripts/nav-top-mobile.js %}
+{% include scripts/links-new-window.js %}
+
+// BOARD PAGE CARDS WITH BIO ON BACK
+$('.flip').click(function(){
+        $(this).find('.card-flush').addClass('flipped').mouseleave(function(){
+            $(this).removeClass('flipped');
+        });
+        return false;
+    });
+
+
+
+
+
+{% comment %} //== NOT USING THE FOLLOWING 
+{% include scripts/parallax.js %}
+// Nice Scrolling
 {% include scripts/smooth-scroll.js %}
 
+// FULL SCREEN IMAGES
+{% include scripts/jquery.backstretch.min.js %}
+{% comment %}DOES THIS WORK{% endcomment %}
+{% capture splash_image %}{{ page.splash_image }}{% endcapture %}
+$("aside.sidebar-right").backstretch("/assets/img/document.write=(splash_image);",{fade:'fast'});
+{% include scripts/jquery.backstretch.local.html splash_image="ff" %}
+
+$(".splash").backstretch("/assets/img/splash_image;",{fade:'fast'});
+
+		// we may need the full screen images script to be pulled individually
+			// <script type="text/javascript" src="/assets/js/jquery.cycle2.min.js"></script>
+			// <script type="text/javascript" src="/assets/js/jquery.cycle2.carousel.min.js"></script>
+			// <script type="text/javascript">{% include scripts/jquery.backstretch.local.html %}</script>
 
 
 
 
-{% comment %}
-{% include scripts/jquery/dist/jquery.min.js %}
+
+
+// SLIDESHOW
 {% include scripts/jquery_cycle/jquery.cycle2.min.js %}
 {% include scripts/jquery_cycle/jquery.cycle2.carousel.min.js %}
 
-$("aside.sidebar-right").backstretch("/assets/img/document.write=(splash_image);",{fade:'fast'});
-
-{% capture splash_image %}{{ page.splash_image }}{% endcapture %}
-
-{% assign the_splash_image == {{page.splash_image}} %}
-//title: {{splash_image}}
-//title2: {{page.title}} {{the_splash_image}}
-
-{% include scripts/jquery.backstretch.local.html splash_image="ff" %}
 
 
+// OPTIONAL
+// {% include scripts/widow-control.js %}
+// {% include scripts/d3.min.js %}
 
-			{% include scripts/jquery/dist/jquery.min.js %}
-			<script type="text/javascript" src="/assets/js/jquery.cycle2.min.js"></script>
-			<script type="text/javascript" src="/assets/js/jquery.cycle2.carousel.min.js"></script>
-			{% include scripts/widow-control.js %}
-			{% include scripts/nav-top-mobile.js %}
-			{% include scripts/smooth-scroll.js %}
-			{% include scripts/d3.min.js %}
+
+// TUMBLR API
+<script type="text/javascript">
+  $(document).ready(function() {
+    $.ajax({
+        url: "http://api.tumblr.com/v2/blog/aba-icc.tumblr.com/posts?api_key=712yUR7HNAL8B8YXhrRwvH3sCnAgjV74BlYezAD8KWtbtXM9Ij&limit=10",
+        dataType: 'jsonp',
+        success: function(results){
+    			console.log(results); 
+          $.each(results.response.posts, function(i, item){
+              //var src = item.photos.url; // first picture, first size
+              var caption = item.caption;
+              var body = item.body;
+              var description = item.description;
+              //$("<img/>").attr("src", src).appendTo("#wrapper").wrap('<div class="postImage"></div>').after('<span class="postCaption">' + body + '</div>');
+              if(item.title && item.post_url) {
+                  $('<h5><a href="' + item.post_url +   '">' +  item.title + '</a> <small><i class="icon-link-ext"></i></small> </h5>').appendTo('#content_tumblr');
+                  	}
+                  	else if(item.title) {
+                  		$('<h5>' + item.title + '</h5>').appendTo('#content_tumblr');
+                }; 			
+              if(item.description) {
+                  $('<span>' + description + '</span>').appendTo('#content_tumblr');
+                };
+                if(item.post_url) {
+                  $('<a href="' + item.post_url +   '</span>').appendTo('#content_tumblr');
+                };
+                		$('<hr />').appendTo('#content_tumblr')
+              });
+            }
+          });
+
+        });
+</script>
+
+
+//-END TUMBLR API
+
 {% endcomment %}

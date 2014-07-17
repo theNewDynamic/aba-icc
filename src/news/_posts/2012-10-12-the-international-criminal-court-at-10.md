@@ -1,7 +1,6 @@
 ---
 venue: "Washington University College of Law"
 title: "The International Criminal Court at 10"
-layout: article
 date: "2012-10-12 12:00:00"
 sponsor: "Whitney R. Harris World Law Institute"
 participants: "His Excellency Ambassador Stephen Rapp
