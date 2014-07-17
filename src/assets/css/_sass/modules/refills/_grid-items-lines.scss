@@ -40,11 +40,6 @@
     }
   }
 
-    body.arguendo .grid-item {
-      background-color:yellow;
-      padding:1em;
-      border-right: none;
-    }
 
 
 .grid-item .figure {height:100%;}
@@ -98,4 +93,17 @@
     width: 4px;
     background: $grid-items-background;
   }
+}
+
+
+
+body.arguendo .grid-items {
+
+  .grid-item {
+    background-color:yellow;
+    padding:1em;
+    border-right: none;
+  }
+
+
 }
