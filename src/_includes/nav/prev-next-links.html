@@ -1,5 +1,5 @@
 {% capture the_collection %}{{page.collection}}{% endcapture %}
-{% assign nexturl = page.previous.url %} 
+{% assign nexturl = page.previous.url %}
 {% assign prevurl = page.next.url %}
 
 {% if page.collection %}
@@ -12,6 +12,7 @@
   {% if page.sidebar_heading %}
     <h4>{{page.sidebar_heading | markdownify | remove: '<p>' | remove: '</p>'  }}</h4>
   {% endif %}
+
 
 {% if page.categories contains 'news' %}
 <hr />
@@ -31,9 +32,9 @@
         {% comment %}the first if statement looks through and creates prev/next links, the index statement below it creates a next url for the index page outside of this loop
           TODO: Make first loop back to index
         {% endcomment %}
-      {% if links.title == page.title %}          
+      {% if links.title == page.title %}
         {% unless forloop.first %}
-          {% assign prevurl = prev.url %} 
+          {% assign prevurl = prev.url %}
         {% endunless %}
         {% unless forloop.last %}
           {% assign next = document[forloop.index] %}
@@ -65,7 +66,7 @@ if (e.keyCode == '39') { window.location = '{{nexturl}}'; }
 //       window.location.href = '{{prevurl}}';
 //   } else if ( swipeDirection == 'right' ) {
 //       window.location.href = '{{nexturl}}';
-//   } 
+//   }
 // };
 
 
@@ -75,8 +76,3 @@ if (e.keyCode == '39') { window.location = '{{nexturl}}'; }
   {% if prevurl %}<a href="{{prevurl}}" class="prev"><i class="icon-left-openTK icon-chevron-left"></i></a>{% endif %}
   {% if nexturl %}<a href="{{nexturl}}" class="nxt"><i class="icon-right-openTK icon-chevron-right"></i></a>{% endif %}
 </div>
-
-
-
-
-
