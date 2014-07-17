@@ -15,8 +15,8 @@
 
 .layout-article {
 
-    margin-top: 5em;
-
+    //margin-top: 5em;
+    padding-top:5em;
     @include outer-container;
     max-width:95%;
 

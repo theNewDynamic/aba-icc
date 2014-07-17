@@ -71,6 +71,7 @@ collections:
   collection_name: "Arguendo"
   output: true
   description: "Experts debate issues of the day on International Criminal Justice"
+  main_page_link: "/arguendo/"
   permalink: /:collection/:path/
   layout: arguendo
   class: arguendo
@@ -119,3 +120,9 @@ defaults:
    type: "international-criminal-justice-today"
   values:
    layout: "page"
+ - 
+  scope:
+   path: "/arguendo/article/"
+   type: post
+  values:
+   layout: article-arguendo

@@ -97,12 +97,15 @@
 
 
 
-body.arguendo .grid-items {
+body.arguendo .grid-items-lines {
 
   .grid-item {
-    background-color:yellow;
-    padding:1em;
+    padding:2em 2em 0 2em;
     border-right: none;
+    background-color:white;
+    height:12em;
+    box-shadow: 0 2px 4px #DDD ;//darken($base-body-color, 10)
+    margin-bottom:.25em;
   }
 
 

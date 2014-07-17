@@ -3,10 +3,8 @@
 
 	<div class="sidebar-content">
 	<!-- //COLLECTION INFORMATION -->
-		
 			{% if site.collections[the_collection].collection_name %}
-				<hr />
-				
+				<hr />				
 					{% if site.collections[the_collection].main_page_link %}
 					<h1 style="display:inline-block;">
 						<a href="{{ site.collections[the_collection].main_page_link }}">
@@ -15,8 +13,7 @@
 					</h1> <a href="{{ site.collections[the_collection].main_page_link }}"><i class="icon-undo"></i></a>
 					{% else %}	
 						<h1>{{ site.collections[the_collection].collection_name | markdownify | remove: '<p>' | remove: '</p>'  }}</h1>
-					{% endif %}
-				
+					{% endif %}				
 			{% endif %}
 			{% if site.collections[the_collection].tagline %}
 				<hr />
@@ -25,10 +22,18 @@
 			{% if site.collections[the_collection].description %}
 				{{ site.collections[the_collection].description | markdownify }}
 			{% endif %}
+			
+			{% if page.collection == 'arguendo' %}
+				
+				{% else %}
+
 		{% if page.title %}
 			<!-- //PAGE INFORMATION -->
 			<h2>{{ page.title }}</h2>
 		{% endif %}
+	
+	{% endif  %}{% comment %}end if page collection = arguendo {% endcomment %}
+
 		{% if page.excerpt %}
 			<p>{{ page.excerpt | markdownify | strip_html | truncatewords: 30 }}</p>
 		{% endif %}
@@ -40,15 +45,9 @@
 	</div>
 		<div class="hidden-large-screens">
 				<a href="#menu-local">&raquo; SECTION MENU</a>
-		</div>
-	
+		</div>	
 	{% if page.category == 'home' %}
-
-
-
 		<div class="sidebar-content hidden-small-screens">
-			
-			
 			{% include nav/prev-next-links.html limit="3" %}
 			<hr />
 			<div style="height:115px;">{% include snippets/twitter-tweets.html count='1' %}</div>
@@ -57,6 +56,11 @@
 			<p><small>Thank you to the generous sponsors of the ABA-ICC Project</small></p>
 		<img src="/assets/img/RO_KN_Logo_1_RGB_diap_en.png">
 		</figure>
+
+{% elsif page.collection == 'arguendo' %}
+	
+	{% include nav/nav-arguendo.html %}
+
 	{% else %}
 		<div class="hidden-small-screens">
 			{% include nav/prev-next-links.html  limit="25" %}

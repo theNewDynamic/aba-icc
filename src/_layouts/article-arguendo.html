@@ -6,65 +6,77 @@ section: article
 {% assign  questions = site.[the_collection] | where: 'type', 'question' %}
 {% capture the_question %}{{ page.question }}{% endcapture %}
 {% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse   %}
+{% if page.splash_image %}
+   {% include global/page-splash.html %}
+{% endif %}
 <section class="content">
-  {% if page.splash_image %}
-	 {% include global/page-splash.html %}
-  {% endif %}
   {% if page.include %}
     {% include {{page.include}} %}
   {% endif %}
-
-
-
   <div class="layout-article">
-<h2>Arguendo</h2>
-<header>
+    <header>
      {% if page.title %}
-    <h1 class="entry-title">{{page.title}}</h1>
-    {% endif %}
-    {% if page.subtitle %}
-    <h2>
-      {{page.subtitle}}
-    </h2>
-    {% endif %}
-    {% if page.date %}
-      <time class='date' datetime="{{ page.date | date:'%Y-%m-%d' }}">
-        <small>
-          {{ page.date | date:'%A %b %d, %Y' }}
-        </small>
-      </time>
-    {% endif %}
-    
-  </header>
-
-
-<aside>
-    <strong>{{the_question}}</strong>
-    {% for links in questions %}{% comment %}EXCLUDES the Index file{% endcomment %}
-      {% if links.title == the_question %}
-       <small>   {{ links.content | markdownify }}</small>
+        <h1 class="entry-title">{{page.title}}</h1>
       {% endif %}
-    {% endfor %}
-  </aside>
+      {% if page.subtitle %}
+        <h2>
+          {{page.subtitle}}
+        </h2>
+      {% endif %}
+      {% if page.date %}
+        <time class='date' datetime="{{ page.date | date:'%Y-%m-%d' }}">
+          <small>
+            {{ page.date | date:'%A %b %d, %Y' }}
+          </small>
+        </time>
+      {% endif %}
+    </header>
+    <aside>
+{% comment %}
+    
+    <strong>{{the_question}}</strong>
+      {% for links in questions %}{% comment %}EXCLUDES the Index file{% endcomment %}
+    <!--     {% if links.title == the_question %}
+         <small>   {{ links.content | markdownify }}</small>
+        {% endif %}
+      {% endfor %} -->
+{% endcomment %}
 
-    <article class="hentryTK {% if page.class %}{{page.class}}{% endif %}">
-  
-  <div class="entry-content prose columns-2 "><!--  //CONTENT -->
-    {{ content }}
-  </div>
-  {% if site.include_addthis_sharing %}
-    <div class="sharing">
-      {% include articles/sharing.html %}
-    </div>
-  {% endif %}
+      {% capture  the_author %}{{ page.author }}{% endcapture %}
+{% assign  authors = site.data.people | where: 'last_name', {{the_author}}  %}
+              {% for author in authors %}
+              <h2 class="h2">
+                {% for author in authors  %}
+                  {{author.name}}
+                {% endfor %}
+               
+              </h2>
+                {% if author.image %}
+                  <figure class="figure bio" style="width:100%;">
+                    <img src="/assets/img/{{author.image}}">       
+                  </figure>
+                {% endif %} 
+
+                  <small>{{ author.bio | markdownify }}</small>
+
+              {% endfor %}
+              
+
+    
+
+    </aside>
+    <article class="hentry {% if page.class %}{{page.class}}{% endif %}">
+      <div class="entry-content prose columns-2 "><!--  //CONTENT -->
+        {{ content }}
+      </div>
+      {% if site.include_addthis_sharing %}
+        <div class="sharing">
+          {% include articles/sharing.html %}
+        </div>
+      {% endif %}
     <!-- include global/edit.html -->
-</article>
-</div>
-
-
-
-
-
+    </article>
+  </div>
 </section>
 
 

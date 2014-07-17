@@ -2,5 +2,19 @@
 layout: default
 section: arguendo
 ---
-{% include page_content/arguendo_article.html %}
+{% if page.splash_image %}
+    {% include global/page-splash.html %}
+  {% endif %}
+<section class="content">
+  <article class="hentry {% if page.class %}{{page.class}}{% endif %}">
+    
+      <!-- include global/edit.html -->
+    {% if page.include %}
+      {% include {{page.include}} %}
+    {% endif %}
+    {% include page_content/arguendo_landing.html %}
+  </article>
+</section>
+
+
 
