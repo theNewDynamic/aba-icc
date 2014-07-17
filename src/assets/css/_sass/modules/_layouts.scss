@@ -20,9 +20,13 @@
     @include outer-container;
     max-width:95%;
 
-    aside { @include span-columns(3); margin-top:2em;padding:1em;background-color:#eee; }
-    article { @include span-columns(9); margin-top:0; padding: 2em 4em 2em 2em;}
+    aside { @include span-columns(12); margin-top:1em; padding:1em;background-color:#d9d9d9; }
+    article { @include span-columns(12); padding:inherit; margin-top:inherit;}
 
+      @include media($large-screen) {
+          aside { @include span-columns(3); margin-top:2.5em; }
+          article { @include span-columns(9); margin-top:0; padding: 2em 4em 2em 2em;}
+}
     // section {
     //   @include span-columns(7);
     // }
@@ -32,26 +36,16 @@
 
 .layout-content-with-grid {
   //margin-top: 5em;
-
     @include outer-container;
 
     aside { @include span-columns(12); }
     article { @include span-columns(12); }
+    section { @include span-columns(12); }
 
-    section {
-      @include span-columns(12);
-    }
-
-    @include media($large-screen) {
+      @include media($large-screen) {
       //@include grid-item-columns($grid-item-columns);
-
-
-
-      aside { @include span-columns(5); }
-      article { @include span-columns(9); }
-
-      section {
-        @include span-columns(7);
+        aside { @include span-columns(5); }
+        article { @include span-columns(9); }
+        section { @include span-columns(7); }
       }
-    }
 }
