@@ -3,7 +3,7 @@ venue: "Georgetown Law Center"
 title: "Bangladesh War Crimes Tribunal"
 category: Event
 date: "2014-02-25 12:00:00"
-splash_image: event-asil-april-2014.jpg
+# splash_image: event-asil-april-2014.jpg
 sponsor: "American Bar Association & Georgetown Law Center"
 participants: "Michael S. Greco, former president, American Bar Association; Toby Cadman, International Barrister, Former Defense Team, Bangladesh War Crimes Tribunal; Ambassador Stephen Rapp, U.S. Ambassador-at-Large, Office of Global Criminal Justice"
 flyer: "https://owa.abanet.org/exchange/weiglk/Inbox/No%20Subject-3.EML/Bangladesh%20Tribunal%20Event%20Flyer.pdf/C58EA28C-18C0-4a97-9AF2-036E93DDAFB3/Bangladesh%20Tribunal%20Event%20Flyer.pdf?attach=1 "

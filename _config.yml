@@ -1,5 +1,5 @@
-url: http://aba-icc.org
-sitename: 'ABA-ICC PROJECT'
+url: http://www.aba-icc.org
+sitename: 'The ABA-ICC Project'
 description: 'ABA Center for Human Rights'
 # do not include  https://github.com/...
 repo: 'sonnetmedia/aba-icc.org'
@@ -22,14 +22,14 @@ exclude: ['readme.md','license.md','Gemfile','links.jsonp', 'CNAME', 'rakefile',
 
 # dev options (true/false)
 # if site is in production, 'production: true'
-production: false
+production: true
 include_jquery: false
 use_jquery_cdn: false
 include_addthis_sharing: true
 bust_css_cache: true
 
 # options (data)
-google_analytics_id: UA-XXXXXXX-X
+google_analytics_id: UA-51919693-2
 disqus_id:
 addthis_id: "ra-53c565a74f2c5c5b"
 # CONTACT FORM http://getsimpleform.com/
@@ -40,7 +40,7 @@ simple_form_api_token:
 twitter_id: budparr
 
 sass:
-    style: :expanded
+    style: :compressed
     sass_dir: assets/css/_sass
 
 # source: content
