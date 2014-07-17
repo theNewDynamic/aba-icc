@@ -31,7 +31,8 @@
 .content {
 	background-color: $content-color-background;
   height: auto;
-	min-height: 1200px;
+	//min-height: 1200px;
+	padding-bottom:2em;
 }
 
  li.follow {
