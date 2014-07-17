@@ -19,7 +19,7 @@
 
   .grid-item {
     @include transition (all 0.2s ease-in-out);
-    height: $grid-item-height;
+    height: auto;
     background: $grid-item-background;
     width: 100%;
     overflow: hidden;
@@ -33,6 +33,7 @@
 
     @include media($large-screen) {
       @include grid-item-columns($grid-item-columns);
+      height: $grid-item-height;
     }
 
     &:hover {
@@ -100,10 +101,11 @@
 body.arguendo .grid-items-lines {
 
   .grid-item {
-    padding:2em 2em 0 2em;
+    padding:2em 2em .5em 2em;
     border-right: none;
     background-color:white;
-    height:12em;
+    //height:12em;
+    height:auto;
     box-shadow: 0 2px 4px #DDD ;//darken($base-body-color, 10)
     margin-bottom:.25em;
   }
