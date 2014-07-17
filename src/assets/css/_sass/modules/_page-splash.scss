@@ -48,3 +48,21 @@ $splash-color-background:$navigation-background;//#DDD !default;
 	}
 
 }
+
+h1.splash_title {
+color: white;
+margin: auto;
+border-radius: 3px;
+//display: table-cell;
+//height: $splash-height;
+text-align: center;
+//vertical-align: middle;
+padding:.45em;
+max-width:60%;
+position: relative;
+top:200px;
+text-align:center;
+//left:200px;
+background-color:#111;
+background-color:rgba(0,0,0,0.7);
+}

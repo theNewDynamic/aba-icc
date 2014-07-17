@@ -8,7 +8,7 @@ section: article
 {% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse   %}
 <section class="content">
   {% if page.splash_image %}
-	 {% include snippets/page-splash.html %}
+	 {% include global/page-splash.html %}
   {% endif %}
   {% if page.include %}
     {% include {{page.include}} %}

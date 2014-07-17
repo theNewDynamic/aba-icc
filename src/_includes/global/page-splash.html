@@ -5,7 +5,7 @@
   {% endif %}
  
   <div class='splash' style="background-image:url({{image_url}});">
- 
+ {% if page.splash_title %}<h1 class="splash_title">{{ page.splash_title }}</h1>{% endif %}
  </div>
 
 {% comment %}

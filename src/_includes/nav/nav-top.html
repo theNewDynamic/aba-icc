@@ -9,42 +9,14 @@
     <p class="navigation-menu-button" id="js-mobile-menu">MENU</p>
     <div class="nav">
       <ul id="navigation-menu">
-      {% for links in links_global %}
-        <li class="nav-link more">
-          <a href="javascript:void(0)">{{links[0] | replace: '-', ' '}} <i class="icon-angle-down"></i></a>
-            {% assign heading = links[1] %}
-          <ul class="submenu">
-            {% for sublink in heading %}
-              <li>
-                <a href="{{sublink.slug}}"> {{sublink.title}}</a>
-              </li>
-            {% endfor %}
-          </ul>
-        </li>
-      {% endfor %}
+        {% include nav/navigation-global.html %}
       </ul>
       
    </div>
     <div class="navigation-tools">
     <ul id="navigation-menu">
-        <li style="padding-right:0;"><a href="http://facebook.com/ABAInternationalCriminalCourt"><i class="icon-facebook icon-social-facebook" style="font-size:120%;"></i></a></li>
-        <li><a href="http://twitter.com/ABAICCProject"><i class="icon-twitter icon-social-twitter" style="font-size:120%;"></i></a></li>
-      
-
-      {% for links in links_followTK %}
-        <li class="nav-link moreTK follow">
-          <a href="javascript:void(0)"><i class="icon-social-facebook"></i> <i class="icon-twitter icon-social-twitter"></i> {{links[0] | replace: '-', ' '}} <i class="icon-ios7-arrow-down"></i></a>
-            {% assign heading = links[1] %}
-          <ul class="submenu">
-            {% for sublink in heading %}
-              <li>
-                <a href="{{sublink.slug}}"> {{sublink.title}}</a>
-              </li>
-            {% endfor %}
-          </ul>
-        </li>
-      {% endfor %}
-      </ul>
+      {% include nav/navigation-secondary.html %}
+    </ul>
 
 
       <!-- <div class="search-bar">

@@ -73,7 +73,7 @@ top: 0;
     z-index: 9999999;
     float: none;
     margin-left:150px;
-    text-transform: uppercase;
+    ////////text-transform: uppercase;
     letter-spacing: .0625em;
     @include media ($horizontal-bar-mode) {
       float: left;
@@ -89,7 +89,7 @@ top: 0;
     padding: 0;
     width: 100%;
     z-index: 9999;
-    font-size: 0.9em;
+    font-size: 1em;
 
     @include media ($horizontal-bar-mode) {
       display: inline;
@@ -103,7 +103,7 @@ top: 0;
     display: block;
     line-height: $navigation-height;
     overflow: hidden;
-    padding-right: .8em;
+    padding-right: 1em;
 
     text-align: right;
     width: 100%;
@@ -113,20 +113,22 @@ top: 0;
       background: transparent;
       display: inline;
       line-height: $navigation-height;
-      padding-right: 2em;
+      //margin-right: .5em;
 
       text-decoration: none;
       width: auto;
     }
 
     a {
-      font-weight: 700;
+      font-weight: 500;
       letter-spacing: 0.0625em;
       color: $navigation-color;
+      padding: .35em .45em;
 
       &:hover {
         color: $navigation-color-hover;
-        background-color: darken($navigation-background, 10%);
+        background-color: darken($navigation-background, 4%);
+        border-radius:3px;
       }
     }
   }

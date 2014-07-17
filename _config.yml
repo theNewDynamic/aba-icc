@@ -50,8 +50,12 @@ collections:
   collection_name: "The ABA-ICC Project"
   output: true
   permalink: /:collection/:path/
+ international-criminal-justice-today:
+  collection_name: "International Criminal Justice Today"
+  output: true
+  permalink: /:path/
  about-the-icc:
-  tagline: About the ICC
+  collection_name: About the ICC
   output: true
   permalink: /:path/
  rights-of-the-participants:
@@ -64,6 +68,7 @@ collections:
   splash_image: "Nuremberg_Trials.jpg"
   description: "A timeline to explore the evolution of international criminal justice and learn about the multiple and varied influences that have shaped this field of international affairs."
  arguendo:
+  collection_name: "Arguendo"
   output: true
   description: "Experts debate issues of the day on International Criminal Justice"
   permalink: /:collection/:path/
@@ -76,35 +81,40 @@ collections:
   permalink: /:collection/:path/
 
 defaults:
-  - 
-    scope:
-      path: ''
-      type: page
-    values:
-      layout: page
-  - 
-    scope:
-      path: ""
-      type: 'board-of-advisors'
-    values:
-      layout: page
-  -
-    scope:
-      path: "news"
-      type: "post" # empty string for all files
-    values:
-      layout: "article"
-      category: "Event"
-  -
-    scope:
-      path: "the-aba-icc-project"
-      type: "" # empty string for all files
-    values:
-      sharing: false
-      comments: false
-  -
-    scope:
-      path: "arguendo"
-    values:
-      layout: "arguendo"
-
+ - 
+  scope:
+   path: ''
+   type: page
+  values:
+   layout: page
+ - 
+  scope:
+   path: ""
+   type: 'board-of-advisors'
+  values:
+   layout: page
+ -
+  scope:
+   path: "news"
+   type: "post" # empty string for all files
+  values:
+   layout: "article"
+   category: "Event"
+ -
+  scope:
+   path: ""
+   type: "the-aba-icc-project" # empty string for all files
+  values:
+   sharing: false
+   comments: false
+ -
+  scope:
+   path: "arguendo"
+  values:
+   layout: "arguendo"
+ -
+  scope:
+   path: ""
+   type: "international-criminal-justice-today"
+  values:
+   layout: "page"

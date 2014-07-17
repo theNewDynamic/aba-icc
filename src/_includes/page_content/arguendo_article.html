@@ -1,31 +1,30 @@
-{% capture the_collection %}arguendo{% endcapture %}
-{% assign  questions = site.[the_collection] | where: 'type', 'question' | sort: 'date' | reverse %}
-
-
-{% for page in questions reverse  | limit: 10 %}
-  {% capture the_question %}{{ page.title }}{% endcapture %}
-  {% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse   %}
+{% if page.splash_image %}
+  {% include global/page-splash.html %}
+{% endif %}
+<section class="content">
+  <article class="hentryTK {% if page.class %}{{page.class}}{% endif %}">
+    {% capture the_collection %}{{page.collection}}{% endcapture %}
+    {% assign  questions = site.[the_collection] | where: 'type', 'question' | sort: 'date' | reverse %}
+    {% capture the_question %}{{ page.title }}{% endcapture %}
+    {% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse   %}
   
-<div class="layout-content-with-grid" style="margin-bottom:6em;">
-  
-  <aside><!-- // Pose the Question -->
+<div class="layout-content-with-grid">
+  <aside>
   <h1>
-    <a href="{{ page.url }}" class="arrowTK {% if page.url contains page.url %} arrow-leftTK{% endif %}">
-      {{page.title}}
+    <a href="{{ page.url }}" class="arrow {% if page.url contains page.url %} arrow-left{% endif %}">
+      {{page.title}} 
     </a>
   </h1>
   {% if page.date %}
       <time class='date' datetime="{{ page.date | date:'%Y-%m-%d' }}">
         <small>
-          {{ page.date | date:'%Y-%b-%d' }}
+          {{ page.date | date:'%A %b %d, %Y' }}
         </small>
       </time>
     {% endif %}
     
   {{ page.content | markdownify }}
 </aside>
-
-<!-- // Articles to answer-->
   <section class="grid-items-lines">
     {% for article in articles %}
       {% capture  the_author %}{{ article.author }}{% endcapture %}
@@ -55,4 +54,9 @@
     {% endfor %}
   </section>
 </div>
-{% endfor %}
+  
+  
+  
+</article>
+
+</section>

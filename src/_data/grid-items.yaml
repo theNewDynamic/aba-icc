@@ -3,28 +3,27 @@ home:
  # heading: "Events"
  background_image: aba-icc-image-event.jpg
  copy: 
- link: "/news/"
+ link: "/the-aba-icc-project/news/"
  class: 
  bg_position: "top right"
 
 - 
- heading: "History of International Criminal Justice"
  heading: "Events"
  copy:
  class: text-left 
- link: "/news/"
+ link: "/the-aba-icc-project/news/"
 
 - 
  background_image: "bensouda-getty.jpg"
  copy: 
- link: "/about-the-icc/what-is-the-icc/"
+ link: "/about-the-icc/"
  # bg_position: "top center"
 -
  heading: "About the International Criminal Court"
  # background_image: placeholder-stock-photo-2148589-survey.jpg
  #copy: Expert Debate
  class: text-left
- link: "/about-the-icc/what-is-the-icc/"
+ link: "/about-the-icc/"
  bg_position: "top center"
 
 - 
@@ -32,7 +31,7 @@ home:
  #background_image: Nuremberg_Trials.jpg
  copy: 
  class: text-right
- link: "/evolution-of-international-criminal-justice/introduction/"
+ link: "/evolution-of-international-criminal-justice/01-introduction/"
 
 - 
  background_image: jackson-nuremberg-dark.jpg
@@ -40,6 +39,7 @@ home:
  link: "/evolution-of-international-criminal-justice/introduction/"
  class: "grid-item-big grid-item-imageTK"
  bg_position: "center center"
+ link: "/evolution-of-international-criminal-justice/01-introduction/"
 
 
 - 

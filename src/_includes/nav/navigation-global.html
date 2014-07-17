@@ -1,19 +1,19 @@
-{% assign global_links = site.data.navigation.projects %}
-{% assign highlights_links = site.data.navigation.highlights %}
+<li class="nav-link{% if page.url contains ' ' %} active-nav-item{% endif %}">
+    <a href="/">Home</a>
+</li>
+<li class="nav-link{% if page.url contains '/the-aba-icc-project/about-the-project/' %} active-nav-item{% endif %}">
+    <a href="/the-aba-icc-project/about-the-project/">About the Project</a>
+</li>
+<li class="nav-link{% if page.url contains '/the-aba-icc-project/news/' %} active-nav-item{% endif %}">
+    <a href="/the-aba-icc-project/news/">News & Events</a>
+</li>
 
-<!-- <li class="top"><a href="/">Home <i class="icon-home"></i></a></li> -->
-	<hr />
-<li class="heading">Projects</li>
-	{% for links in global_links %}		
-		<li id="{{links.slug}}" class="nav-sidebar-item{% if page.slug contains /links.slug/  %} active{% endif %}">
-			<a href="/{{links.slug}}">{{links.title}}</a>
-		</li>
-	{% endfor %}
-<hr />
-<li class="heading">Highlights</li>
-	{% for links in highlights_links %}		
-		<li id="{{links.slug}}" class="nav-sidebar-item{% if page.url contains /links.slug/  %} active{% endif %}">
-			<a href="/{{links.slug}}/">{{links.title}}</a>
-		</li>
-	{% endfor %}
-<hr />
+<li class="nav-link{% if page.url contains '/about-the-icc/' or page.url contains '/evolution-of-international-criminal-justice/' or page.url contains '/structure-of-the-icc/' %} active-nav-item{% endif %}">
+    <a href="/about-the-icc/">About the ICC</a>
+</li>
+<li class="nav-link{% if page.url contains '/international-criminal-justice-today/' %} active-nav-item{% endif %}">
+    <a href="/international-criminal-justice-today/">International Criminal Justice Today</a>
+</li>
+<li class="nav-link{% if page.url contains '/arguendo/' %} active-nav-item{% endif %}">
+    <a href="/arguendo/">Arguendo</a>
+</li>
