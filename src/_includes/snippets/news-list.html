@@ -1,7 +1,0 @@
-{% capture page_cat %}{{page.category}}{% endcapture %}
-{% assign posts = site.categories.[page_cat] %}
-
-{% for item in posts  %}
-	{% include snippets/news-list-formatting.html %}
-{% endfor %}
-
