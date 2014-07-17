@@ -5,9 +5,9 @@
 {% for page in questions reverse  | limit: 10 %}
   {% capture the_question %}{{ page.title }}{% endcapture %}
   {% assign  articles = site.arguendo | where: 'type', -'question' | sort: 'date' | reverse   %}
-  
+
 <div class="layout-content-with-grid" style="margin-bottom:6em;">
-  
+
   <aside><!-- // Pose the Question -->
   <h1>
     <a href="{{ page.url }}" class="arrowTK {% if page.url contains page.url %} arrow-leftTK{% endif %}">
@@ -21,7 +21,7 @@
         </small>
       </time>
     {% endif %}
-    
+
   {{ page.content | markdownify }}
 </aside>
 
@@ -38,27 +38,36 @@
               {% for author in authors %}
                 {% if author.image %}
                   <span class="figure">
-                    <img src="/assets/img/{{author.image}}">       
+                    <img src="/assets/img/{{author.image}}">
                   </span>
-                {% endif %} 
+                {% endif %}
               {% endfor %}
               <h2 class="h6">
                 {% for author in authors  %}
                   {{author.name}}
                 {% endfor %}
-                {{author.name}}            
+                {{author.name}}
               </h2>
               <strong>{{article.title}}</strong>
 
         </a>
       {% endif %}
     {% endfor %}
-  
+
 
   </section>
 
 
 
-
 </div>
+
+
+
+
+{% if site.include_addthis_sharing %}
+  <div class="sharing">
+    {% include articles/sharing.html %}
+  </div>
+{% endif %}
+
 {% endfor %}
