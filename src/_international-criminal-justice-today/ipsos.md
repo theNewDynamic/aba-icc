@@ -2,9 +2,11 @@
 title: Ipsos Polling Data
 layout: page
 category: ipsos
-splash_image: ipsos-1400x400.jpg
+# splash_image: ipsos-1400x400v2.jpg
 include: page_content/ipsos-posts.html
 ---
+![](/assets/img/logo-ipsospublicaffairs-rgb-efefef.jpg)
+
 
 ### Video introduction by Julia Clark at Ipsos
 

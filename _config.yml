@@ -87,47 +87,41 @@ collections:
    permalink: /:collection/:path/
 
 defaults:
- -
-  scope:
-   path: ''
-   type: page
-  values:
-   layout: page
- -
-  scope:
-   path: ""
-   type: 'board-of-advisors'
-  values:
-   layout: page
- -
-  scope:
-   path: "news"
-   type: "post" # empty string for all files
-  values:
-   layout: "article"
-   category: "Event"
- -
-  scope:
-   path: ""
-   type: "the-aba-icc-project" # empty string for all files
-  values:
-   sharing: false
-   comments: false
- -
-  scope:
-   path: "arguendo"
-  values:
-   layout: "arguendo"
-   class: "arguendo"
- -
-  scope:
-   path: ""
-   type: "international-criminal-justice-today"
-  values:
-   layout: "page"
- -
-  scope:
-   path: "/arguendo/article/"
-   type: post
-  values:
-   layout: article-arguendo
+  -
+   scope:
+    path: ''
+    type: page
+   values:
+    layout: page
+  -
+   scope:
+    path: ""
+    type: 'board-of-advisors'
+   values:
+    layout: page
+  -
+   scope:
+    path: "aba-news"
+    type: "post"
+   values:
+    layout: article
+    category: "Event"
+  -
+   scope:
+    path: ""
+    type: "the-aba-icc-project" # empty string for all files
+   values:
+    sharing: false
+    comments: false
+  -
+   scope:
+    path: ""
+    type: "international-criminal-justice-today"
+   values:
+    layout: "page"
+  -
+   scope:
+    path: "/arguendo/article/"
+    type: arguendo
+   values:
+    layout: article-arguendo

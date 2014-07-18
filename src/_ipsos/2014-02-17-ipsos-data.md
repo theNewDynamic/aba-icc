@@ -8,7 +8,6 @@ category:
 
 *February 2014 © 2014 Ipsos. All rights reserved. Contains Ipsos' Confidential and Proprietary information and may not be disclosed or reproduced without the prior written consent of Ipsos.*
 
-## Presentation Transcript
 
 **Methodology and Technical Details**
 
