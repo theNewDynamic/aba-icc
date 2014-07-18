@@ -1,0 +1,5 @@
+{% assign category_posts = site.categories.ipsos %}
+
+{% for category in category_posts %}
+  <h2><a href="{{ category.url }}">{{ category.title }}</a></h2>
+{% endfor %}
