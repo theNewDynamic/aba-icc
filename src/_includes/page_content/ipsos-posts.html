@@ -1,5 +1,8 @@
-{% assign category_posts = site.categories.ipsos %}
+{% capture the_collection %}ipsos{% endcapture %}
+{% assign  posts = site.[the_collection] reverse %}
 
-{% for category in category_posts %}
-  <h2><a href="{{ category.url }}">{{ category.title }}</a></h2>
+
+
+{% for post in posts %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 {% endfor %}

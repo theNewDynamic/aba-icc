@@ -80,15 +80,20 @@ collections:
   main_page_link: "/the-aba-icc-project/board-of-advisors/"
   output: true
   permalink: /:collection/:path/
+ ipsos:
+   collection_name: "Ipsos Polling Data"
+   main_page_link: "/ipsos/"
+   output: true
+   permalink: /:collection/:path/
 
 defaults:
- - 
+ -
   scope:
    path: ''
    type: page
   values:
    layout: page
- - 
+ -
   scope:
    path: ""
    type: 'board-of-advisors'
@@ -120,7 +125,7 @@ defaults:
    type: "international-criminal-justice-today"
   values:
    layout: "page"
- - 
+ -
   scope:
    path: "/arguendo/article/"
    type: post
