@@ -3,7 +3,6 @@ title: 'The United States and the International Criminal Court: Building Support
 date: 2014-06-03 12:00:00
 question: "What are the next steps in the US-ICC relationship?"
 author: "Weiner"
-layout: article-arguendo
 ---
 What should be the next steps in the relationship between the United States and the International Criminal Court (ICC), now that the Obama Administration has "reset" the relationship from one of confrontation to one of détente, even modest cooperation?  The overall goal should be to move from what strikes me as our current tactical approach towards the ICC to a more strategic view – one that reflects the long-term U.S. interest in promoting compliance with international humanitarian law and ending impunity for atrocities.  In doing so, however, we should recognize that the ICC – unlike typical international institutions – should not be seen as instrument through which we pursue short-term policy interests.  If the Court is to prove successful in the long run, key states like the United States must accord it respect for its judicial autonomy.
 

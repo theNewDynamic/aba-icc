@@ -73,7 +73,6 @@ collections:
   description: "Experts debate issues of the day on International Criminal Justice"
   main_page_link: "/arguendo/"
   permalink: /:collection/:path/
-  layout: arguendo
   class: arguendo
  board-of-advisors:
   collection_name: "Board of Advisors"
@@ -121,7 +120,13 @@ defaults:
     layout: "page"
   -
    scope:
-    path: "/arguendo/article/"
+    path: "arguendo/article"
     type: arguendo
    values:
     layout: article-arguendo
+  -
+   scope:
+    path: "arguendo/question"
+    type: arguendo
+   values:
+    layout: arguendo
