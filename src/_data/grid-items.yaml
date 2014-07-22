@@ -1,38 +1,32 @@
 home:
 - 
+ heading: "Events"
+ copy:
+ class: text-right
+ link: "/the-aba-icc-project/news/"
+
+- 
  # heading: "Events"
- background_image: aba-icc-image-event.jpg
+ background_image: 14669850384_f1c1df7be9_o.jpg
  copy: 
  link: "/the-aba-icc-project/news/"
  class: 
  bg_position: "top right"
 
-- 
- heading: "Events"
- copy:
- class: text-left 
- link: "/the-aba-icc-project/news/"
+
+-
+ heading: "About the International Criminal Court"
+ # background_image: placeholder-stock-photo-2148589-survey.jpg
+ #copy: Expert Debate
+ class: text-right
+ link: "/about-the-icc/"
+ bg_position: "top center"
 
 - 
  background_image: "bensouda-getty.jpg"
  copy: 
  link: "/about-the-icc/"
  # bg_position: "top center"
--
- heading: "About the International Criminal Court"
- # background_image: placeholder-stock-photo-2148589-survey.jpg
- #copy: Expert Debate
- class: text-left
- link: "/about-the-icc/"
- bg_position: "top center"
-
-- 
- heading: "Evolution of International Criminal Justice"
- #background_image: Nuremberg_Trials.jpg
- copy: 
- class: text-right
- link: "/evolution-of-international-criminal-justice/01-introduction/"
-
 - 
  background_image: jackson-nuremberg-dark.jpg
  copy: "Of one thing we may be sure. The future will never have to ask, with misgiving, what could the Nazis have said in their favor. History will know that whatever could be said, they were allowed to say. They have been given the kind of a Trial which they, in the days of their pomp and power, never gave to any man… <br /><small>— Justice Jackson, from his closing statement at Nuremberg</small>"
@@ -43,22 +37,25 @@ home:
 
 
 - 
+ heading: "Evolution of International Criminal Justice"
+ #background_image: Nuremberg_Trials.jpg
+ copy: 
+ class: text-left
+ link: "/evolution-of-international-criminal-justice/01-introduction/"
+
+-
+ heading: "Board of Advisors"
+ class: text-right 
+ link: "/the-aba-icc-project/board-of-advisors/"
+
+
+- 
  # heading: "Board of Advisors"
  background_image: "aba-icc-board-banner.jpg"
  copy: 
  link: "/the-aba-icc-project/board-of-advisors/"
  class: 
  class: "grid-item-big grid-item-imageTK"
--
- heading: "Board of Advisors"
- class: text-left 
- link: "/the-aba-icc-project/board-of-advisors/"
-
--
- heading: "Ipsos Polling Data"
- link: /ipsos/
- class: text-right 
-
 -
  #heading: "Public Opinion Polls"
  # background_image: ipsos-800x290.png
@@ -67,6 +64,12 @@ home:
  link: /ipsos/
  background_size: cover
  bg_position: "center center"
+
+-
+ heading: "Ipsos Polling Data"
+ link: /ipsos/
+ class: text-left 
+
 
 
 news:

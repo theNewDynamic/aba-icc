@@ -122,7 +122,42 @@ $('.flip').click(function(){
         return false;
     });
 
+// TUMBLR API
 
+  $(document).ready(function() {
+    $.ajax({
+        url: "http://api.tumblr.com/v2/blog/aba-icc.tumblr.com/posts?api_key=712yUR7HNAL8B8YXhrRwvH3sCnAgjV74BlYezAD8KWtbtXM9Ij&limit=10",
+        dataType: 'jsonp',
+        success: function(results){
+          console.log(results); 
+          $.each(results.response.posts, function(i, item){
+              //var src = item.photos.url; // first picture, first size
+              var caption = item.caption;
+              var body = item.body;
+              var description = item.description;
+              //$("<img/>").attr("src", src).appendTo("#wrapper").wrap('<div class="postImage"></div>').after('<span class="postCaption">' + body + '</div>');
+              if(item.title && item.post_url) {
+                  $('<h5><a href="' + item.url +   '" target="_blank">' +  item.title + '</a> <small><i class="icon-link-ext"></i></small> </h5>').appendTo('#content_tumblr');
+                    }
+                    else if(item.title) {
+                      $('<h5>' + item.title + '</h5>').appendTo('#content_tumblr');
+                };      
+              if(item.description) {
+                  $('<span>' + description + '</span>').appendTo('#content_tumblr');
+                };
+                if(item.urlTK) {
+                  $('<a href="' + item.url +   '" target="_blank">LINK</a>').appendTo('#content_tumblr');
+                };
+                    $('<hr />').appendTo('#content_tumblr')
+              });
+            }
+          });
+
+        });
+
+
+
+//-END TUMBLR API
 
 
 

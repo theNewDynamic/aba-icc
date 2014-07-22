@@ -1,0 +1,43 @@
+{% assign news_featured = site.posts %}
+
+<div class="layout-news">
+
+
+
+
+<section>
+{% for news in site.posts limit:250 %}
+<div class="comment">
+  <div class="comment-image"></div>
+  <div class="comment-content">
+
+    {% if news.splash_image %}
+     <img src="{% if news.splash_image contains 'http://' %}{{news.splash_image}}{% else %}/assets/img/{{news.splash_image}}{% endif %}" alt="" style="max-width:350px;">
+    {% else %}
+       
+    {% endif %}
+  
+    <small>{{news.tags}}</small>
+    <h2 class="h4">
+      <a href="{{news.url}}">
+        {{ news.title }} <!-- TODO: <i class="icon-right-openTK icon-link"></i> -->
+      </a>
+    </h2>
+    {% if include.excerpt == 'yes' %}
+      {{news.excerpt}}
+    {% endif %}
+    <p class="comment-detail">
+      <small>
+        {{ news.date | date: "%B %d, %Y" }}
+      </small>
+    </p>
+  </div>
+</div>
+{% endfor %}
+</section>
+
+<aside>
+  
+
+  <div id="content_tumblr"></div>
+</aside>

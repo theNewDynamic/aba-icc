@@ -36,6 +36,10 @@
 	min-height:100%;
 }
 
+body.home .content {
+	background-color: $sidebar-right-color-background;
+}
+
  li.follow {
 	text-align: center;
 	border-radius: 3px;
