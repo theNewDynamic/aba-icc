@@ -1,7 +1,7 @@
 ---
 title: "Lieutenant Colonel William K. Lietzau"
 last_title: "Lietzau"
-position: "PAE Vice President and Deputy General Counsel, Former Deputy Asst. Secretary of Defense for Rule of Law and Detainee Policy, US Dept. of Defense"
+position: "Deputy Assistant Secretary of Defense - Rule of Law and Detainee Policy (2010-13)"
 image: "image-1.jpg"
 bio: 
 - "- Served in a variety of command and legal capacities including prosecutor, defense counsel, judge, and legal advisor at all levels of the US military<br />"
