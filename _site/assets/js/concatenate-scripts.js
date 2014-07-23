@@ -143,7 +143,7 @@ $('.flip').click(function(){
                       $('<h5>' + item.title + '</h5>').appendTo('#content_tumblr');
                 };      
               if(item.description) {
-                  $('<span>' + description + '</span>').appendTo('#content_tumblr');
+                  $('<small>' + description + '</small>').appendTo('#content_tumblr');
                 };
                 if(item.urlTK) {
                   $('<a href="' + item.url +   '" target="_blank">LINK</a>').appendTo('#content_tumblr');
