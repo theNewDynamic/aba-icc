@@ -40,9 +40,22 @@ $('.flip').click(function(){
                     else if(item.title) {
                       $('<h5>' + item.title + '</h5>').appendTo('#content_tumblr');
                 };      
+                
+
               if(item.description) {
-                  $('<small>' + description + '</small>').appendTo('#content_tumblr');
+                  $('<blockquote><small>' + description + '</small><blockquote>').appendTo('#content_tumblr');
                 };
+
+                if(item.text) {
+                  $('<blockquote><small>' + text + '</small></blockquote>').appendTo('#content_tumblr');
+                };
+
+                  if(item.source) {
+                  $('<small>&mdash;' + text + '</small>').appendTo('#content_tumblr');
+                };
+
+
+
                 if(item.urlTK) {
                   $('<a href="' + item.url +   '" target="_blank">LINK</a>').appendTo('#content_tumblr');
                 };
