@@ -1,7 +1,7 @@
 ---
 title: "Honorable Sandra Day O'Connor"
 last_title: "O'Connor"
-position: "Associate Justice of the United States Supreme Court (1981—2006)"
+position: "Associate Justice of the U.S. Supreme Court (1981—2006)"
 image: "image-3.jpg"
 bio:
 - "- Judge on the Arizona Court of Appeals and of the Maricopa County Superior Court (1975 -1979)<br />"

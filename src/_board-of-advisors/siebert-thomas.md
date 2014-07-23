@@ -1,7 +1,7 @@
 ---
 title: "Honorable Thomas Siebert"
 last_title: "Siebert"
-position: "United States Ambassador to Sweden (1994-1998)"
+position: "U.S. Ambassador to Sweden (1994-1998)"
 image: "headshot-siebert3.jpg"
 bio: 
 - "- Chairman of the International Telecommunications Union (ITU) Plenipotentiary Conference (1998)<br />"

@@ -1,7 +1,7 @@
 ---
 title: "Ambassador Thomas Graham, Jr."
 last_title: "Graham"
-position: "Director of the United States Arms Control and Disarmament Agency (1994—1997)"
+position: "Director of the U.S. Arms Control and Disarmament Agency (1994—1997)"
 image: "image-6.png"
 bio: 
 - "- Senior US diplomat involved in the negotiation of every single international arms control and non-proliferation agreement from 1970 to 1997<br />"
