@@ -2,7 +2,7 @@
 title: "Judge Richard J. Goldstone"
 last_title: "Goldstone"
 image: "headshot-richard-goldstone.jpg"
-position: "Prosecutor of the International Criminal Tribunal for the former Yugoslavia and the International Criminal Tribunal for Rwanda (1994-1996)"
+position: "Prosecutor of the International Criminal Tribunal for the former Yugoslavia and the International Criminal Tribunal for Rwanda (1994-96)"
 bio: 
 - "- Justice of the Constitutional Court of South Africa (1996-2003)<br />"
 - "- Chairperson of the South African Standing Commission of Inquiry Regarding Public Violence and Intimidation (1991-1994)<br />"

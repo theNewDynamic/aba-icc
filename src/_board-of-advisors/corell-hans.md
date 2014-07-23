@@ -1,6 +1,6 @@
 ---
 title: "Honorable Hans Corell"
-position: "Under-Secretary-General for Legal Affairs and the Legal Counsel of the United Nations (1994—2004)"
+position: "Under-Secretary-General for Legal Affairs and the Legal Counsel of the United Nations (1994-2004)"
 image: "image.jpg"
 bio: 
 - "- Involved in the establishment of the International Criminal Tribunal for the former Yugoslavia and Rwanda, the Special Court for Sierra Leone, the Extraordinary Chambers in the Court of Cambodia, and the International Criminal Court"

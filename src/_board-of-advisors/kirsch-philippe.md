@@ -1,10 +1,10 @@
 ---
 title: "Honorable Philippe Kirsch"
 last_title: "Kirsch"
-position: "President of the International Criminal Court (2003—2009)"
+position: "President of the International Criminal Court (2003-09)"
 image: "image-4.jpg"
 bio: 
-- "- Chairman of the UN Diplomatic Conference of Plenipotentiaries on the Establishment of the International Criminal Court (1999 – 2002)<br />"
+- "- Chairman of the UN Diplomatic Conference of Plenipotentiaries on the Establishment of the International Criminal Court (1999-2002)<br />"
 - "- Legal Advisor to the Department of Foreign Affairs and International Trade of Canada Ambassador and Deputy Representative to the UN (1988 – 1992)<br />"
 - "- Former Canadaian ambassador to the Kingdom of Sweden<br />" 	
 ---

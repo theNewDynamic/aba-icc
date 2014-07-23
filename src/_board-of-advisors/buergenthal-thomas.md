@@ -1,7 +1,7 @@
 ---
 title: "Honorable Judge Thomas Buergenthal"
 last_title: "Buergenthal"
-position: "Judge of the International Court of Justice (2000—10)"
+position: "Judge of the International Court of Justice (2000-10)"
 image: "image-10.png"
 bio: 
 - "- Professor of Law, George Washington University<br />"

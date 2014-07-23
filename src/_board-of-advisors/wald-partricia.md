@@ -1,7 +1,7 @@
 ---
 title: "Honorable Judge Patricia Wald"
 last_title: "Wald"
-position: "Retired U.S. Federal Judge"
+position: "Chief Judge for the U.S. Court of Appeals for the District of Columbia Circuit (1979–99)"
 image: "image-8.png"
 bio:
 - "- Member of the US Privacy and Civil Liberties Oversight Board<br />"

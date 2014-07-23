@@ -1,7 +1,7 @@
 ---
-title: "Mr. William Taft IV"
+title: "William Taft IV"
 last_title: "Taft"
-position: "Chief Legal Adviser to the U.S. Department of State (2000—04)"
+position: "Chief Legal Adviser to the U.S. Department of State (2000-04)"
 image: "image-7.jpg"
 bio:
 - "- US Permanent Representative to NATO (1989 – 1992)<br />"
