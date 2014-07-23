@@ -1,5 +1,5 @@
 ---
-title: ABA-ICC Board of Advisors
+title: Board of Advisors
 layout: home
 category: about-the-aba-icc-project
 include: grids/grid-items-bios.html
