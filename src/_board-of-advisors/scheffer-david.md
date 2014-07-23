@@ -1,7 +1,7 @@
 ---
 title: "Ambassador David Scheffer"
 last_title: "Scheffer"
-position: "Professor, Northwestern Univ. School of Law; Former US Ambassador at-Large for War Crimes Issues (1997-2001)"
+position: "Professor, Northwestern Univ. School of Law; U.S. Ambassador at-Large for War Crimes Issues (1997-2001)"
 image: "1365092094-davidscheffer.png"
 bio:
 - "- US lead negotiator in the creation of the International Criminal Tribunals for the former Yugoslavia and Rwanda, the Special Court for Sierra Leone, the Extraordinary Chambers in Cambodia and the International Criminal Court<br />"
