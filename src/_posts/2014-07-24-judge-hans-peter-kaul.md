@@ -13,3 +13,6 @@ ICC President Judge Sang-Hyun Song has reflected on the vital role played by his
 Judge Kaul was an early supporter of the ABA-ICC Project and a strong advocate of improved relations between the United States and the International Criminal Court. Judge Kaul has left his indelible mark on the vitally important field of international criminal justice, for which we are indebted to him.
 
 [ICC Press Release](http://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1032.aspx)
+
+
+— Michael Greco, Chair of the ABA-ICC Project Board of Advisors, signed this statement. 
