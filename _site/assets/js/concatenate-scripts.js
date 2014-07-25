@@ -134,12 +134,13 @@ $('.flip').click(function(){
               //var src = item.photos.url; // first picture, first size
               var caption = item.caption;
               var body = item.body;
+              var text = item.text;
               var description = item.description;
-              var source = item.source;
+              var source_title = item.source_title;
               var source_title = item.source_title;
               //$("<img/>").attr("src", src).appendTo("#wrapper").wrap('<div class="postImage"></div>').after('<span class="postCaption">' + body + '</div>');
               if(item.title && item.post_url) {
-                  $('<h5><a href="' + item.url +   '" target="_blank">' +  item.title + '</a> <small><i class="icon-link-ext"></i></small> </h5>').appendTo('#content_tumblr');
+                  $('<h6><a href="' + item.url +   '" target="_blank">' +  item.title + '</a> <small><i class="icon-link-ext" style="font-size:.8em;"></i></small> </h6>').appendTo('#content_tumblr');
                     }
                     else if(item.title) {
                       $('<h5>' + item.title + '</h5>').appendTo('#content_tumblr');
