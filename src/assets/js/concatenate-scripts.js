@@ -33,6 +33,8 @@ $('.flip').click(function(){
               var caption = item.caption;
               var body = item.body;
               var description = item.description;
+              var source = item.source;
+              var source_title = item.source_title;
               //$("<img/>").attr("src", src).appendTo("#wrapper").wrap('<div class="postImage"></div>').after('<span class="postCaption">' + body + '</div>');
               if(item.title && item.post_url) {
                   $('<h5><a href="' + item.url +   '" target="_blank">' +  item.title + '</a> <small><i class="icon-link-ext"></i></small> </h5>').appendTo('#content_tumblr');
