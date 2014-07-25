@@ -20,7 +20,7 @@ prose:
     - /_layouts
     - /_includes
     - /_site
-    - /api
+    - /src/api
   metadata:
    _posts:
     - name: 'title'
