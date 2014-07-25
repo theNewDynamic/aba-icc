@@ -1,6 +1,7 @@
 #configuration options for http://prose.io editor
 prose:
-  siteurl: 'http://jekyll-starter.pubspringdev1.com/'
+  siteurl: 'http://www.aba-icc.org/'
+  rooturl: src
   media: 'assets/img'
   ignore:
     - .gitignore
@@ -16,7 +17,7 @@ prose:
     - _config.yml
     - _prose.yml
     - /assets
-    - /_layouts
+    - /src/_layouts
     - /_includes
     - /_site
   metadata:
