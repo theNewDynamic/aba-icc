@@ -21,6 +21,7 @@ prose:
     - /_includes
     - /_site
     - /src/api
+    - /intl.json
   metadata:
    _posts:
     - name: 'title'
