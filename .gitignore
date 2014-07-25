@@ -36,4 +36,4 @@ validation-report.json
 
 # Folders to ignore
 node_modules
-s3_website.yml
+# s3_website.yml
