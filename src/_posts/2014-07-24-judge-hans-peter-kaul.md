@@ -1,6 +1,6 @@
 ---
 title: "Judge Hans-Peter Kaul"
-layout: page
+layout: article
 category: News
 splash_image: judge-hans-peter-kaul.jpg
 ---
