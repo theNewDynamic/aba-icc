@@ -145,16 +145,22 @@ $('.flip').click(function(){
                 
 
               if(item.description) {
-                  $('<blockquote><small>' + description + '</small><blockquote>').appendTo('#content_tumblr');
+                  $('<small>' + description + '</small>').appendTo('#content_tumblr');
                 };
 
                 if(item.text) {
-                  $('<blockquote><small>' + text + '</small></blockquote>').appendTo('#content_tumblr');
+                  $('<blockquote><em><small>' + text + '</small></em></blockquote>').appendTo('#content_tumblr');
                 };
 
                   if(item.source) {
                   $('<small>&mdash;' + text + '</small>').appendTo('#content_tumblr');
                 };
+
+                 if(item.source_title) {
+                  $('<br /><small><strong>' + source_title + '</strong></small>').appendTo('#content_tumblr');
+                };
+
+
 
 
 
