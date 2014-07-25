@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 # gem 'github-pages'
 gem 'jekyll'
+gem 'travis'
 # gem 'jekyll', :path => "/Users/budparr/Documents/github/clones/jekyll/"
 # gem 'sass', "3.3.4"
 # gem 'sass-globbing', ">= 1.1.0"

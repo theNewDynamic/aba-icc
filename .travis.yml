@@ -4,9 +4,10 @@ rvm:
 script: bundle exec jekyll build
 install: bundle install
 after_success: bundle exec s3_website push --headless
-env:
-  global:
-    secure: ZoY70YxQs63Hz+ai7dqD5nsg5QckS3gm1Bh3GPp+xLnmi+Alo8GrWX4/1V13G5ocVOh24kH0SizDMh1kTyJt0yRIfDGq2znhkR4V6jiILBQf9AyznhONBwR5EpQehZSaYuUBDJrnCQdO+BtvAIqI9q2NomUt1DEZoNiVr/vTVYI=
 branches:
   only:
-    - master
+  - master
+env:
+  global:
+  - secure: qHwZmkqO1sOuxaLxRTsTBpP6RR0Ir550Ta+H4sLL5tB3ZlUglYmhiLtLlu5VtKaAUyTGDPObASuWZI/RMEuupBrQpyU2OM07yCoEHGRjFrrMZAcUXavrtUmiD+ntuSXA53U06+wsbp8s4w+LOyfGPpmzwQjPbqCCO8pGPHIJ9wE=
+  - secure: J7+8DS7vNl/eeFlj2a6iB8u+a7qyt7khffyLeIyAkOmCdQBhUthim8NUVGm3zsMlpM6QPvk8JULhrc0JZFeJFgzWVgVyRXLVr6Q93oi4qGNYtLMsebwSypySAe4SvqMfS9AeA69TDe9n17iNCKTig+s04vkHMa2kJo+iylH/Sv8=
