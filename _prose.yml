@@ -17,9 +17,10 @@ prose:
     - _config.yml
     - _prose.yml
     - /assets
-    - /src/_layouts
+    - /_layouts
     - /_includes
     - /_site
+    - /api
   metadata:
    _posts:
     - name: 'title'
