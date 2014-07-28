@@ -1,11 +1,13 @@
 ---
-title: "Donald Ferencz"
-last_title: "Ferencz"
-position: "Founder of the Global Institute for the Prevention of Aggression"
+title: Prof. Donald Ferencz
+last_title: Ferencz
+position: Founder of the Global Institute for the Prevention of Aggression
 image: "image-2.jpg"
-bio:
-- "- Visiting Professor, Middlesex University, London, England<br />"
-- "- Co-founder with father Benjamin Ferencz of the Planethood Foundation that has a mission to condemn impunity for those suspected of participating in genocide, crimes against humanity, or war crimes<br />"
-- "- Contributing author to the Handbook on the Ratification and Implementation of the Kampala Amendments to the Rome Statute of the International Criminal Court<br />"
+bio: 
+  - "- Visiting Professor, Middlesex University, London, England<br />"
+  - "- Co-founder with father Benjamin Ferencz of the Planethood Foundation that has a mission to condemn impunity for those suspected of participating in genocide, crimes against humanity, or war crimes<br />"
+  - "- Contributing author to the Handbook on the Ratification and Implementation of the Kampala Amendments to the Rome Statute of the International Criminal Court<br />"
+published: true
 ---
-Mr. Donald Ferencz is the founder of the Global Institute for the Prevention of Aggression and a co-organizer of the worldwide campaign to ratify the 2010 Kampala amendments to the ICC Statute. Ferencz was a contributing author to the Handbook on the Ratification and Implementation of the Kampala Amendments to the Rome Statute of the International Criminal Court, a 'how-to' manual for states on the implementation of new amendments regarding aggression. Mr. Ferencz and his father Ben, a Nuremberg prosecutor, established the Planethood Foundation, educating to 'replace the law of force with the force of law.' He writes and lectures on criminalizing the illegal use of force and is a visiting professor at Middlesex University School of Law in London. Ferencz holds a B.A. from Colgate University in Peace Studies, a Master's in Education from the State University of New York, and a J.D. and M.B.A. from Pace University.
+
+Prof. Donald Ferencz is the founder of the Global Institute for the Prevention of Aggression and a co-organizer of the worldwide campaign to ratify the 2010 Kampala amendments to the ICC Statute. Ferencz was a contributing author to the Handbook on the Ratification and Implementation of the Kampala Amendments to the Rome Statute of the International Criminal Court, a 'how-to' manual for states on the implementation of new amendments regarding aggression. Mr. Ferencz and his father Ben, a Nuremberg prosecutor, established the Planethood Foundation, educating to 'replace the law of force with the force of law.' He writes and lectures on criminalizing the illegal use of force and is a visiting professor at Middlesex University School of Law in London. Ferencz holds a B.A. from Colgate University in Peace Studies, a Master's in Education from the State University of New York, and a J.D. and M.B.A. from Pace University.
