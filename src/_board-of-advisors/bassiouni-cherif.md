@@ -1,5 +1,5 @@
 ---
-title: Prof. M. Cherif Bassiouni
+title: Prof.  M.Cherif Bassiouni
 last_title: Bassiouni
 position: "Professor Emeritus, DePaul University College of Law; Co-founder, International Institute of Higher Studies in Criminal Sciences"
 image: "image-12.png"
