@@ -1,12 +1,14 @@
 ---
-title: "Honorable Judge Patricia Wald"
-last_title: "Wald"
-position: "Chief Judge for the U.S. Court of Appeals for the District of Columbia Circuit (1979–99)"
+title: Hon. Patricia Wald
+last_title: Wald
+position: Chief Judge for the U.S. Court of Appeals for the District of Columbia Circuit (1979–99)
 image: "image-8.png"
-bio:
-- "- Member of the US Privacy and Civil Liberties Oversight Board<br />"
-- "- Awarded the Presidential Medal of Freedom, the nation's highest civilian honor (2013)<br />"
+bio: 
+  - "- Member of the US Privacy and Civil Liberties Oversight Board<br />"
+  - "- Awarded the Presidential Medal of Freedom, the nation's highest civilian honor (2013)<br />"
+published: true
 ---
+
 ## Chief Judge for the U.S. Court of Appeals for the District of Columbia Circuit (1979 – 1999)
 ## Judge at the International Tribunal for the former Yugoslavia (1999-2002)
 
