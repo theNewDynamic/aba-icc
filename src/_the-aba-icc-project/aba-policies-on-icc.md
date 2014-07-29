@@ -1,4 +1,7 @@
-# ABA Policies on the International Criminal Court
+title: "ABA Policies on the International Criminal Court"
+layout: page
+
+Excerpt: "ABA Policities on the International Criminal Court"
 
 ### The elected 560-member ABA House of Delegates has ultimate responsibility for establishing association [policy] (http://www.americanbar.org/news/abanews/aba-news-archives/2013/08/aba_house_of_delegat6.html)
 on professional and public issues. Twice a year, this body debates and votes on proposed policies. 
