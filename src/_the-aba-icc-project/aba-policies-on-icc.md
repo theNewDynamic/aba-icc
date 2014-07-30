@@ -6,4 +6,4 @@ The elected 560-member ABA House of Delegates has ultimate responsibility for es
 
 Since its 1978 policy endorsing the idea of a permanent international criminal tribunal, the ABA has passed multiple policies supportive of the International Criminal Court (ICC). These policy positions have advocated for the adoption of the Rome Statute (the multilateral treaty that established the ICC) and urged the U.S. to become a State Party to the ICC. Most recently, the ABA urged the U.S. government to forge greater support for, and engagement with, the ICC.
 
-**Please find below summaries and links to all of the ABA policies related to the ICC.**
+**Please find below summaries and links to all of the ABA policies and reports related to the ICC.**
