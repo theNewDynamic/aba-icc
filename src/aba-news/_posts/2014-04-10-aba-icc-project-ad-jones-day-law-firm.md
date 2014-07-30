@@ -33,6 +33,6 @@ One subject addressed by Justice Goldstone was the evolution of the U.S.-ICC rel
 > “I can’t exaggerate the importance that the US has played in the field of international criminal justice. I would go so far as to say that without the United States, we would not have a field of international criminal justice at all.”  - Justice Goldstone, former Prosecutor of the ICTY and ICTR
 
 ---
-[] (https://www.flickr.com/photos/126209453@N05/sets/72157645772350803/)
+<object width="400" height="300"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645772350803%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645772350803%2F&set_id=72157645772350803&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=143270"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=143270" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645772350803%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645772350803%2F&set_id=72157645772350803&jump_to=" width="400" height="300"></embed></object>
 
 
