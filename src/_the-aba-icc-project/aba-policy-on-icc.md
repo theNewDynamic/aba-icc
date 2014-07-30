@@ -1,5 +1,5 @@
 ---
-title: "ABA Policies on the ICC"
+title: "ABA Policy on the ICC"
 layout: page
 ---
 The elected 560-member ABA House of Delegates has ultimate responsibility for establishing the Association's [policy](http://www.americanbar.org/news/abanews/aba-news-archives/2013/08/aba_house_of_delegat6.html) on professional and public issues. Twice a year, the House debates and votes on proposed policies. Once passed, the ABA can publically advocate for those policies, such as by issuing [ABA Presidential Statements](http://www.americanbar.org/groups/leadership/office_of_the_president/past_statements.html).
