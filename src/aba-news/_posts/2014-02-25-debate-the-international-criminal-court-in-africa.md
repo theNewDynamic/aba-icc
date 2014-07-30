@@ -14,10 +14,11 @@ On February 25, 2014, American University's Council on Africa Studies hosted a p
 <iframe width="853" height="480" src="//www.youtube.com/embed/XyYs7NzCsO8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ---
+
 > “*The ABA has long been a strong supporter of international criminal justice. Going back to the 1970’s, the first policy adopted by the ABA regarding international criminal justice was to endorse the idea of a permanent tribunal for international justice.*”  — Michael Greco, Chair of the ABA-ICC Project
----
+
 > “*What needs to be understood is, unlike national jurisdictions which have power of the police to do these things, the ICC works on cooperation. When the cases are falling apart because of lack of cooperation from the States, you hear about 'incompetence,' but the reality is that there is simply no police force to accomplish these tasks.*”  — Kip Hale, Director of the ABA-ICC Project            
----
+
 > "*The Kenyan government has given 'no cooperation whatsoever' in the ICC investigation and has 'created a climate of fear' in those in Kenya who attempt to.*"  — Michael Greco, Chair of the ABA-ICC Project
 
 [Press Release](http://diasporamessenger.com/us-groups-to-debate-kenyan-icc-cases/)
