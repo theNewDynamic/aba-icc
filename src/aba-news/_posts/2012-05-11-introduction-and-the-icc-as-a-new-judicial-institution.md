@@ -2,7 +2,7 @@
 venue: "ICC - Stanford Conference"
 title: "Introduction & The ICC as a New Judicial Institution: Achievements and Challenges ICC Turns Ten: Reviewing the Past, Assessing the Future"
 date: "2012-05-11 12:00:00"
-sponsor: "Stanford Law School"
+sponsor: "Stanford Law School; American Bar Association Center for Human Rights; American Society of International Law"
 participants: "Alan Wiener, Director of International & Comparative Law Institute at Stanford Law; His Excellency Judge Cuno Tarfusser, Vice President, International Criminal Court; Ms. Shamila Batohi, Senior Legal Advisor of the Prosecutor, International Criminal Court; His Excellency Ambassador Stephen J. Rapp, U.S. Ambassador-at-Large, Office of Global Criminal Justice; Mr. Benjamin Ferencz, Former Prosecutor, Nuremberg Military Tribunals; Mr. Michael S. Greco, Chair, ABA Center for Human Rights and former President of the ABA; Professor David Kaye, Executive Director, International Human Rights Program at UCLA, School of Law; Professor Ruth Wedgwood, Director of the International Law and Organizations Program, The Paul H. Nitze School of Advanced International Studies, John Hopkins University"
 flyer: "http://www.law.stanford.edu/sites/default/files/event/266747/media/slspublic/Final%20conference%20programme%20(2012).pdf"
 photos: "http://www.flickr.com/photos/stanford_law/sets/72157629685072634/"
@@ -18,11 +18,12 @@ On May 11, 2012, experts from across the globe gathered at Stanford University L
 — Ben Ferencz
 
 > “We have obligations under international humanitarian law, to investigate these kinds of activities, not to engage in unlawful killings of civilians, not to engage in indiscriminate attacks,and to investigate them when they occur. If our forces are violating these rules, in my view, the US is best served by carrying out genuine investigations of them.”  
-— Alan Wiener                                                                                                                                                                  
+— Alan Wiener   
 
 > “The words, indeed the imperative of ‘never again’ must not merely be set to paper and left to politics, but must be institutionalized under a just rule of law.”  
 — Michael Greco 
 
 > “Of one thing we may be sure, the future will never have to ask, with misgiving, what could the Nazis have said in their favor? History will know that whatever could be said, they were allowed to say. they have been given the kind of trial which they in the day of their pomp and power, never gave to any man.”  
 — Justice Jackson, quoted by Michael Greco
-
+---
+<object width="700" height="525"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645675234771%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645675234771%2F&set_id=72157645675234771&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=143270"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=143270" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645675234771%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645675234771%2F&set_id=72157645675234771&jump_to=" width="700" height="525"></embed></object>
