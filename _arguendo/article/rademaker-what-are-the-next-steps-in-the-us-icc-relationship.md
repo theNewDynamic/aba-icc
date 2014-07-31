@@ -18,7 +18,7 @@ The result is an institution that, due to its single-minded focus on justice, is
 
 Certainly that has been true of the ICC's two highest profile cases, those that were referred to it by the U.N. Security Council in Sudan and Libya. In the case of Sudan, the ICC succeeded in indicting President al-Bashir for crimes in Darfur, but it hasn't managed to enforce its indictment or contribute positively to ending the Darfur conflict. Al-Bashir remains in power and the conflict goes on, due at least in part to the ICC's actions.
 
-Certainly that has been the opinion of the top U.S. officials charged with trying to end the bloodshed in Darfur. When the ICC prosecutor first requested an arrest warrant for President al-Bashir in 2008, former Bush Administration Special Envoy for Sudan Andrew Natsios lamented that "[t]The regime will now avoid any compromise or anything that would weaken their already weakened position because if they are forced from office they face trials before the ICC."
+Certainly that has been the opinion of the top U.S. officials charged with trying to end the bloodshed in Darfur. When the ICC prosecutor first requested an arrest warrant for President al-Bashir in 2008, former Bush Administration Special Envoy for Sudan Andrew Natsios lamented that "[t]he regime will now avoid any compromise or anything that would weaken their already weakened position because if they are forced from office they face trials before the ICC."
 
 Two years later, the ICC issued a second arrest warrant for President al-Bashir, and President Obama's Special Envoy for Sudan, J. Scott Gration, offered almost the same criticism. The ICC action "will make my mission more difficult and challenging," he observed. No one can say with certainty that there would be peace today in Darfur but for the ICC, but the comments of Natsios and Gration underscore that the ICC's actions moved the Sudanese government away from peace rather than toward it.
 
@@ -36,10 +36,10 @@ In addition to these cases, the ICC is actively pursuing cases in five other Afr
 
 Even in these kinds of cases, the ICC's actions can prove destabilizing. In Kenya, for example, the country's democratically-elected president and vice president have been indicted by the ICC. Both the government and the Organization of African Unity have asked the ICC to set the charges aside until their terms expires, but the ICC has summarily dismissed this request.
 
-As a result, Kenya has been leading an effort to persuade all African countries to simultaneously withdraw from the ICC. The fact that African countries are thinking aboutconsidering this underscores that they increasingly have come to view the ICC as a Western imposition, and, on balance, do not value the work it has been doing in their region.
+As a result, Kenya has been leading an effort to persuade all African countries to simultaneously withdraw from the ICC. The fact that African countries are thinking about considering this underscores that they increasingly have come to view the ICC as a Western imposition, and, on balance, do not value the work it has been doing in their region.
 
 The foregoing demonstrates that the ICC suffers from serious structural defects that prevent it from meaningfully contributing to international peace and security. These defects are not America's fault, and they will not be remedied by greater U.S. engagement with the Court.
 
 To be sure, successive U.S. administrations have made short-term political calculations to support many of the ICC's actions, but these short-term calculations have proven to be long-term mistakes.
 
-The Court cannot expect—and does not deserve—enhanced U.S. support unless it is fundamentally reformed in ways that that transform it into a useful institution. Prospects for such reform are nil, however, so long as the institution and its supporters remain in denial of the problem.
+The Court cannot expect—and does not deserve—enhanced U.S. support unless it is fundamentally reformed in ways that transform it into a useful institution. Prospects for such reform are nil, however, so long as the institution and its supporters remain in denial of the problem.
