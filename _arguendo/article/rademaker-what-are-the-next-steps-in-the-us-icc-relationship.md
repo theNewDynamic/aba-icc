@@ -36,7 +36,7 @@ In addition to these cases, the ICC is actively pursuing cases in five other Afr
 
 Even in these kinds of cases, the ICC's actions can prove destabilizing. In Kenya, for example, the country's democratically-elected president and vice president have been indicted by the ICC. Both the government and the Organization of African Unity have asked the ICC to set the charges aside until their terms expires, but the ICC has summarily dismissed this request.
 
-As a result, Kenya has been leading an effort to persuade all African countries to simultaneously withdraw from the ICC. The fact that African countries are thinking about considering this underscores that they increasingly have come to view the ICC as a Western imposition, and, on balance, do not value the work it has been doing in their region.
+As a result, Kenya has been leading an effort to persuade all African countries to simultaneously withdraw from the ICC. The fact that African countries are thinking about this underscores that they increasingly have come to view the ICC as a Western imposition, and, on balance, do not value the work it has been doing in their region.
 
 The foregoing demonstrates that the ICC suffers from serious structural defects that prevent it from meaningfully contributing to international peace and security. These defects are not America's fault, and they will not be remedied by greater U.S. engagement with the Court.
 
