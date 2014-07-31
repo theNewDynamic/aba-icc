@@ -1,5 +1,5 @@
 ---
-layout: nil
+layout: null
 ---
 {% include scripts/jquery.min.js %}
 
