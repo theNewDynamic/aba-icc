@@ -5,7 +5,6 @@ description: 'ABA Center for Human Rights'
 repo: 'sonnetmedia/aba-icc.org'
 branch: master
 default_author: "Bud Parr"
-source: src
 
 #Jekyll Options
 # if using more than one Jekyll instance on your local machine
