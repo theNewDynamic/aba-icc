@@ -1,7 +1,6 @@
 ---
 title: Staff
 layout: page
-published: false
 ---
 ## Kip Hale
 
