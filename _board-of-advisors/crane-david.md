@@ -1,7 +1,7 @@
 ---
 title: Prof. David M. Crane
 last_title: Crane
-position: Prosecutor of the Special Court for Sierra Leone
+position: Prosecutor of the Special Court for Sierra Leone (2002-05)
 image: "headshot_crane_david-385x379.jpg"
 bio: 
   - " - Appointed to the Senior Executive Service of the U.S. (1997)<br />"
