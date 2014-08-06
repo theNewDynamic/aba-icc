@@ -7,7 +7,7 @@ bio:
 - "- Visiting Professor, Peking University of Transnational Law, Shenzhen, China<br />"
 - "- Chair of the ABA Center for Human Rights (2011-2013)<br />"
 ---
-#### President of the American Bar Association (2005-06); Of Counsel, KL Gates LLC
+#### President, American Bar Association (2005-06); Of Counsel, K&L Gates LLP
 Michael S. Greco is former president of the American Bar Association (2005-2006) and chairs the ABA Center for Human Rights Advisory Council, the ABA-ICC Project and its Board of Advisors, and the ABA Working Group on a Right to Counsel in Civil Matters. He is a trial lawyer, arbitrator and mediator in resolving disputes throughout the U.S. and internationally. Since 2012 he has been Visiting Professor of the Practice of Law at Peking University School of Transnational Law, Shenzhen, China, and teaches the course _International Criminal Justice_.
 
 As President of the ABA he appointed the ABA Task Force on Access to Civil Justice to consider providing desperately needed legal services to poor persons in the U.S. through recognition and implementation of a right to counsel in certain civil matters for violations of human rights that threaten basic needs -- shelter, health, sustenance, safety and child custody. The ABA House of Delegates by unanimous vote endorsed a right to counsel in civil matters in the United States. The ABA Working Group will soon release the _ABA Judges' Manual for Appointment of Counsel in Civil Matters_, to aid judges and counsel throughout the U.S. in determining applicable laws, rules and judicial discretion bearing on appointment of counsel in civil matters that threaten human rights.
