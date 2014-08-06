@@ -1,6 +1,6 @@
 ---
 title: "Michael S. Greco (Chair)"
-position: "President of the American Bar Association (2005-06)"
+position: "President, American Bar Association (2005-06); Of Counsel, K&L Gates LLP"
 image: "greco_michael.jpg"
 bio:
 - "- Of Counsel, KL Gates LLC, Boston, Massachusetts, USA<br />"
