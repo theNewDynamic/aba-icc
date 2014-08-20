@@ -36,5 +36,7 @@ When requested by the ICC to help augment internal efforts, organizing practitio
 
 In collaboration with the **University of Denver Sturm College of Law** and the **Ved Nanda Center for International and Comparative Law**, developing the world’s only online repository of proven practices in international criminal justice.  The repository will be an indispensable resource for international tribunal practitioners as well as national practitioners undertaking complementarity proceedings.
 
+---
+###Staff
 
 ####[Christopher "Kip" Hale, Director of the ABA-ICC Project](/the-aba-icc-project/project-staff/)
