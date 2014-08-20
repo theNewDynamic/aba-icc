@@ -40,4 +40,5 @@ In collaboration with the **University of Denver Sturm College of Law** and the 
 
 ## Staff
 
-####[Christopher "Kip" Hale, Director of the ABA-ICC Project](/the-aba-icc-project/project-staff/)
+####[Christopher "Kip" Hale](/the-aba-icc-project/project-staff/)
+##### Director, ABA-ICC Project
