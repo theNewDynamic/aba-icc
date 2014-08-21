@@ -7,7 +7,13 @@ American Bar Association International Criminal Court Project
 1050 Connecticut Ave NW Suite 400
 Washington, D.C. 20036
 (202) 662-1584
-aba-iccproject@americanbar.org
+<aba-iccproject@americanbar.org>
+
+### Director
+**Kip Hale**
+Telephone: (202) 662-1584
+E-mail: <kip.hale@americanbar.org>
+
 
 ## Enter your details below to keep up-to-date with the ABA-ICC Project.
 
