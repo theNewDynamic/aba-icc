@@ -16,6 +16,4 @@ Washington, D.C. 20036
 [**Kip Hale**](/the-aba-icc-project/project-staff/)
 
 
-## Enter your details below to keep up-to-date with the ABA-ICC Project.  
-
 You can also follow us on [Facebook](http://facebook.com/ABAICCProject) and [Twitter](http://twitter.com/ABAICCProject).
