@@ -1,7 +1,8 @@
 ---
 title: Prof.  M.Cherif Bassiouni
 last_title: Bassiouni
-position: "Professor Emeritus, DePaul University College of Law; Co-founder, International Institute of Higher Studies in Criminal Sciences"
+position: "Professor Emeritus, DePaul University College of Law; 
+Co-founder, International Institute of Higher Studies in Criminal Sciences"
 image: "image-12.png"
 bio: 
   - " - Nominated for the Nobel Peace Prize for various roles played in the establishment of the International Criminal Court (1998)<br />"
