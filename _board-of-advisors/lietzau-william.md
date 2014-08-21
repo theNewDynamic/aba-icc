@@ -12,7 +12,7 @@ published: true
 
 #### PAE Vice President and Deputy General Counsel
 
-#### Deputy Assistant Secretary of Defense for Rule of Law and Detainee Policy (2010-13)
+#### U.S. Deputy Assistant Secretary of Defense for Rule of Law and Detainee Policy (2010-13)
 
 Mr. William Lietzau recently left his appointment as Deputy Assistant Secretary of Defense for Rule of Law and Detainee Policy at the U.S. Department of Defense, responsible for developing and coordinating global policy guidance concerned. His former portfolio at the Department of Defense included issues pertaining to international humanitarian law and the ICC. His most recent assignment was at the White House as Deputy Legal Adviser to the National Security Council where he addressed a variety of legal issues such as international criminal law, counter-narcotics, counterterrorism, non-proliferation, foreign assistance, and treaty implementation, etc. 
 
