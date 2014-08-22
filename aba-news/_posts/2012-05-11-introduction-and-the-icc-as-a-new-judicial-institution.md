@@ -23,7 +23,9 @@ On May 11, 2012, experts from across the globe gathered at Stanford University L
 > “The words, indeed the imperative of ‘never again’ must not merely be set to paper and left to politics, but must be institutionalized under a just rule of law.”  
 — Michael Greco 
 
-> “Of one thing we may be sure, the future will never have to ask, with misgiving, what could the Nazis have said in their favor? History will know that whatever could be said, they were allowed to say. they have been given the kind of trial which they in the day of their pomp and power, never gave to any man.”  
+> “Of one thing we may be sure, the future will never have to ask, with misgiving, what could the Nazis have said in their favor? History will know that whatever could be said, they were allowed to say. they have been given the kind of trial which they in the day of their pomp and power, never gave to any man.” 
 — Justice Jackson, quoted by Michael Greco
+
 ---
+
 <object width="700" height="525"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645675234771%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645675234771%2F&set_id=72157645675234771&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=143270"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=143270" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645675234771%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645675234771%2F&set_id=72157645675234771&jump_to=" width="700" height="525"></embed></object>
