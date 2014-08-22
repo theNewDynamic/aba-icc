@@ -24,6 +24,7 @@ On May 11, 2012, experts from across the globe gathered at Stanford University L
 — Michael Greco 
 
 > “Of one thing we may be sure, the future will never have to ask, with misgiving, what could the Nazis have said in their favor? History will know that whatever could be said, they were allowed to say. they have been given the kind of trial which they in the day of their pomp and power, never gave to any man.” 
+
 — Justice Jackson, quoted by Michael Greco
 
 ---
