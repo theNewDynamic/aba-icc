@@ -20,6 +20,7 @@ On June 20, 2013 Huffington Post Live hosted an interview of experts in the fiel
 
 [**Click Here to Play Video**](http://live.huffingtonpost.com/r/segment/guatemala-war-lord-rios-montt-has-conviction-overturned-by-courts/519af892fe34440b9e000002  "Video")
 
+---
 
 <object width="500" height="375"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645709514566%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645709514566%2F&set_id=72157645709514566&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1611612882"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=1611612882" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645709514566%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645709514566%2F&set_id=72157645709514566&jump_to=" width="500" height="375"></embed></object>
 
