@@ -49,6 +49,14 @@ On November 11 and 12, 2012, the Whitney R. Harris World Law Institute at Washin
 
 ---
 
+[Click Here for Video of Day One](http://mediasite.law.wustl.edu/Mediasite/Play/ed4f9d8543ba408fb47c5ed354fd06dc1d)
+
+[Click Here for Video of Day Two - Part One](http://mediasite.law.wustl.edu/Mediasite/Play/e9ab31d5c6e9475f9e149c399188f6f11d)
+
+[Click Here for Video of Day Two - Part Two](http://mediasite.law.wustl.edu/Mediasite/Play/80d0aad20f31446993a920920834719e1d)
+
+---
+
 <object width="700" height="525"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2F&set_id=72157645686907755&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1611612882"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=1611612882" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2F&set_id=72157645686907755&jump_to=" width="700" height="525"></embed></object>
 
 
