@@ -47,6 +47,11 @@ On November 11 and 12, 2012, the Whitney R. Harris World Law Institute at Washin
 >“The ICC needs the support of the US this great country which time and again had a decisive role in bringing about the fall of tyranny and re the rule of law. The Court needs American support morally politically materially and in other ways and it remains also my hope that one day the judges may have an American colleague on the bench.”  
 — His Excellency Judge Hans Peter-Kaul
 
+---
+
+<object width="700" height="525"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2F&set_id=72157645686907755&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1611612882"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=1611612882" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157645686907755%2F&set_id=72157645686907755&jump_to=" width="700" height="525"></embed></object>
+
+
 <!-- 
 countries care enough about a new international organization and what it is 
 committed to do, they can do it without you. That is a very important lesson in this.”
