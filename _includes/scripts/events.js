@@ -1,3 +1,5 @@
+
+{% assign json_file = '/api/cal.jsonYO' %}
 // REQUIRES MOMENT.JS AND UNDERSCORE.JS
 var timing = function(start, end) {
 
@@ -6,7 +8,7 @@ var timing = function(start, end) {
 
 
 $(document).ready(function() {
-  $.getJSON('/api/cal.json', null, function(response) {
+  $.getJSON('{{ json_file }}', null, function(response) {
     var groups = _.groupBy(response.events, function(event) { return moment(event.start).format('YYYY-MM-DD'); });
    
     days = _.sortBy(Object.keys(groups), function(day) { return day});
