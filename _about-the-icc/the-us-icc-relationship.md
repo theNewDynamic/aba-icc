@@ -8,4 +8,4 @@ The United States of America (U.S.) is one of the most ardent supporters of inte
 
 Building off positive developments at the end of the George W. Bush administration, the Barack Obama administration has developed the US-ICC relationship from one of hostility to one of progress. While the trajectory of US-ICC relationship is on a positive path, hurdles still exist. The following timelines allows you to look at the evolution of US-ICC relations, from events decades ago to the most recent developments.
 
-<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AtZ5yV_Pso2idDZQRXNfUzQxd3JTQzhhMXg5UEpVYmc&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650' width='100%' height='650' frameborder='0'></iframe>
+<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AtZ5yV_Pso2idGJaZ2lTYjV3ZlRSVnFhMEVHeC11OFE&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650' width='100%' height='650' frameborder='0'></iframe>
