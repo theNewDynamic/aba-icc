@@ -1,6 +1,7 @@
 ---
 title: "ABA Policy on the ICC"
 layout: page
+timeline: "http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AtZ5yV_Pso2idGJaZ2lTYjV3ZlRSVnFhMEVHeC11OFE&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650"
 ---
 The elected 560-member ABA House of Delegates has ultimate responsibility for [establishing](http://www.americanbar.org/news/abanews/aba-news-archives/2013/08/aba_house_of_delegat6.html) the Association's policy on professional and public issues. Twice a year, the House debates and votes on proposed policies. Once passed, the ABA can publically advocate for those policies, such as by issuing [ABA Presidential Statements](http://www.americanbar.org/groups/leadership/office_of_the_president.html).
 
@@ -8,6 +9,3 @@ Since its 1978 policy endorsing the creation of a permanent international crimin
 
 
 **Please find below an interactive timeline that covers all of the ABA policies, reports, and statements related to the ICC.**
-
-
-<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AtZ5yV_Pso2idGJaZ2lTYjV3ZlRSVnFhMEVHeC11OFE&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650' width='100%' height='650' frameborder='0'></iframe>
