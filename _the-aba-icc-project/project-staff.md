@@ -12,6 +12,6 @@ dont-show-in-menu: true
 
 <p style="font-size:90%;line-height:1.2;">
 Telephone: (202) 662-1584<br />
-E-mail: <kip.hale@americanbar.org><br />
+E-mail: <a href="mailto:kip.hale@americanbar.org">kip.hale@americanbar.org</a><br />
 <a href="http://twitter.com/kiphale">@kiphale</a>
 </p>
