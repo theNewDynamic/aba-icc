@@ -1,6 +1,7 @@
 ---
 title: "2014 International Humanitarian Law Dialogs"
 venue: "IHL Dialogs 2014 - Chautauqua, New York"
+sponsor: "The American Bar Association; The American Red Cross; American Society of International Law; Case Western Reserve University School of Law; The Chautauqua Institution; Impunity Watch; intlawgrrl;International Bar Association; NYU Center for Global Affairs; The Planethood Foundation; The Robert H. Jackson Center; Syracuse University College of Law; Whitney R. Harris World Law Institute at Washington University School of Law; in association with the United States Holocaust Memorial Museum"
 
 ---
 
