@@ -1,5 +1,7 @@
 ---
 title: "2014 International Humanitarian Law Dialogs"
+venue: "IHL Dialogs 2014 - Chautauqua, New York"
+
 ---
 
 
