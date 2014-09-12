@@ -1,5 +1,10 @@
 ---
 title: "2014 International Humanitarian Law Dialogs"
+venue: "IHL Dialogs 2014 - Chautauqua, New York"
+date: "2014-24-26"
+sponsor: "The American Bar Association; The American Red Cross; American Society of International Law; Case Western Reserve University School of Law; The Chautauqua Institution; Impunity Watch; intlawgrrl;International Bar Association; NYU Center for Global Affairs; The Planethood Foundation; The Robert H. Jackson Center; Syracuse University College of Law; Whitney R. Harris World Law Institute at Washington University School of Law; in association with the United States Holocaust Memorial Museum"
+---
+
 ---
 The American Bar Association is a proud co-sponsor of the 8th International Humanitarian Dialogs, which took place August 24-26 in Chautauqua, New York. This year's conference was entitled "**The New World (Dis)Order: International Humanitarian Law in an Uncertain World**.”
 The Dialogs are the only annual meeting of the chief prosecutors of the international criminal tribunals, and each year the prosecutors are joined by leading professionals and distinguished experts to discuss the most pressing issues facing international criminal justice. This year's gathering was one of the largest with
