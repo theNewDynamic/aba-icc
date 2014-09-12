@@ -18,27 +18,33 @@ and the conference favorite "porch sessions" where prosecutors and professional 
 ---
 
 
-Highlights from this year's Dialogs include:
+**Highlights from this year's Dialogs include:**
 
-Prince Zeid Ra’ad Zeid Al-Hussein (Jordan), the newly minted United Nations High Commissioner for Human Rights, graciously received the 2014 Joshua Heinz Humanitarian Award.
+
+- Prince Zeid Ra’ad Zeid Al-Hussein (Jordan), the newly minted United Nations High Commissioner for Human Rights, graciously received the 2014 Joshua Heinz Humanitarian Award.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/ROjfkF1mCyQ" frameborder="0" allowfullscreen></iframe>
----
 
-The issuance of the 8th Chautauqua Declaration, a joint statement by all prosecutors in attendance on the state of international criminal justice. 
+
+
+- The issuance of the 8th Chautauqua Declaration, a joint statement by all prosecutors in attendance on the state of international criminal justice. 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/7NAqqJ379tM" frameborder="0" allowfullscreen></iframe>
----
 
-Panel discussion on the *Relevance of International Humanitarian Law in 2014* with Honorable Hans Corell, Honorable David J. Scheffer, Prof. William Schabas, and moderated by Prof. Leila Sadat.
+
+
+- Panel discussion on the *Relevance of International Humanitarian Law in 2014* with Honorable Hans Corell, Honorable David J. Scheffer, Prof. William Schabas, and moderated by Prof. Leila Sadat.
 
 <iframe width="720" height="572" src="http://www.ustream.tv/embed/recorded/51848590?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe><br /><a href="http://www.ustream.tv" style="font-size: 12px; line-height: 20px; font-weight: normal; text-align: left;" target="_blank">Broadcast live streaming video on Ustream</a>
 
+---
 
 Further, video is available for each of the current chief prosecutors' updates of their international tribunals, specifically updates on the International Criminal Court by [Fatou Bensouda](https://www.youtube.com/watch?v=FDH2dNJ7t3c), International Criminal Tribunal for the former Yugoslavia by [Serge Brammertz](https://www.youtube.com/watch?v=QgSK9VMQdQQ), International Criminal Tribunal for Rwanda by [Hassan Jallow](https://www.youtube.com/watch?v=ee5wZ3wC2oU),
 Special Court for Sierra Leone by [Brenda Hollis](https://www.youtube.com/watch?v=XNTiWx77Gro), and the Extraordinary Chambers in the Courts of Cambodia by [Nicholas Koumjian](https://www.youtube.com/watch?v=1nMJWNsMy3s).
 
-There are further videos of other presentations and panel discussions available on YouTube and UStream. 
+
+There are further videos of other presentations and panel discussions available on [YouTube](https://www.youtube.com/user/RobertHJacksonCenter/search?query=8th+IHLD) and [UStream](https://www.youtube.com/user/RobertHJacksonCenter/search?query=8th+IHLD). 
+
 
 <object width="700" height="525"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2F&set_id=72157647510930311&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2F&set_id=72157647510930311&jump_to=" width="700" height="525"></embed></object>
 
