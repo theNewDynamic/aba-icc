@@ -9,7 +9,6 @@ photos:""
 video_audio: "https://www.youtube.com/watch?v=tN5JJ8AsJoY, https://www.youtube.com/watch?v=OLxs2SIie2w&feature=relmfu, http://www.youtube.com/watch?v=5Qj1Hr04NN4&feature=relmfu"
 ---
 
----
 
 The American Bar Association is a proud co-sponsor of the 8th International Humanitarian Dialogs, which took place August 24-26 in Chautauqua, New York. This year's conference was entitled "**The New World (Dis)Order: International Humanitarian Law in an Uncertain World**.”
 The Dialogs are the only annual meeting of the chief prosecutors of the international criminal tribunals, and each year the prosecutors are joined by leading professionals and distinguished experts to discuss the most pressing issues facing international criminal justice. This year's gathering was one of the largest with
