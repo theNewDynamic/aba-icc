@@ -14,7 +14,9 @@ The Dialogs are the only annual meeting of the chief prosecutors of the internat
 former and current chief prosecutors attending from the International Criminal Court, International Criminal Tribunal for the former Yugoslavia, International Criminal Tribunal for Rwanda, Special Court for Sierre Leone, and the Extraordinary Chambers in the Courts of Cambodia.The Dialogs includes various presentations, panel discussions,
 and the conference favorite "porch sessions" where prosecutors and professional engage in intimate discussions with conference attendees.
 
+
 ---
+
 
 Highlights from this year's Dialogs include:
 
