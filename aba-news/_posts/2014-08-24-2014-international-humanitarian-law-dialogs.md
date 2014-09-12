@@ -9,10 +9,10 @@ video_audio: "https://www.youtube.com/watch?v=tN5JJ8AsJoY, https://www.youtube.c
 ---
 
 
-The American Bar Association is a proud co-sponsor of the 8th International Humanitarian Dialogs, which took place August 24-26 in Chautauqua, New York. This year's conference was entitled "*The New World (Dis)Order: International Humanitarian Law in an Uncertain World*.”
+The American Bar Association is a proud co-sponsor of the 8th International Humanitarian Law Dialogs, which took place August 24-26 in Chautauqua, New York. This year's conference was entitled "*The New World (Dis)Order: International Humanitarian Law in an Uncertain World*.”
 The Dialogs are the only annual meeting of the chief prosecutors of the international criminal tribunals, and each year the prosecutors are joined by leading professionals and distinguished experts to discuss the most pressing issues facing international criminal justice. This year's gathering was one of the largest with
 former and current chief prosecutors attending from the International Criminal Court, International Criminal Tribunal for the former Yugoslavia, International Criminal Tribunal for Rwanda, Special Court for Sierre Leone, and the Extraordinary Chambers in the Courts of Cambodia. The Dialogs includes various presentations, panel discussions,
-and the conference favorite "porch sessions" where prosecutors and professional engage in intimate discussions with conference attendees.
+and conference favorite "porch sessions" where prosecutors and professional engage in intimate discussions with conference attendees.
 
 
 ---
@@ -39,11 +39,11 @@ and the conference favorite "porch sessions" where prosecutors and professional 
 
 ---
 
-Further, video is available for each of the current chief prosecutors' updates of their international tribunals, specifically updates on the International Criminal Court by [Fatou Bensouda](https://www.youtube.com/watch?v=FDH2dNJ7t3c), International Criminal Tribunal for the former Yugoslavia by [Serge Brammertz](https://www.youtube.com/watch?v=QgSK9VMQdQQ), International Criminal Tribunal for Rwanda by [Hassan Jallow](https://www.youtube.com/watch?v=ee5wZ3wC2oU),
+Please find video links to updates for each international criminal tribunal, specifically updates on the International Criminal Court by [Fatou Bensouda](https://www.youtube.com/watch?v=FDH2dNJ7t3c), International Criminal Tribunal for the former Yugoslavia by [Serge Brammertz](https://www.youtube.com/watch?v=QgSK9VMQdQQ), International Criminal Tribunal for Rwanda by [Hassan Jallow](https://www.youtube.com/watch?v=ee5wZ3wC2oU),
 Special Court for Sierra Leone by [Brenda Hollis](https://www.youtube.com/watch?v=XNTiWx77Gro), and the Extraordinary Chambers in the Courts of Cambodia by [Nicholas Koumjian](https://www.youtube.com/watch?v=1nMJWNsMy3s).
 
 
-There are further videos of other presentations and panel discussions available on [YouTube](https://www.youtube.com/user/RobertHJacksonCenter/search?query=8th+IHLD) and [UStream](https://www.youtube.com/user/RobertHJacksonCenter/search?query=8th+IHLD). 
+Additional videos of other Dialog presentations and panel discussions can be found on [YouTube](https://www.youtube.com/user/RobertHJacksonCenter/search?query=8th+IHLD) and [UStream](https://www.youtube.com/user/RobertHJacksonCenter/search?query=8th+IHLD). 
 
 
 <object width="700" height="525"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2F&set_id=72157647510930311&jump_to="></param> <param name="movie" value="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/slideshow/show.swf?v=1811922554" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2Fshow%2F&page_show_back_url=%2Fphotos%2F126209453%40N05%2Fsets%2F72157647510930311%2F&set_id=72157647510930311&jump_to=" width="700" height="525"></embed></object>
