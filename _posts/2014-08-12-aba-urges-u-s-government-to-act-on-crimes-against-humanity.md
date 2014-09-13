@@ -8,7 +8,9 @@ On August 12 at the 2014 American Bar Association (ABA) Annual Meeting, the ABA 
 Additionally, this resolution urged the U.S. Government to lead an international effort to negotiate and adopt a CAH treaty. 
 
 CAH are criminal acts - such as murder, rape, torture, illegal imprisonment -  when committed as part of a *widespread or systematic attack directed against any civilian population* and with knowledge of the attack. As such, CAH can occur during peacetime or wartime.  
+
 Currently, U.S. law only outlaws the international atrocity crimes of genocide and war crimes. While there are U.S. laws on some CAH, such as child soldiers and torture, a vast majority of CAH are not covered, such as persecution, extermination, and enslavement. 
+
 Without domestic CAH legislation, the U.S. becomes a safe haven for those who participate in CAH and reside in the United States. Moreover, the U.S. government cannot prosecute foreign nationals who commit CAH within the jurisdiction of the United States.
 
 Unlike war crimes and genocide, CAH have not been codified in an international treaty. Accordingly, there exists large gaps within and between States to investigate and prosecute CAH and cooperate with each other in doing so. A comprehensive CAH treaty, with extradition and mutual legally assistance provisions for exampls, would significantly curtail these gaps.
