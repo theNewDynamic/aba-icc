@@ -28,7 +28,7 @@ and conference favorite "porch sessions" where prosecutors and professionals eng
 
 
 
-- The issuance of the 8th Chautauqua Declaration, a joint statement by the chief prosecutors on the state of international criminal justice. 
+- The issuance of the [8th Chautauqua Declaration](http://www.roberthjackson.org/files/2014-ihld-8th-chautauqua-declaration.pdf), a joint statement by the chief prosecutors on the state of international criminal justice. 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/7NAqqJ379tM" frameborder="0" allowfullscreen></iframe>
 
