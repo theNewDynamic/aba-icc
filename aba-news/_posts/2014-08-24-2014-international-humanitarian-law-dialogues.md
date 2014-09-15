@@ -45,7 +45,7 @@ The Special Court for Sierra Leone by Madame Prosecutor [Brenda Hollis](https://
 
 ---
 
-Additional videos of other Dialogs' presentations and panel discussions can be found on [YouTube](https://www.youtube.com/user/RobertHJacksonCenter/search?query=8th+IHLD) and [UStream](https://www.youtube.com/user/RobertHJacksonCenter/search?query=8th+IHLD). 
+Additional videos of other Dialogs' presentations and panel discussions can be found on [YouTube](https://www.youtube.com/user/RobertHJacksonCenter/search?query=8th+IHLD) and [UStream](http://www.ustream.tv/recorded/51837617). 
 
 ---
 
