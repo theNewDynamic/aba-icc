@@ -10,10 +10,10 @@ video_audio: "https://www.youtube.com/watch?v=tN5JJ8AsJoY, https://www.youtube.c
 ---
 
 
-The American Bar Association was a proud co-sponsor of the 8th annual International Humanitarian Law Dialogs, which took place August 24-26, 2014, in Chautauqua, New York. This year's conference was entitled "[*The New World (Dis)Order: International Humanitarian Law in an Uncertain World*](http://www.roberthjackson.org/the-center/events/international-humanitarian-law-dialogs/ihld-2014/).”
+The American Bar Association Section of Internationa Law was a co-sponsor of the 8th annual International Humanitarian Law Dialogs, which took place August 24-26, 2014, in Chautauqua, New York. This year's conference was entitled "[*The New World (Dis)Order: International Humanitarian Law in an Uncertain World*](http://www.roberthjackson.org/the-center/events/international-humanitarian-law-dialogs/ihld-2014/).”
 The Dialogs are the only annual meeting of the chief prosecutors of the international criminal tribunals, and each year the prosecutors are joined by leading professionals and distinguished experts to discuss the most pressing issues facing international criminal justice. This year's gathering was one of the largest, with
-former and current chief prosecutors attending from the International Criminal Court, the International Criminal Tribunal for the former Yugoslavia, the International Criminal Tribunal for Rwanda, the Special Court for Sierre Leone, and the Extraordinary Chambers in the Courts of Cambodia. The Dialogs include various presentations, panel discussions,
-and conference favorite "porch sessions," in which participants engage in informal discussions with conference attendees.
+former and current chief prosecutors attending from the International Criminal Court, the International Criminal Tribunal for the former Yugoslavia, the International Criminal Tribunal for Rwanda, the Special Court for Sierra Leone, and the Extraordinary Chambers in the Courts of Cambodia. The Dialogs include various presentations, panel discussions,
+and conference favorite "porch sessions," in which speakers/participants engage in informal discussions with conference attendees.
 
 
 ---
