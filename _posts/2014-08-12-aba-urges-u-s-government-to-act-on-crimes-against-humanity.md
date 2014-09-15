@@ -4,7 +4,7 @@ category: News
 layout: article
 splash_image:
 ---
-On August 12 at the 2014 American Bar Association (ABA) Annual Meeting, the ABA House of Delegates unanimously passed a policy resolution urging the U.S. Congress to pass comprehensive domestic legislation prohibiting Crimes Against Humanity (CAH).
+On August 12 at the 2014 American Bar Association (ABA) Annual Meeting, the ABA House of Delegates unanimously passed a [policy resolution] (http://www.americanbar.org/content/dam/aba/images/abanews/2014am_hodres/300.pdf) urging the U.S. Congress to pass comprehensive domestic legislation prohibiting Crimes Against Humanity (CAH).
 Additionally, this resolution urged the U.S. Government to lead an international effort to negotiate and adopt a CAH treaty. 
 
 CAH are criminal acts - such as murder, rape, torture, illegal imprisonment -  when committed as part of a *widespread or systematic attack directed against any civilian population* and with knowledge of the attack. As such, CAH can occur during peacetime or wartime.  
