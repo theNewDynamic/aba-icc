@@ -13,7 +13,7 @@ Currently, U.S. law only outlaws the international atrocity crimes of genocide a
 
 Without domestic CAH legislation, the U.S. becomes a safe haven for those who participate in CAH and reside in the United States. Moreover, the U.S. government cannot prosecute foreign nationals who commit CAH within the jurisdiction of the United States.
 
-Unlike war crimes and genocide, CAH have not been codified in an international treaty. Accordingly, there exists large gaps within and between States to investigate and prosecute CAH and cooperate with each other in doing so. A comprehensive CAH treaty, with extradition and mutual legally assistance provisions for exampls, would significantly curtail these gaps.
+Unlike war crimes and genocide, CAH have not been codified in an international treaty. Accordingly, there exists large gaps within and between States to investigate and prosecute CAH and cooperate with each other in doing so. A comprehensive CAH treaty, with extradition and mutual legally assistance provisions for example, would significantly curtail these gaps.
 
 [Michael S. Greco](http://www.aba-icc.org/board-of-advisors/-chair-greco-michael/), former ABA President and Chair of the ABA International Criminal Court Project, introduced and advocated for the CAH resolution before the entire ABA House of Delegates. Please find video of his remarks below.
 
