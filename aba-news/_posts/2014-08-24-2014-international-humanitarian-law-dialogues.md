@@ -40,8 +40,8 @@ and conference favorite "porch sessions" where prosecutors and professionals eng
 
 ---
 
-Please find video links to updates for each of the international criminal tribunals, specifically updates on the International Criminal Court by [Fatou Bensouda](https://www.youtube.com/watch?v=FDH2dNJ7t3c), International Criminal Tribunal for the former Yugoslavia by [Serge Brammertz](https://www.youtube.com/watch?v=QgSK9VMQdQQ), International Criminal Tribunal for Rwanda by [Hassan Jallow](https://www.youtube.com/watch?v=ee5wZ3wC2oU),
-Special Court for Sierra Leone by [Brenda Hollis](https://www.youtube.com/watch?v=XNTiWx77Gro), and the Extraordinary Chambers in the Courts of Cambodia by [Nicholas Koumjian](https://www.youtube.com/watch?v=1nMJWNsMy3s).
+Please find video links to updates for each of the international criminal tribunals, specifically updates on the International Criminal Court by Madame Prosecutor [Fatou Bensouda](https://www.youtube.com/watch?v=FDH2dNJ7t3c), International Criminal Tribunal for the former Yugoslavia by Prosecutor [Serge Brammertz](https://www.youtube.com/watch?v=QgSK9VMQdQQ), International Criminal Tribunal for Rwanda by Prosecutor [Hassan Jallow](https://www.youtube.com/watch?v=ee5wZ3wC2oU),
+Special Court for Sierra Leone by Madame Prosecutor [Brenda Hollis](https://www.youtube.com/watch?v=XNTiWx77Gro), and the Extraordinary Chambers in the Courts of Cambodia by International Co-Prosecutor [Nicholas Koumjian](https://www.youtube.com/watch?v=1nMJWNsMy3s).
 
 
 
