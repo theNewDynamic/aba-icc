@@ -34,7 +34,7 @@ and conference favorite "porch sessions" where prosecutors and professional enga
 
 
 
-- Panel discussion on the *Relevance of International Humanitarian Law in 2014* with Honorable Hans Corell, Honorable David J. Scheffer, Prof. William Schabas, and moderated by Prof. Leila Sadat.
+- Panel discussion on the *Relevance of International Humanitarian Law in 2014* with Hon. Hans Corell, Hon. David J. Scheffer, Prof. William Schabas, and moderated by Prof. Leila Sadat.
 
 <iframe width="720" height="572" src="http://www.ustream.tv/embed/recorded/51848590?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe><br /><a href="http://www.ustream.tv" style="font-size: 12px; line-height: 20px; font-weight: normal; text-align: left;" target="_blank">Broadcast live streaming video on Ustream</a>
 
@@ -42,6 +42,7 @@ and conference favorite "porch sessions" where prosecutors and professional enga
 
 Please find video links to updates for each international criminal tribunal, specifically updates on the International Criminal Court by [Fatou Bensouda](https://www.youtube.com/watch?v=FDH2dNJ7t3c), International Criminal Tribunal for the former Yugoslavia by [Serge Brammertz](https://www.youtube.com/watch?v=QgSK9VMQdQQ), International Criminal Tribunal for Rwanda by [Hassan Jallow](https://www.youtube.com/watch?v=ee5wZ3wC2oU),
 Special Court for Sierra Leone by [Brenda Hollis](https://www.youtube.com/watch?v=XNTiWx77Gro), and the Extraordinary Chambers in the Courts of Cambodia by [Nicholas Koumjian](https://www.youtube.com/watch?v=1nMJWNsMy3s).
+
 
 
 Additional videos of other Dialogs' presentations and panel discussions can be found on [YouTube](https://www.youtube.com/user/RobertHJacksonCenter/search?query=8th+IHLD) and [UStream](https://www.youtube.com/user/RobertHJacksonCenter/search?query=8th+IHLD). 
