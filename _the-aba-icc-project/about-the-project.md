@@ -27,14 +27,14 @@ With nearly 400,000 members worldwide and a respected voice among diverse stakeh
 
 ## Practical Legal Assistance
 
-When requested by the ICC to help augment internal efforts, organizing practitioner engagements on proven practices and methodologies, forums for exchanges of legal expertise between ICC judges and lawyers and their international counterparts, and continuing legal education initiatives.
+- When requested by the ICC to help augment internal efforts, organizing practitioner engagements on proven practices and methodologies, forums for exchanges of legal expertise between ICC judges and lawyers and their international counterparts, and continuing legal education initiatives.
 
 
-![ICJC LOGO](/assets/img/logo-icjc-140109-170718.png) The ABA is a proud member of the [**International Criminal Justice Consortium**](http://icj-consortium.org/), an independent and non-partisan alliance of specialized and diverse organizations, representing a broad range of regions and legal traditions, which formed with  the purpose to help support the ICC and national jurisdictions with their international criminal justice mandate and do so through capacity-building activities.
+![ICJC LOGO](/assets/img/logo-icjc-140109-170718.png) - The ABA is a member of the [**International Criminal Justice Consortium**](http://icj-consortium.org/), an independent and non-partisan alliance of specialized and diverse organizations, representing a broad range of regions and legal traditions, which formed with  the purpose to help support the ICC and national jurisdictions with their international criminal justice mandate and do so through capacity-building activities.
 
 
 
-In collaboration with the **University of Denver Sturm College of Law** and the **Ved Nanda Center for International and Comparative Law**, developing the world’s only online repository of proven practices in international criminal justice.  The repository will be an indispensable resource for international tribunal practitioners as well as national practitioners undertaking complementarity proceedings.
+- In collaboration with the **University of Denver Sturm College of Law** and the **Ved Nanda Center for International and Comparative Law**, developing the world’s only online repository of proven practices in international criminal justice.  The repository will be an indispensable resource for international tribunal practitioners as well as national practitioners undertaking complementarity proceedings.
 
 ---
 
