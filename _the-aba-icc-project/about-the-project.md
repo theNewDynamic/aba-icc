@@ -34,6 +34,7 @@ With nearly 400,000 members worldwide and a respected voice among diverse stakeh
 
 
 
+
 - In collaboration with the **University of Denver Sturm College of Law** and the **Ved Nanda Center for International and Comparative Law**, developing the world’s only online repository of proven practices in international criminal justice.  The repository will be an indispensable resource for international tribunal practitioners as well as national practitioners undertaking complementarity proceedings.
 
 ---
