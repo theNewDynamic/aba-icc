@@ -1,7 +1,6 @@
 ---
 title: International Criminal Justice Today
 layout: page
-published: false
 # include: page_content/news-page.html
 # include: page_content/icjt.html
 ---
