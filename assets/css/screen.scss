@@ -27,7 +27,15 @@
 @import "modules/layouts";
 @import "modules/cycle-slideshow";
 @import "modules/item-list";
+@import "modules/list-news";
 @import "modules/refills/card";
+
+
+.hidden-js, .hidden {
+  display: none;
+}
+
+
 .content {
 	background-color: $content-color-background;
   height: auto;

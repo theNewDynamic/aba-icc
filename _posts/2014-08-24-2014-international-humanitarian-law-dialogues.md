@@ -5,6 +5,8 @@ date: "2014-08-24 12:00:00"
 participants:
 flyer:
 photos:
+category: event
+published: true
 splash_image: "international-humanitarian-law-dialogues-1600.jpg"
 video_audio: "https://www.youtube.com/watch?v=tN5JJ8AsJoY, https://www.youtube.com/watch?v=OLxs2SIie2w&feature=relmfu, http://www.youtube.com/watch?v=5Qj1Hr04NN4&feature=relmfu"
 ---
@@ -28,7 +30,7 @@ and conference favorite "porch sessions," in which speakers/participants engage 
 
 
 
-- The issuance of the [8th Chautauqua Declaration](http://www.roberthjackson.org/files/2014-ihld-8th-chautauqua-declaration.pdf), a joint statement by the chief prosecutors on the state of international criminal justice. 
+- The issuance of the [8th Chautauqua Declaration](http://www.roberthjackson.org/files/2014-ihld-8th-chautauqua-declaration.pdf), a joint statement by the chief prosecutors on the state of international criminal justice.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/7NAqqJ379tM" frameborder="0" allowfullscreen></iframe>
 
@@ -45,7 +47,7 @@ the Special Court for Sierra Leone by Madame Prosecutor [Brenda Hollis](https://
 
 ---
 
-Additional videos of other Dialogs' presentations and panel discussions can be found on [YouTube](https://www.youtube.com/user/RobertHJacksonCenter/search?query=8th+IHLD) and [UStream](http://www.ustream.tv/recorded/51837617). 
+Additional videos of other Dialogs' presentations and panel discussions can be found on [YouTube](https://www.youtube.com/user/RobertHJacksonCenter/search?query=8th+IHLD) and [UStream](http://www.ustream.tv/recorded/51837617).
 
 ---
 

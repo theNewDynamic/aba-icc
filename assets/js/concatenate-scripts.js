@@ -3,6 +3,8 @@ layout: null
 ---
 {% include scripts/jquery.min.js %}
 
+{% include scripts/listjs/dist/list.min.js %}
+
 // EVENTS PRESENTATION
 	{% include scripts/moment/min/moment.min.js %}
 	{% include scripts/underscore/underscore.js %}
@@ -12,6 +14,13 @@ layout: null
 {% include scripts/nav-top-mobile.js %}
 {% include scripts/links-new-window.js %}
 
+// Utility to show hidden items after js has loaded
+$(function () {
+     $('.script-only').removeClass('hidden-js');
+ });
+
+
+
 // BOARD PAGE CARDS WITH BIO ON BACK
 $('.flip').click(function(){
         $(this).find('.card-flush').addClass('flipped').mouseleave(function(){
@@ -20,6 +29,55 @@ $('.flip').click(function(){
         return false;
     });
 
+// News filters
+
+
+  var options = {
+      valueNames: [ 'category', 'date'],
+      listClass: 'list-filter',
+      page: 2000 // how many items should first show up on the page - affects performance
+      // add tagline, or option for it?
+  };
+
+
+  var newsList = new List('container-filter', options);
+
+
+if (document.getElementById("filter-news")) {
+  document.getElementById("filter-news").onclick=function(){
+          newsList.filter(function(item) {
+             if (item.values().category == "news" ) {
+               return true;
+               } else {
+               return false;
+            }
+        });
+      };
+    }
+
+if (document.getElementById("filter-event")) {
+  document.getElementById("filter-event").onclick=function(){
+          newsList.filter(function(item) {
+             if (item.values().category == "event" ) {
+               return true;
+               } else {
+               return false;
+            }
+        });
+      };
+    }
+
+
+
+//and clear the filters
+if (document.getElementById("filter-clear")) {
+   document.getElementById("filter-clear").onclick=function(){
+       newsList.filter();
+      };
+    }
+
+
+
 // TUMBLR API
 
   $(document).ready(function() {
@@ -27,7 +85,7 @@ $('.flip').click(function(){
         url: "http://api.tumblr.com/v2/blog/aba-icc.tumblr.com/posts?api_key=712yUR7HNAL8B8YXhrRwvH3sCnAgjV74BlYezAD8KWtbtXM9Ij&limit=10",
         dataType: 'jsonp',
         success: function(results){
-          console.log(results); 
+          console.log(results);
           $.each(results.response.posts, function(i, item){
               //var src = item.photos.url; // first picture, first size
               var caption = item.caption;
@@ -42,8 +100,8 @@ $('.flip').click(function(){
                     }
                     else if(item.title) {
                       $('<h5>' + item.title + '</h5>').appendTo('#content_tumblr');
-                };      
-                
+                };
+
 
               if(item.description) {
                   $('<small>' + description + '</small>').appendTo('#content_tumblr');
@@ -81,7 +139,7 @@ $('.flip').click(function(){
 
 
 
-{% comment %} //== NOT USING THE FOLLOWING 
+{% comment %} //== NOT USING THE FOLLOWING
 {% include scripts/parallax.js %}
 // Nice Scrolling
 {% include scripts/smooth-scroll.js %}

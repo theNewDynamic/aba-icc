@@ -1,45 +1,33 @@
-{% assign news = site.categories.aba-news  %}
-{% assign news_featured = site.posts | where: 'featured', true %}
+{% assign articles = site.posts %}
 
-<div class="layout">
+<div class="layout" id="container-filter">
 
+<div class="filter-buttons script-only hidden-js" style="margin:1em auto 2em auto;">
+      <button id="filter-clear" class="news">All</button>
+      <button id="filter-event" class="event">Events</button>
+      <button id="filter-news" class="news">News</button>
 
-
-<div class="cards">
-
-
-{% for news in news reverse limit:250 %}
-  <div class="card">
-    <div class="card-image">
-      <a href="{{news.url}}">
-        {% if news.featured_image %}
-          <img src="{% if news.featured_image contains 'http://' %}{{news.featured_image}}{% else %}/assets/img/{{news.featured_image}}{% endif %}" alt="">
-        {% elsif news.splash_image %}
-          <img src="{% if news.splash_image contains 'http://' %}{{news.splash_image}}{% else %}/assets/img/{{news.splash_image}}{% endif %}" alt="">
-        {% else %}
-         <img src="/assets/img/icc-default.jpg" alt="" >
-        {% endif %}
-      </a>
     </div>
-    <div class="card-header">
-      <a href="{{news.url}}">{{news.title}}</a>
+
+<div class="list-filter">
+      {% for article in articles %}
+
+          <div class="article">
+
+          <span class="category hidden">{{ article.category | slugify }}</span>
+            <div class="heading{% if article.splash_image %} article-background{% endif %}" {% if article.splash_image %}style="background-position:center center;background-image:url(/assets/img/{{ article.splash_image }});background-size:cover;"{% endif %}>
+<h6 class="heading-small {{ article.category | slugify }}">{{ article.category}}</h6>
+              <h3 style="margin:auto;">{{ article.title }}</h3>
+              {% comment %}{% include authors.html %}{% endcomment %}
+            </div>
+            <div class="lede">
+
+              {{ article.excerpt | strip_html  | truncate: 255, '...'}}
+              <p><strong><a href="http://www.international-criminal-justice-today.org{{ article.url }}">&raquo; {% if article.category == 'event' %}See a recap of this event{% else %}Read this {% endif %} at International Criminal Justice Today</a></strong></p>
+            </div>
+          </div>
+
+      {% endfor %}
     </div>
-    <div class="card-copy">
-      {{news.excerpt | strip_html | truncate: 140 }}
-    </div>
-    <div class="card-stats">
-      <ul>
-        <li>Published<!-- news.date | date: "%Y-%b-%d" --><span>{{ news.date | date: "%Y-%b-%d" }}</span></li>
-        <li>Comments<span><a href="{{news.url}}#disqus_thread" data-disqus-identifier="{{news.url}}">leave a comment</a></span></li>
-        <li>Category<span>{{news.category}}</span></li>
-      </ul>
-    </div>
-  </div>
-{% endfor %}
 
-
-
-
-
-</div>
 </div>
