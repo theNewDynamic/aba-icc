@@ -18,6 +18,7 @@
   position: relative;
   border-bottom: 1px solid darken($light-gray, 5%);
   position: relative;
+  margin: 0 0 2em 0;
   h3 {
     clear: both;
     //color: white;
@@ -57,7 +58,7 @@
     overflow: hidden;
     //width: 48%;
     //float: left;
-    margin: 0 0 2em 0;
+
   }
 }
 
@@ -82,12 +83,15 @@
     background-color: none;
     background-color: rgba(0,0,0,.5);
     width: 100%;
+
     padding: .75em;
+    @include media($medium-screen-up) {
     position:absolute;
     bottom: 1em;
     //padding-right:1em;
     left:0;//.5625em;
     z-index: 100;
+  }
   }
 
   .article-background:hover h3 {
