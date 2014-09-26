@@ -3,7 +3,7 @@
 {% assign prevurl = page.next.url %}
 
 {% if page.collection %}
-  {% assign  document = site[the_collection] %}
+  {% assign  document = site.the_collection %}
 {% else %}
   {% assign  document = site.posts %}
 {% endif %}

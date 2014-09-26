@@ -16,7 +16,7 @@
 
           <span class="category hidden">{{ article.category | slugify }}</span>
             <div class="heading{% if article.splash_image %} article-background{% endif %}" {% if article.splash_image %}style="background-position:center center;background-image:url(/assets/img/{{ article.splash_image }});background-size:cover;"{% endif %}>
-<h6 class="heading-small {{ article.category | slugify }}">{{ article.category}}</h6>
+<h6 class="heading-small {{ article.category | slugify  }}">{{ article.category}}</h6>
               <h3 style="margin:auto;">{{ article.title }}</h3>
               {% comment %}{% include authors.html %}{% endcomment %}
             </div>
