@@ -23,8 +23,8 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
 .sliding-menu-content {
 
   @include position(fixed, 0px auto 0px 0px);
-  @include size(100% 450px);
-  @include transform(translateY(-450px));
+  @include size(100% 480px);
+  @include transform(translateY(-480px));
   @include transition(all .25s linear);
   background: $sliding-menu-background;
   padding: 0 2em;
