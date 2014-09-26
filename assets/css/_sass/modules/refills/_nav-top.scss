@@ -61,7 +61,7 @@ top: 0;
     text-transform: uppercase;
 
     @include media ($horizontal-bar-mode) {
-      display: none;
+      //display: none;
     }
 
     &:hover {

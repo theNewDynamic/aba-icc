@@ -24,24 +24,19 @@
 						{% endif %}
 
 <!-- if this arguendo, do nothing after collection info-->
-						{% unless page.collection == 'arguendo' %}
+
 							{% if page.title %}
 	<!-- PAGE INFORMATION -->
 						<h2>{{ page.title }}</h2>
 						{% endif %}
 
-						{% endunless  %}{% comment %}end if page collection = arguendo {% endcomment %}
+
 
 		{% if page.excerpt %}
 			<p>{{ page.excerpt | markdownify | strip_html | truncatewords: 30 }}</p>
 		{% endif %}
 
-	<!-- if this is a news page show upcoming events, if there are any -->
-		{% if page.url contains '/news/' %}
-			<!--<h5>Upcoming Events</h5>  TODO: Need to make this go away if there are no events -->
-			<hr />
-			<div id="calendar"></div>
-		{% endif %}
+
 	</div>
 
 <!-- BOTTOM SECTION -->
@@ -53,26 +48,14 @@
 
 <!-- // home page special content -->
 	{% if page.category == 'home' %}
-		
-		<div class="sidebar-content hidden-small-screens">
-			{% include nav/prev-next-links.html limit="3" %}
-			<hr />
-		{% comment %}	
-				<div style="height:115px;">
-					{% include snippets/twitter-tweets.html count='1' %}
-				</div>
-			{% endcomment %}
-		</div>
+
 			<figure style="margin:50px 0 30px 0;">
-			
+
 		<img src="/assets/img/RO_KN_Logo_1_RGB_diap_en.png">
 		<caption><p><small>Thank you to the generous sponsors of the ABA-ICC Project</small></p></caption>
 		</figure>
 
-<!-- Arguendo also has its own special content -->
-{% elsif page.collection == 'arguendo' %}
 
-	{% include nav/nav-arguendo.html %}
 
 	{% else %}
 
@@ -80,15 +63,6 @@
 		<div class="hidden-small-screens">
 			{% include nav/prev-next-links.html  limit="25" %}
 		</div>
-	{% endif %}
-
-	{% if page.collection == 'international-criminal-justice-today' %}
-	<figure style="margin:200px 0 30px 0;">
-		<!-- <p><small>Thank you to the generous sponsors of the ABA-ICC Project</small></p> -->
-	<img src="/assets/img/PC_PrgIntComparativeLaw_3C_RGB_Hzt.png" style="max-width:220px;">
-	</figure>
-
-
 	{% endif %}
 
 
