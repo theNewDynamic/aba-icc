@@ -15,7 +15,7 @@ section: full-width
 
 
 
-	
+
 	<ul>
 		<li class="heading">Rome Statute Data by Country</li>
 
@@ -23,23 +23,23 @@ section: full-width
 <li>Country - Date</li>
 <li>Country - Date</li>
 {% assign  authors = site.data | sort_by: "last_name" %}
-		{% for links in authors %}		
+		{% for links in authors %}
 			<li id="{{links.url}}" class="nav-sidebar-item{% if links.title == page.title %} active{% endif %}">
 				<a href="{{links.url}}">{{links.title}}</a>
 			</li>
-		
+
 
 
 
 {% if links.title == page.title %}
             {% unless forloop.first %}
-                {% assign prevurl = prev.url %} 
-                
+                {% assign prevurl = prev.url %}
+
             {% endunless %}
             {% unless forloop.last %}
                 {% assign next = authors[forloop.index] %}
                 {% assign nexturl = next.url %}
-                
+
             {% endunless %}
         {% endif %}
         {% assign prev = links %}
@@ -51,7 +51,7 @@ section: full-width
 
 
 
-			
+
 
 {% endfor %}
 

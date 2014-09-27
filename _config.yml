@@ -49,10 +49,6 @@ collections:
   collection_name: "The ABA-ICC Project"
   output: true
   permalink: /:collection/:path/
- international-criminal-justice-today:
-  collection_name: "International Criminal Justice Today"
-  output: true
-  permalink: /:path/
  about-the-icc:
   collection_name: About the ICC
   output: true
@@ -66,23 +62,11 @@ collections:
   output: true
   splash_image: "Nuremberg_Trials.jpg"
   description: "A timeline to explore the evolution of international criminal justice and learn about the multiple and varied influences that have shaped this field of international affairs."
- arguendo:
-  collection_name: "Arguendo"
-  output: true
-  description: "Experts debate issues of the day on International Criminal Justice"
-  main_page_link: "/arguendo/"
-  permalink: /:collection/:path/
-  class: arguendo
  board-of-advisors:
   collection_name: "Board of Advisors"
   main_page_link: "/the-aba-icc-project/board-of-advisors/"
   output: true
   permalink: /:collection/:path/
- ipsos:
-   collection_name: "Ipsos Polling Data"
-   main_page_link: "/ipsos/"
-   output: true
-   permalink: /:collection/:path/
 
 defaults:
   -
@@ -111,21 +95,3 @@ defaults:
    values:
     sharing: false
     comments: false
-  -
-   scope:
-    path: ""
-    type: "international-criminal-justice-today"
-   values:
-    layout: "page"
-  -
-   scope:
-    path: "arguendo/article"
-    type: arguendo
-   values:
-    layout: article-arguendo
-  -
-   scope:
-    path: "arguendo/question"
-    type: arguendo
-   values:
-    layout: arguendo
