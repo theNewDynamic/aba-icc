@@ -130,5 +130,19 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
     visibility: visible;
   }
 }
+.box-highlight {
+  border:1px solid #858585;
+  padding: .5em;
+  float:left;
+  color: #a9a9a9;
+  h6 {
+    color: white;
+  }
+
+}
+
+.box-highlight:hover {
+  background-color: darken($sliding-menu-background, 4%);
+}
 
 // Based on code by Diego Eis
