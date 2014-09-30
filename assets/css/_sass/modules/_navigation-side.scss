@@ -209,7 +209,13 @@ aside#menu-local {
 
 
 
+.logo-alt-home {
+   margin:50px 0 30px 0;
+@include media($sidebar-right-breakpoint) {
+  margin:250px 0 30px 0;
+}
 
+}
 
 
 
