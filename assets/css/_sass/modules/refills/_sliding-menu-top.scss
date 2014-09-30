@@ -1,4 +1,4 @@
-$sliding-menu-border-color: $base-background-color;
+$sliding-menu-border-color: $blue-dark;
 $sliding-menu-background: lighten($sliding-menu-border-color, 15);
 $sliding-menu-color: #fff;
 $sliding-menu-border: 1px solid $sliding-menu-border-color;
@@ -21,6 +21,7 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
 }
 
 .sliding-menu-content {
+  font-family: $sans-serif;
 
   @include position(fixed, 0px auto 0px 0px);
   @include size(100% 480px);
@@ -39,17 +40,26 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
     }
 
   .sliding-menu-content-inner {
-    //@include outer-container;
-    width:100%;
+    @include outer-container;
+    //width:100%;
     //margin: auto;
     display: block;
     margin: 2em auto 2em auto;
     overflow: hidden;
+    a {
+      color: #999;
+    }
+    .logo {
+        @include span-columns(1 of 12);
+        img {
+          max-width: 100%;
+        }
+    }
 
     .column-left {
       @include span-columns(12);
       @include media ($medium-screen-up) {
-        @include span-columns(6 of 12);
+        @include span-columns(5 of 12);
       }
     }
     .column-right {
@@ -60,11 +70,6 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
     }
     @include media ($horizontal-bar-mode) {
       width: 80%;
-    }
-    ul.nav-small, ul.nav-small li {
-      margin:0;
-      padding: 0;
-      display: inline-block;
     }
 
     p {
@@ -88,7 +93,7 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
     }
   }
   li {
-    color: $blue-dark;
+    color: #999;
     list-style-type: none;
     font-size: 1.2rem;
   }
@@ -98,13 +103,20 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
     color: $sliding-menu-color;
     display: block;
     font-weight: bold;
-    padding: 1em;
+    padding: .25em;
 
     &:hover {
       //background-color: $sliding-menu-background-hover;
       color: $sliding-menu-color-hover;
     }
   }
+  ul.nav-small,  {
+
+    }
+    ul.nav-small li {
+
+    }
+
 
   &.is-visible {
     @include transform(translateY(0));
