@@ -80,7 +80,6 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
       }
       a {
         color: $lightest-gray;
-        border-bottom: 1px dashed #999;
       }
     }
     .logo img{
@@ -104,20 +103,15 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
     display: block;
     font-weight: bold;
     padding: .25em;
-
     &:hover {
       //background-color: $sliding-menu-background-hover;
       color: $sliding-menu-color-hover;
     }
   }
   ul.nav-small,  {
-
     }
     ul.nav-small li {
-
     }
-
-
   &.is-visible {
     @include transform(translateY(0));
   }
