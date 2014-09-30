@@ -47,7 +47,7 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
     margin: 2em auto 2em auto;
     overflow: hidden;
     a {
-      color: #999;
+      color: $lightest-gray;
     }
     .logo {
         @include span-columns(1 of 12);
@@ -79,7 +79,7 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
         display: block;
       }
       a {
-        color: #999;
+        color: $lightest-gray;
         border-bottom: 1px dashed #999;
       }
     }
@@ -100,7 +100,7 @@ $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$l
   li a {
     font-size: 1rem;
     //border-bottom: $sliding-menu-border;
-    color: $sliding-menu-color;
+    color: $lightest-gray;
     display: block;
     font-weight: bold;
     padding: .25em;
