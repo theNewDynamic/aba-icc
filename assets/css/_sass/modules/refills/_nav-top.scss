@@ -59,6 +59,7 @@ top: 0;
     margin: 0;
     padding-right: 1em;
     text-transform: uppercase;
+    margin-right:6em;
 
     @include media ($horizontal-bar-mode) {
       //display: none;
