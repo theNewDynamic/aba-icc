@@ -13,7 +13,7 @@ The American Bar Association International Criminal Court Project (ABA-ICC Proje
 
 ---
 
-<iframe width="853" height="480" src="//www.youtube.com/embed/79mZ8-CkHOU?start=02" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="//www.youtube.com/embed/79mZ8-CkHOU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ---
 
