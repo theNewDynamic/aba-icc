@@ -19,4 +19,4 @@ ICJT has many features that we hope you find enjoyable as well as informative.
 
 ---
 
-Please click here to access the separate website of [_International Criminal Justice Today_](http://www.international-criminal-justice-today.org).
+Please click the following link to access the separate website of [_International Criminal Justice Today_](http://www.international-criminal-justice-today.org).
