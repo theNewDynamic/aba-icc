@@ -210,7 +210,7 @@ aside#menu-local {
 
 
 .logo-alt-home {
-
+  display: none;
    //margin:50px 0 30px 0;
    position: absolute;
    bottom: 5em;
@@ -218,6 +218,7 @@ aside#menu-local {
 
 @include media($sidebar-right-breakpoint) {
   //margin:250px 0 30px 0;
+  display: block;
 }
 
 }
