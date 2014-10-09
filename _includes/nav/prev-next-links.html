@@ -4,21 +4,20 @@
 
 {% if page.collection %}
   {% assign  document = site[the_collection] %}
-{% else %}
-  {% assign  document = site.posts %}
 {% endif %}
 
 <div class="section-heading">
   {% if page.sidebar_heading %}
     <h4>{{page.sidebar_heading | markdownify | remove: '<p>' | remove: '</p>'  }}</h4>
   {% endif %}
-
-
-{% if page.categories contains 'news' %}
-<hr />
-<h4>More Posts</h4>
-{% endif %}
 </div>
+
+      <figure class="logo-alt-home hidden-large-screens" style="margin-left:3%;">
+        <img src="/assets/img/RO_KN_Logo_1_RGB_diap_en.png" style="max-width:90%;">
+        <caption><p><small>Thank you to the generous sponsors of the ABA-ICC Project</small></p></caption>
+      </figure>
+
+
 
 <nav class="card-menu columns-small">
   <ul class="nav-sidebar">

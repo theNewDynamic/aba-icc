@@ -42,18 +42,19 @@
 <!-- BOTTOM SECTION -->
 
 <!-- jump to menu on small screens only -->
+
+{% unless page.category == 'home' %}
     <div class="hidden-large-screens">
         <a href="#menu-local">&raquo; SECTION MENU</a>
     </div>
-
+{% endunless %}
 <!-- // home page special content -->
   {% if page.category == 'home' %}
 
-      <figure class="logo-alt-home">
-
-    <img src="/assets/img/RO_KN_Logo_1_RGB_diap_en.png">
-    <caption><p><small>Thank you to the generous sponsors of the ABA-ICC Project</small></p></caption>
-    </figure>
+      <figure class="logo-alt-home hidden-small-screens">
+        <img src="/assets/img/RO_KN_Logo_1_RGB_diap_en.png">
+        <caption><p><small>Thank you to our generous sponsor</small></p></caption>
+      </figure>
 
 
 

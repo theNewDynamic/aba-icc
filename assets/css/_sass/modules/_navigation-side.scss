@@ -55,7 +55,7 @@ $sidebar-right-color: #999 !default;
       //margin-top: $navigation-height;
       width: 100%;
       height: auto;
-      position: static;
+      position: relative;
       text-align: left;
       padding: 2em 7em 4em 2em;
 
@@ -210,9 +210,14 @@ aside#menu-local {
 
 
 .logo-alt-home {
-   margin:50px 0 30px 0;
+
+   //margin:50px 0 30px 0;
+   position: absolute;
+   bottom: 5em;
+   left: 1em;
+
 @include media($sidebar-right-breakpoint) {
-  margin:250px 0 30px 0;
+  //margin:250px 0 30px 0;
 }
 
 }

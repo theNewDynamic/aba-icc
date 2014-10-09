@@ -3,8 +3,8 @@
 }
 
 .grid-items {
-  $grid-items-background: darken(#021520, 0);//$content-color-background;//$base-body-color;
-  $grid-item-background: $sidebar-right-color-background;//lighten($sidebar-right-color-background, 2%);
+  $grid-items-background: $content-color-background;//darken(#021520, 0);//$content-color-background;//$base-body-color;
+  $grid-item-background: $content-color-background;//$sidebar-right-color-background;//lighten($sidebar-right-color-background, 2%);
   $grid-item-colors:
     lighten($sidebar-right-color-background, 1%),
     lighten($sidebar-right-color-background, 6%),
@@ -15,11 +15,12 @@
     lighten($sidebar-right-color-background, 12%),
     lighten($sidebar-right-color-background, 12%),
     lighten($sidebar-right-color-background, 20%),
-    lighten($sidebar-right-color-background, 20%),
-    lighten($sidebar-right-color-background, 10%);
-  $grid-item-border-size: 0;//9px;
+    lighten($sidebar-right-color-background, 4%),
+    lighten($sidebar-right-color-background, 20%);
+  $grid-item-border-size: 9px;
   $grid-item-columns: 3;
   $grid-item-big-columns: 9;
+  $grid-item-medium-columns: 6;
   $grid-item-color: white;
   $grid-item-height: 16em;
 
@@ -34,8 +35,8 @@
   margin-top:0;
   margin-right: $grid-item-border-size - 4px;
   margin-left: $grid-item-border-size - 4px;
-  margin-left:0;
-  margin-right:0;
+  // margin-left:0;
+  // margin-right:0;
   padding-top:$grid-item-border-size;
 ////END BP
   .grid-item {
@@ -60,7 +61,7 @@
       @include grid-item-columns($grid-item-columns);
     }
 
-    @for $i from 1 to 11 { // assign colors from $grid-item-colors list
+    @for $i from 1 to 12 { // assign colors from $grid-item-colors list
       &:nth-child(#{$i}) {
         $background-from-list: nth($grid-item-colors, $i);
         background-color: $background-from-list;
@@ -114,7 +115,23 @@
       }
     }
   }
+  .grid-item-medium {
+    @include media($large-screen) {
+      @include grid-item-columns($grid-item-medium-columns);
+    }
+    p {
+      @include media($medium-screen) {
+        max-width: 78%;
+      }
+    }
+  }
 
+.grid-image {
+  display: none;
+    @include media($medium-screen-up) {
+      display: block;
+    }
+}
   .grid-item-image {
     background: url(/images/lake-transparent.png);
     background-color: $grid-item-background;

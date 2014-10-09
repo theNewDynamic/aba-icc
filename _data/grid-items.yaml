@@ -1,16 +1,16 @@
 home:
-- 
+-
  heading: "Events"
  copy:
  class: text-right
  link: "/the-aba-icc-project/news/"
 
-- 
+-
  # heading: "Events"
  background_image: 14669850384_f1c1df7be9_o.jpg
- copy: 
+ copy:
  link: "/the-aba-icc-project/news/"
- class: 
+ class: grid-image
  bg_position: "top right"
 
 
@@ -22,54 +22,58 @@ home:
  link: "/about-the-icc/"
  bg_position: "top center"
 
-- 
+-
  background_image: "bensouda-getty.jpg"
- copy: 
+ copy:
+ class: grid-image
  link: "/about-the-icc/"
  # bg_position: "top center"
-- 
+-
  background_image: jackson-nuremberg-dark.jpg
  copy: "Of one thing we may be sure. The future will never have to ask, with misgiving, what could the Nazis have said in their favor. History will know that whatever could be said, they were allowed to say. They have been given the kind of a Trial which they, in the days of their pomp and power, never gave to any man… <br /><small>— Justice Jackson, from his closing statement at Nuremberg</small>"
  link: "/evolution-of-international-criminal-justice/introduction/"
- class: "grid-item-big grid-item-imageTK"
+ class: "grid-item-big grid-item-imageTK grid-image"
  bg_position: "center center"
  link: "/evolution-of-international-criminal-justice/01-introduction/"
 
 
-- 
+-
  heading: "Evolution of International Criminal Justice"
  #background_image: Nuremberg_Trials.jpg
- copy: 
+ copy:
  class: text-left
  link: "/evolution-of-international-criminal-justice/01-introduction/"
 
 -
  heading: "Board of Advisors"
- class: text-right 
+ class: text-right
  link: "/the-aba-icc-project/board-of-advisors/"
 
 
-- 
+-
  # heading: "Board of Advisors"
  background_image: "aba-icc-board-banner.jpg"
- copy: 
+ copy:
  link: "/the-aba-icc-project/board-of-advisors/"
- class: 
- class: "grid-item-big grid-item-imageTK"
+ class: "grid-item-big grid-item-imageTK grid-image"
 -
  #heading: "Public Opinion Polls"
  # background_image: ipsos-800x290.png
- background_image: ipsos-1400x400.jpg
- class: "grid-item-big grid-item-image"
- link: /ipsos/
+ background_image: icjt-grid-image_desat.jpg
+ class: "grid-item-medium grid-item-image grid-image"
+ link: /the-aba-icc-project/international-criminal-justice-today/
  background_size: cover
  bg_position: "center center"
 
 -
- heading: "Ipsos Polling Data"
- link: /ipsos/
- class: text-left 
+ heading: "International Criminal Justice Today"
+ link: /the-aba-icc-project/international-criminal-justice-today/
+ class: text-left
 
+-
+ heading: "Public Opinion Polling"
+ link: /the-aba-icc-project/international-criminal-justice-today/
+ class: text-right
 
 
 news:
