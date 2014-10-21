@@ -1,7 +1,6 @@
 ---
 title: State Parties to the ICC
-layout: page
+layout: full-width
 category:
 include: site-specific/map.html
 ---
-This will have a map. 

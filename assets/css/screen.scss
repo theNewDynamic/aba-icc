@@ -119,3 +119,24 @@ text-align: justify;
 		border-top:1px solid #ccc;
 		border-bottom:#ccc;
 	}
+
+// .include {
+// 	position: relative;
+// 	height:100%;
+// 	width: 100%;
+// 	background-color: red;
+// }
+// iframe {
+// 	position: absolute;
+// 	top: 80px; left: 0;
+// 	width: 80%;
+// 	height: 900px;
+// 	border: none;
+// 	//padding-top: 32px;
+// 	box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;
+// }
+iframe .map-legend {
+	margin-bottom: 300px !important;
+	position: absolute;
+	top: 200;
+}
