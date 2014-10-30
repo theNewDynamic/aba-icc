@@ -1,0 +1,10 @@
+{
+map: "worldLow",
+getAreasFromMap:false,
+areas:[
+  {id:"AU"},
+  {id:"US"},
+  {id:"FR"},
+  {id:"PH"}
+  ]
+}
