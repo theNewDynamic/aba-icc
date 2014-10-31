@@ -25,9 +25,9 @@ layout: null
   {% endif %}
 
 
-  ,"description":"{% if post.date_signed %}Signed {{ post.date_signed | date: '%Y' | strip_newlines }}{% endif %}{% if post.genocide %}{{ post.genocide | markdownify | strip_newlines }}{% endif %}{% if post.crimes_against_humanity %}{{ post.crimes_against_humanity | markdownify | strip_newlines }}{% endif %}{% if post.aggression %}{{ post.aggression | markdownify | strip_newlines }}{% endif %}{% if post.war_crimes %}{{ post.war_crimes | markdownify | strip_newlines}}{% endif %}"
+  ,"description":"{% if post.date_signed %}<p><strong>Signed {{ post.date_signed | date: '%m-%Y' | strip_newlines }}</strong></p>{% endif %}{% if post.date_ratified_or_acceded %}<p><strong>Ratified or Acceded {{ post.date_ratified_or_acceded | date: '%m-%Y' | strip_newlines }}</strong></p>{% endif %}{% if post.genocide %}{{ post.genocide | markdownify | strip_newlines | escape }}{% endif %}{% if post.crimes_against_humanity %}{{ post.crimes_against_humanity | markdownify | strip_newlines }}{% endif %}{% if post.aggression %}{{ post.aggression | markdownify | strip_newlines }}{% endif %}{% if post.war_crimes %}{{ post.war_crimes | markdownify | strip_newlines}}{% endif %}"
 
-  }{% unless forloop.last %},{% endunless %}
+ } {% unless forloop.last %},{% endunless %}
 {% endif %}
 
 {% endfor %}]

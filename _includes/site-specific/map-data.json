@@ -13,18 +13,12 @@
 
   {% elsif post.date_signed %}
 
-    ,"color":"#d3cabe"
+    ,"color":"#6fa4c7"
 
   {% else %}
 
     ,"color":"#FFF"
 
   {% endif %}
-
-
-  ,"description":"{% if post.date_signed %}<p><strong>Signed {{ post.date_signed | date: '%m-%Y' | strip_newlines }}</strong></p>{% endif %}{% if post.date_ratified_or_acceded %}<p><strong>Ratified or Acceded {{ post.date_ratified_or_acceded | date: '%m-%Y' | strip_newlines }}</strong></p>{% endif %}{% if post.genocide %}{{ post.genocide | markdownify | strip_newlines }}{% endif %}{% if post.crimes_against_humanity %}{{ post.crimes_against_humanity | markdownify | strip_newlines }}{% endif %}{% if post.aggression %}{{ post.aggression | markdownify | strip_newlines }}{% endif %}{% if post.war_crimes %}{{ post.war_crimes | markdownify | strip_newlines}}{% endif %}"
-
- } {% unless forloop.last %},{% endunless %}
-{% endif %}
-
+,"description":"{% if post.date_signed %}<p><strong>Signature:</strong> {{ post.date_signed | date: '%B %d, %Y' | strip_newlines }}</p><p>{% if post.date_ratified_or_acceded %}<strong>Ratification or Accenssion:</strong> {{ post.date_ratified_or_acceded | date: '%B %d, %Y' | strip_newlines }}{% else %}Not Ratified or Acceded{% endif %}</p>{% else %}<p>Not a Signatory{% if post.date_ratified_or_acceded %}<strong>Ratification or Accenssion:</strong> {{ post.date_ratified_or_acceded | date: '%B %d, %Y' | strip_newlines }}{% else %}<br />Not Ratified or Acceded{% endif %}</p>{% endif %}{% if post.genocide || post.crimes_against_humanity || post.aggression || post.war_crimes %}<h6>Domestic Atrocity Crime Legislation</h6>{% if post.genocide %}{{ post.genocide | markdownify | strip_newlines | escape }}{% endif %}{% if post.crimes_against_humanity %}{{ post.crimes_against_humanity | markdownify | strip_newlines | escape }}{% endif %}{% if post.aggression %}{{ post.aggression | markdownify | strip_newlines }}{% endif %}{% if post.war_crimes %}{{ post.war_crimes | markdownify | strip_newlines}}{% endif %}{% endif %}"} {% unless forloop.last %},{% endunless %}{% endif %}
 {% endfor %}]
