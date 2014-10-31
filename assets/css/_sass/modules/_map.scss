@@ -17,10 +17,6 @@
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
   hyphens: auto;
-  h5 {
-    color: #000;
-  }
-
   a {
     color: $red;
     &:hover {
@@ -32,5 +28,5 @@
 
 .ammapDescriptionTitle {
   font-size: 2em;
-  color: #000;//darken($red, 5%);
+  //color: #000;//darken($red, 5%);
 }
