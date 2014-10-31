@@ -37,6 +37,39 @@ layout: null
             descriptionWindowTop: 100
         };
 
+    //     valueLegend: {
+    //     right: 10,
+    //     minValue: "little",
+    //     maxValue: "a lot!"
+    // }
+
+
+
+        map.legend = {
+            width: "62%",
+            marginRight:27,
+            marginLeft:27,
+            equalWidths:false,
+            backgroundAlpha: 0.7,
+            backgroundColor: "#CCC",
+            borderColor: "#ffffff",
+            borderAlpha: 1,
+            top: 10,
+            left: 190,
+            horizontalGap: 10,
+            data: [{
+                title: "Party to Statute",
+                color: "#074b7b"
+            }, {
+                title: "Signed but not Ratified or Acceded",
+                color: "#6fa4c7"
+            }, {
+                title: "Not a Signatory",
+                color: "#FFF"
+            } ]
+    };
+
+
         // let's say we want a small map to be displayed, so let's create it
         //map.smallMap = new AmCharts.SmallMap();
 
