@@ -47,16 +47,16 @@ layout: null
 
 
         map.legend = {
-            width: "62%",
-            marginRight:27,
-            marginLeft:27,
+            width: "72%",
+            marginRight:12,
+            marginLeft:12,
             equalWidths:false,
             backgroundAlpha: 0.7,
             backgroundColor: "#CCC",
             borderColor: "#ffffff",
             borderAlpha: 1,
             top: 10,
-            left: 190,
+            left: 90,
             horizontalGap: 10,
             data: [{
                 title: "Party to the Rome Statute",

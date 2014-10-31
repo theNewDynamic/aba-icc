@@ -1,5 +1,10 @@
 #map-stateparties {
   background-color: #eee;
+   height: 100vh;
+   width: 100% !important;
+  @include media($d-vp) {
+  width: 72% !important;
+  }
 }
 
 .ammapDescriptionWindow {
@@ -24,6 +29,16 @@
       border-bottom: 1px solid #000;
     }
   }
+}
+.amChartsLegend {
+  -ms-word-break: break-all;
+  /* Be VERY careful with this, breaks normal words wh_erever */
+  word-break: break-all;
+  /* Non standard for webkit */
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
 }
 
 .ammapDescriptionTitle {
