@@ -46,7 +46,7 @@ layout: null
 
 
         map.legend = {
-            width: "62%",
+            width: "58%",
             marginRight:27,
             marginLeft:27,
             equalWidths:false,
