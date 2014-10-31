@@ -20,9 +20,7 @@ layout: null
         var dataProvider = {
             map: "worldLow",
             getAreasFromMap:false,
-
-{% include site-specific/map-data.json %}
-
+            {% include site-specific/map-data.json %}
         };
         // pass data provider to the map object
         map.dataProvider = dataProvider;
@@ -33,8 +31,10 @@ layout: null
          */
         map.areasSettings = {
             autoZoom: true,
-            selectedColor: "#111",
-            descriptionWindowTop: 100
+            selectedColor: "#bababa",
+            descriptionWindowTop: 100,
+            descriptionWindowWidth: 450,
+            outlineThickness: 0.2
         };
 
     //     valueLegend: {

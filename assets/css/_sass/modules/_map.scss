@@ -1,31 +1,36 @@
 #map-stateparties {
-
-background-color: #eee;
-}
-
-#AU, #PH {
-  color: #000;
-  colorSolid: green;
+  background-color: #eee;
 }
 
 .ammapDescriptionWindow {
-  background-color: #fff;
-  color: #191919;
+  background-color: #fcfcfc !important;
+  border: 6px solid $blue !important;
+  box-shadow: 0 30px 50px rgba(0,0,0,0.8);
+  color: #555;
   padding: 1.5em;
   width: 450px !important;
   -ms-word-break: break-all;
+  /* Be VERY careful with this, breaks normal words wh_erever */
+  word-break: break-all;
+  /* Non standard for webkit */
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+  h5 {
+    color: #000;
+  }
 
-     /* Be VERY careful with this, breaks normal words wh_erever */
-     word-break: break-all;
-
-     /* Non standard for webkit */
-     word-break: break-word;
-
--webkit-hyphens: auto;
-   -moz-hyphens: auto;
-        hyphens: auto;
+  a {
+    color: $red;
+    &:hover {
+      color: #000;
+      border-bottom: 1px solid #000;
+    }
+  }
 }
 
 .ammapDescriptionTitle {
   font-size: 2em;
+  color: #000;//darken($red, 5%);
 }
