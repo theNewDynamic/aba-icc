@@ -32,8 +32,8 @@ layout: null
         map.areasSettings = {
             autoZoom: true,
             selectedColor: "#bababa",
-            descriptionWindowTop: 100,
-            descriptionWindowWidth: 450,
+            descriptionWindowTop: 120,
+            descriptionWindowLeft: 10,
             outlineThickness: 0.5,
             outlineColor: "#bababa"
         };
