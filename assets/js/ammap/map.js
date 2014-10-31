@@ -34,7 +34,8 @@ layout: null
             selectedColor: "#bababa",
             descriptionWindowTop: 100,
             descriptionWindowWidth: 450,
-            outlineThickness: 0.2
+            outlineThickness: 0.5,
+            outlineColor: "#bababa"
         };
 
     //     valueLegend: {
@@ -46,7 +47,7 @@ layout: null
 
 
         map.legend = {
-            width: "58%",
+            width: "62%",
             marginRight:27,
             marginLeft:27,
             equalWidths:false,
@@ -58,7 +59,7 @@ layout: null
             left: 190,
             horizontalGap: 10,
             data: [{
-                title: "Party to Statute",
+                title: "Party to the Rome Statute",
                 color: "#074b7b"
             }, {
                 title: "Signed but not Ratified or Acceded",
