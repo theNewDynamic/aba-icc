@@ -7,7 +7,7 @@ excerpt: "The project's mission is to strengthen, regularize, and broaden U.S. e
 published: true
 ---
 
-The American Bar Association International Criminal Court Project (ABA-ICC Project) implements longstanding ABA policies on international criminal justice.  The ABA was amongst the voices that called for establishment of a permanent international tribunal by multilateral treaty – what later became the Rome Statute that established the International Criminal Court (ICC)  – and did so starting in 1978.  The ABA participated in the negotiations of the Rome Statute as an observer, advocated for the treaty’s adoption, and urged the United States to become a State Party. Most recently, the ABA urged the US government to forge greater support for, and engagement with, the ICC.
+The American Bar Association's International Criminal Court Project (ABA-ICC Project) implements longstanding ABA policies on international criminal justice.  The ABA was amongst the voices that called for establishment of a permanent international tribunal by multilateral treaty – what later became the Rome Statute that established the International Criminal Court (ICC)  – and did so starting in 1978.  The ABA participated in the negotiations of the Rome Statute as an observer, advocated for the treaty’s adoption, and urged the United States to become a State Party. Most recently, the ABA urged the US government to forge greater support for, and engagement with, the ICC.
 
 #### [Click Here to Join our Mailing List](/follow/)
 
