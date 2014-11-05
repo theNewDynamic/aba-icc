@@ -13,6 +13,7 @@ Interns generally work from the ABA office in central Washington, D.C., but remo
 
 If interested in applying for an internship at the ABA-ICC Project, please email the following PDF formatted material (as a whole or in individual pieces) to the Director of the ABA-ICC Project, [Christopher "Kip" Hale](http://www.aba-icc.org/the-aba-icc-project/project-staff/): 
 
+--- 
 -**Cover letter.** Please explain your interests in interning with the ABA-ICC Project, your relevant skils and credentials, and any other relevant information that will be helpful to your application.
 - **Resume/CV.** Please includes your current contact information as well as your academic, professional, and other related experiences. There is a preference for applicants currently in law school anywhere in the world; however, undergraduate applicants with demonstrated capacity to work on typical ABA-ICC Project activities are encouraged to apply. 
 - **Writing Sample.** Please transmit a writing sample of no more than ten pages in length that demonstrates your research, drafting, and analytical skills. Writing sample that covers a subject matter relevant to international criminal justice are appreciated, but certainly not required.
