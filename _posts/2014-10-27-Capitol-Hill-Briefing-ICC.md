@@ -8,7 +8,7 @@ participants: "Prosecutor of the International Criminal Court, Fatou Bensouda; U
 featured: true
 splash_height: 525px
 category: event
-excerpt: "On October 27, 2014, the American Bar Association's (ABA) International Criminal Court (ICC) Project and the Washington Working Group on the ICC organized a U.S. Senate briefing with Prosecutor Fatou Bensouda and U.S. Ambassador at-large for Global Criminal Justice Stephen Rapp."
+excerpt: "On October 27, 2014, the ABA's International Criminal Court (ICC) Project and the Washington Working Group on the ICC organized a U.S. Senate briefing with ICC Prosecutor Fatou Bensouda and U.S. Ambassador for Global Criminal Justice Stephen Rapp."
 featured_image: 2014-10-27-capitol-hill-briefing-icc.jpg
 ---
 On October 27, 2014, the American Bar Association (ABA) International Criminal Court (ICC) [Project](http://www.aba-icc.org) in conjunction with the [Washington Working Group on the ICC](http://washingtonicc.org/) organized a U.S. Senate briefing on the ICC. The off-the-record event hosted by the office of U.S. Senator Barbara Boxer (D-CA) featured remarks by the Prosecutor of the ICC, [Fatou Bensouda](http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/office%20of%20the%20prosecutor/Pages/theprosecutor2012.aspx), and U.S. Ambassador at-large for Global Criminal Justice, [Stephen Rapp](http://www.state.gov/r/pa/ei/biog/129455.htm), with introductory comments by senior counsel of the ABA Center for Human Rights and director of the ABA-ICC Project, Kip Hale.
