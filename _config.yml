@@ -1,10 +1,7 @@
 url: http://www.aba-icc.org
 sitename: 'The ABA-ICC Project'
-description: 'ABA Center for Human Rights'
+description: 'American Bar Association's International Criminal Court Project'
 # do not include  https://github.com/...
-repo: 'sonnetmedia/aba-icc.org'
-branch: master
-default_author: "Bud Parr"
 
 #Jekyll Options
 # if using more than one Jekyll instance on your local machine
