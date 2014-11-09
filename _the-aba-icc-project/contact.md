@@ -3,7 +3,7 @@ title: Contact
 layout: page
 include: global/mailing-list.html
 ---
-#####**American Bar Association International Criminal Court Project**
+#####**American Bar Association's International Criminal Court Project**
 
 1050 Connecticut Ave NW Suite 400  
 Washington, D.C. 20036  
