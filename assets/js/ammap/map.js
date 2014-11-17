@@ -98,7 +98,7 @@ layout: null
         var dataProvider = {
             map: "worldLow",
             getAreasFromMap:false,
-             // include site-specific/map-data.json
+            {% include site-specific/map-data-situations-and-cases.json %}
 
         };
         // pass data provider to the map object
@@ -110,6 +110,7 @@ layout: null
          */
         map2.areasSettings = {
             autoZoom: true,
+            centerMap: false,
             selectedColor: "#bababa",
             descriptionWindowTop: 120,
             descriptionWindowLeft: 10,
@@ -126,7 +127,7 @@ layout: null
 
 
         map2.legend = {
-            width: "72%",
+            width: "42%",
             marginRight:12,
             marginLeft:12,
             equalWidths:false,
@@ -138,14 +139,11 @@ layout: null
             left: 90,
             horizontalGap: 10,
             data: [{
-                title: "Party to the Rome Statute",
-                color: "#074b7b"
+                title: "Preliminary Examinations",
+                color: "green"
             }, {
-                title: "Signed but not Ratified or Acceded",
-                color: "#6fa4c7"
-            }, {
-                title: "Not a Signatory",
-                color: "#FFF"
+                title: "Trial(s)",
+                color: "black"
             } ]
     };
 
