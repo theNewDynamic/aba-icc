@@ -4,11 +4,8 @@ article {
   margin:auto;
   max-width: 100%;
 
-
     &.hentry {
       max-width: $e-vp;
-
-
     }
 
 
@@ -23,7 +20,7 @@ article {
 
   }
   //min-height: $c-vp;
-  overflow: hidden;
+  //overflow: hidden;
   header {
     margin-bottom: .5em;
   }
