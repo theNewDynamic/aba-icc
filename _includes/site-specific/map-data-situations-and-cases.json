@@ -1,2 +1,22 @@
 {% assign preliminary_examinations_color = 'green' %}{% assign trials_color = 'black' %}
-"areas": [{% for post in site.data.situations-and-cases %}{% if post.ISO_code %}{"id":"{{ post.ISO_code }}"{% if post.Status == 'Preliminary Examinations' %},"color":"{{ preliminary_examinations_color }}"{% elsif post.Status == 'Trial(s)' %},"color":"{{ trials_color }}"{% else %},"color":"#FFF"{% endif %},"description":"{% if post.Phase %}<p><strong>Phase:</strong> {{ post.Phase | strip_newlines }}</p><p>{% endif %}","label": "{{ post.Country }}"}{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}]
+"areas": [{% for post in site.data.situations-and-cases %}{% if post.ISO_code %}{"id":"{{ post.ISO_code }}"{% if post.Status == 'Preliminary Examinations' %},"color":"{{ preliminary_examinations_color }}"{% elsif post.Status == 'Trial(s)' %},"color":"{{ trials_color }}"{% else %},"color":"#FFF"{% endif %},"description":"{% if post.Phase %}<p><strong>Phase:</strong> {{ post.Phase | strip_newlines }}</p>{% endif %}{% if post.Overview %}<p><strong>Overview:</strong> {{ post.Overview }}</p>{% endif %}","title": "{{ post.Country }}",
+
+"pattern": {
+  {% if post.Phase == 'Admissibility Assessment' %}
+    "url": "http://www.amcharts.com/lib/3/patterns/black/pattern1.png",
+        color:"green",
+  {% elsif post.Phase == 'Completed' %}
+    "url": "http://www.amcharts.com/lib/3/patterns/black/pattern2.png",
+    color:"green",
+  {% elsif post.Phase == 'Initial Assessment' %}
+    "url": "http://www.amcharts.com/lib/3/patterns/black/pattern3.png",
+    color:"green",
+  {% elsif post.Phase == 'Subject Matter Assessment' %}
+    "url": "http://www.amcharts.com/lib/3/patterns/black/pattern4.png",
+    color:"green",
+  {% else %}
+"url": "http://www.amcharts.com/lib/3/patterns/black/pattern5.png",
+    color:"black",
+  {% endif %}width: 4,height: 4},
+
+}{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}]

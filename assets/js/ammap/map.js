@@ -95,9 +95,16 @@ layout: null
          in case you don't set it to true, all the areas except listed in data
          provider will be treated as unlisted.
         */
+        map2.addTitle("Preliminary Examinations, Cases, and Situations before the ICC", 18);
+
         var dataProvider = {
             map: "worldLow",
+            zoomLevel: 1.45,
+            zoomLongitude: 10,
+            zoomLatitude: 1,
             getAreasFromMap:false,
+
+
             {% include site-specific/map-data-situations-and-cases.json %}
 
         };
@@ -109,10 +116,11 @@ layout: null
          * selectedColor indicates color of the clicked area.
          */
         map2.areasSettings = {
-            autoZoom: true,
-            centerMap: false,
+
+            //autoZoom: true,
+            //centerMap: false,
             selectedColor: "#bababa",
-            descriptionWindowTop: 120,
+            descriptionWindowBottom: 120,
             descriptionWindowLeft: 10,
             outlineThickness: 0.5,
             outlineColor: "#bababa"
@@ -127,15 +135,15 @@ layout: null
 
 
         map2.legend = {
-            width: "42%",
+            width: "22%",
             marginRight:12,
             marginLeft:12,
             equalWidths:false,
             backgroundAlpha: 0.7,
-            backgroundColor: "#CCC",
-            borderColor: "#ffffff",
+            backgroundColor: "#fff",
+            borderColor: "#ccc",
             borderAlpha: 1,
-            top: 10,
+            top: 50,
             left: 90,
             horizontalGap: 10,
             data: [{

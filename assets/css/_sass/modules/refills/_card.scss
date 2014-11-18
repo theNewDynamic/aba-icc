@@ -138,3 +138,23 @@
     }
   }
 }
+
+.card-full {
+  @include media($large-screen) {
+    @include span-columns(12);
+    @include omega(3n);
+  }
+
+}
+
+
+.card-wide {
+  .card-image {
+    max-height: 250px;
+  }
+  @include media($large-screen) {
+    @include span-columns(6);
+    @include omega(3n);
+  }
+
+}

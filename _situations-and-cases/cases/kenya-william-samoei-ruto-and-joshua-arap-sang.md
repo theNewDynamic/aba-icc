@@ -1,7 +1,8 @@
 ---
-title: The Prosecutor v. William Samoei Ruto and Joshua Arap Sang
+title: "The Prosecutor v. William Samoei Ruto and Joshua Arap Sang"
 layout: page
-category: Kenya
+category: kenya
+image: ruto-sang.jpg
 ---
 ##### Background
 

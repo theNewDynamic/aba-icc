@@ -1,0 +1,67 @@
+---
+layout: default
+section: icc-cases
+---
+{% assign cases = site.situations-and-cases | where: 'category', page.category %}
+<section class="content">
+  <div class="layout" style="padding-top:4em;">
+
+<div class="cards">
+
+  <div class="card card-wide">
+
+    <div class="card-header">
+      {{ page.title }}
+    </div>
+    <div class="card-copy">
+      {{content}}
+    </div>
+  </div>
+
+
+
+
+{% for case in cases %}
+    <div class="card card-wide">
+
+      <div class="card-image">
+        <img src="/assets/img/{{ case.image }}" />
+      </div>
+<div class="card-header">{{ case.title }}</div>
+
+<div class="card-copy">
+      {{case.content}}
+    </div>
+
+
+</div>
+
+
+
+{% endfor %}
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</section>
+
+
