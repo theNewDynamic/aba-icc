@@ -36,7 +36,7 @@ and conference favorite "porch sessions," in which speakers/participants engage 
 
 
 
-- Panel discussion on the *Relevance of International Humanitarian Law in 2014* with Hon. Hans Corell, Hon. David J. Scheffer, Prof. William Schabas, and Prof. Leila Sadat (moderator).
+- Panel discussion on the *Relevance of International Humanitarian Law in 2014* with Mr.. Hans Corell, Mr. David J. Scheffer, Prof. William Schabas, and Prof. Leila Sadat (moderator).
 
 <iframe width="720" height="572" src="http://www.ustream.tv/embed/recorded/51848590?v=3&amp;wmode=direct" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe><br /><a href="http://www.ustream.tv" style="font-size: 12px; line-height: 20px; font-weight: normal; text-align: left;" target="_blank">Broadcast live streaming video on Ustream</a>
 
