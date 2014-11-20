@@ -5,22 +5,22 @@ date: "2014-02-25 12:00:00"
 date: "2014-02-25 12:00:00"
 splash_image: 2014-02-24-event-screenshot.jpg
 sponsor: "American Bar Association & American University Council on African Studies"
-participants: "Michael S. Greco, former president, American Bar Association; Regina Njogu, Washington College of Law alumni, Kenyan attorney; Stephen Arthur Lamony, Senior Adviser on AU, UN, and African Situations Coalition for the ICC; David Bosco, Professor in American University’s School of International Service"
+participants: "Mr. Michael S. Greco, former president, American Bar Association; Ms. Regina Njogu, Washington College of Law alumni, Kenyan attorney; Mr. Stephen Arthur Lamony, Senior Adviser on American University, United Nations, and African Situations Coalition for the International Criminal Court; Professor David Bosco, American University’s School of International Service"
 category: event
 ---
-On February 25, 2014, American University's Council on Africa Studies hosted a panel debate on Africa and the ICC with a special focus on recent ICC cases against senior Kenyan governmental officials.
+On February 25, 2014, American University's Council on Africa Studies hosted a panel debate on Africa and the International Criminal Court (ICC) with a special focus on recent ICC cases against senior Kenyan governmental officials.
 
-![](http://carllevan.com/wp-content/uploads/2014/02/ICC-photo-of-all-panelists-2-25-2014.jpg)  The debaters were Prof. David Bosco,f American University and author of "Rough Justice"; Stephen Lamony, senior advisor to the Coalition for the ICC; and Regina Njogu, private Kenya attorney with experience in human rights issues.The moderator of this debate was Michael Greco, former ABA President and chair of the ABA-ICC Project, who began by explaining the ABA’s long-standing support of  the ICC, stating, “The ABA has long been a strong supporter of international criminal justice. Going back to the 1970’s the first policy adopted by the ABA regarding international criminal justice was to endorse the idea of a permanent tribunal for international justice.” Mrs. Njogu's statements were critical of the ICC, alleging ICC incompetence in bringing justice to Africa, specifically in the case of Kenya. However, these allegations were firmly rejected by the other panelists who provided evidence to the contrary.
+![](http://carllevan.com/wp-content/uploads/2014/02/ICC-photo-of-all-panelists-2-25-2014.jpg)  The debaters were Prof. David Bosco, American University and author of "Rough Justice"; Mr. Stephen Lamony, senior advisor to the Coalition for the ICC; and Ms. Regina Njogu, private Kenya attorney with experience in human rights issues. The moderator of this debate was Mr. Michael Greco, former American Bar Association (ABA) President and chair of the ABA-ICC Project, who began by explaining the ABA’s long-standing support of  the ICC, stating, “The ABA has long been a strong supporter of international criminal justice. Going back to the 1970’s the first policy adopted by the ABA regarding international criminal justice was to endorse the idea of a permanent tribunal for international justice.” Ms. Njogu's statements were critical of the ICC, alleging ICC incompetence in bringing justice to Africa, specifically in the case of Kenya. However, these allegations were firmly rejected by the other panelists who provided evidence to the contrary.
 
 <iframe width="853" height="480" src="//www.youtube.com/embed/XyYs7NzCsO8?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ---
 
-> “*The ABA has long been a strong supporter of international criminal justice. Going back to the 1970’s, the first policy adopted by the ABA regarding international criminal justice was to endorse the idea of a permanent tribunal for international justice.*”  — Michael Greco, Chair of the ABA-ICC Project
+> “*The ABA has long been a strong supporter of international criminal justice. Going back to the 1970’s, the first policy adopted by the ABA regarding international criminal justice was to endorse the idea of a permanent tribunal for international justice.*”  — Mr. Michael Greco
 
-> “*What needs to be understood is, unlike national jurisdictions which have power of the police to do these things, the ICC works on cooperation. When the cases are falling apart because of lack of cooperation from the States, you hear about 'incompetence,' but the reality is that there is simply no police force to accomplish these tasks.*”  — Kip Hale, Director of the ABA-ICC Project
+> “*What needs to be understood is, unlike national jurisdictions which have power of the police to do these things, the ICC works on cooperation. When the cases are falling apart because of lack of cooperation from the States, you hear about 'incompetence,' but the reality is that there is simply no police force to accomplish these tasks.*”  — Mr. Kip Hale 
 
-> "*The Kenyan government has given 'no cooperation whatsoever' in the ICC investigation and has 'created a climate of fear' in those in Kenya who attempt to.*"  — Michael Greco, Chair of the ABA-ICC Project
+> "*The Kenyan government has given 'no cooperation whatsoever' in the ICC investigation and has 'created a climate of fear' in those in Kenya who attempt to.*"  — Mr. Michael Greco
 
 [Press Release](http://diasporamessenger.com/us-groups-to-debate-kenyan-icc-cases/)
 
