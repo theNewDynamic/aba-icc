@@ -1,5 +1,5 @@
 ---
-title: "ABA Urges U.S. Government to Act on Crimes Against Humanity"
+title: "American Bar Association Urges U.S. Government to Act on Crimes Against Humanity"
 category: news
 layout: article
 excerpt: "On August 12 at the 2014 American Bar Association (ABA) Annual Meeting, the ABA House of Delegates unanimously passed a policy resolution urging the U.S. Congress to pass comprehensive domestic legislation prohibiting Crimes Against Humanity (CAH)"
@@ -16,7 +16,7 @@ Without domestic CAH legislation, the U.S. becomes a safe haven for those who pa
 
 Unlike war crimes and genocide, CAH have not been codified in an international treaty. Accordingly, there exists large gaps within and between States to investigate and prosecute CAH and cooperate with each other in doing so. A comprehensive CAH treaty, with extradition and mutual legally assistance provisions for example, would significantly curtail these gaps.
 
-[Michael S. Greco](http://www.aba-icc.org/board-of-advisors/-chair-greco-michael/), former ABA President and Chair of the ABA International Criminal Court Project, introduced and advocated for the CAH resolution before the entire ABA House of Delegates. Please find video of his remarks below.
+[Mr. Michael S. Greco](http://www.aba-icc.org/board-of-advisors/-chair-greco-michael/), former American Bar Association (ABA) President and Chair of the ABA International Criminal Court Project, introduced and advocated for the CAH resolution before the entire ABA House of Delegates. Please find video of his remarks below.
 
 ---
 
