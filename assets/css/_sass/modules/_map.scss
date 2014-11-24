@@ -4,7 +4,8 @@
    height: 92vh;
    width: 100% !important;
   @include media($d-vp) {
-  width: 72% !important;
+  //width: 72% !important; //100 - sidebar width
+  width: 68.5% !important;
   }
 }
 

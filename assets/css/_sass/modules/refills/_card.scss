@@ -153,7 +153,7 @@
     max-height: 250px;
   }
   @include media($large-screen) {
-    @include span-columns(6);
+    @include span-columns(8);
     @include omega(3n);
   }
 

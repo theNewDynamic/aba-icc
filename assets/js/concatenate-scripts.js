@@ -20,6 +20,18 @@ $(function () {
  });
 
 
+$(".entry-content img").each(function() {
+  var imageCaption = $(this).attr("alt");
+  var imageSource = $(this).attr("src");
+
+  if (imageCaption != '') {
+    var imgWidth = $(this).width();
+    var imgHeight = $(this).height();
+    var position = $(this).position();
+    var positionTop = (position.top + imgHeight - 26)
+  //$("<figure>").insertBefore(this);
+  $("<caption>"+imageCaption+"</caption>").css({"margin-bottom":"2em", "top":positionTop+"px", "left":"0", "width":100 +"%", "clear":"both", "display": "block"}).insertAfter(this);}
+});
 
 // BOARD PAGE CARDS WITH BIO ON BACK
 $('.flip').click(function(){
