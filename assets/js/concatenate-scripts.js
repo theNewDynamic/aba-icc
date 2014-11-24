@@ -19,7 +19,6 @@ $(function () {
      $('.script-only').removeClass('hidden-js');
  });
 
-
 $(".entry-content img").each(function() {
   var imageCaption = $(this).attr("alt");
   var imageSource = $(this).attr("src");
