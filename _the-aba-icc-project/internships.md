@@ -8,7 +8,8 @@ The American Bar Association's (ABA) International Criminal Court (ICC) Project 
 
 !["ABA Center for Human Rights and International Criminal Court staff and interns celebrate International Criminal Justice Day 2014"](/assets/img/aba-interns-international-criminal-justice-day.jpg)
 
-**ABA Center for Human Rights and International Criminal Court staff and interns celebrate International Criminal Justice Day 2014**
+
+**ABA Center for Human Rights and International Criminal Court Project staff and interns celebrate International Criminal Justice Day 2014**
 
 Interns generally work from the ABA office in central Washington, D.C., but remote internships may be considered. On a limited basis and where need can be demonstrated, the ABA-ICC Project can offer a financial stipend to interns, particularly for applicants from developing countries.
 
