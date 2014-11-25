@@ -41,13 +41,14 @@
 ////END BP
   .grid-item {
     @include transition (all 0.2s ease-in-out);
-    height: $grid-item-height;
+    height: auto;
     background: $grid-item-background;
     width: 100%;
     overflow: hidden;
     float: left;
-    padding: 2em;
+    padding: 1.75em;
     @include media($normal-screen-up) {
+      height: $grid-item-height;
     padding: 2vh;
   }
     border-top: 0;
@@ -90,18 +91,27 @@
     }
 
   .grid-item p {
-
-      font-size:1.8vh;
-      max-width: 90%;
+      font-size: .8em;
+      //font-size:2vh;//1.8vh;
+      max-width: 95%;
       margin: auto;
+
       color: transparentize($grid-item-color, .3);
       @include media($medium-screen) {
-        font-size:1.7vh;
+        font-size: 1.9vh;
         max-width: 80%;
       }
       @include media($wide-screen-up) {
         font-size: 1.4vh;
         max-width: 80%;
+      }
+    }
+
+    .presentational p {
+      @include media($medium-screen) {
+        padding-top: .75em;
+        font-weight: bold;
+        font-size: 2.1vh;
       }
     }
 
@@ -141,10 +151,11 @@
   }
 }
 
+@include media($medium-screen-up) {
 .text-left h1{
   text-align:left;
 }
-
 .text-right h1{
-text-align:right;
+  text-align:right;
+}
 }

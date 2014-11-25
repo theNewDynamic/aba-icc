@@ -1,5 +1,14 @@
 home:
 -
+  copy: "The American Bar Association's International Criminal Court Project is an independent initiative to support the International Criminal Court & US-ICC relations through advocacy, education, and practical legal assistance."
+  class: "grid-item-big presentational"
+
+-
+ heading: "Board of Advisors"
+ class: text-left
+ link: "/the-aba-icc-project/board-of-advisors/"
+
+-
  heading: "Events"
  copy:
  class: text-right
@@ -28,6 +37,14 @@ home:
  class: grid-image
  link: "/about-the-icc/"
  # bg_position: "top center"
+
+-
+ heading: "Evolution of International Criminal Justice"
+ #background_image: Nuremberg_Trials.jpg
+ copy:
+ class: text-right
+ link: "/evolution-of-international-criminal-justice/01-introduction/"
+
 -
  background_image: jackson-nuremberg-dark.jpg
  copy: "Of one thing we may be sure. The future will never have to ask, with misgiving, what could the Nazis have said in their favor. History will know that whatever could be said, they were allowed to say. They have been given the kind of a Trial which they, in the days of their pomp and power, never gave to any man… <br /><small>— Justice Jackson, from his closing statement at Nuremberg</small>"
@@ -37,25 +54,15 @@ home:
  link: "/evolution-of-international-criminal-justice/01-introduction/"
 
 
--
- heading: "Evolution of International Criminal Justice"
- #background_image: Nuremberg_Trials.jpg
- copy:
- class: text-left
- link: "/evolution-of-international-criminal-justice/01-introduction/"
-
--
- heading: "Board of Advisors"
- class: text-right
- link: "/the-aba-icc-project/board-of-advisors/"
 
 
--
- # heading: "Board of Advisors"
- background_image: "aba-icc-board-banner.jpg"
- copy:
- link: "/the-aba-icc-project/board-of-advisors/"
- class: "grid-item-big grid-item-imageTK grid-image"
+
+# -
+#  # heading: "Board of Advisors"
+#  background_image: "aba-icc-board-banner.jpg"
+#  copy:
+#  link: "/the-aba-icc-project/board-of-advisors/"
+#  class: "grid-item-big grid-item-imageTK grid-image"
 -
  #heading: "Public Opinion Polls"
  # background_image: ipsos-800x290.png

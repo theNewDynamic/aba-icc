@@ -11,7 +11,7 @@ header.navigation {
   $navigation-search-border: 1px solid darken($navigation-background, 5) !default;
   $navigation-active-link-color: transparentize(white, 0.5) !default;
   $navigation-submenu-padding: 1em !default;
-  $horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$large-screen !default;
+  $horizontal-bar-mode: $large-screen-up;//$small-screen-up;//$medium-screen;//$large-screen !default;
 
   background-color: $navigation-background;
   border-bottom: 1px solid darken($navigation-background, 10);
