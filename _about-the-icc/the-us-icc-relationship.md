@@ -9,5 +9,5 @@ The United States (US) historically has been and continues to be  an an ardent s
 
 At present 122 nations have ratified the Rome Statute and are members of the ICC Assembly of States Parties. While the US played a central role in the establishment of the Rome Statute that created the ICC, the US still remains a non-State Party. Building upon positive developments at the end of the George W. Bush administration, the US-ICC relationship has significantly progressed during the Barack Obama administration, with the US providing varied and important support to the Court to the fullest extent allowed under existing US law. 
 
-**The following timeline chronicles the U.S. role in international criminal justice, the creation of the ICC, and the evolution of US-ICC relations from its beginnings to present day.**  
+**The following timeline chronicles the US role in international criminal justice, the creation of the ICC, and the evolution of US-ICC relations from its beginnings to present day.**  
 
