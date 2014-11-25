@@ -150,7 +150,7 @@ layout: null
                 title: "Preliminary Examinations",
                 color: "green"
             }, {
-                title: "Trial(s)",
+                title: "Cases",
                 color: "black"
             } ]
     };
