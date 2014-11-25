@@ -4,14 +4,24 @@ section: icc-cases
 ---
 {% assign cases = site.situations-and-cases | where: 'category', page.category %}
 <section class="content">
-  <div class="layout" style="padding-top:4em;">
+  <div class="layout" style="padding-top:3em;">
+
+
+       {% if page.title %}
+      <h1 class="entry-title">{{page.title}}</h1>
+      {% endif %}
+      {% if page.subtitle %}
+      <h2>
+        {{page.subtitle}}
+      </h2>
+      {% endif %}
 
 <div class="cards">
 
   <div class="card card-wide">
 
     <div class="card-header">
-      {{ page.title }}
+      Situation
     </div>
     <div class="card-copy">
       {{content}}
@@ -22,7 +32,7 @@ section: icc-cases
 
 
 {% for case in cases %}
-    <div class="card card-wide">
+    <div class="card card-wideTK">
 
       <div class="card-image">
         <img src="/assets/img/{{ case.image }}" />

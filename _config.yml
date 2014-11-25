@@ -63,7 +63,6 @@ collections:
   collection_name: "Situations and Cases"
   permalink: /:collection/:path/
   output: true
-  description: "Preliminary Examinations, Cases, and Situations before the ICC"
  board-of-advisors:
   collection_name: "Board of Advisors"
   main_page_link: "/the-aba-icc-project/board-of-advisors/"

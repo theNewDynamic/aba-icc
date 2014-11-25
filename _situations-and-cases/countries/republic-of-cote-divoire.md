@@ -1,7 +1,7 @@
 ---
 title: "Republic of Côte d'Ivoire"
 layout: icc-cases
-category:
+excerpt: "The situation in the Republic of Côte d’Ivoire involves violence resulting from contested presidential elections in 2010, as well as a decade of tension over the leadership of Côte d’Ivoire."
 ---
 The situation in the Republic of Côte d'Ivoire involves violence resulting from contested presidential elections in 2010, as well as a decade of tension over the leadership of Côte d'Ivoire. After former President Laurent Gbagbo was elected in 2000, Côte d'Ivoire endured a revolt in 2002 and a stagnated revolution thereafter. Control of the country was divided. The government held the mostly Christian south, and rebels controlled the mostly Muslim north. After Gbagbo refused to hold elections in 2004, the state allegedly ordered airstrikes against different rebel groups. Nine French soldiers were killed during the airstrikes.  In subsequent days, France destroyed Ivorian military aircraft and pro-government supporters attacked French Ivorians and French nationals.
 
