@@ -1,0 +1,54 @@
+---
+layout: default
+section: vertical-timeline
+---
+{% assign countries = site.countries %}
+{% assign cases = site.situations-and-cases | where: 'category', page.category %}
+{% assign events = site.data.situations-and-cases-timeline  %}
+
+{% if page.splash_image %}
+    {% include global/page-splash.html %}
+  {% endif %}
+<section id="entry-list-countries" class="content" style="padding:2em;">
+
+    <h1>{{ page.title }}</h1>
+
+
+
+    <div class="filter-buttons script-only hidden-js" style="margin:1em auto 2em auto;">
+      <button id="filter-countries-none" class="news">All</button>
+      {% for country in countries %}
+        <button id="filter-{{ country.category }}" class="event">{{ country.title }}</button>
+      {% endfor %}
+    </div>
+
+
+  <section id="cd-timeline" class="cd-container list-filter">
+    {% for event in events %}
+      <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+          <img src="{{ site.images }}cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+        <div class="cd-timeline-content">
+
+          <h6>{{ event.country }}</h6>
+          <h2>{{ event.title }}</h2>
+          {% if event.event %}<h5>{{ event.event }}</h5>{% endif %}
+          <p>{{ event.summary }}</p>
+            {% if event.link %}
+          <a href="{{ event.link }}" class="cd-read-more">Read more</a>
+            {% endif %}
+            {% if event.date %}
+          <span class="cd-date">{{ event.date | date:'%b %d, %Y' }}</span>
+            {% elsif event.year %}
+          <span class="cd-date">{{ event.year }}</span>
+            {% endif %}
+
+              <span class="category">{{ event.slug }}</span>
+
+
+        </div> <!-- cd-timeline-content -->
+      </div> <!-- cd-timeline-block -->
+    {% endfor %}
+  </section>
+</section>

@@ -1,0 +1,52 @@
+-
+ country: Kenya
+ slug: kenya
+ title: "The Situation in Kenya"
+ year: 2008
+ category: event
+ summary: "The situation in the Republic of Kenya involves mass violence that occurred after the country's contested 2007-2008 election. After much controversy, the Electoral Commission of Kenya officially declared that the incumbent President Mwai Kibaki was re-elected."
+ link: /situations-and-cases/kenya/
+
+-
+ country: "Republic of Côte d'Ivoire"
+ slug: republic-of-cote-d-voire
+ title: "The Situation in Côte d'Ivoire"
+ summary: "The situation in the Republic of Côte d'Ivoire involves violence resulting from contested presidential elections in 2010, as well as a decade of tension over the leadership of Côte d'Ivoire."
+ link:
+
+-
+ country: Libya
+ slug: libya
+ year: 2011
+ title: "The Situation in Libya"
+ summary: "The situation in the Libyan Arab Jamahiriya (Libya) involves mass violence that occurred throughout Libya’s six month popular uprising in 2011"
+
+-
+  country: "Republic of Côte d'Ivoire"
+  slug: republic-of-cote-d-voire
+  title: "The Prosecutor v. Laurent Gbagbo"
+  date: 2011-11-23
+  summary: "Warrant of arrest: Issued under seal 23 November 2011, Unsealed on 30 November 2011"
+
+
+-
+  title: "The Prosecutor v. William Samoei Ruto and Joshua Arap Sang"
+  country: Kenya
+  slug: kenya
+  event: "Summonses to appear issued"
+  date: 2011-03-08
+
+-
+  title: "The Prosecutor v. William Samoei Ruto and Joshua Arap Sang"
+  country: Kenya
+  slug: kenya
+  event: "Decision on the confirmation of charges"
+  date: 2012-01-23
+
+-
+  title: "The Prosecutor v. William Samoei Ruto and Joshua Arap Sang"
+  country: Kenya
+  slug: kenya
+  event: "Opening of trial"
+  date: 2013-09-10
+

@@ -1,74 +1,52 @@
 {% capture the_collection %}{{page.collection}}{% endcapture %}
 <aside class="sidebar-right">
   <div class="sidebar-content">
-
-  <!-- COLLECTION INFORMATION -->
-            {% if site.collections[the_collection].collection_name %}
-              <hr />
-                {% if site.collections[the_collection].main_page_link %}
-                <h1 style="display:inline-block;">
-                  <a href="{{ site.collections[the_collection].main_page_link }}">
-                    {{ site.collections[the_collection].collection_name | markdownify | remove: '<p>' | remove: '</p>'  }}
-                  </a>
-                </h1> <a href="{{ site.collections[the_collection].main_page_link }}"><i class="icon-undo"></i></a>
-                {% else %}
-                  <h1>{{ site.collections[the_collection].collection_name | markdownify | remove: '<p>' | remove: '</p>'  }}</h1>
-                {% endif %}
-            {% endif %}
-            {% if site.collections[the_collection].tagline %}
-              <hr />
-              <h2>{{ site.collections[the_collection].tagline | markdownify | remove: '<p>' | remove: '</p>'  }}</h2>
-            {% endif %}
-            {% if site.collections[the_collection].description %}
-              {{ site.collections[the_collection].description | markdownify }}
-            {% endif %}
-
-<!-- if this arguendo, do nothing after collection info-->
-
-              {% if page.title %}
-  <!-- PAGE INFORMATION -->
-            <h2>{{ page.title }}</h2>
-            {% endif %}
-
-
-
+    <!-- COLLECTION INFORMATION -->
+    {% if site.collections[the_collection].collection_name %}
+      <hr />
+      {% if site.collections[the_collection].main_page_link %}
+        <h1 style="display:inline-block;">
+          <a href="{{ site.collections[the_collection].main_page_link }}">
+            {{ site.collections[the_collection].collection_name | markdownify | remove: '<p>' | remove: '</p>'  }}
+          </a>
+        </h1> <a href="{{ site.collections[the_collection].main_page_link }}"><i class="icon-undo"></i></a>
+      {% else %}
+        <h1>{{ site.collections[the_collection].collection_name | markdownify | remove: '<p>' | remove: '</p>'  }}</h1>
+    {% endif %}
+    {% endif %}
+    {% if site.collections[the_collection].tagline %}
+      <hr />
+      <h2>{{ site.collections[the_collection].tagline | markdownify | remove: '<p>' | remove: '</p>'  }}</h2>
+    {% endif %}
+    {% if site.collections[the_collection].description %}
+      {{ site.collections[the_collection].description | markdownify }}
+    {% endif %}
+    {% if page.title %}
+      <h2>{{ page.title }}</h2>
+    {% endif %}
     {% if page.excerpt %}
       <p>{{ page.excerpt | markdownify | strip_html | truncatewords: 30 }}</p>
     {% endif %}
-
-
   </div>
 
 <!-- BOTTOM SECTION -->
 
 <!-- jump to menu on small screens only -->
-
 {% unless page.category == 'home' %}
-    <div class="hidden-large-screens">
-        <a href="#menu-local">&raquo; SECTION MENU</a>
-    </div>
+  <div class="hidden-large-screens">
+      <a href="#menu-local">&raquo; SECTION MENU</a>
+  </div>
 {% endunless %}
 <!-- // home page special content -->
-  {% if page.category == 'home' %}
-
-      <figure class="logo-alt-home hidden-small-screens">
-        <img src="/assets/img/RO_KN_Logo_1_RGB_diap_en.png">
-        <caption><p><small>Thank you to our generous sponsor</small></p></caption>
-      </figure>
-
-
-
-  {% else %}
-
+{% if page.category == 'home' %}
+    <figure class="logo-alt-home hidden-small-screens">
+      <img src="/assets/img/RO_KN_Logo_1_RGB_diap_en.png">
+      <caption><p><small>Thank you to our generous sponsor</small></p></caption>
+    </figure>
+{% else %}
 <!-- //prev-next links are individual page/post links. Don't show on small screens - they are also repeated at bottom of page for small screens -->
-    <div class="hidden-small-screens">
-      {% include nav/prev-next-links.html  limit="25" %}
-    </div>
-  {% endif %}
-
-
-
-
-
-
+  <div class="hidden-small-screens">
+    {% include nav/prev-next-links.html  limit="25" %}
+  </div>
+{% endif %}
 </aside>

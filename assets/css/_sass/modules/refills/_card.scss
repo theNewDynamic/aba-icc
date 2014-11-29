@@ -18,7 +18,7 @@
   border: $card-border;
   margin-bottom: $base-line-height;
   cursor: pointer;
-  box-shadow: 0 2px 4px #DDD ;//darken($base-body-color, 10)
+  //box-shadow: 0 2px 4px #DDD ;//darken($base-body-color, 10)
   position: relative;
 
   @include media($large-screen) {
@@ -153,7 +153,7 @@
     max-height: 250px;
   }
   @include media($large-screen) {
-    @include span-columns(8);
+    @include span-columns(6);
     @include omega(3n);
   }
 

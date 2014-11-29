@@ -117,6 +117,12 @@ $sidebar-right-color: #999 !default;
         right: 0;
         overflow-y: scroll; // TODO: style the scroll? check on browser pics
         -webkit-overflow-scrolling: touch;
+
+.case {
+  text-indent: 1em;
+}
+
+
           section:first-child {
             margin-top: 37% !important;
           }
@@ -201,9 +207,6 @@ aside#menu-local {
     border-top: 1px solid darken($sidebar-right-color-background, 1%);
   }
 }
-
-
-
 
 
 

@@ -1,0 +1,21 @@
+---
+layout: default
+section: full-width-cards
+---
+{% if page.splash_image %}
+  {% include global/page-splash.html %}
+{% endif %}
+<section class="content">
+  {% if page.include %}
+    {% include {{page.include}} %}
+  {% endif %}
+  <div class="hentrfy {% if page.class %}{{page.class}}{% endif %}" style="padding:2em;">
+    <div class="entry-content prose columns-2 "><!--  //CONTENT -->
+    <h1 class="entry-title">{{ page.title }}</h1>
+      {{ content }}
+    </div>
+  <!-- include global/edit.html -->
+  </div>
+</section>
+
+

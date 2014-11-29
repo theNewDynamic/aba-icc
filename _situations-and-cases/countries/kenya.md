@@ -1,7 +1,0 @@
----
-title: Kenya
-layout: icc-cases
-category: kenya
-excerpt: "The situation in the Republic of Kenya involves mass violence that occurred after the country’s contested 2007-2008 election."
----
-The situation in the Republic of Kenya involves mass violence that occurred after the country’s contested 2007-2008 election. After much controversy, the Electoral Commission of Kenya officially declared that the incumbent President Mwai Kibaki was re-elected. Supporters of the opposition candidate Raila Odinga accused the government of electoral fraud and rejected the results. A series of protests and demonstrations followed, and fighting—mainly along tribal lines—led to mass killings, injuries and displacements. The violence resulted in more than 1,100 people dead, 3,500 injured and up to 600, 000 forcibly displaced in six of Kenya’s eight provinces. The Republic of Kenya commissioned the Commission of Inquiry into Post-Election Violence (Waki Commission) to investigate and report on the incidents. After the Kenyan Parliament twice rejected proposals to create a tribunal to investigate the crimes, the Commission sent their report, the names of those they deemed most responsible, and supporting evidence to the ICC Prosecutor. The Office of the Prosecutor initiated a proprio motu investigation on Nov. 26, 2009, which was later authorized by the Pre-Trial Chamber II on Mar. 31, 2010. Within the Kenya situation, there are three ongoing cases.

@@ -16,50 +16,46 @@ section: icc-cases
       </h2>
       {% endif %}
 
-<div class="cards">
+  <div class="">
 
-  <div class="card card-wide">
-
-    <div class="card-header">
-      Situation
-    </div>
-    <div class="card-copy">
+    <header>
+      <h4>SITUATION</h4>
+    </header>
+    <div class="copy">
       {{content}}
     </div>
   </div>
 
-
+<div class="cards">
 
 
 {% for case in cases %}
-    <div class="card card-wideTK">
+    <a href="{{ case.url }}" class="card card-wideTK">
 
       <div class="card-image">
         <img src="/assets/img/{{ case.image }}" />
       </div>
 <div class="card-header">{{ case.title }}</div>
 
-<div class="card-copy">
+<div class="card-copy" style="display:none;">
       {{case.content}}
     </div>
 
 
-</div>
+</a>
 
 
 
 {% endfor %}
 
-
-
-
-
-
-
-
-
-
 </div>
+
+
+
+
+
+
+
 
 
 

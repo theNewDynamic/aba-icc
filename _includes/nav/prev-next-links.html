@@ -1,7 +1,6 @@
 {% capture the_collection %}{{page.collection}}{% endcapture %}
 {% assign nexturl = page.previous.url %}
 {% assign prevurl = page.next.url %}
-
 {% if page.collection %}
   {% assign  document = site[the_collection] %}
 {% endif %}
@@ -11,20 +10,12 @@
     <h4>{{page.sidebar_heading | markdownify | remove: '<p>' | remove: '</p>'  }}</h4>
   {% endif %}
 </div>
-
-      <figure class="logo-alt-home hidden-large-screens" style="margin-left:3%;">
-        <img src="/assets/img/RO_KN_Logo_1_RGB_diap_en.png" style="max-width:90%;">
-        <caption><p><small>Thank you to the generous sponsors of the ABA-ICC Project</small></p></caption>
-      </figure>
-
-
-
 <nav class="card-menu columns-small">
   <ul class="nav-sidebar">
     {% capture entries_limit %}{{include:limit}}{% endcapture %}
     {% for links in document limit:{{entries_limit}} %}
       {% unless links.dont-show-in-menu %}
-      <li class="nav-sidebar-item ">
+      <li class="nav-sidebar-item {{ links.category }}">
       {% capture title %}{{ links.title }}{% endcapture %}
         <a href="{{ links.url }}" class="arrow {% unless page.section == 'home' %}{% if links.url contains page.url %} arrow-left{% endif %}{% endunless %}">{{ title | truncate:45 }}</a>
       </li>
@@ -71,7 +62,6 @@ if (e.keyCode == '39') { window.location = '{{nexturl}}'; }
 
 
 </script>
-
 <div class="prev-nxt-icons" style="margin:4em 0;">
   {% if prevurl %}<a href="{{prevurl}}" class="prev"><i class="icon-left-openTK icon-chevron-left"></i></a>{% endif %}
   {% if nexturl %}<a href="{{nexturl}}" class="nxt"><i class="icon-right-openTK icon-chevron-right"></i></a>{% endif %}

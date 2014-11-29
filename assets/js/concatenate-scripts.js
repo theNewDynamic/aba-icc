@@ -3,7 +3,34 @@ layout: null
 ---
 {% include scripts/jquery.min.js %}
 
+
+
+
+jQuery(document).ready(function($){
+  var $timeline_block = $('.cd-timeline-block');
+
+  //hide timeline blocks which are outside the viewport
+  $timeline_block.each(function(){
+    if($(this).offset().top > $(window).scrollTop()+$(window).height()*0.75) {
+      $(this).find('.cd-timeline-img, .cd-timeline-content').addClass('is-hidden');
+    }
+  });
+
+  //on scolling, show/animate timeline blocks when enter the viewport
+  $(window).on('scroll', function(){
+    $timeline_block.each(function(){
+      if( $(this).offset().top <= $(window).scrollTop()+$(window).height()*0.75 && $(this).find('.cd-timeline-img').hasClass('is-hidden') ) {
+        $(this).find('.cd-timeline-img, .cd-timeline-content').removeClass('is-hidden').addClass('bounce-in');
+      }
+    });
+  });
+});
+
+
+
 {% include scripts/listjs/dist/list.min.js %}
+
+{% include scripts/listjs-situations.js %}
 
 // EVENTS PRESENTATION
 	{% include scripts/moment/min/moment.min.js %}
@@ -41,8 +68,6 @@ $('.flip').click(function(){
     });
 
 // News filters
-
-
   var options = {
       valueNames: [ 'category', 'date'],
       listClass: 'list-filter',
@@ -50,9 +75,7 @@ $('.flip').click(function(){
       // add tagline, or option for it?
   };
 
-
   var newsList = new List('container-filter', options);
-
 
 if (document.getElementById("filter-news")) {
   document.getElementById("filter-news").onclick=function(){

@@ -10,7 +10,7 @@ section.cards {
   nav { @include span-columns(12); }
   article { @include span-columns(12);
     border-radius: $base-border-radius;
-    box-shadow: 0 2px 4px darken($base-body-color, 20);
+    //box-shadow: 0 2px 4px darken($base-body-color, 20);
 
 position: relative;
     width: 100%;
