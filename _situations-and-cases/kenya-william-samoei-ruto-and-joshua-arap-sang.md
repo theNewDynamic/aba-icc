@@ -1,22 +1,25 @@
 ---
 title: "Kenya - The Prosecutor v. William Samoei Ruto and Joshua Arap Sang"
-layout: page
 category: case
 country: kenya
 image: ruto-sang.jpg
+date_summonses: 2011-03-08
+date_intial_appearance: 2011-04-07
+date_confirmation_of_charges: 2012-01-23
+date_opening_of_trial: 2013-09-10
+case_status: Trial Ongoing
 ---
-##### Background
+## Background
 
 Name: William Samoei Ruto
 
 Title: Deputy President of the Republic of Kenya
 
-Case Status: Trial Ongoing
+## Charges:
 
-Charges: **Crime against humanity (3 counts)**: murder, forcible transfer of population and persecution; criminal responsibility as having committed the crime as an individual or jointly or through another.
+**Crime against humanity (3 counts)**: murder, forcible transfer of population and persecution; criminal responsibility as having committed the crime as an individual or jointly or through another.
 
-
-#### Factual Allegations
+### Factual Allegations
 
 Along with Henry Kiprono Kosgey and Joshua Arap Sang, Ruto allegedly established a network in 2006 which he later used to commit crimes directed against supporters of the Party of National Unity (PNU). During the 2007 election, Ruto was allegedly perceived as an elder or leader in the Kalinjen community (which participated with the Orange Democratic Movement). The confirmation of charges alleges that he gave oral and written orders for others to carry out killings and forced displacements of perceived PNU supporters in several towns.
 
