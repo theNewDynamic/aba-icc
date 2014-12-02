@@ -4,7 +4,7 @@ section: vertical-timeline
 ---
 {% assign countries = site.countries %}
 {% assign cases = site.situations-and-cases | where: 'category', page.category %}
-{% assign events = site.data.situations-and-cases-timeline  %}
+{% assign events = site.data.situations-and-cases-timeline-csv  %}
 
 {% if page.splash_image %}
     {% include global/page-splash.html %}
@@ -18,33 +18,54 @@ section: vertical-timeline
     <div class="filter-buttons script-only hidden-js" style="margin:1em auto 2em auto;">
       <button id="filter-countries-none" class="news">All</button>
       {% for country in countries %}
-        <button id="filter-{{ country.category }}" class="event">{{ country.title }}</button>
+        <button id="filter-{{ country.country_code }}" class="event">{{ country.title }}</button>
       {% endfor %}
     </div>
 
 
   <section id="cd-timeline" class="cd-container list-filter">
     {% for event in events %}
+      {% assign country_code = event.ISO_code %}
+      {% assign country_name = site.data.countries | where: 'ISO_code', {{country_code}} %}
+
       <div class="cd-timeline-block">
         <div class="cd-timeline-img cd-picture">
-          <img src="{{ site.images }}cd-icon-picture.svg" alt="Picture">
+          <img src="{{ site.images }}countries/{% for country in country_name %}{{ country.image }}{% endfor %}.svg" alt="Picture">
         </div> <!-- cd-timeline-img -->
         <div class="cd-timeline-content">
 
-          <h6>{{ event.country }}</h6>
-          <h2>{{ event.title }}</h2>
+
+
+          <h6>
+            {% for country in country_name %}
+              {{ country.Country }}
+            {% endfor %}
+
+
+          </h6>
+          <h2>{{ event.Title }}</h2>
           {% if event.event %}<h5>{{ event.event }}</h5>{% endif %}
-          <p>{{ event.summary }}</p>
+          <p>{{ event.Summary }}</p>
+            {% if event.Video %}
+
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/{{ event.Video }}' frameborder='0' allowfullscreen></iframe></div>
+
+
+              {% endif %}
+
+
+
             {% if event.link %}
           <a href="{{ event.link }}" class="cd-read-more">Read more</a>
             {% endif %}
-            {% if event.date %}
-          <span class="cd-date">{{ event.date | date:'%b %d, %Y' }}</span>
-            {% elsif event.year %}
-          <span class="cd-date">{{ event.year }}</span>
+            {% if event.Date %}
+          <span class="cd-date">{{ event.Date | date:'%b %d, %Y' }}</span>
+            {% elsif event.Year %}
+          <span class="cd-date">{{ event.Year }}</span>
             {% endif %}
 
-              <span class="category">{{ event.slug }}</span>
+              <span class="category hidden">{{ event.ISO_code }}</span>
 
 
         </div> <!-- cd-timeline-content -->

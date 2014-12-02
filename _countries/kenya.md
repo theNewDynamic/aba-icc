@@ -1,7 +1,7 @@
 ---
 title: Kenya
 layout: icc-cases
-category: kenya
+country_code: KE
 background_image: 4723609556_6443ebb737_o.jpg
 excerpt: "The situation in the Republic of Kenya involves mass violence that occurred after the country’s contested 2007-2008 election."
 ---

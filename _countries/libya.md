@@ -1,5 +1,6 @@
 ---
 title: Libya
+country_code: LY
 layout: icc-cases
 slug: libya
 excerpt: "EXCERPT COPY"

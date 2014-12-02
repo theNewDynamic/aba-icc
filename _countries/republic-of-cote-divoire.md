@@ -1,6 +1,6 @@
 ---
 title: "Republic of Côte d'Ivoire"
-category: republic-of-cote-d-voire
+country_code: CI
 layout: card-timeline
 excerpt: "The situation in the Republic of Côte d’Ivoire involves violence resulting from contested presidential elections in 2010, as well as a decade of tension over the leadership of Côte d’Ivoire."
 ---

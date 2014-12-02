@@ -127,17 +127,17 @@ $secondary-font: 'Open Sans', sans-serif;
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  box-shadow: 0 0 0 4px $color-3, inset 0 2px 0 rgba(#000, .08), 0 3px 0 4px rgba(#000, .05) ;
+  box-shadow: 0 0 0 3px $color-3, inset 0 1px 0 rgba(#000, .08), 0 2px 0 3px rgba(#000, .05) ;
 
   img {
     display: block;
-    width: 24px;
-    height: 24px;
+    width: 128px;
+    //height: 100%;
     position: relative;
-    left: 50%;
-    top: 50%;
-    margin-left: -12px;
-    margin-top: -12px;
+    left: 0%;
+    top: 0%;
+    margin-left: -4px;
+    margin-top: -4px;
   }
 
   &.cd-picture {
@@ -145,11 +145,11 @@ $secondary-font: 'Open Sans', sans-serif;
   }
 
   &.cd-movie {
-    background: $color-2;
+    background: $color-4;
   }
 
   &.cd-location {
-    background: $color-5;
+    background: $color-4;
   }
 
   @include MQ(L) {

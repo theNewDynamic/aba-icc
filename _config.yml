@@ -62,6 +62,10 @@ collections:
   main_page_link: "/the-aba-icc-project/board-of-advisors/"
   output: true
   permalink: /:collection/:path/
+ development:
+  collection_name: "In Development"
+  output: true
+  permalink: /:collection/:path/
 
 defaults:
   -
