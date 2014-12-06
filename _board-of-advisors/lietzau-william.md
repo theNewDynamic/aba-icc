@@ -1,5 +1,5 @@
 ---
-title: Lt. Colonel William K. Lietzau
+title: Colonel William K. Lietzau
 last_title: Lietzau
 position: "Deputy Assistant Secretary of Defense - Rule of Law and Detainee Policy (2010-13)"
 image: "image-1.jpg"
