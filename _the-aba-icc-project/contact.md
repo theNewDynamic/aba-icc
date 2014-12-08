@@ -2,11 +2,11 @@
 title: Contact
 layout: page
 include: global/mailing-list.html
-order: 22
+order: m
 ---
 #####**American Bar Association's International Criminal Court Project**
 
-1050 Connecticut Ave NW Suite 400  
+1050 Connecticut Ave NW Suite 400    
 Washington, D.C. 20036  
 (202) 662-1584  
 <aba-iccproject@americanbar.org>
@@ -22,4 +22,4 @@ Washington, D.C. 20036
 
 Please follow us on [Facebook](http://facebook.com/ABAICCProject) and [Twitter](http://twitter.com/ABAICCProject).
 
-For technical issues or questions about the site, contact [Bud Parr at Sonnet Media LLC](mailto:budparr@sonnetmedia.net). 
+For technical issues or questions about the site, contact [Bud Parr at Sonnet Media LLC](mailto:budparr@sonnetmedia.net).

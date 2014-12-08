@@ -1,6 +1,6 @@
 ---
-title: "Internships with the ABA-ICC Project"
-order: 18
+title: "Internships"
+order: k
 excerpt: "The American Bar Association's (ABA) International Criminal Court (ICC) Project offers internships throughout the year to qualified individuals from anywhere in the world who have demonstrated an interest in the promotion of international criminal justice."
 layout: page
 ---

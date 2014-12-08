@@ -1,7 +1,7 @@
 ---
 title: International Criminal Justice Today
 layout: page
-order: 16
+order: i
 # include: page_content/news-page.html
 # include: page_content/icjt.html
 ---

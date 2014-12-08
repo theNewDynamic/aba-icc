@@ -1,6 +1,7 @@
 ---
 title: Staff
 layout: page
+order: z
 dont-show-in-menu: true
 ---
 ## Kip Hale - Director

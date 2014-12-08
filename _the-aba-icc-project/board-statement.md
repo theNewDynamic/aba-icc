@@ -2,7 +2,7 @@
 title: "Statement from the Board of Advisors"
 layout: page
 category:
-order: 08
+order: e
 Excerpt: "Statement from the Board of Advisors on the International Criminal Court, US-ICC Relations, and the ABA-ICC Project"
 ---
 ## American Bar Association-International Criminal Court Project
@@ -17,10 +17,10 @@ The American Bar Association (ABA) Center for Human Rights established the ABA's
 
 The ABA-ICC Project is guided by a bipartisan and multi-national Board of Advisors comprised of eminent leaders in the fields of law, foreign policy, diplomacy and human rights advocacy. With regard to its oversight of the Project, the Board of Advisors:
 
-1. Recognizes that the US historically has been among the leading nations to support and contribute to international criminal justice; that the US has advocated for, helped establish, and supported international and domestic criminal tribunals for World War II conflict areas, the former Yugoslavia, Rwanda, Sierra Leone, East Timor, Cambodia and Lebanon, and that the US has demonstrated continuing commitment to achieving accountability for international atrocity crimes that occur in conflict zones around the world; 
+1. Recognizes that the US historically has been among the leading nations to support and contribute to international criminal justice; that the US has advocated for, helped establish, and supported international and domestic criminal tribunals for World War II conflict areas, the former Yugoslavia, Rwanda, Sierra Leone, East Timor, Cambodia and Lebanon, and that the US has demonstrated continuing commitment to achieving accountability for international atrocity crimes that occur in conflict zones around the world;
 
 2. Acknowledges the significant role that the US undertook in the development and drafting of the Rome Statute of the ICC and other ICC essential documents;
 
-3. Recognizes that the US Government has had and continues to have concerns that have led to the status of the US as a non-State Party to the ICC; 
+3. Recognizes that the US Government has had and continues to have concerns that have led to the status of the US as a non-State Party to the ICC;
 
 4. Believes that the collaborative and multi-faceted ABA-ICC Project will assist in the strengthening of US-ICC relationship and assist, where appropriate, the ICC's important legal work.

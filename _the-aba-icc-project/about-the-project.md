@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Project
-order: 01
+order: a
 splash_image: "Benjamin_Ferencz_-_Chief_Prosecutor_in_1947_Einsatzgruppen_Trial_-_In_Courtroom_600_Where_Nuremberg_Trials_Were_Held_-_Palace_of_Justice_-_Nuremberg-Nurnberg_-_Germany_-_01.jpg"
 excerpt: "The project's mission is to strengthen, regularize, and broaden U.S. engagement with the ICC by creating dynamic forums where meaningful and sustained dialogue can occur on both practical and policy issues among and between the ICC and various American audiences. These initiatives will advance the field of international criminal law as well as enhance understanding and trust between the U.S. and the ICC."
 published: true
