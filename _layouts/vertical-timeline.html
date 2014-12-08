@@ -5,23 +5,27 @@ section: vertical-timeline
 {% assign countries = site.countries %}
 {% assign cases = site.situations-and-cases | where: 'category', page.category %}
 {% assign events = site.data.situations-and-cases-timeline-csv  %}
-
 {% if page.splash_image %}
-    {% include global/page-splash.html %}
-  {% endif %}
+  {% include global/page-splash.html %}
+{% endif %}
 <section id="entry-list-countries" class="content" style="padding:2em;">
+  <h1>{{ page.title }}</h1>
+  <div class="filter-buttons script-only hidden-js" style="margin:1em auto 2em auto;">
+    <button id="filter-countries-none" class="news">All</button>
+    {% for country in countries %}
+      <button id="filter-{{ country.country_code }}" class="event">{{ country.title }}</button>
+    {% endfor %}
+  </div>
 
-    <h1>{{ page.title }}</h1>
-
-
-
-    <div class="filter-buttons script-only hidden-js" style="margin:1em auto 2em auto;">
-      <button id="filter-countries-none" class="news">All</button>
-      {% for country in countries %}
-        <button id="filter-{{ country.country_code }}" class="event">{{ country.title }}</button>
-      {% endfor %}
-    </div>
-
+  <div class="list-filter">
+    {% for country in countries %}
+      <div id="{{ country.country_code }}">
+        <h3>{{ country.title }}</h3>
+        {{ country.contentTK }}
+        <span class="title hidden">{{ country.country_code }}</span>
+      </div>
+    {% endfor %}
+  </div>
 
   <section id="cd-timeline" class="cd-container list-filter">
     {% for event in events %}
@@ -45,7 +49,7 @@ section: vertical-timeline
           </h6>
           <h2>{{ event.Title }}</h2>
           {% if event.event %}<h5>{{ event.event }}</h5>{% endif %}
-          <p>{{ event.Summary }}</p>
+          <p>{{ event.Summary | markdownify | remove: '<p>' | remove: '</p>'  }}</p>
             {% if event.Video %}
 
 

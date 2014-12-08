@@ -71,7 +71,7 @@ defaults:
   -
    scope:
     path: ''
-    type: page
+    type: pages
    values:
     layout: page
   -
@@ -83,7 +83,7 @@ defaults:
   -
    scope:
     path: "aba-news"
-    type: "post"
+    type: "posts"
    values:
     layout: article
     category: "Event"
