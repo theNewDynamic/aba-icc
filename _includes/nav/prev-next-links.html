@@ -13,7 +13,7 @@
 <nav class="card-menu columns-small">
   <ul class="nav-sidebar">
     {% capture entries_limit %}{{include:limit}}{% endcapture %}
-    {% for links in document  limit:{{entries_limit}} %}
+    {% for links in document | limit:{{entries_limit}} %}
       {% unless links.dont-show-in-menu %}
       <li class="nav-sidebar-item {{ links.category }}">
       {% capture title %}{{ links.title }}{% endcapture %}
