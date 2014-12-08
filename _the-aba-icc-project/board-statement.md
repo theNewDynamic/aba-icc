@@ -2,7 +2,7 @@
 title: "Statement from the Board of Advisors"
 layout: page
 category:
-order: 8
+order: 08
 Excerpt: "Statement from the Board of Advisors on the International Criminal Court, US-ICC Relations, and the ABA-ICC Project"
 ---
 ## American Bar Association-International Criminal Court Project
