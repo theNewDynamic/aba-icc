@@ -8,7 +8,7 @@ section: vertical-timeline
 {% if page.splash_image %}
   {% include global/page-splash.html %}
 {% endif %}
-<section id="entry-list-countries" class="content" style="padding:2em;">
+<section id="cases" class="content" style="padding:2em;">
   <h1>{{ page.title }}</h1>
   <div class="filter-buttons script-only hidden-js" style="margin:1em auto 2em auto;">
     <button id="filter-countries-none" class="news">All</button>
@@ -17,12 +17,12 @@ section: vertical-timeline
     {% endfor %}
   </div>
 
-  <div class="list-filter">
+  <div class="list-filter-countries">
     {% for country in countries %}
       <div id="{{ country.country_code }}">
-        <h3>{{ country.title }}</h3>
+        <h3>{{ country.title }} {{ country.country_code }}</h3>
         {{ country.contentTK }}
-        <span class="title hidden">{{ country.country_code }}</span>
+        <span class="country hidden">{{ country.country_code }}</span>
       </div>
     {% endfor %}
   </div>
@@ -69,7 +69,7 @@ section: vertical-timeline
           <span class="cd-date">{{ event.Year }}</span>
             {% endif %}
 
-              <span class="category hidden">{{ event.ISO_code }}</span>
+              <span class="country hidden">{{ event.ISO_code }}</span>
 
 
         </div> <!-- cd-timeline-content -->
