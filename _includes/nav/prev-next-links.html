@@ -2,7 +2,7 @@
 {% assign nexturl = page.previous.url %}
 {% assign prevurl = page.next.url %}
 {% if page.collection %}
-  {% assign  document = site[the_collection] | sort: "order" %}
+  {% assign  document = site[the_collection]  %}
 {% endif %}
 
 <div class="section-heading">
