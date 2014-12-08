@@ -2,7 +2,7 @@
 title: Contact
 layout: page
 include: global/mailing-list.html
-dont-show-in-menu: true
+order: 22
 ---
 #####**American Bar Association's International Criminal Court Project**
 
