@@ -2,53 +2,66 @@
 layout: default
 section: icc-cases
 ---
-{% assign cases = site.situations-and-cases | where: 'category', page.category %}
-<section class="content">
-  <div class="layout" style="padding-top:3em;">
+{% assign countries = site.data.situations-and-cases-countries %}
+{% assign cases = site.data.situations-and-cases-cases  %}<!--  | where: 'category', page.category -->
+{% assign people = site.data.situations-and-cases-people  %}
 
-
-       {% if page.title %}
-      <h1 class="entry-title">{{page.title}}</h1>
+<section class="content" style="padding:2em;">
+  <div class="layout-content-with-grid" style="padding-top:3em;">
+      {% if page.title %}
+        <h1 class="entry-title">{{page.title}}</h1>
       {% endif %}
       {% if page.subtitle %}
-      <h2>
+       <h2>
         {{page.subtitle}}
-      </h2>
+       </h2>
       {% endif %}
-
-  <div class="">
-
-    <header>
-      <h4>SITUATION</h4>
-    </header>
-    <div class="copy">
-      {{content}}
-    </div>
-  </div>
+  
+  {% for case in cases %}
+  {% assign country_code = case.ISO_code %} 
+  {% assign caseid = case.case_id %} 
+  {% assign country = countries | where: 'ISO_code', {{country_code}}  %}
+  {% assign case_subjects = people | where: 'case_id', {{caseid}}  %}
+<h2>{{ country[0].Country }}</h2>
 
 <div class="cards">
-
-
-{% for case in cases %}
-    <a href="{{ case.url }}" class="card card-wideTK">
-
+  <aside class="column-1">
+    <div id="{{ case.ISO_code }}" class="card card-full">
+      {% if case.image_name %}
       <div class="card-image">
-        <img src="/assets/img/{{ case.image }}" />
+        <img src="/assets/img/{{ case.image_name }}" />
       </div>
-<div class="card-header">{{ case.title }}</div>
-
-<div class="card-copy" style="display:none;">
-      {{case.content}}
+      {% endif %}
+      <div class="card-header">{{ case.Case }}</div>
+      <div class="card-stats">
+        <ul>
+          {% if case.case_status %}
+            <li>Status<span>{{case.case_status}}</span></li>
+          {% endif %}  
+          {% if case.date_opening_of_trial %}
+            <li>Opening Date<span>{{ case.date_opening_of_trial }}</span></li>
+          {% endif %}
+          <li>Details<span><a href="{{ case.url }}">Read More <i class="icon-right-open"></i></a></span></li>
+        </ul>
+      </div>
     </div>
+  </aside>
+  <section class="column-2">
+    {% for person in case_subjects %}
+      <h2>{{ person.Name }}{% if person.Title %}, {{ person.Title}}{% endif %}</h2>
+      {% if person.Charges %}
+        <strong>{{ person.Charges }}</strong>
+      {% endif %} 
+      <hr />
+      {% if person.Factual-Allegations %}
+        {{ person.Factual-Allegations }}
+      {% endif %}
 
-
-</a>
-
-
-
-{% endfor %}
-
+    {% endfor %}
+      
+  </section>
 </div>
+{% endfor %}
 
 
 

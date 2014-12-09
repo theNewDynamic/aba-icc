@@ -2,64 +2,108 @@
 layout: default
 section: vertical-timeline
 ---
-{% assign countries = site.countries %}
-{% assign cases = site.situations-and-cases | where: 'category', page.category %}
-{% assign events = site.data.situations-and-cases-timeline-csv  %}
+{% assign countries = site.data.situations-and-cases-countries %}
+{% assign cases = site.data.situations-and-cases-cases  %}<!--  | where: 'category', page.category -->
+{% assign people = site.data.situations-and-cases-people  %}
+{% assign events = site.data.situations-and-cases-timeline  %}
+
+
+
+{% assign buttonCopy = site.data.copy.timeline %}
 {% if page.splash_image %}
   {% include global/page-splash.html %}
 {% endif %}
+
 <section id="cases" class="content" style="padding:2em;">
   <h1>{{ page.title }}</h1>
-  <div class="filter-buttons script-only hidden-js" style="margin:1em auto 2em auto;">
+
+
+<div class="cd-container">
+  <h6>Legend</h6>
+  <div class="cd-timeline-legend status-Investigation"><div class="legend-copy">Investi-<br />gation</div></div> 
+  <div class="cd-timeline-legend status-Pre-trial"><div class="legend-copy">Pre-trial</div></div> 
+  <div class="cd-timeline-legend status-Trial"><div class="legend-copy">Trial</div></div> 
+  <div class="cd-timeline-legend status-Post-trial"><div class="legend-copy">Post-trial</div></div> 
+</div>
+<hr />
+  {% comment %}This section displays the buttons to filter by country{% endcomment %}
+  <div class="filter-buttons script-only hidden-js" style="margin:-1.75em auto 5em auto;">
+      {{buttonCopy.copy}}
     <button id="filter-countries-none" class="news">All</button>
     {% for country in countries %}
-      <button id="filter-{{ country.country_code }}" class="event">{{ country.title }}</button>
+      {% assign country_code = country.ISO_code %} 
+      {% if country.Overview %}     
+      <button id="filter-{{ country_code }}" class="event">
+        <img style="heigh:10px;" src="{{ site.images }}countries/{{ country_code }}.svg" alt="Picture"> {{ country.Country }}
+      </button>
+      {% endif %}
     {% endfor %}
   </div>
 
-  <div class="list-filter-countries">
-    {% for country in countries %}
-      <div id="{{ country.country_code }}">
-        <h3>{{ country.title }} {{ country.country_code }}</h3>
-        {{ country.contentTK }}
-        <span class="country hidden">{{ country.country_code }}</span>
-      </div>
-    {% endfor %}
-  </div>
+  {% comment %}This section displays country and case info{% endcomment %}
+  <div class="cards">
+    <div id="country-info" class="list-filter-countries script-only hidden-js">
+      {% for country in countries %}
+        {% assign country_code = country.ISO_code %} 
+        {% assign country_cases = cases | where: 'ISO_code', {{country_code}} %}
+        <div id="{{ country_code }}">
+          <div class="card card-full">
+            <!-- <div class="card-image">
+              <img src="/assets/img/{{ country.image }}" />
+            </div> -->
+            <div class="card-header">{{ country.Country }}</div>
+            {% if country.Overview %}<div class="card-copy">{{country.Overview | markdownify }}
 
+            {% for case in country_cases %}<strong>{{case.Case}}</strong>{% unless forloop.last %} | {% endunless %}{% endfor %}
+            </div>{% endif %}
+            <span class="country hidden">{{ country_code }}</span>
+          </div>
+          
+          {% for case in country_cases %}
+            <div id="{{ case.ISO_code }}" class="card">
+            {% if case.image_name %}
+            <div class="card-image">
+              <img src="/assets/img/{{ case.image_name }}" />
+            </div>
+            {% endif %}
+              <div class="card-header">{{ case.Case }}</div>
+              <div class="card-stats">
+                <ul>
+                  {% if case.case_status %}
+                    <li>Status<span>{{case.case_status}}</span></li>
+                  {% endif %}  
+                  {% if case.date_opening_of_trial %}
+                    <li>Opening Date<span>{{ case.date_opening_of_trial }}</span></li>
+                  {% endif %}
+                  <li>Details<span><a href="{{ case.url }}">Read More <i class="icon-right-open"></i></a></span></li>
+                </ul>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% comment %}This section displays situations and cases in a timeline view{% endcomment %}
   <section id="cd-timeline" class="cd-container list-filter">
     {% for event in events %}
       {% assign country_code = event.ISO_code %}
-      {% assign country_name = site.data.countries | where: 'ISO_code', {{country_code}} %}
-
       <div class="cd-timeline-block">
-        <div class="cd-timeline-img cd-picture">
-          <img src="{{ site.images }}countries/{% for country in country_name %}{{ country.image }}{% endfor %}.svg" alt="Picture">
+        <div class="cd-timeline-img {% if event.Status %}status-{{event.Status}}{% endif %}">
+          <img src="{{ site.images }}countries/{{ country_code }}.svg" alt="Picture">
         </div> <!-- cd-timeline-img -->
         <div class="cd-timeline-content">
-
-
-
           <h6>
             {% for country in country_name %}
-              {{ country.Country }}
+              {% if country.Country %}{{ country.Country }}{% endif %}
             {% endfor %}
-
-
           </h6>
           <h2>{{ event.Title }}</h2>
           {% if event.event %}<h5>{{ event.event }}</h5>{% endif %}
-          <p>{{ event.Summary | markdownify | remove: '<p>' | remove: '</p>'  }}</p>
+          {% if event.Description %}<p>{{ event.Description | markdownify | remove: '<p>' | remove: '</p>'  }}</p>{% endif %}
             {% if event.Video %}
-
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/{{ event.Video }}' frameborder='0' allowfullscreen></iframe></div>
-
-
+          <div class='embed-container'><iframe src='http://www.youtube.com/embed/{{ event.Video }}' frameborder='0' allowfullscreen></iframe></div>
               {% endif %}
-
-
-
             {% if event.link %}
           <a href="{{ event.link }}" class="cd-read-more">Read more</a>
             {% endif %}
@@ -68,10 +112,7 @@ section: vertical-timeline
             {% elsif event.Year %}
           <span class="cd-date">{{ event.Year }}</span>
             {% endif %}
-
-              <span class="country hidden">{{ event.ISO_code }}</span>
-
-
+          <span class="country hidden">{{ event.ISO_code }}</span>
         </div> <!-- cd-timeline-content -->
       </div> <!-- cd-timeline-block -->
     {% endfor %}

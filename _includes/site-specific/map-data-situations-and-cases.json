@@ -1,5 +1,5 @@
 {% assign preliminary_examinations_color = 'green' %}{% assign trials_color = 'black' %}
-"areas": [{% for post in site.data.situations-and-cases %}{% if post.ISO_code %}{"id":"{{ post.ISO_code }}"{% if post.Status == 'Preliminary Examinations' %},"color":"{{ preliminary_examinations_color }}"{% elsif post.Status == 'Trial(s)' %},"color":"{{ trials_color }}"{% else %},"color":"#FFF"{% endif %},"description":"{% if post.Phase %}<p><strong>Phase:</strong> {{ post.Phase | strip_newlines }}</p>{% endif %}{% if post.Overview %}<p><strong>Overview:</strong> {{ post.Overview }}</p>{% endif %}","title": "{{ post.Country }}",
+"areas": [{% for post in site.data.situations-and-cases-countries %}{% if post.ISO_code %}{"id":"{{ post.ISO_code }}"{% if post.Status == 'Preliminary Examinations' %},"color":"{{ preliminary_examinations_color }}"{% elsif post.Status == 'Trial(s)' %},"color":"{{ trials_color }}"{% else %},"color":"#FFF"{% endif %},"description":"{% if post.Phase %}<p><strong>Phase:</strong> {{ post.Phase | strip_newlines }}</p>{% endif %}{% if post.Summary %}<p><strong>Overview:</strong> {{ post.Summary }}</p>{% endif %}","title": "{{ post.Country }}",
 
 "pattern": {
   {% if post.Phase == 'Admissibility Assessment' %}

@@ -1,3 +1,4 @@
+{% assign countries = site.data.situations-and-cases-countries %}
 var options = {
   valueNames: ['country', 'title',   'publication'],
   listClass: 'list-filter'
@@ -7,36 +8,32 @@ var entryList = new List('cases', options);
 var optionsCountries = {
   valueNames: ['country', 'title',   'publication'],
   listClass: 'list-filter-countries',
-  page: 0
+  page: 300
 };
 var entryListCountries = new List('cases', optionsCountries);
   // cycle through  categories to generate filter
 
-{% for link in site.countries  %}
-if (document.getElementById("filter-{{link.country_code }}")) {
-    document.getElementById("filter-{{link.country_code }}").onclick=function(){
-        
+var countryInfo = $('#country-info').hide();
 
+
+{% for link in countries  %}
+if (document.getElementById("filter-{{link.ISO_code }}")) {
+    document.getElementById("filter-{{link.ISO_code }}").onclick=function(){
         entryList.filter(function(item) {
-           if (item.values().country == "{{link.country_code }}" ) {
+           if (item.values().country == "{{link.ISO_code }}" ) {
              return true;
              } else {
              return false;
           }
       });
-
         entryListCountries.filter(function(item) {
-           if (item.values().country == "{{link.country_code }}" ) {
+           if (item.values().country == "{{link.ISO_code }}" ) {
              return true;
              } else {
              return false;
           }
       });
-
-
-
-
-
+          countryInfo.show();
     };
   }
 {% endfor %}
@@ -44,5 +41,6 @@ if (document.getElementById("filter-{{link.country_code }}")) {
 if (document.getElementById("filter-countries-none")) {
  document.getElementById("filter-countries-none").onclick=function(){
      entryList.filter();
+     countryInfo.hide();
     };
   }

@@ -1,5 +1,4 @@
 ---
-layout: vertical-timeline
-category:
+layout: icc-cases
+title: "Situation & Cases - Cases"
 ---
-situations

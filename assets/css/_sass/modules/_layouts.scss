@@ -21,7 +21,11 @@
     @include outer-container;
     //max-width:95%;
 
-    aside { @include span-columns(12); margin-top:1em; padding:1em;background-color:#e8e8e8; }
+    aside { 
+      @include span-columns(12); 
+      margin-top:1em; 
+      padding:1em;
+      background-color:#e8e8e8; }
     section { @include span-columns(12); padding:inherit; margin-top:inherit;}
 
       @include media($large-screen) {

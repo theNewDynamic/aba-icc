@@ -53,6 +53,11 @@ $color-3: #ffffff; // white
 $color-4: #75ce66; // green
 $color-5: #f0ca45; // yellow
 
+$Investigation: $red ;
+$Pre-trial:$light-green;
+$Trial:$light-red ;
+$Post-trial:$blue;
+
 // fonts
 
 $primary-font: 'Droid Serif', serif;
@@ -120,6 +125,55 @@ $secondary-font: 'Open Sans', sans-serif;
   }
 }
 
+.cd-timeline-legend {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 3px $color-3, inset 0 1px 0 rgba(#000, .08), 0 2px 0 3px rgba(#000, .05) ;
+  float: left;
+  margin-right: -5px;
+  position: relative;
+  text-align: center;
+  .legend-copy {
+    font-size: 12px;
+    position: absolute;
+    color: black;
+    top: 30%;
+    left: 11%;
+    line-height:1.2;
+    text-align: center;
+
+  }
+
+
+&.status-Investigation {
+    background: $Investigation;
+    .legend-copy {
+    color: white;
+    }
+  }
+  &.status-Pre-trial {
+    background: $Pre-trial;
+    .legend-copy {
+       color: $black;
+    }
+  }
+
+  &.status-Trial {
+    background: $Trial;
+    .legend-copy {
+      color: $black;
+    }
+  }
+  &.status-Post-trial {
+    background: $Post-trial;
+    .legend-copy {
+      color: white;
+    }
+  }
+
+}
+
 .cd-timeline-img {
   position: absolute;
   top: 0;
@@ -139,17 +193,18 @@ $secondary-font: 'Open Sans', sans-serif;
     margin-left: -4px;
     margin-top: -4px;
   }
-
-  &.cd-picture {
-    background: $color-4;
+  &.status-Investigation {
+    background: $Investigation;
+  }
+  &.status-Pre-trial {
+    background: $Pre-trial;
   }
 
-  &.cd-movie {
-    background: $color-4;
+  &.status-Trial {
+    background: $Trial;
   }
-
-  &.cd-location {
-    background: $color-4;
+  &.status-Post-trial {
+    background: $Post-trial;
   }
 
   @include MQ(L) {

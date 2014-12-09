@@ -1,5 +1,5 @@
 ---
-title: "Situation & Cases Timeline"
+title: "Situation & Cases - Timeline"
 layout: vertical-timeline
 category:
 ---
