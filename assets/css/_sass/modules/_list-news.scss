@@ -136,7 +136,7 @@ $event-color: lighten($red, 1%);
   background-color:none;
   font-family: $sans-serif;
   font-size: 90%;
-  text-align: right;
+  //text-align: right;
 
   button:hover {
     background-color: darken(white, 5%);

@@ -10,11 +10,12 @@ var optionsCountries = {
   listClass: 'list-filter-countries',
   page: 300
 };
+
 var entryListCountries = new List('cases', optionsCountries);
   // cycle through  categories to generate filter
 
 var countryInfo = $('#country-info').hide();
-
+var filtersButton = $('#filter-countries-none').hide();
 
 {% for link in countries  %}
 if (document.getElementById("filter-{{link.ISO_code }}")) {
@@ -34,6 +35,7 @@ if (document.getElementById("filter-{{link.ISO_code }}")) {
           }
       });
           countryInfo.show();
+          filtersButton.show();
     };
   }
 {% endfor %}

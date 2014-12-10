@@ -44,9 +44,20 @@
       <caption><p><small>Thank you to our generous sponsor</small></p></caption>
     </figure>
 {% else %}
+
+
+
 <!-- //prev-next links are individual page/post links. Don't show on small screens - they are also repeated at bottom of page for small screens -->
   <div class="hidden-small-screens">
     {% include nav/prev-next-links.html  limit="25" %}
   </div>
 {% endif %}
+
+
+  {% if page.url contains '/development/timeline/' %}
+
+    {% include page_content/timeline-legend.html %}
+
+  {% endif %}
+
 </aside>

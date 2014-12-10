@@ -73,6 +73,9 @@
     padding: $base-line-height/3 $gutter/2;
 
         /////////min-height:5.625em;
+        h2 {
+          margin-top: .375em;
+        }
   }
 
   .card-copy {

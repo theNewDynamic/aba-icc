@@ -409,3 +409,11 @@ $secondary-font: 'Open Sans', sans-serif;
   }
 }
 
+button.event {
+  border-color: #999;
+  vertical-align: top;
+  padding-top: 1.25em;
+  img {
+    margin-top:-.875em;
+  }
+}

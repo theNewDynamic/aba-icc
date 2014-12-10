@@ -62,3 +62,10 @@ h2 a:hover > i {
 
   @include animation(scale 1.0s ease-in, slide 2.0s ease);
 }
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}

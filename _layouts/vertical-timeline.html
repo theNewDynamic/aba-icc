@@ -16,30 +16,23 @@ section: vertical-timeline
 
 <section id="cases" class="content" style="padding:2em;">
   <h1>{{ page.title }}</h1>
-
-
-<div class="cd-container" style="width:100%;background-color:red;">
-  <h6>Legend</h6>
-  <div class="cd-timeline-legend status-Investigation"><div class="legend-copy">Investi-<br />gation</div></div> 
-  <div class="cd-timeline-legend status-Pre-trial"><div class="legend-copy">Pre-trial</div></div> 
-  <div class="cd-timeline-legend status-Trial"><div class="legend-copy">Trial</div></div> 
-  <div class="cd-timeline-legend status-Post-trial"><div class="legend-copy">Post-trial</div></div> 
-</div>
-<hr />
   {% comment %}This section displays the buttons to filter by country{% endcomment %}
-  <div class="filter-buttons script-only hidden-js" style="margin:-1.75em auto 5em auto;">
-      {{buttonCopy.copy}}
-    <button id="filter-countries-none" class="news">All</button>
+  <div class="filter-buttons text-left script-only hidden-js" style="margin:2em auto 3em auto;clear:both;">
+      <p>{{buttonCopy.copy}}</p>
+    
     {% for country in countries %}
       {% assign country_code = country.ISO_code %} 
       {% if country.Overview %}     
-      <button id="filter-{{ country_code }}" class="event">
-        <img style="heigh:10px;" src="{{ site.images }}countries/{{ country_code }}.svg" alt="Picture"> {{ country.Country }}
+      <button id="filter-{{ country_code }}" class="event" style="margin:0 .5em .75em 0;">
+        <img style="heigh:15px;" src="{{ site.images }}countries/{{ country_code }}.svg" alt="Picture" stle="align:top;"> {{ country.Country }}
       </button>
       {% endif %}
     {% endfor %}
+
+<button id="filter-countries-none" class="small news" style="padding:.35em .25em;margin-bottom:2em;text-align:right;">clear filters</button>
   </div>
 
+  
   {% comment %}This section displays country and case info{% endcomment %}
   <div class="cards">
     <div id="country-info" class="list-filter-countries script-only hidden-js">
@@ -51,7 +44,7 @@ section: vertical-timeline
             <!-- <div class="card-image">
               <img src="/assets/img/{{ country.image }}" />
             </div> -->
-            <div class="card-header">{{ country.Country }}</div>
+            <div class="card-header"><h2>{{ country.Country }}</h2></div>
             {% if country.Overview %}<div class="card-copy">{{country.Overview | markdownify }}
 
             {% for case in country_cases %}<strong>{{case.Case}}</strong>{% unless forloop.last %} | {% endunless %}{% endfor %}
@@ -84,6 +77,7 @@ section: vertical-timeline
       {% endfor %}
     </div>
   </div>
+
   {% comment %}This section displays situations and cases in a timeline view{% endcomment %}
   <section id="cd-timeline" class="cd-container list-filter">
     {% for event in events %}
