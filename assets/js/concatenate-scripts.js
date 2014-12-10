@@ -7,6 +7,7 @@ layout: null
 {% include scripts/listjs/dist/list.min.js %}
 {% include scripts/listjs-situations.js %}
 
+
 jQuery(document).ready(function($){
   var $timeline_block = $('.cd-timeline-block');
 

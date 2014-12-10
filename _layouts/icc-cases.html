@@ -22,9 +22,11 @@ section: icc-cases
   {% assign caseid = case.case_id %} 
   {% assign country = countries | where: 'ISO_code', {{country_code}}  %}
   {% assign case_subjects = people | where: 'case_id', {{caseid}}  %}
+
+
 <h2>{{ country[0].Country }}</h2>
 
-<div class="cards">
+<div class="cards" style="border-bottom:1px solid #ddd;margin-bottom:3em;">
   <aside class="column-1">
     <div id="{{ case.ISO_code }}" class="card card-full">
       {% if case.image_name %}
@@ -48,16 +50,35 @@ section: icc-cases
   </aside>
   <section class="column-2">
     {% for person in case_subjects %}
-      <h2>{{ person.Name }}{% if person.Title %}, {{ person.Title}}{% endif %}</h2>
-      {% if person.Charges %}
-        <strong>{{ person.Charges }}</strong>
-      {% endif %} 
-      <hr />
-      {% if person.Factual-Allegations %}
-        {{ person.Factual-Allegations }}
-      {% endif %}
-
-    {% endfor %}
+      <div class="card card-full">
+        <div class="card-header">
+          <h4>{{ person.Name }}{% if person.Title %}, {{ person.Title}}{% endif %}</h4>
+        </div>
+        <div class="card-copy">
+          {% if person.Charges %}
+            <h5>Charges</h5>
+            {{ person.Charges | markdownify }}
+          {% endif %} 
+          {% if person.Factual-Allegations %}
+             <h5>Factual Allegations</h5> 
+            {{ person.Factual-Allegations | markdownify | truncate: 40}}
+          {% endif %}
+        </div>
+        <div class="card-stats">
+                <ul>
+                  {% if person.case_status %}
+                    <li>Status<span>{{case.case_status}}</span></li>
+                  {% endif %}  
+                  {% if person.date_summonses %}
+                    <li>Summons Date<span>{{ case.date_opening_of_trial }}</span></li>
+                  {% endif %}
+                  {% if person.date_opening_of_trial %}
+                    <li>Opening Date<span>{{ case.date_opening_of_trial }}</span></li>
+                  {% endif %}
+                </ul>
+              </div>
+      </div>
+      {% endfor %}
       
   </section>
 </div>
