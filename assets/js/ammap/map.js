@@ -20,7 +20,6 @@ layout: null
         var dataProvider = {
             map: "worldLow",
             getAreasFromMap:false,
-            
             {% include site-specific/map-data.json %}
         };
         // pass data provider to the map object
