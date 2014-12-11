@@ -65,9 +65,11 @@ section: vertical-timeline
                   {% if case.case_status %}
                     <li>Status<span>{{case.case_status}}</span></li>
                   {% endif %}  
+                    {% comment %}
                   {% if case.date_opening_of_trial %}
                     <li>Opening Date<span>{{ case.date_opening_of_trial }}</span></li>
                   {% endif %}
+                  {% endcomment %}
                   <li>Details<span><a href="{{ case.url }}">Read More <i class="icon-right-open"></i></a></span></li>
                 </ul>
               </div>
