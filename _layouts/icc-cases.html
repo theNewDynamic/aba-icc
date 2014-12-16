@@ -61,7 +61,7 @@ section: icc-cases
           {% endif %} 
           {% if person.Factual-Allegations %}
              <h5>Factual Allegations</h5> 
-            {{ person.Factual-Allegations | markdownify | truncate: 40}}
+            {{ person.Factual-Allegations | markdownify }}
           {% endif %}
         </div>
         <div class="card-stats">
