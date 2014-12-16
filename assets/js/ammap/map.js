@@ -95,7 +95,7 @@ layout: null
          in case you don't set it to true, all the areas except listed in data
          provider will be treated as unlisted.
         */
-        map2.addTitle("Preliminary Examinations, Cases, and Situations before the ICC", 18);
+        map2.addTitle("Preliminary Examinations, Cases, and Situations before the ICC", 22);
 
         var dataProvider = {
             map: "worldLow",
@@ -135,22 +135,42 @@ layout: null
 
 
         map2.legend = {
-            width: "22%",
-            marginRight:12,
+            width: "100%",
+            marginRight:22,
             marginLeft:12,
-            equalWidths:false,
+        
+            equalWidths:true,
             backgroundAlpha: 0.7,
             backgroundColor: "#fff",
             borderColor: "#ccc",
-            borderAlpha: 1,
-            top: 50,
-            left: 90,
+            borderAlpha: 0.9,
+            top: 480,
+            left: 5,
             horizontalGap: 10,
-            data: [{
-                title: "Preliminary Examinations",
+            data: [
+            
+            {
+                title: "Preliminary Examinations: Initial Assessment",
                 color: "green"
-            }, {
-                title: "Cases",
+            },
+
+            {
+                title: "Preliminary Examinations: Subject Matter Jurisdiction Assessement ",
+                color: "green"
+            },
+            
+            {
+                title: "Preliminary Examinations: Admissibility Assessment",
+                color: "green"
+            },
+
+            {
+                title: "Preliminary Examinations: Closed - Decision Not to Proceed",
+                color: "green"
+            },
+
+             {
+                title: "Situations & Cases",
                 color: "black"
             } ]
     };
