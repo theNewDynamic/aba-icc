@@ -56,8 +56,16 @@
 
   {% if page.url contains '/development/timeline/' %}
 
-    {% include page_content/timeline-legend.html %}
+    {% include map/timeline-legend.html %}
 
   {% endif %}
+
+
+  {% if page.legend %}
+
+  {% include map/legend.html %}
+
+  {% endif %}
+
 
 </aside>

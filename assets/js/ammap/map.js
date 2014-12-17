@@ -20,7 +20,7 @@ layout: null
         var dataProvider = {
             map: "worldLow",
             getAreasFromMap:false,
-            {% include site-specific/map-data.json %}
+            {% include map/map-data-state-parties.json %}
         };
         // pass data provider to the map object
         map.dataProvider = dataProvider;
@@ -43,7 +43,9 @@ layout: null
     //     minValue: "little",
     //     maxValue: "a lot!"
     // }
-
+        map.zoomControl = {
+            buttonFillColor: "#0e486d"
+        }
 
 
         map.legend = {
@@ -95,7 +97,7 @@ layout: null
          in case you don't set it to true, all the areas except listed in data
          provider will be treated as unlisted.
         */
-        map2.addTitle("Preliminary Examinations, Cases, and Situations before the ICC", 22);
+        //map2.addTitle("Preliminary Examinations, Cases, and Situations before the ICC", 22);
 
         var dataProvider = {
             map: "worldLow",
@@ -105,7 +107,7 @@ layout: null
             getAreasFromMap:false,
 
 
-            {% include site-specific/map-data-situations-and-cases.json %}
+            {% include map/map-data-situations-and-cases.json %}
 
         };
         // pass data provider to the map object
@@ -131,53 +133,11 @@ layout: null
     //     minValue: "little",
     //     maxValue: "a lot!"
     // }
+        map2.zoomControl = {
+            buttonFillColor: "#0e486d"
+        }
 
-
-
-        map2.legend = {
-            width: "100%",
-            marginRight:22,
-            marginLeft:12,
         
-            equalWidths:true,
-            backgroundAlpha: 0.7,
-            backgroundColor: "#fff",
-            borderColor: "#ccc",
-            borderAlpha: 0.9,
-            top: 480,
-            left: 5,
-            horizontalGap: 10,
-            data: [
-            
-            {
-                title: "Preliminary Examinations: Initial Assessment",
-                color: "green"
-            },
-
-            {
-                title: "Preliminary Examinations: Subject Matter Jurisdiction Assessement ",
-                color: "green"
-            },
-            
-            {
-                title: "Preliminary Examinations: Admissibility Assessment",
-                color: "green"
-            },
-
-            {
-                title: "Preliminary Examinations: Closed - Decision Not to Proceed",
-                color: "green"
-            },
-
-             {
-                title: "Situations & Cases",
-                color: "black"
-            } ]
-    };
-
-
-        // let's say we want a small map to be displayed, so let's create it
-        //map.smallMap = new AmCharts.SmallMap();
 
         // write the map to container div
         map2.write("map-situations-and-cases");

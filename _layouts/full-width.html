@@ -2,8 +2,7 @@
 layout: default
 section: full-width
 ---
-
-
+{% if page.heading %}<h2 class="page-heading">{{ page.heading }}</h2>{% endif %}
 {% if content %}{{content}}{% endif %}
     <div class="include">
     {% if page.include %}

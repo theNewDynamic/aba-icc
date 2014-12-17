@@ -53,3 +53,19 @@
   font-size: 2em;
   //color: #000;//darken($red, 5%);
 }
+
+ul.legend-sidebar {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+ ul.legend-sidebar li {
+  font-size: 1.1em;
+  padding: .35em;
+  color: #ddd;
+  border-radius:3px;
+  float: left;
+  margin-bottom:1em;
+
+ } 
