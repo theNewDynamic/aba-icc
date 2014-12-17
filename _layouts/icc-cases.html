@@ -30,7 +30,7 @@ section: icc-cases
 
 <div class="cards" style="border-bottom:1px solid #ddd;margin-bottom:3em;">
   <aside class="column-1">
-    <div id="{{ case.ISO_code }}" class="card card-full">
+    <div id="{{ case.Case | slugify }}" class="card card-full">
       {% if case.image_name %}
       <div class="card-image">
         <img src="/assets/img/{{ case.image_name }}" />
@@ -45,14 +45,13 @@ section: icc-cases
           {% if case.date_opening_of_trial %}
             <li>Opening Date<span>{{ case.date_opening_of_trial }}</span></li>
           {% endif %}
-          <li>Details<span><a href="{{ case.url }}">Read More <i class="icon-right-open"></i></a></span></li>
         </ul>
       </div>
     </div>
   </aside>
   <section class="column-2">
     {% for person in case_subjects %}
-      <div class="card card-full">
+      <div id="{{ person.Title | slugify }}" class="card card-full">
         <div class="card-header">
           <h4>{{ person.Name }}{% if person.Title %}, {{ person.Title}}{% endif %}</h4>
         </div>

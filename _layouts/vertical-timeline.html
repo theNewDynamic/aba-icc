@@ -35,7 +35,7 @@ section: vertical-timeline
 
   
   {% comment %}This section displays country and case info{% endcomment %}
-  <div class="cards">
+  
     <div id="country-info" class="list-filter-countries script-only hidden-js">
       {% for country in countries %}
         {% assign country_code = country.ISO_code %} 
@@ -52,11 +52,11 @@ section: vertical-timeline
             </div>{% endif %}
             <span class="country hidden">{{ country_code }}</span>
           </div>
-          
+          <div class="cards">
           {% for case in country_cases %}
 
           {% if forloop.first %}<h2>Cases</h2>{% endif %}
-            <div id="{{ case.ISO_code }}" class="card">
+            <div id="{{ case.ISO_code }}-{{ forloop.index }}" class="card">
             {% if case.image_name %}
             <div class="card-image">
               <img src="/assets/img/{{ case.image_name }}" />
@@ -73,15 +73,16 @@ section: vertical-timeline
                     <li>Opening Date<span>{{ case.date_opening_of_trial }}</span></li>
                   {% endif %}
                   {% endcomment %}
-                  <li>Details<span><a href="{{ case.url }}">Read More <i class="icon-right-open"></i></a></span></li>
+                  <li>Details<span><a href="/development/index/#{{ case.Case | slugify }}">Read More  <i class="icon-right-open"></i></a></span></li>
                 </ul>
               </div>
             </div>
           {% endfor %}
+          </div>
         </div>
       {% endfor %}
     </div>
-  </div>
+  
 
   {% comment %}This section displays situations and cases in a timeline view{% endcomment %}
   <section id="cd-timeline" class="cd-container list-filter">
