@@ -6,16 +6,17 @@ section: vertical-timeline
 {% assign cases = site.data.situations-and-cases-cases  %}<!--  | where: 'category', page.category -->
 {% assign people = site.data.situations-and-cases-people  %}
 {% assign events = site.data.situations-and-cases-timeline  %}
-
-
-
+{% if page.heading %}
+  <h2 class="page-heading">{{ page.heading }}</h2>
+{% elsif page.title %}
+  <h2 class="page-heading">{{ page.title }}</h2>
+{% endif %}
 {% assign buttonCopy = site.data.copy.timeline %}
 {% if page.splash_image %}
   {% include global/page-splash.html %}
 {% endif %}
 
 <section id="cases" class="content" style="padding:2em;">
-  <h1>{{ page.title }}</h1>
   {% comment %}This section displays the buttons to filter by country{% endcomment %}
   <div class="filter-buttons text-left script-only hidden-js" style="margin:2em auto 3em auto;clear:both;">
       <p>{{buttonCopy.copy}}</p>

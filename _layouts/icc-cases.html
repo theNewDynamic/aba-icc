@@ -5,12 +5,14 @@ section: icc-cases
 {% assign countries = site.data.situations-and-cases-countries %}
 {% assign cases = site.data.situations-and-cases-cases  %}<!--  | where: 'category', page.category -->
 {% assign people = site.data.situations-and-cases-people  %}
-
+{% if page.heading %}
+  <h2 class="page-heading">{{ page.heading }}</h2>
+{% elsif page.title %}
+  <h2 class="page-heading">{{ page.title }}</h2>
+{% endif %}
 <section class="content" style="padding:2em;">
   <div class="layout-content-with-grid" style="padding-top:3em;">
-      {% if page.title %}
-        <h1 class="entry-title">{{page.title}}</h1>
-      {% endif %}
+    
       {% if page.subtitle %}
        <h2>
         {{page.subtitle}}

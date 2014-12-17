@@ -1,7 +1,14 @@
-<h4>Legend</h4>
-<ul class="legend-sidebar">
-  {% for legend in page.legend %}
-    <li class="" style="background-color:{{ legend.color }};"><span class="legend-copy">{{ legend.label }}</span></li> 
-  {% endfor %}
-</ul>
+{% capture legend %}{{page.legend}}{% endcapture %}
+{% assign legendSource = site.data[legend] %}
+
+<div class="legend">
+  <h4>Legend</h4>
+  <ul class="legend-sidebar">
+    {% for legend in legendSource %}
+      <li class="" style="background:{{ legend.color }} url(/assets/img/patterns/{{ legend.pattern }}) no-repeat center center;"><span class="legend-copy">{{ legend.label }}</span></li> 
+    {% endfor %}
+    </ul>
+</div>
+
+
 

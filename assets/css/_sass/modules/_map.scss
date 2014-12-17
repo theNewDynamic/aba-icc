@@ -54,6 +54,10 @@
   //color: #000;//darken($red, 5%);
 }
 
+
+.legend {
+  margin-top: 2em;
+}
 ul.legend-sidebar {
     list-style-type: none;
     margin-left: 0;
@@ -62,6 +66,7 @@ ul.legend-sidebar {
 
  ul.legend-sidebar li {
   font-size: 1.1em;
+  border: 1px solid #0c3f5f;
   padding: .35em;
   color: #ddd;
   border-radius:3px;
