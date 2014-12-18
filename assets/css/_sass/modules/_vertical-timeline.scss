@@ -53,10 +53,12 @@ $color-3: #ffffff; // white
 $color-4: #75ce66; // green
 $color-5: #f0ca45; // yellow
 
-$Investigation: $red ;
-$Pre-trial:$light-green;
-$Trial:$light-red ;
-$Post-trial:$blue;
+$Investigation: #008AE5 ;
+$Pre-trial:#0073BF;
+$Trial:#004D7F ;
+$Post-trial:#003354;
+
+
 
 // fonts
 
@@ -155,14 +157,14 @@ $secondary-font: 'Open Sans', sans-serif;
   &.status-Pre-trial {
     background: $Pre-trial;
     .legend-copy {
-       color: $black;
+       color: white;
     }
   }
 
   &.status-Trial {
     background: $Trial;
     .legend-copy {
-      color: $black;
+      color: white;
     }
   }
   &.status-Post-trial {
@@ -413,7 +415,7 @@ button.event {
   border-color: #999;
   vertical-align: top;
   padding-top: 1.25em;
-  color: $blue-aba-logo;
+  color: $black;
   img {
     margin-top:-.875em;
     color: #fff;
