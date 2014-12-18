@@ -46,7 +46,10 @@ layout: null
         map.zoomControl = {
             buttonFillColor: "#0e486d"
         }
-
+            {% assign stateParties = site.data.state-parties-map %}
+            {% assign statePartiesSigned = stateParties | where: 'date_signed', -'' %}
+            {% assign statePartiesRatified = stateParties | where: 'date_ratified_or_acceded', -'' %}
+            {% assign statePartiesSignedNotRatified = statePartiesSigned | where: 'date_ratified_or_acceded', ' ' %}
 
         map.legend = {
             width: "72%",
@@ -59,17 +62,15 @@ layout: null
             borderAlpha: 1,
             top: 10,
             left: 90,
-            horizontalGap: 10,
-            data: [{
-                title: "Party to the Rome Statute",
-                color: "#074b7b"
-            }, {
-                title: "Signed but not Ratified or Acceded",
-                color: "#6fa4c7"
-            }, {
-                title: "Not a Signatory",
-                color: "#FFF"
-            } ]
+            horizontalGap: 10
+            // ,
+            // data: [{
+            //     title: "{% if stateParties.size > 0 %}{{ statePartiesRatified.size | plus:'1' }} state parties to the Rome Statute.{% endif %}",
+            //     color: "#074b7b"
+            // }, {
+            //     title: "{% if stateParties.size > 0 %}{{ statePartiesSigned.size }} Signed but not ratified or acceded.{% endif %}",
+            //     color: "#6fa4c7"
+            // } ]
     };
 
 
