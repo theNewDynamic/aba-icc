@@ -24,7 +24,7 @@ section: vertical-timeline
     {% for country in countries %}
       {% assign country_code = country.ISO_code %} 
       {% if country.Overview %}     
-      <button id="filter-{{ country_code }}" class="event" style="margin:0 .5em .75em 0;">
+      <button id="filter-{{ country_code }}" class="event-button" style="margin:0 .5em .75em 0;">
         <img style="heigh:15px;" src="{{ site.images }}countries/{{ country_code }}.svg" alt="Picture" stle="align:top;"> {{ country.Country }}
       </button>
       {% endif %}
