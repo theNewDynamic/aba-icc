@@ -48,8 +48,8 @@ layout: null
         }
             {% assign stateParties = site.data.state-parties-map %}
             {% assign statePartiesSigned = stateParties | where: 'date_signed', -'' %}
-            {% assign statePartiesRatified = stateParties | where: 'date_ratified_or_acceded', -'' %}
-            {% assign statePartiesSignedNotRatified = statePartiesSigned | where: 'date_ratified_or_acceded', ' ' %}
+            {% assign statePartiesRatified = stateParties | where: 'state_party', 'Y' %}
+            {% assign statePartiesSignedNotRatified = stateParties | where: 'signed_but_not_ratified', 'Y' %}
 
         map.legend = {
             width: "72%",
@@ -68,7 +68,7 @@ layout: null
                 title: "{% if stateParties.size > 0 %}{{ statePartiesRatified.size | plus:'1' }} state parties to the Rome Statute.{% endif %}",
                 color: "#074b7b"
             }, {
-                title: "{% if stateParties.size > 0 %}{{ statePartiesSigned.size }} Signed but not ratified or acceded.{% endif %}",
+                title: "{% if stateParties.size > 0 %}{{ statePartiesSignedNotRatified.size }} Signed but not ratified or acceded.{% endif %}",
                 color: "#6fa4c7"
             } ]
     };
