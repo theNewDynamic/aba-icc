@@ -1,33 +1,24 @@
 {% assign articles = site.posts %}
-
 <div class="layout" id="container-filter">
-
-<div class="filter-buttons script-only hidden-js" style="margin:1em auto 2em auto;">
-      <button id="filter-clear" class="news">All</button>
-      <button id="filter-event" class="event">Events</button>
-      <button id="filter-news" class="news">News</button>
-
+  <div class="filter-buttons script-only hidden-js" style="margin:1em auto 2em auto;">
+    <button id="filter-clear" class="news">All</button>
+    <button id="filter-event" class="event">Events</button>
+    <button id="filter-news" class="news">News</button>
+  </div>
+  <div class="list-filter">
+  {% for article in articles %}
+    <div class="article">
+      <span class="category hidden">{{ article.category | slugify }}</span>
+        <div class="heading{% if article.splash_image %} article-background{% endif %}" {% if article.splash_image %}style="background-position:center center;background-image:url(/assets/img/{{if article.splash_image }}{{ article.splash_image }}{% elsif article.featured_image %}{% endif %});background-size:cover;"{% endif %}>
+          <h6 class="heading-small {{ article.category | slugify  }}">{{ article.category}}</h6>
+          <h3 style="margin:auto;">{{ article.title }}</h3>
+            {% comment %}{% include authors.html %}{% endcomment %}
+        </div>
+      <div class="lede">
+        {{ article.excerpt | strip_html  | truncate: 255, '...'}}
+        <p><strong><a href="http://www.international-criminal-justice-today.org{{ article.url }}">&raquo; {% if article.category == 'event' %}See a recap of this event{% else %}Read this {% endif %} at International Criminal Justice Today</a></strong></p>
+      </div>
     </div>
-
-<div class="list-filter">
-      {% for article in articles %}
-
-          <div class="article">
-
-          <span class="category hidden">{{ article.category | slugify }}</span>
-            <div class="heading{% if article.splash_image %} article-background{% endif %}" {% if article.splash_image %}style="background-position:center center;background-image:url(/assets/img/{{ article.splash_image }});background-size:cover;"{% endif %}>
-<h6 class="heading-small {{ article.category | slugify  }}">{{ article.category}}</h6>
-              <h3 style="margin:auto;">{{ article.title }}</h3>
-              {% comment %}{% include authors.html %}{% endcomment %}
-            </div>
-            <div class="lede">
-
-              {{ article.excerpt | strip_html  | truncate: 255, '...'}}
-              <p><strong><a href="http://www.international-criminal-justice-today.org{{ article.url }}">&raquo; {% if article.category == 'event' %}See a recap of this event{% else %}Read this {% endif %} at International Criminal Justice Today</a></strong></p>
-            </div>
-          </div>
-
-      {% endfor %}
-    </div>
-
+    {% endfor %}
+  </div>
 </div>
