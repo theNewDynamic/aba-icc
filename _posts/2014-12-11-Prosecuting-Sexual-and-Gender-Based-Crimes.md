@@ -8,7 +8,7 @@ participants: "Madame Prosecutor Fatou Bensouda, Prosecutor of the International
 featured: true
 splash_height: 525px
 category: event
-excerpt: "On December 11, 2014, the Council on Foreign Relations (CFR) and the ABA's International Criminal Court Project co-sponsored "Prosecuting Sexual and Gender-Based Violence: New Directions in International Criminal Justice" hosted at the CFR in New York City."
+excerpt: "On December 11, 2014, the Council on Foreign Relations (CFR) and the ABA's International Criminal Court Project co-sponsored “Prosecuting Sexual and Gender-Based Violence: New Directions in International Criminal Justice” hosted at the CFR in New York City."
 featured_image: event-Prosecuting-Sexual-and-Gender-Based-Crimes_v2.jpg
 ---
 
