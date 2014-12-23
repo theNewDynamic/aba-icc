@@ -63,14 +63,14 @@ layout: null
             top: 10,
             left: 90,
             horizontalGap: 10
-            // ,
-            // data: [{
-            //     title: "{% if stateParties.size > 0 %}{{ statePartiesRatified.size | plus:'1' }} state parties to the Rome Statute.{% endif %}",
-            //     color: "#074b7b"
-            // }, {
-            //     title: "{% if stateParties.size > 0 %}{{ statePartiesSigned.size }} Signed but not ratified or acceded.{% endif %}",
-            //     color: "#6fa4c7"
-            // } ]
+            ,
+            data: [{
+                title: "{% if stateParties.size > 0 %}{{ statePartiesRatified.size | plus:'1' }} state parties to the Rome Statute.{% endif %}",
+                color: "#074b7b"
+            }, {
+                title: "{% if stateParties.size > 0 %}{{ statePartiesSigned.size }} Signed but not ratified or acceded.{% endif %}",
+                color: "#6fa4c7"
+            } ]
     };
 
 
