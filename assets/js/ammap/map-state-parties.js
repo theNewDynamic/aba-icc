@@ -65,7 +65,7 @@ layout: null
             horizontalGap: 10
             ,
             data: [{
-                title: "{% if stateParties.size > 0 %}{{ statePartiesRatified.size | plus:'1' }} state parties to the Rome Statute.{% endif %}",
+                title: "{% if stateParties.size > 0 %}{{ statePartiesRatified.size }} state parties to the Rome Statute.{% endif %}",
                 color: "#074b7b"
             }, {
                 title: "{% if stateParties.size > 0 %}{{ statePartiesSignedNotRatified.size }} Signed but not ratified or acceded.{% endif %}",
