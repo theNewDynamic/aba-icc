@@ -32,7 +32,7 @@ With nearly 400,000 members worldwide and a respected voice among diverse stakeh
 
 ![](/assets/img/logo-icjc-140109-170718.png) 
 
-
+---
 - The ABA is a member of the [**International Criminal Justice Consortium**](http://icj-consortium.org/), an independent and non-partisan alliance of specialized and diverse organizations, representing a broad range of regions and legal traditions, which formed with  the purpose to help support the ICC and national jurisdictions with their international criminal justice mandate and do so through capacity-building activities.
 
 
