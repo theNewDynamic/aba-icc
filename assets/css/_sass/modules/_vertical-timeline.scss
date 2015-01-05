@@ -415,7 +415,7 @@ button.event-button {
   background:none;
   box-shadow:none;
   text-shadow: none;
-  border-color: $blue-aba-logo;
+  border-color: $light-gray;
   vertical-align: top;
   padding-top: 1.25em;
   color: $blue;
@@ -427,8 +427,8 @@ button.event-button {
     color: red;
   }
   &:hover:not(:disabled) {
-    background: #ddd;
-    background-image: #fff;//linear-gradient(#023b60,#002034);
+    //background: #ddd;
+    //background-image: #fff;//linear-gradient(#023b60,#002034);
   }
 }
 
