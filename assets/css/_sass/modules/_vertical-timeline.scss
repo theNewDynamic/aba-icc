@@ -412,10 +412,13 @@ $secondary-font: 'Open Sans', sans-serif;
 }
 
 button.event-button {
-  border-color: #999;
+  background:none;
+  box-shadow:none;
+  text-shadow: none;
+  border-color: $blue-aba-logo;
   vertical-align: top;
   padding-top: 1.25em;
-  color: $black;
+  color: $blue;
   img {
     margin-top:-.875em;
     color: #fff;
@@ -424,7 +427,7 @@ button.event-button {
     color: red;
   }
   &:hover:not(:disabled) {
-    background-color: #ddd;
+    background: #ddd;
     background-image: #fff;//linear-gradient(#023b60,#002034);
   }
 }
