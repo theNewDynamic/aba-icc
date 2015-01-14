@@ -11,7 +11,7 @@ category: event
 The full day, international conference in Paris, France, on March 21, 2013 brought together experts in the field of corporate liability in conflict zones. After the conference, Mrs. Fatou Bensouda, Prosecutor of the International Criminal Court(The Gambia),  sat down for an interview and explained that alleged ignorance is no defense when it comes to corporate liability. She called for a more proactive approach by corporations stating that, “I think that private companies can actually do a lot to ensure that the access that those in the conflict have to weapons, to money, to the illegal trade, is not enhanced. At least,” she went on, “they can start by doing that.” Madam Prosecutor stated that she would not at all be opposed to corporate liability being a future subject in the ICC, at least for those who directly contribute to these atrocities in conflict zones.
 
 > “I have seen the sort of horrors that are committed on the civilian community, a woman I talked to who had her 8 children’s throat slashed by units that was committed by Bosco Ntganda, the fact that he was able to remain free sent a signal to individuals in that Province that there was impunity. That made it very hard to do other things that we wanted to do there, to restore the rule of law.”
-— Mr. Stephan Rapp
+— Mr. Stephan Rapp, U.S. Ambassador to War Crimes
 
 > “I think that private companies can actually do a lot to ensure that the access that those in the conflict have to weapons, to money, to the illegal trade, is not enhanced. At least they can start by doing that.”
-— Mrs. Fatou Bensouda
+— Mrs. Fatou Bensouda, Chief Prosecutor of the International Criminal Court
