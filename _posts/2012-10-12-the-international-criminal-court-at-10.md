@@ -18,11 +18,11 @@ video_audio: "http://mediasite.law.wustl.edu/Mediasite/Play/80d0aad20f31446993a9
 press_release: "http://law.wustl.edu/news/pages.aspx?id=9558"
 category: event
 ---
-On November 11 and 12, 2012, the Whitney R. Harris World Law Institute at Washington University School of Law held an international conference commemorating the tenth anniversary of the International Criminal Court (ICC). The conference included a celebration of the memory of Nuremberg Tribunal prosecutor Whitney R. Harris and his 100th birthday, as well as a day of remembrance to honor the victims of atrocity crimes. One of the panels at this distinguished conference was on US-ICC relations, shown in full in the link below, and revolved around the developments and challenges of US engagement with the ICC, past, present and future. This panel included Ms. Elizabeth Andersen, executive director of the American Society of International Law; Mr. John Washburn, convenor of the American NGO Coalition for the ICC, Prof. Jordan Paust, University of Houston Law Center, and Mr. Kip Hale, director of the American Bar Association's ICC Project. Several panelist commented on different aspects of the US’ inconsistent, yet burgeoning relationship with the ICC, including Mr. Kip Hale who pointed out that “we have to think about the US-ICC relationship as larger than just the United States Government and the ICC.” The importance of United States cooperation with the ICC was commented on by several, and summarized by a video of Mr. Whitney R. Harris, in which he stated, “Civilization can no longer tolerate the commission of crimes against humanity.”
+On November 11 and 12, 2012, the Whitney R. Harris World Law Institute at Washington University School of Law held an international conference commemorating the tenth anniversary of the International Criminal Court (ICC). The conference included a celebration of the memory of Nuremberg Tribunal prosecutor Whitney R. Harris and his 100th birthday, as well as a day of remembrance to honor the victims of atrocity crimes. One of the panels at this distinguished conference was on US-ICC's relations, shown in full in the link below, and revolved around the developments and challenges of US engagement with the ICC, past, present and future. This panel included Ms. Elizabeth Andersen, executive director of the American Society of International Law; Mr. John Washburn, convenor of the American NGO Coalition for the ICC, Prof. Jordan Paust, University of Houston Law Center, and Mr. Kip Hale, director of the American Bar Association's ICC Project. Several panelist commented on different aspects of the US’ inconsistent, yet burgeoning relationship with the ICC, including Mr. Kip Hale who pointed out that “we have to think about the US-ICC relationship as larger than just the United States Government and the ICC.” The importance of United States cooperation with the ICC was commented on by several, and summarized by a video of Mr. Whitney R. Harris, in which he stated, “Civilization can no longer tolerate the commission of crimes against humanity.”
 
 
 > “The ICC experience is a very important warning to the United States that if other countries care enough about a new international organization and what it is committed to do, they can do it without you. That is a very important lesson in this.”
-—Mr. John Washburn
+—Mr. John Washburn, American Coalition for the International Criminal Law
 
 > “Not only do we not oppose the ICC’s investigation and prosecutions in Sudan, but we support its investigation and prosecution in these atrocities.”
 — Mr.John Bellinger, as quoted by moderator
@@ -31,16 +31,16 @@ On November 11 and 12, 2012, the Whitney R. Harris World Law Institute at Washin
 — Mr. Harold Kowe, State Department Legal Advisor, quoted by moderator
 
 > “I think we have to think about the U.S. - ICC relationship as larger than the United States government and the ICC.”
-— Mr. Kip Hale
+— Mr. Kip Hale, Senior Counsel of the ABA Center for Human Rights
 
 > “If you take the long view you are looking at the prevention of armed conflicts and atrocities that ultimately do involve American treasure and blood.”
-— Mr. David Scheffer
+— Mr. David Scheffer, Northwestern University School of Law
 
 > “The common sense of mankind demands that law shall not stop with the punishment of petty crimes by little people, it must also reach men of who possess themselves of great power and make deliberate and concerted use of it, to set in motion evils which leave no home in the world untouched.”
 — Justice Jackson, quoted by Ambassador Rapp
 
 > “Civilization can no longer tolerate the commission of crimes against humanity”
-— Mr. Whitney R. Harris
+— Mr. Whitney R. Harris, World Law Institute
 
 > “We must never forget that the record on which we judge these defendants today is the record on which history will judge us tomorrow”
 — Justice Jackson, quoted by Ambassador Rapp
