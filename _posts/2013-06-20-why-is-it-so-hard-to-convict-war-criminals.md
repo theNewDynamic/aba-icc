@@ -14,10 +14,10 @@ category: event
 On June 20, 2013 Huffington Post Live hosted an interview of experts in the field of international criminal justice. The panel addressed the difficulties faced by the ICC and other international criminal justice endeavors in obtaining convictions of alleged atrocity criminals. The trouble with witnesses protection and  available resources to the Court was stressed by panel members, along with the difficulty the Prosecutor faces in obtaining evidence in on-going conflicts or post-conflict situations. Nonetheless, each expert ultimately remained optimistic that the Court, while young, was on the right track. As explained by  Mr. Kip Hale, Director of the American Bar Association-International Criminal Court Project, “By all objective measures we are doing far better, and in a better position, in prosecuting and holding people accountable for the core crimes: war crimes, genocide, and crimes against humanity. A mere 25 years it would have been laughed at for someone to say that a government leader should be held accountable.”
 
 > “By all objective measures we are doing far better, and are in a better position, in 	prosecuting people and holding people accountable for the core crimes; war crimes, genocide, and crimes against humanity. A mere 25 years ago it would have been laughed at for someone to say that a government leader should be held accountable.”
-— Mr. Kip Hale
+— Mr. Kip Hale, Director of the  ABA-ICC Project
 
 > “What is required here is solid investigations solid prosecutions but also political and financial will. In the case of Kenyata, now the president of his country, it is an enormous challenge to undertake a case under those circumstances, where he has such control over many means at his disposal; and that is true in other situations as well.”
-— Mr. James Goldston
+— Mr. James Goldston, Executive Director of the Open Society Justice Initiative
 
 [**Click Here to Play Video**](http://live.huffingtonpost.com/r/segment/guatemala-war-lord-rios-montt-has-conviction-overturned-by-courts/519af892fe34440b9e000002  "Video")
 
