@@ -13,7 +13,7 @@ category: event
 On February 25, the American Bar Association (ABA) held a discussion on the Bangladesh War Crimes Tribunal at Georgetown University Law Center. The purpose of the discussion was to address the shortcomings of the Tribunal and to present some of its accomplishments. For instance, moderator Mr. Michael Greco, former ABA president and chair of the ABA-International Criminal Court Project, pointed out that the mandate of this course came on the heels of the Bangladesh Atrocities, beginning back in the 1970s; this type of legislation was a rarity at that time, predating all modern international criminal tribunals by decades. Criticisms of the Bangladesh Tribunal stem primarily from the procedures being employed by the Tribunal, which give the appearance of impropriety. As Mr. Toby Cadman, former Defense Team Attorney, suggested in quoting Justice Jackson, “If you are determined to execute a man in any event, there is no occasion to hold a trial.” Full video of the panel can be found below.
 
 > "I completely agree that I dont think it matters how long we wait, there should be a system. Whether its five years or forty years, I think that the fact that forty three years has passed is not a reason not to establish a process.”
-— Mr. Toby Cadman
+— Mr. Toby Cadman, International Barrister at the Former Defense Team, Bangladesh War Crimes Tribunal
 
 > “If you are determined to execute a man in any event, there is no occasion for a trial”
 — Justice Jackson as quoted by Mr. Toby Cadman
