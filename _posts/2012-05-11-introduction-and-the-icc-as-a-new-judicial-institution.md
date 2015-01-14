@@ -13,16 +13,16 @@ On May 11, 2012, experts from across the globe gathered at Stanford University L
 
 
 > “War is a terrible thing. It is not something that is glorious. It is not the path to power. It is not the path to privilege or conquest or being a great thing. It is awful. That point of view is not something that is unique to me, because I can quote General Eisenhower who, when he was President of the United States said that, ‘the time has come for us to recognize that we have to give up force and rely only on the rule of law.”
-— Mr. Ben Ferencz
+— Mr. Ben Ferencz, Former Prosecutor Nuremberg Military Tribunals
 
 > “What you’ve got to do now is work on improving the Court. It will come along. It is a prototype, with all the difficulties. When the Wright Brothers were peddling and they thought they couldn’t make it fly, well, we all flew in here today.”
 — Mr. Ben Ferencz
 
 > “We have obligations under international humanitarian law, to investigate these kinds of activities, not to engage in unlawful killings of civilians, not to engage in indiscriminate attacks,and to investigate them when they occur. If our forces are violating these rules, in my view, the US is best served by carrying out genuine investigations of them.”
-— Mr. Alan Wiener
+— Mr. Alan Wiener, Director of International & Comparative Law Institute at Stanford Law
 
 > “The words, indeed the imperative of ‘never again’ must not merely be set to paper and left to politics, but must be institutionalized under a just rule of law.”
-— Mr. Michael Greco
+— Mr. Michael Greco, Chair of the ABA Center for Human Rights and former President of the ABA
 
 > “Of one thing we may be sure, the future will never have to ask, with misgiving, what could the Nazis have said in their favor? History will know that whatever could be said, they were allowed to say. they have been given the kind of trial which they in the day of their pomp and power, never gave to any man.”
 
