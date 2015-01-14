@@ -8,7 +8,7 @@ sponsor: "American Bar Association & American University Council on African Stud
 participants: "Mr. Michael S. Greco, former president, American Bar Association; Ms. Regina Njogu, Washington College of Law alumni, Kenyan attorney; Mr. Stephen Arthur Lamony, Senior Adviser on American University, United Nations, and African Situations Coalition for the International Criminal Court; Professor David Bosco, American University’s School of International Service"
 category: event
 ---
-On February 25, 2014, American University's Council on Africa Studies hosted a panel debate on Africa and the International Criminal Court (ICC) with a special focus on recent ICC cases against senior Kenyan governmental officials.
+On February 25, 2014, American University's Council on Africa Studies hosted a panel debate on Africa and the International Criminal Court (ICC) with a special focus on recent ICC's cases against senior Kenyan governmental officials.
 
 ![](http://carllevan.com/wp-content/uploads/2014/02/ICC-photo-of-all-panelists-2-25-2014.jpg)  The debaters were Prof. David Bosco, American University and author of "Rough Justice"; Mr. Stephen Lamony, senior advisor to the Coalition for the ICC; and Ms. Regina Njogu, private Kenya attorney with experience in human rights issues. The moderator of this debate was Mr. Michael Greco, former American Bar Association (ABA) President and chair of the ABA-ICC Project, who began by explaining the ABA’s long-standing support of  the ICC, stating, “The ABA has long been a strong supporter of international criminal justice. Going back to the 1970’s the first policy adopted by the ABA regarding international criminal justice was to endorse the idea of a permanent tribunal for international justice.” Ms. Njogu's statements were critical of the ICC, alleging ICC incompetence in bringing justice to Africa, specifically in the case of Kenya. However, these allegations were firmly rejected by the other panelists who provided evidence to the contrary.
 
@@ -16,9 +16,9 @@ On February 25, 2014, American University's Council on Africa Studies hosted a p
 
 ---
 
-> “*The ABA has long been a strong supporter of international criminal justice. Going back to the 1970’s, the first policy adopted by the ABA regarding international criminal justice was to endorse the idea of a permanent tribunal for international justice.*”  — Mr. Michael Greco
+> “*The ABA has long been a strong supporter of international criminal justice. Going back to the 1970’s, the first policy adopted by the ABA regarding international criminal justice was to endorse the idea of a permanent tribunal for international justice.*”  — Mr. Michael Greco, former American Bar Association President and chair of the ABA-ICC Project
 
-> “*What needs to be understood is, unlike national jurisdictions which have power of the police to do these things, the ICC works on cooperation. When the cases are falling apart because of lack of cooperation from the States, you hear about 'incompetence,' but the reality is that there is simply no police force to accomplish these tasks.*”  — Mr. Kip Hale 
+> “*What needs to be understood is, unlike national jurisdictions which have power of the police to do these things, the ICC works on cooperation. When the cases are falling apart because of lack of cooperation from the States, you hear about 'incompetence,' but the reality is that there is simply no police force to accomplish these tasks.*”  — Mr. Kip Hale, Senior Counsel at American Bar Association Center for Human Rights
 
 > "*The Kenyan government has given 'no cooperation whatsoever' in the ICC investigation and has 'created a climate of fear' in those in Kenya who attempt to.*"  — Mr. Michael Greco
 
