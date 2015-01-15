@@ -12,7 +12,7 @@ Judge Kaul was an inspiring advocate, a gentle man, and a seminal figure in the 
 
 Judge Kaul was an early supporter of the ABA-ICC Project and a strong advocate of improved relations between the United States and the International Criminal Court. Judge Kaul has left his indelible mark on the vitally important field of international criminal justice, for which we are indebted to him.
 
-— Mr. Michael Greco
+— Mr. Michael Greco, Chair of the ABA Center for Human Rights and former President of the ABA
 
 
 
