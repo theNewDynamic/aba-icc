@@ -108,7 +108,7 @@ section: vertical-timeline
           <a href="{{ event.link }}" class="cd-read-more">Read more</a>
             {% endif %}
             {% if event.Date %}
-          <span class="cd-date">{{ event.Date | date:'%A %d, %Y' }}</span>
+          <span class="cd-date">{{ event.Date | date:'%B %d, %Y' }}</span>
             {% elsif event.Year %}
           <span class="cd-date">{{ event.Year }}</span>
             {% endif %}
