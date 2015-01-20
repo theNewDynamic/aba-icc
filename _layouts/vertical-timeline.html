@@ -30,7 +30,7 @@ section: vertical-timeline
       {% endif %}
     {% endfor %}
 
-<button id="filter-countries-none" class="small news" style="padding:.35em .25em;margin-bottom:2em;text-align:right;">clear all filters</button>
+<button id="filter-countries-none" class="small news" style="padding:.35em .25em;margin-bottom:2em;text-align:right;">clear filters</button>
   </div>
 
   
@@ -108,7 +108,7 @@ section: vertical-timeline
           <a href="{{ event.link }}" class="cd-read-more">Read more</a>
             {% endif %}
             {% if event.Date %}
-          <span class="cd-date">{{ event.Date | date:'%b %d, %Y' }}</span>
+          <span class="cd-date">{{ event.Date | date:'%A %d, %Y' }}</span>
             {% elsif event.Year %}
           <span class="cd-date">{{ event.Year }}</span>
             {% endif %}
