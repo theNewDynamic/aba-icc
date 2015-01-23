@@ -1,5 +1,5 @@
 ---
 layout: icc-cases
-title: "Situation & Cases - Cases"
+title: "Cases"
 heading: "Cases before the Court"
 ---

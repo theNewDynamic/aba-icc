@@ -63,7 +63,7 @@ collections:
   output: true
   permalink: /:collection/:path/
  development:
-  collection_name: "In Development"
+  collection_name: "Situations & Cases"
   output: true
   permalink: /:collection/:path/
 

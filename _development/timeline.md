@@ -1,5 +1,5 @@
 ---
-title: "Situation & Cases - Timeline"
+title: "Timeline"
 layout: vertical-timeline
-heading: "A Timeline of Situations & Cases before the Court"
+heading: "A Timeline of Situations & Cases before the ICC"
 ---
