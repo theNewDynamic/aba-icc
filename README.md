@@ -1,16 +1,24 @@
-webhook-starter
+
+This website was built with open source tools. While the copy belongs to its creators, everything else is open.
+
+Components
 ===============
-Barebones Webhook starter file to include grunt and bower components for Bourbon, Neat, and Bitters, plus normalize-scss, and a minimal print stylesheet.
+Webhook CMS (Grunt/Node-based open source static site generator)  
+Grunt  
+Bower  
+Bourbon/Neat/Bitters for Sass  
+Normalize.scss   
+https://formkeep.com 
 
-Modeled from [webhook/webhook-theme-preprocessor](https://github.com/webhook/webhook-theme-preprocessor)
+
+run these commands from the site directory after installation.
+```
+bower update
+
+npm install --save-dev grunt-contrib-sass
+
+cd sass && gem update bitters
+
+optionally, add static/cms.css to pages/cms.html
 
 ```
-cd sass
-gem install bitters
-install bitters
-
-add static/cms.css to pages/cms.html
-
-```
-
-``` bower update ```
