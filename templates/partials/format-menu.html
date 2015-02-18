@@ -1,0 +1,7 @@
+{% for page in menu.page %}
+  <li class="nav-sidebar-item" tabindex="{{loop.index}}" data-ga-click="nav, go to explore, text:{{ link.page.name }}">
+    <a href="{{ url(page) }}" class="menu-item{% if getCurrentUrl() == url(page) %} active{% endif %}">
+      {{ page.name }}
+    </a>
+  </li>
+{% endfor %}

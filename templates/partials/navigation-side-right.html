@@ -1,29 +1,44 @@
 <aside class="sidebar-right">
-  <div class="sidebar-content">
+  
     
-    <div class="section-heading">
+<section>
       {% if item._type %}
         {% for type in cms_types %}
           {% if type.id == item._type %}
-            <h2><a href="{{ url(type) }}">{{ type.name }}</a></h2>
+          
+            <h2>{{ type.name }}</h2>
+          
           {% endif %}
         {% endfor %}        
       {% endif %}
-    </div>
 
+      {% if item.meta_description %}
+
+       <p>{{ item.meta_description}}</p> 
+
+       {% endif %}
+    
+</section>
 
     <div class="hidden-small-screensTK">
       <nav class="card-menu columns-small">
         <ul class="nav-sidebar">
-          {% for link in cms.global.pages %}
-            <li class="nav-sidebar-item" tabindex="{{loop.index}}" class="nav-link" data-ga-click="nav, go to explore, text:{{ link.page.name }}">
-              <a href="{{ url(link.page) }}" class="{% if getCurrentUrl() == url(link.page) %}arrow arrow-left{% endif %}">
-                {{ link.page.name }}
-              </a>
-            </li>
-          {% endfor %}                
+          
+          {% if item._type == 'theabaiccproject' %}
+            {% for menu in global.abaicc_project_menu %}
+              {% include "templates/partials/format-menu.html" %}
+            {% endfor %}              
+          {% elseif item._type == 'abouttheicc' %} 
+            {% for menu in global.about_the_icc_menu %}
+              {% include "templates/partials/format-menu.html" %}
+            {% endfor %}              
+          {% endif %}
+
         </ul>
       </nav>
     </div>  
-  </div>
+
+
+
+  
 </aside>
