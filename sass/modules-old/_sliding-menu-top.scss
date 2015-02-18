@@ -1,0 +1,148 @@
+$sliding-menu-border-color: $blue-dark;
+$sliding-menu-background: lighten($sliding-menu-border-color, 15);
+$sliding-menu-color: #b0b0b0;
+$sliding-menu-border: 1px solid $sliding-menu-border-color;
+$sliding-menu-background-hover: $base-accent-color;
+$sliding-menu-color-hover: $blue-aba-logo;
+$horizontal-bar-mode: $xlarge-screen-up;//$small-screen-up;//$medium-screen;//$large-screen !default;
+
+.sliding-menu-button {
+  @include button(simple, $base-background-color);
+  @include inline-block;
+  cursor: pointer;
+  font-size: $base-font-size * 1.2;
+  margin-bottom: $base-line-height;
+  position: relative;
+  outline: none;
+
+  img {
+    height: 1.3em;
+  }
+}
+
+.sliding-menu-content {
+  font-family: $sans-serif;
+
+  @include position(fixed, 0px auto 0px 0px);
+  @include size(100% 480px);
+  @include transform(translateY(-480px));
+  @include transition(all .25s linear);
+  background: $sliding-menu-background;
+  padding: 0 2em;
+  z-index: 999999;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  color: $sliding-menu-color;
+
+    @include media ($horizontal-bar-mode) {
+      @include size(100% 250px);
+      @include transform(translateY(-250px));
+    }
+
+  .sliding-menu-content-inner {
+    @include outer-container;
+    //width:100%;
+    //margin: auto;
+    display: block;
+    margin: 2em auto 2em auto;
+    overflow: hidden;
+    a {
+      color: $lightest-gray;
+    }
+    .logo {
+        @include span-columns(1 of 12);
+        img {
+          max-width: 100%;
+        }
+    }
+
+    .column-left {
+      @include span-columns(12);
+      @include media ($medium-screen-up) {
+        @include span-columns(5 of 12);
+      }
+    }
+    .column-right {
+      @include span-columns(12);
+      @include media ($medium-screen-up) {
+        @include span-columns(6 of 12);
+      }
+    }
+    @include media ($horizontal-bar-mode) {
+      width: 80%;
+    }
+
+    p {
+      display: none;
+      text-align: justify;
+      @include media ($tiny-screen-up) {
+        display: block;
+      }
+      a {
+        color: $lightest-gray;
+      }
+    }
+    .logo img{
+      display: inline-block;
+      float: left;
+      margin-right:1em;
+      @include media ($tiny-screen-up) {
+        display: block;
+      }
+    }
+  }
+  li {
+    color: #999;
+    list-style-type: none;
+    font-size: 1.2rem;
+  }
+  li a {
+    font-size: 1rem;
+    //border-bottom: $sliding-menu-border;
+    color: $lightest-gray;
+    display: block;
+    font-weight: bold;
+    padding: .25em;
+    &:hover {
+      //background-color: $sliding-menu-background-hover;
+      color: $sliding-menu-color-hover;
+    }
+  }
+  ul.nav-small,  {
+    }
+    ul.nav-small li {
+    }
+  &.is-visible {
+    @include transform(translateY(0));
+  }
+}
+
+.menu-screen {
+  @include position(fixed, 0px 0px 0px 0px);
+  @include transition;
+  background: $sliding-menu-border-color;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 999998;
+
+  &.is-visible {
+    opacity: .8;
+    visibility: visible;
+  }
+}
+.box-highlight {
+  border:1px solid #858585;
+  padding: .5em;
+  float:left;
+  color: #a9a9a9;
+  h6 {
+    color: white;
+  }
+
+}
+
+.box-highlight:hover {
+  background-color: darken($sliding-menu-background, 4%);
+}
+
+// Based on code by Diego Eis

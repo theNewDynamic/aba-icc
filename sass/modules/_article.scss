@@ -1,0 +1,21 @@
+article.hentry {
+  padding: 2rem;
+  margin:auto;
+  max-width: 750px;
+  overflow: hidden;
+  position:relative;
+  header {
+    margin-bottom: .5em;
+  }
+  .lede {
+    font-size: 1.5em;
+    font-weight: 500;
+    margin: 1em auto;
+  }
+  img {
+    max-width: 100%;
+  }
+  @include media($medium-screen-up) {
+    padding: 2rem 2em;
+  }
+}

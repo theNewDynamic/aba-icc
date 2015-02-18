@@ -1,0 +1,129 @@
+@mixin grid-list-item-columns($columns) {
+  width: (100% / 12) * $columns;
+}
+
+.grid-list-items {
+  margin-top: $navigation-height + 10px;
+  $grid-list-items-background: #FFF;//$base-body-color;
+  $grid-list-item-background: desaturate($base-accent-color, 30);
+  $grid-list-item-colors:
+    //desaturate($base-accent-color, 30),
+    #1c1c1e,
+    #292a2e,
+    #1c1c1e,
+    #292a2e,
+    #1c1c1e,
+    #292a2e;
+  $grid-list-item-border-size: 4em;
+  $grid-list-item-columns: 4;
+  $grid-list-item-big-columns: 8;
+  $grid-list-item-color: #8F8F8F;
+  $grid-list-item-height: 30em;
+  margin-left: auto;
+  margin-right: auto;
+
+  @include clearfix;
+
+  .grid-list-item {
+    @include transition (all 0.2s ease-in-out);
+    height: $grid-list-item-height;
+    background: $grid-list-item-background;
+    width: 100%;
+    overflow: hidden;
+    float: left;
+    //padding: 2em; moved to .info
+    border-top: 0;
+    border-bottom: $grid-list-item-border-size solid $grid-list-items-background;
+    border-left: $grid-list-item-border-size /2 solid $grid-list-items-background;
+    border-right: $grid-list-item-border-size /2 solid $grid-list-items-background;
+    text-align: center;
+    cursor: pointer;
+
+    &.dark {
+      background-color: #1c1c1e;
+    }
+    &.light {
+      background-color: #292a2e;
+    }
+
+    @include media($large-screen) {
+      @include grid-list-item-columns($grid-list-item-columns);
+    }
+
+    // @for $i from 1 to 8 { // assign colors from $grid-list-item-colors list
+    //   &:nth-child(#{$i}) {
+    //     $background-from-list: nth($grid-list-item-colors, $i);
+    //     //background-color: $background-from-list;
+    //     box-shadow: inset 0px 0px 1px 2px darken($background-from-list, 10);
+    //     &:hover {
+    //       background-color: darken($background-from-list, 10);
+    //       background-repeat: no-repeat;
+    //       background-position: top;
+    //       background-size: cover;
+    //     }
+    //   }
+    // }
+  }
+  .grid-list-item .info {
+    padding: 2em;
+  } 
+  .grid-list-item img {
+      display: block;
+      max-height: 14em;
+      max-width: 100%;
+      text-align: center;
+      margin: auto;
+      margin-bottom: 2em;
+      margin-right: auto;
+      margin-left: auto;
+    }
+
+  .grid-list-item h1 {
+      color: $grid-list-item-color;
+      font-size: 1.3em;
+      margin-bottom: .4em;
+    }
+
+  .grid-list-item p {
+      margin: auto;
+      color: transparentize($grid-list-item-color, .3);
+      font-family: $sans-serif;
+      font-size: 1em;
+      text-align: justify;
+      @include media($medium-screen) {
+        max-width: 90%;
+      }
+    }
+
+    .text {
+      clear: left;
+      border-top: 1px solid #555;
+      padding-top: .5em;
+      margin-top: .5em;
+    }
+
+    // .grid-list-item .text {
+    //   height: 4em;
+    //   background-color: red;
+    // }
+
+  .grid-list-item-big {
+    @include media($large-screen) {
+      @include grid-list-item-columns($grid-list-item-big-columns);
+    }
+    p {
+      @include media($medium-screen) {
+        max-width: 80%;
+      }
+    }
+  }
+  .grid-list-item-image {
+    //background: url(https://raw.github.com/Magnus-G/Random/master/lake-transparent.png);
+    //background: url(/assets/img/jackson-nuremberg-dark.jpg);
+
+    background-color: black;//$grid-list-item-background;
+    background-repeat: no-repeat;
+    background-position: center;
+    //background-size: cover;
+  }
+}

@@ -1,18 +1,7 @@
 <div class="push bg"></div>
 <footer class="footer" id="content-info">
-<div class="row">
-  <div id="contact" class="footer-form">
-    {% include "templates/partials/form-contact.html" %}
-  </div>
-  <div class="footer-copy">{{ cms.about.footer_copy|safe }}</div>
-</div>
-
-  <ul class="subfooter no-bullet small-print inline">
-      <li class="source-org vcarfd copyright">{% set now = Date() %}
-        <a href="{{site.url}}"><span class="org fn">&copy; {{ now|date('Y', '-4') }} {{ metadata.sitename }}</span></a>
-      </li>
-      <li><a href="http://sonnetmedia.net">site by sonnet media</a></li>
-    </ul>
-
-
+  &copy; {{ now|date('Y', '-4') }} <a href="http://www.americanbar.org/">ABA, All Rights Reserved</a> &bull; <a href="http://www.americanbar.org/utility/privacy.html">Privacy Policy</a> &bull; <a href="http://www.americanbar.org/utility/codeofconduct.html">Code of Conduct</a> &bull; <a href="http://www.americanbar.org/utility/copyright.html">Copyright</a> &bull; <a href="http://www.americanbar.org/utility/terms.html">ABA Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;site by <a href="http://sonnetmedia.net">sonnet media</a>
 </footer>
+<a href="http://www.americanbar.org/" style="no-print">
+  <img src="/static/images/logo-aba.png" style="max-width:55px;position:fixed;bottom: 10px;left:35px;">
+</a>

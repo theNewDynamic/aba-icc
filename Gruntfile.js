@@ -21,7 +21,7 @@ module.exports = function(grunt) {
     },
  concat: {
     dist: {
-      src: ['bower_components/jquery/dist/jquery.min.js','bower_components/smoothstate/jquery.smoothState.js','static/javascript/site.js'],
+      src: ['bower_components/jquery/dist/jquery.min.js','static/javascript/site.js'],
       dest: 'static/javascript/dist/scripts.js',
     },
     modernize: {

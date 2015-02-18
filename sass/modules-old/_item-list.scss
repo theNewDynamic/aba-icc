@@ -1,0 +1,16 @@
+.item-wrapper {
+  @include span-columns(12);
+    //border-bottom:1px solid #efefef;
+    padding-top:1.5em;
+    max-width:95%;
+
+    .column-date {
+
+      @include span-columns(2);
+      text-align:right;
+    }
+
+    .column-item {
+      @include span-columns(10);
+    }
+  }

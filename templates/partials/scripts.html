@@ -4,9 +4,9 @@
     var element = document.createElement("script");
     element.src = "/static/javascript/dist/scripts.min.js";
     document.body.appendChild(element);
-    // var element_addthis = document.createElement("script");
-    // element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js{% if site.addthis_id %}#pubid={{site.addthis_id}}{% endif %}";
-    // document.body.appendChild(element_addthis);
+    var element_addthis = document.createElement("script");
+    element_addthis.src = "//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53c565a74f2c5c5b";
+    document.body.appendChild(element_addthis);
   }
   if (window.addEventListener)
     window.addEventListener("load", downloadJSAtOnload, false);

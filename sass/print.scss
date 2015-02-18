@@ -31,8 +31,8 @@ blockquote {margin:1.5em;padding:1em;font-style:italic;font-size:.9em;}
 .hide {display:none;}
 a:link, a:visited {background:transparent;text-decoration:underline;}
 a:link:after, a:visited:after {content:" (" attr(href) ")";font-size:90%;}#banner, #top, #banner_interior, #footer{
-  display: none;
+	display: none;
 }
 .print_only{
-  display: block;
+	display: block;
 }

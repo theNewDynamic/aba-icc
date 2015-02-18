@@ -185,6 +185,7 @@ module.exports.swigFunctions = function(swig) {
     item = adjustRelationshipFields(relationshipFields, item);
 
     item._type = type;
+    item._id = key;
 
     return item;
   };
@@ -247,12 +248,11 @@ module.exports.swigFunctions = function(swig) {
           configurable: true,
           get: function() {
             if(!val) return val;
-
             return getItem(val);
           }
         });
         Object.defineProperty(object, '_' + field.name, {
-          enumerable: true,
+          enumerable: false,
           configurable: true,
           get: function() {
             if(!val) return val;
@@ -271,7 +271,7 @@ module.exports.swigFunctions = function(swig) {
         });
 
         Object.defineProperty(object, '_' + field.name, {
-          enumerable: true,
+          enumerable: false,
           configurable: true,
           get: function() {
             if(!val) return val;
