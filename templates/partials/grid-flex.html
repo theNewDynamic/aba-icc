@@ -1,0 +1,23 @@
+{% set bios = cms.boardofadvisors %}
+<div class="flex-boxes">
+    {% for item in bios %}
+  <a href="{{ url(item) }}" class="flex-box">
+
+    <img src="{{ item.image|imageCrop(200) }}" alt="">
+  
+    <h1 class="flex-title">{{ item.name }}   {% if item.board_chair %}<br /><small>Chair</small>{% endif %}</h1>
+
+    <p>{{ item.position }}</p>
+  
+  </a>
+  
+  
+   {% endfor %} 
+</div>
+
+
+
+
+
+
+

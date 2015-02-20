@@ -20,7 +20,7 @@ $sidebar-right-color: #999 !default;
 @if $include-sidebar-right != false {
 
   //.content
-  .content, .splash
+  .content
    {
 //    margin-right: 0;
     width:100%;
@@ -31,16 +31,6 @@ $sidebar-right-color: #999 !default;
     }
   }
 
-  @include media($sidebar-right-breakpoint) {
-
-        body.narrow .content{
-          margin-right:  $sidebar-right-width-narrow;
-      }
-      //   body.article .content{
-      //     margin-right:  $sidebar-right-width-wide;
-
-      // }
-}
 
 
 

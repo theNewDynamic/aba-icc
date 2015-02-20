@@ -1,3 +1,11 @@
+.content {
+  background-color: $content-color-background;
+  height: auto;
+  //min-height: 1200px;
+  padding-bottom:2em;
+  min-height:100%;
+}
+
 .layout {
   //margin-top: 5em;
 

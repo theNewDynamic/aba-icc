@@ -18,6 +18,35 @@ h6 {
   line-height: $heading-line-height;
   margin: 0 0 $small-spacing;
 }
+h1, .h1 {
+  font-size: $base-font-size * 2.25; // 16 * 2.25 = 36px
+  
+}
+
+h2, .h2 {
+  font-size: $base-font-size * 1.9; // 16 * 2 = 32px
+  font-weight:300;
+}
+
+h3, .h3 {
+  font-size: $base-font-size * 1.75; // 16 * 1.75 = 28px
+}
+
+h4, .h4 {
+  font-size: $base-font-size * 1.5; // 16 * 1.5 = 24px
+
+}
+.sidebar-content h4{
+    color: #444;
+  }
+
+h5, .h5 {
+  font-size: $base-font-size * 1.25; // 16 * 1.25 = 20px
+}
+
+h6, .h6{
+  font-size: $base-font-size;
+}
 
 p {
   margin: 0 0 $small-spacing;

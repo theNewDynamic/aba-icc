@@ -14,7 +14,7 @@ header.navigation {
   
 
   background-color: $navigation-background;
-  border-bottom: 1px solid darken($navigation-background, 10);
+  border-bottom:none;// 1px solid darken($navigation-background, 10);
   //min-height: $navigation-height;
   height: $navigation-height;
   width: 100%;
@@ -337,7 +337,8 @@ header.navigation {
 
     @include media($horizontal-bar-mode) {
       display: inline-block;
-      position: relative;
+      position: fixed;
+      right:140px;
       width: 16em;
 
       input {

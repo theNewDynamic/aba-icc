@@ -1,0 +1,31 @@
+{% set bios = cms.boardofadvisors %}
+<section class="grid-items-lines">
+  {% for item in bios %}
+    <div class="grid-item flipTK">
+    <i class="icon-loop" style="display:none;float:right;color:#999;"></i>
+      <div class="card-flush">
+        <div class="face front">
+          <span class="figure">
+            {% if item.image %}
+              <a href="{{ url(item) }}"><img src="{{ item.image|imageCrop(200) }}" alt=""></a>
+            {% endif %}
+          </span>
+          <h2 class="h6">
+            <a href="{{item.url}}"><strong>{{ item.name }}</strong></a>
+          </h2>
+          {% if item.position %}<small>{{item.position  }}</small>{% endif %}
+          <br /><small><strong><a href="{{ url(item) }}" style="float:right;">full bio</a></strong></small>
+        </div>
+        <div class="face back" style="display:none;">
+          {% if item.position %}<small>
+          
+         {{ item.position }}
+          </small>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</section>
+
+

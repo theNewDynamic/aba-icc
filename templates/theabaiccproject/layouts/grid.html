@@ -1,0 +1,8 @@
+{% extends "templates/partials/base.html" %}
+{# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+   {% block hero %}
+    {% endblock %}
+{% block content %}
+  {% include "templates/partials/grid-flex.html" %}
+{% endblock %}

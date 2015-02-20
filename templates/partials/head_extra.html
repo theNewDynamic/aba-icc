@@ -14,7 +14,7 @@
 <style type="text/css">
   .gradient {
     background-image: url({{ background_image }});
-    background-position: top center;
+    background-position: {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}top{% endif %} center;
     background-size: 100%;
     background-repeat: no-repeat;
     height: 400px;

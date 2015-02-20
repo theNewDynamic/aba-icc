@@ -19,6 +19,7 @@
 "modules/navigation-sidebar",
 "modules/grid-items", // HOME PAGE
 "modules/grid-items-lines", // BIO PAGE
+"modules/flex-boxes", // BIO PAGE
 "modules/tables",
 "modules/utilities-accessibility",
 "modules/utilities-responsive",
@@ -48,13 +49,6 @@ body {
 }
 
 
-.content {
-  background-color: $content-color-background;
-  height: auto;
-  //min-height: 1200px;
-  padding-bottom:2em;
-  min-height:100%;
-}
 
 // body.home .content {
 //   //background-color: $sidebar-right-color-background;

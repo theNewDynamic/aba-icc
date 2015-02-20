@@ -8,9 +8,10 @@ $sidebar-right-color: $light-gray !default;
 @if $include-sidebar-right != false {
   .content
    {
+    //clear: both;
     width:100%;
     @include media($sidebar-right-breakpoint) {
-        width: 100% - $sidebar-right-width;
+      width: 100% - $sidebar-right-width;
     }
   }
 
@@ -19,7 +20,7 @@ $sidebar-right-color: $light-gray !default;
       clear: both;
       overflow: hidden;
       width: 100%;
-      height: auto;
+      height: 100%;//auto;
       position: relative;
       text-align: left;
       padding: 4em 0;
