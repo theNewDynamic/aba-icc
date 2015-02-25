@@ -6,7 +6,6 @@ image: "pillay-headshot.jpg"
 bio: 
 published: true
 ---
-
 #### United Nations High Commissioner for Human Rights (2008-14)
 
 Navanethem Pillay (Navi) served as United Nations (U.N.) High Commissioner for Human Rights from September 2008-14. Prior to this position, Ms. Pillay was elected in 2003 as a judge on the International Criminal Court. In 1995,  Ms. Pillay was appointed as acting judge on the South African High Court, and in the same year was elected by the U.N. General Assembly to be a judge on the International Criminal Tribunal for Rwanda, where she served a total of eight years, the last four (1999-2003) as President. Before her international legal career, Ms. Pillay was the first woman to start a law practice in her home province of Natal in 1967. She also worked as a lecturer at the University of KwaZulu-Natal, and later was appointed Vice-President of the Council of the University of Durban Westville.  
