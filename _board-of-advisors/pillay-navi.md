@@ -2,7 +2,7 @@
 title: Hon. Navanethem Pillay
 last_title: Pillay
 position: "United Nations High Commissioner for Human Rights (2008-14)"
-image: 
+image: "pillay-headshot.jpg"
 bio: 
 published: true
 ---
