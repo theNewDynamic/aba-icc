@@ -1,41 +1,73 @@
-{# ------------------------------------------------------- #}
-
-{# YOUR HOMEPAGE #}
-
-{# Webhook uses the SWIG.js (like Djagno/Twig) templating system. Their documentation is here: #}
-{# http://paularmstrong.github.io/swig/docs/tags/ #}
-
-{# Learn about calling data into Webhook pages here: #}
-{# http://www.webhook.com/docs/template-rules-and-filters/ #}
-
-{# ------------------------------------------------------- #}
-
-{# Confused what extends and blocks do? Watch a primer: #}
-{# http://www.webhook.com/docs/template-inheritance-blocks/ #}
 {% extends "templates/partials/base.html" %}
+{# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+   {% block hero %}
+    {% endblock %}
 
-{# This sets our page <title>. It will append "- Homepage" to the site title defined in base. #}
-{% block title %}{% parent %} - Homepage{% endblock %}
+{% block sideMenu %}
+  <div class="sidebar-content">
+    <h2>{{ cms.homepage.name }}</h2>
+
+     <p>{{ cms.homepage.sidebar_copy|safe }}</p> 
+  </div>
+{% endblock %}
+
+
 
 {% block content %}
+  {% set data = cms.homepage.grid %}
+  <div class="flex-boxes-home">
+    {% for row in data %}
+      <a href="{% for relation in row.related_page %}{{ url(relation) }}{% endfor %}" 
+        class="flex-box{% if loop.index == 1 || loop.index == 8 || loop.index == 9 %} flex-box-big{% endif %}" 
 
-  <h1>Hello world!</h1>
+          {% if row.background_image %}
+            style="background:url({{ row.background_image|imageSize(400) }}){% if row.bg_position %} {{ row.bg_position }}{% endif %};background-size:{% if row.background_size %}{{ row.background_size }}{% else %}cover{% endif %};{% endif %}background-repeat:no-repeat;">
+        
+        <figcaption>
+          {% if row.heading %}
+            <h1>{{ row.heading }}</h1>
+          {% endif %}
+          {% if row.copy %}
+            {% if row.copy|size > 300 %} 
+              <small>{{ row.copy|safe }}</small>
+            {% else %}
+              {{ row.copy|safe }}
+            {% endif %}
 
-  <p>This is your homepage, located at /pages/index.html.</p>
+          {% endif %}
+          
+        </figcaption>
+        </a>
 
-  <p><a href="/cms/">Looking for the CMS?</a></p>
 
-  {# If you have at least content page type, we show a list. #}
-  {% if cms_types|size !== 0 %}
 
-    <h3>Content types you've created in the CMS so far.</h3>
-
-    <ul>
-    {% for type in cms_types %}
-      <li><a href="{{ url(type) }}">{{ type.name }}</a></li>
     {% endfor %}
-    </ul>
-
-  {% endif %}
-
+  </div>
 {% endblock %}
+
+
+
+{# 
+
+            
+              {{ row.heading }}monKey brain3 saucenec0yeV5Ut7Lu3iG5Ap0Thoach3biV1V
+            
+            
+            
+              {{ row.copy }}
+            
+            
+            
+                <img src="{{ row.background_image|imageSize(200) }}" />
+            
+            
+            
+            
+                {% for relation in row.related_page %}
+            
+                  <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
+                {% endfor %}
+            
+
+ #}

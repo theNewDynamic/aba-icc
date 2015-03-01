@@ -3,6 +3,16 @@
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
    {% block hero %}
     {% endblock %}
+
+{% block sideMenu %}
+  {% include "templates/theabaiccproject/menu.html" %}
+{% endblock %}
+
+
+
 {% block content %}
-  {% include "templates/partials/grid-flex.html" %}
+<div class="heading"><h1>{{ item.name }}</h1></div>
+  {% set bios = cms.boardofadvisors %}
+  {% set data = bios|sort('last_name') %}
+  {% include "templates/partials/format-cards-board-of-advisors.html" %}
 {% endblock %}

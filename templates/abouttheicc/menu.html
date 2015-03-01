@@ -1,0 +1,4 @@
+{% for menu in global.about_the_icc_menu %}
+  {% set content_type = menu.page %}    
+    {% include "templates/partials/format-menu.html" %}
+{% endfor %} 

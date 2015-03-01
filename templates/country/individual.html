@@ -1,0 +1,106 @@
+{# ------------------------------------------------------- #}
+{# INDIVIDUAL VIEW FOR EACH country #}
+{# This page can use any data from http:localhost:2000/cms/#/form/country/ #}
+{# Webhook uses the SWIG.js (like Djagno/Twig) templating system. Their documentation is here: #}
+{# http://paularmstrong.github.io/swig/docs/tags/ #}
+{# Learn about calling data into Webhook pages here: #}
+{# http://www.webhook.com/docs/template-rules-and-filters/ #}
+{# ------------------------------------------------------- #}
+{# Confused what extends and blocks do? Watch a primer: #}
+{# http://www.webhook.com/docs/template-inheritance-blocks/ #}
+{% extends "templates/partials/base.html" %}
+{# This sets our page <title>. It will append this country's name to the site title defined in base.html #}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+{% block content %}
+  <p><a href="{{ url('country') }}">View a list of all country</a></p>
+  <h1>{{ item.name }}</h1>
+  <ul>
+      <li>
+        <strong>Name: </strong>
+        {{ item.name }}
+      </li>
+      <li>
+        <strong>Create Date: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ item.create_date|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Last Updated: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ item.last_updated|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Publish Date: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ item.publish_date|date('F d Y') }}
+      </li>
+      <li>
+        <strong>geocode: </strong>
+        {{ item.geocode }}
+      </li>
+      <li>
+        <strong>ISO Code: </strong>
+        {{ item.iso_code }}
+      </li>
+      <li>
+        <strong>Rome Statute Data: </strong>
+        {{ item.rome_statute_data }}
+      </li>
+      <li>
+        <strong>State Party: </strong>
+        {{ item.state_party }}
+      </li>
+      <li>
+        <strong>Signed But Not Ratified: </strong>
+        {{ item.signed_but_not_ratified }}
+      </li>
+      <li>
+        <strong>Date Signed: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ item.date_signed|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Date Ratified or Acceded: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ item.date_ratified_or_acceded|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Date Entry into Force: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ item.date_entry_into_force|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Preview URL: </strong>
+        {{ item.preview_url }}
+      </li>
+      <li>
+        <strong>Slug: </strong>
+        {{ item.slug }}
+      </li>
+      <li>
+        <strong>Date Ratified APIC: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ item.date_ratified_apic|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Genocide: </strong>
+        {{ item.genocide|markdown }}
+      </li>
+      <li>
+        <strong>Crimes against Humanity: </strong>
+        {{ item.crimes_against_humanity|markdown }}
+      </li>
+      <li>
+        <strong>Aggression: </strong>
+        {{ item.aggression|markdown }}
+      </li>
+      <li>
+        <strong>War Crimes: </strong>
+        {{ item.war_crimes|markdown }}
+      </li>
+      <li>
+        <strong>Note: </strong>
+        {{ item.note }}
+      </li>
+  </ul>
+{% endblock %}

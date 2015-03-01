@@ -61,24 +61,36 @@
 <body id="container" class="{% if getCurrentUrl() != '/' %}page{% else %}home{% endif %} {{ item._type }}"{% block body_attributes %} data-search-index="true"{% endblock %}>
   <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
     {% include "templates/partials/navigation.html" %}
-    {% include "templates/partials/navigation-side-right.html" %}
-
-      <section class="content">
+    <aside class="sidebar-right">
+      {% include "templates/partials/navigation-heading.html" %}
+      <div class="hidden-small-screensTK">
+        <nav class="card-menu columns-small">
+          <ul class="nav-sidebar">
+            {% block sideMenu %}          
+              {% include "templates/partials/format-menu.html" %}
+            {% endblock %}
+          </ul>
+        </nav>
+        {% block sideContent %}{% endblock %}
+      </div>  
+    </aside>
+      <main class="content">
       
-    {% block hero %}
-      {% include "templates/partials/hero.html" %}
-    {% endblock %}
+        {% block hero %}
+          {% include "templates/partials/hero.html" %}
+        {% endblock %}
 
         <div id="start-of-content" class="accessibility-aid"></div>        
         {% block content %}
         {% endblock %}
-      </section>
+      </main>
       <aside id="menu-local" class="hidden-large-screens">
         {% include "templates/partials/prev-next-links.html" with 25 %}
       </aside>
     {% include "templates/partials/footer.html" %}
     {% include "templates/partials/scripts.html" %}
     {% block page_bottom %}{% endblock %}
+    {% block scripts_extra %}{% endblock %}
   </body>
 </html>
 

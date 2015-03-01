@@ -1,1 +1,17 @@
-{% extends "templates/theabaiccproject/layouts/grid.html" %}
+{% extends "templates/partials/base.html" %}
+{# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+   {% block hero %}
+    {% endblock %}
+
+{% block sideMenu %}
+  {% include "templates/theabaiccproject/menu.html" %}
+{% endblock %}
+
+
+
+{% block content %}
+  {% set bios = cms.boardofadvisors %}
+  {% set data = bios|sort('last_name') %}
+  {% include "templates/partials/format-cards-board-of-advisors.html" %}
+{% endblock %}

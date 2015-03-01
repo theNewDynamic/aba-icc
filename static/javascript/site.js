@@ -10,6 +10,20 @@
     });
   });
 
+$('.js-accordion-trigger').bind('click', function(e){
+  jQuery(this).parent().find('.submenu').slideToggle('fast');  // apply the toggle to the ul
+  jQuery(this).parent().toggleClass('is-expanded');
+  e.preventDefault();
+});
+
+
+$('#tipue_search_input').tipuesearch({
+  highlightEveryTerm: true,
+  descriptiveWords: 100
+});
+
+
+
 
 // if the menu is hidden, then show it = if display none, then display block. Or  = if display block, none.
 

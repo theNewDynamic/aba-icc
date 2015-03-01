@@ -1,0 +1,80 @@
+<header class="navigation" role="banner">
+  <div class="navigation-wrapper">
+    <a href="/" class="logo">
+      <img src="/static/images/logo-aba-icc_144xb.png" alt="" style="display:block;">
+    </a>
+    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
+    <nav role="navigation">
+      <ul id="js-navigation-menu" class="navigation-menu show">
+
+      {% for menu in global.main_menu %}
+        {% for page in menu.page %}
+          <li tabindex="{{loop.index}}" class="nav-link{% if getCurrentUrl() == url(link.page) %} active{% endif %}" data-ga-click="nav, go to explore, text:{{ link.menu_text }}">
+            <a href="{{ url(page) }}">
+              {{ page.name }}
+            </a>
+          </li>
+        {% endfor %}
+      {% endfor %}                
+      
+      </ul>
+    </nav>
+    <div class="navigation-tools">
+      <div class="search-bar">
+      {% include "templates/partials/form-search.html" %}
+      </div>      
+    </div>
+  </div>
+</header>
+
+
+
+
+
+
+
+{# 
+<header class="navigation">
+  <div class="menu-wrapper">
+    <a href="/" class="logo">
+      <img src="/static/images/logo-aba-icc_144xb.png" alt="" style="display:block;">
+    </a>
+    <p class="js-menu-trigger navigation-menu-button" id="js-mobile-menuTK">
+      
+        <span class="hidden-small-screens">&#9776; ABOUT</span>
+      <span class="hidden-large-screens">&#9776; MENU</span>
+      </p>
+    <div class="nav">
+      <ul id="navigation-menu">
+
+      {{ global.menu[0].menu_text }}    
+        {% for link in global.menu %}f
+          <li tabindex="{{loop.index}}" class="nav-link" data-ga-click="nav, go to explore, text:{{ link.menu_text }}">
+            <a href="{% if link.page %}{{ url(link.page) }}{% elseif link.link %}/{{ link.link }}/{% endif %}"{% if getCurrentUrl() == url(link.page) %} class="active" {% endif %}>{{ link.menu_text }}</a></li>
+        {% endfor %}                
+
+
+
+
+
+      </ul>
+   </div>
+    <div class="navigation-tools">
+    <ul class="secondary" id="navigation-menu">
+      {% include "templates/partials/navigation-drop-down.html" %}
+    </ul>
+      <!-- <div class="search-bar">
+        <div class="search-and-submit">
+          <input type="search" placeholder="Enter Search" />
+          <button type="submit">
+            <img src="https://raw.githubusercontent.com/Magnus-G/Random/master/search-icon.png" alt="">
+          </button>
+        </div>
+      </div> -->
+      <!-- <a href="javascript:void(0)" class="sign-up">Sign Up</a> -->
+    </div>
+  </div>
+</header>
+
+ include nav/nav-sliding-menu.html 
+ #}

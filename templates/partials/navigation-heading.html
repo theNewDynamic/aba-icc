@@ -1,0 +1,19 @@
+<section>
+  {% if item._type %}
+    {% for type in cms_types %}
+      {% if type.id == item._type %}
+        {% if item.nameTK %}
+          <h2><small>{{ type.name }}</small></h2>
+        {% else %}
+          <h1>{{ type.name }}</h1>
+        {% endif %}
+      {% endif %}
+    {% endfor %}        
+  {% endif %}
+  {% if item.nameTK %}
+    <h1>{{ item.name }}</h1>
+  {% endif %}
+  {% if item.meta_descriptionTK %}
+    <p>{{ item.meta_description}}</p> 
+  {% endif %}
+</section>

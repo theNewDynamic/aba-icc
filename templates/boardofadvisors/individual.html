@@ -1,28 +1,32 @@
 {% extends "templates/partials/base.html" %}
 {# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
-{% block content %}
-<div class="has-layout">
-  <article class="hentry">
-    {% if item.name %}
-      <header>   
-        <h1 class="entry-titleTK">{{ item.name }}</h1>
-      </header>
-    {% endif %}
-    <div class="entry-content prose columns-2 "><!--  //CONTENT -->
-      <h2>  {{ item.position }}</h2>
-      {% if item.board_chair %}<strong>Board Chair</strong>{% endif %}
-      <img src="{{ item.image|imageSize(300) }}" style="float:left;margin:10px 18px 4px 0;" />
-      {{ item.bio|safe }}
-  </div>  
-  </article>
-  {# {% if item.timeline %}
-    <div class="timeline-background">
-      <iframe src='{{ item.timeline }}' width='100%' height='650' frameborder='0'></iframe>
-    </div>
-  {% endif %} #}
+{% set content_type = cms.boardofadvisors|sort('last_name') %}
+{% set landing = '/the-aba-icc-project/board-of-advisors/' %}
 
- </div> 
+
+{% block content %}
+  <div class="has-layout">
+    <article class="hentry">
+      {% if item.name %}
+        <header>   
+          <h1 class="entry-titleTK">{{ item.name }}</h1>
+        </header>
+      {% endif %}
+      <div class="entry-content prose columns-2 "><!--  //CONTENT -->
+        <h2>  {{ item.position }}</h2>
+        {% if item.board_chair %}<strong>Board Chair</strong>{% endif %}
+        <img src="{{ item.image|imageSize(300) }}" style="float:left;margin:10px 18px 4px 0;" />
+        {{ item.bio|safe }}
+    </div>  
+    </article>
+    {# {% if item.timeline %}
+      <div class="timeline-background">
+        <iframe src='{{ item.timeline }}' width='100%' height='650' frameborder='0'></iframe>
+      </div>
+    {% endif %} #}
+
+   </div> 
 {% endblock %}
 
 

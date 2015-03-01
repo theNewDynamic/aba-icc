@@ -21,7 +21,11 @@ module.exports = function(grunt) {
     },
  concat: {
     dist: {
-      src: ['bower_components/jquery/dist/jquery.min.js','static/javascript/site.js'],
+      src: [
+      'bower_components/jquery/dist/jquery.min.js',
+      'static/javascript/tipue.js',
+      'static/javascript/site.js'
+        ],
       dest: 'static/javascript/dist/scripts.js',
     },
     modernize: {

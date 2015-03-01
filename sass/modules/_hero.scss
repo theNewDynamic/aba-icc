@@ -5,19 +5,21 @@
   $large-screen: em(860) !default;
   //////////////////////////////////////////////////////////////////////////////////
 
-  //$hero-background-top: #7F99BE; 
-  //$hero-background-bottom: #20392B;
+  $hero-background-top: #fff;///#7F99BE; 
+  $hero-background-bottom: #20392B;
   $hero-color: white;
   $gradient-angle: 10deg;
   //$hero-image: 'https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png';
+  $hero-image: '/static/images/icc-building.svg';
 
-  //@include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
-  background-color: $base-body-color;
-  background-position: top;
+  @include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
+  background-color: #324766;
+  background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 3em;
-  max-width: 100%;
+  //min-height: 400px;
+  //background-attachment: fixed;
 
   .hero-logo img {
     height: 4em;
@@ -36,8 +38,11 @@
       text-align: center;
       
       h1 {
-        font-size: 1.6em;
+        //font-size: 1.6em;
+        float: left;
+        padding: .375em;
         margin-bottom: 0.5em;
+        background-color: rgba(0,0,0,0.4);
 
         @include media($large-screen) {
           font-size: 1.8em;

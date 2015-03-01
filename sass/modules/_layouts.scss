@@ -1,86 +1,109 @@
-.content {
-  background-color: $content-color-background;
-  height: auto;
-  //min-height: 1200px;
-  padding-bottom:2em;
-  min-height:100%;
+// .has-layout {
+//   @include outer-container;
+//   .entry-content {
+//     min-height: 100vh;
+//   }
+// }
+
+.heading h1 {
+text-align: center;
+  }
+
+
+.timeline {  
+  
+  .submenu {
+    display: none;
+  }
+  .is-expanded {
+    display: block;
+    padding-bottom: 0;
+  }
 }
 
-.layout {
-  //margin-top: 5em;
+// .content {
+//   background-color: $content-color-background;
+//   height: auto;
+//   //min-height: 1200px;
+//   padding-bottom:2em;
+//   min-height:100%;
+// }
 
-    @include outer-container;
-    max-width:95%;
+// .layout {
+//   //margin-top: 5em;
 
-    aside { @include span-columns(5);}
-    article { @include span-columns(9); }
+//     @include outer-container;
+//     max-width:95%;
 
-    section {
-      @include span-columns(7);
-    }
+//     aside { @include span-columns(5);}
+//     article { @include span-columns(9); }
 
-}
+//     section {
+//       @include span-columns(7);
+//     }
 
-
-.layout-news {
-
-    //margin-top: 5em;
-    padding-top:2em;
-    @include outer-container;
-    //max-width:95%;
-
-    aside { 
-      @include span-columns(12); 
-      margin-top:1em; 
-      padding:1em;
-      background-color:#e8e8e8; }
-    section { @include span-columns(12); padding:inherit; margin-top:inherit;}
-
-      @include media($large-screen) {
-          aside { @include span-columns(5); margin-top:2.5em; }
-          section { @include span-columns(7); margin-top:0; }
-}
-    // section {
-    //   @include span-columns(7);
-    // }
-
-}
+// }
 
 
+// .layout-news {
 
-.layout-article {
+//     //margin-top: 5em;
+//     padding-top:2em;
+//     @include outer-container;
+//     //max-width:95%;
 
-    //margin-top: 5em;
-    padding-top:5em;
-    @include outer-container;
-    max-width:95%;
+//     aside { 
+//       @include span-columns(12); 
+//       margin-top:1em; 
+//       padding:1em;
+//       background-color:#e8e8e8; }
+//     section { @include span-columns(12); padding:inherit; margin-top:inherit;}
 
-    aside { @include span-columns(12); margin-top:1em; padding:1em;background-color:#d9d9d9; }
-    article { @include span-columns(12); padding:inherit; margin-top:inherit;}
+//       @include media($large-screen) {
+//           aside { @include span-columns(5); margin-top:2.5em; }
+//           section { @include span-columns(7); margin-top:0; }
+// }
+//     // section {
+//     //   @include span-columns(7);
+//     // }
 
-      @include media($large-screen) {
-          aside { @include span-columns(3); margin-top:2.5em; }
-          article { @include span-columns(9); margin-top:0; padding: 2em 4em 2em 2em;}
-}
-    // section {
-    //   @include span-columns(7);
-    // }
-
-}
+// }
 
 
-.layout-content-with-grid {
-  //margin-top: 5em;
-    @include outer-container;
 
-    aside { @include span-columns(12); }
-    article { @include span-columns(12); }
-    section { @include span-columns(12); }
+// .layout-article {
 
-      @include media($large-screen) {
-      //@include grid-item-columns($grid-item-columns);
-        aside { @include span-columns(5); }
-        article { @include span-columns(9); }
-        section { @include span-columns(7); }
-      }
-}
+//     //margin-top: 5em;
+//     padding-top:5em;
+//     @include outer-container;
+//     max-width:95%;
+
+//     aside { @include span-columns(12); margin-top:1em; padding:1em;background-color:#d9d9d9; }
+//     article { @include span-columns(12); padding:inherit; margin-top:inherit;}
+
+//       @include media($large-screen) {
+//           aside { @include span-columns(3); margin-top:2.5em; }
+//           article { @include span-columns(9); margin-top:0; padding: 2em 4em 2em 2em;}
+// }
+//     // section {
+//     //   @include span-columns(7);
+//     // }
+
+// }
+
+
+// .layout-content-with-grid {
+//   //margin-top: 5em;
+//     @include outer-container;
+
+//     aside { @include span-columns(12); }
+//     article { @include span-columns(12); }
+//     section { @include span-columns(12); }
+
+//       @include media($large-screen) {
+//       //@include grid-item-columns($grid-item-columns);
+//         aside { @include span-columns(5); }
+//         article { @include span-columns(9); }
+//         section { @include span-columns(7); }
+//       }
+// }

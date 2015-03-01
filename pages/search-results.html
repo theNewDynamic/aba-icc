@@ -61,23 +61,35 @@
 
   {# SEARCH RESULTS WILL GO IN HERE. #}
 
+
+<div class="has-layout">
+  <article class="hentry">
+    
+      <header>   
+        <h1 class="entry-titleTK">Search Results</h1>
+      </header>
+    
+    <div class="entry-content prose columns-2"><!--  //CONTENT -->
+      
   <div id="tipue_search_content"></div>
+
+    </div>  
+  </article>
+  {# {% if item.timeline %}
+    <div class="timeline-background">
+      <iframe src='{{ item.timeline }}' width='100%' height='650' frameborder='0'></iframe>
+    </div>
+  {% endif %} #}
+
+ </div>
+
 
 {% endblock %}
 
 {% block scripts_extra %}
     {# DO NOT MINIFY THIS FILE #}
     <script src="/.wh/searchjson.js"></script>
-    <script src="http://cms.webhook.com/cdn/js/webhook-tipue.min.js"></script>
-
-    <script>
-    $(document).ready(function() {
-         $('#tipue_search_input').tipuesearch({
-            highlightEveryTerm: true,
-            descriptiveWords: 100
-         });
-    });
-    </script>
+  
 {% endblock %}
 
 

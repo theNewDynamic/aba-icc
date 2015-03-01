@@ -15,20 +15,18 @@ $sidebar-right-color: $light-gray !default;
     }
   }
 
- 
   .sidebar-right {
+    font-size: .95em;
       clear: both;
       overflow: hidden;
       width: 100%;
       height: 100%;//auto;
       position: relative;
       text-align: left;
-      padding: 4em 0;
+      //padding: 0;
       color: $sidebar-right-color;
       background: $sidebar-right-color-background;
-
-      // Styles
-      
+      // Styles      
       section {
           padding:1.5em;
           p {
@@ -36,9 +34,7 @@ $sidebar-right-color: $light-gray !default;
             font-weight: 200;
             color: darken($sidebar-right-color, 15%);
           }
-      }
-
- 
+        }
       @include media($sidebar-right-breakpoint) {
         border-top: $navigation-height solid $navigation-background;
         width: $sidebar-right-width;
@@ -55,10 +51,19 @@ $sidebar-right-color: $light-gray !default;
 // IF WE'RE CALLING THE FILE BUT NOT USING RIGHT SIDEBAR MAKE SURE IT DOESN'T MESS UP FRONT-END
   @else {
     .sidebar-right {
-        display:none;
+      display:none;
     }
+  }
+
+.sidebar-content {
+  padding: 0 2em;
+  text-align: left;
+  figure {
+    position: absolute;
+    bottom: 5em;
+    left: 0;
+  }
+  figcaption {
+    font-size: .8em;
+  }
 }
-
-
-
-

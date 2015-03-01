@@ -1,15 +1,20 @@
+#map-stateparties {
+  margin-top:-60px !important;
+}
 #map-stateparties, #map-situations-and-cases {
   background-color: #eee;
-    max-height: 780px;
+  max-height: 780px;
    height: 92vh;
    width: 100% !important;
   @include media($d-vp) {
   //width: 72% !important; //100 - sidebar width
-  width: 68.5% !important;
+  //width: 68.5% !important;
   }
 }
 
 .ammapDescriptionWindow {
+  font-size: .85em;
+  line-height: 1.1;
   background-color: #fcfcfc !important;
   border: 6px solid $blue !important;
   box-shadow: 0 30px 50px rgba(0,0,0,0.8);
@@ -57,6 +62,58 @@
 
 .legend {
   margin-top: 2em;
+}
+
+ul.legend-map {
+  list-style-type: none;
+  //z-index: 1000;
+  //background: transparent;
+  text-align: center;
+  //margin-left: auto;
+  //margin-right: auto;
+  margin: 2em auto;
+  width: 90%;
+   @include media($large-screen) {
+    //width: 50%;
+    //display: block;
+  }
+
+
+
+  li {
+    padding: .0625em .5em .25em .5em;
+    //width: 100%;
+    display: block;
+    width: 100%;
+    //border: 1px solid #ddd;
+    
+     @include media($large-screen) {
+      // display: inline-block;
+      // width:50%;
+    }
+  }
+  li.notASignatory {
+    background-color: $notASignatory;
+    color: $partyToTheRomeStatute;
+  }
+  li.signedButNotRatified {
+    background-color:$signedbutNotRatified;
+    color: white;
+  }
+  
+  li.stateParties {
+    //display: block;
+    //margin: .5em auto;
+    //width: 100%;
+    background-color: $partyToTheRomeStatute;
+    color: white;
+    @include media($large-screen) {
+      //width: 73%;
+    }
+
+  }
+
+
 }
 ul.legend-sidebar {
     list-style-type: none;
