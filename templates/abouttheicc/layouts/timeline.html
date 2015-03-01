@@ -1,74 +1,12 @@
-{% extends "templates/partials/base.html" %}
-{# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
-{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+{% extends "templates/partials/base-layout-individual.html" %}
 
 {% block sideMenu %}
- {% include "templates/abouttheicc/menu.html" %}
+ {% include "templates/partials/menu-abouttheicc.html" %}
 {% endblock %}
 
+
 {% block content %}
-{% if item.featured_image %}
-  {% block head_extra %}
-    {#  Adds CSS Styles to the head to show featured image in the hero unit  #}
-    {% include "templates/partials/head_extra.html" %}
-  {% endblock %}
-{% endif %}
-<div class="has-layout">
-  <article class="hentry">
-    {% if item.name %}
-      <header>   
-        <h1 class="entry-titleTK">{{ item.name }}</h1>
-      </header>
-    {% endif %}
-    <div class="entry-content prose columns-2 "><!--  //CONTENT -->
-      {{ item.copy|safe }}
-    </div>  
-  </article>
-
-
-{% set timeline = cms.evolutionofinternationalcriminaljustice %}
-<div class="timeline">
-  {% for period in timeline|sort('name') %}{% set events = period.event %}
-    <div style="width:100%;background-color:#fafafa;padding:3em 6em;border-top:1px solid #ccc;">
-      <h2>{{ period.name }}</h2>
-      {{ period.copy|safe }}    
-      {% for event in events %}
-        <div class="accordion-" style="margin-bottom:2.5em;">
-          {{ event.copy|safe }}
-         <a href="javascript:void(0)" class="js-accordion-trigger" style="padding:.125em .25em;border:1px solid #c9c9c9;border-radius:2px;margin-bottom:3em;font-size:.85em;">Source</a>
-          {% if event.source %}
-            <div class="submenu" style="margin:2em;background-color:#f9f9f9;padding:2em;border:1px solid #ddd;">
-              {{ event.source|safe }}
-              {% if event.link %}<a href="{{ event.link }}">Link</a>{% endif %}
-            </div>
-          {% endif %} 
-          
-        </div>
-      {% endfor %}
-    </div>
-  {% endfor %}
-</div>
-  {# {% if item.timeline %}
-    <div class="timeline-background">
-      <iframe src='{{ item.timeline }}' width='100%' height='650' frameborder='0'></iframe>
-    </div>
-  {% endif %} #}
-
- </div> 
-
-
-
-
-
-
-
-
-
-
-<hr style="margin-bottom:18em;" />
-
-
-
-
-
+  {% parent %}
+  {% set timeline = cms.evolutionofinternationalcriminaljustice %}
+  {% include "templates/partials/format-timeline.html" %}  
 {% endblock %}

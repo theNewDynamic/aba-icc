@@ -4,3 +4,10 @@
 {% block sideMenu %}
   {% include "templates/partials/menu-abaiccproject.html" %}
 {% endblock %}
+
+
+{% block content %}
+  {% parent %}
+  {% set data = cms.newsevents %}
+  {% include "templates/partials/format-list-news.html" %}  
+{% endblock %}

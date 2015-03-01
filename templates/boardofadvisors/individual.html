@@ -3,8 +3,6 @@
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
 {% set content_type = cms.boardofadvisors|sort('last_name') %}
 {% set landing = '/the-aba-icc-project/board-of-advisors/' %}
-
-
 {% block content %}
   <div class="has-layout">
     <article class="hentry">
@@ -20,11 +18,6 @@
         {{ item.bio|safe }}
     </div>  
     </article>
-    {# {% if item.timeline %}
-      <div class="timeline-background">
-        <iframe src='{{ item.timeline }}' width='100%' height='650' frameborder='0'></iframe>
-      </div>
-    {% endif %} #}
 
    </div> 
 {% endblock %}

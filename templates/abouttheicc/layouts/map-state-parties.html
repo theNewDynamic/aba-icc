@@ -2,23 +2,23 @@
 {# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
 {% block sideMenu %}
- {% include "templates/abouttheicc/menu.html" %}
+ {% include "templates/partials/menu-abouttheicc.html" %}
 {% endblock %}
 
+
 {% block hero %}{% endblock %}
+
 {% block sideContent %}
   {% include "templates/partials/legend-stateparties.html" %}
 {% endblock %}
 
 {% block content %}
-
-<div class="has-layout" style="background:transparent;">
-<div class="heading"><h1>{{ item.name }}</h1></div>
-</div>
-
-
-  <div id="map-stateparties"></div>
+    <div class="has-layout" style="background:transparent;">
+        <div class="heading"><h1>{{ item.name }}</h1></div>
+    </div>
+    <div id="map-stateparties"></div>
 {% endblock %}
+
 {% block scripts_extra %}
           {#  {% set stateParties = site.data.state-parties-map %}
             {% set statePartiesSigned = stateParties | where: 'date_signed', -'' %}
