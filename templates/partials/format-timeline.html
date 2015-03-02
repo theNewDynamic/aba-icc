@@ -1,6 +1,6 @@
 <div class="timeline">
   {% for period in timeline|sort('name') %}{% set events = period.event %}
-    <div style="width:100%;background-color:#fafafa;padding:3em 6em;border-top:1px solid #ccc;">
+    <div class="full-width-bar">
       <h2>{{ period.name }}</h2>
       {{ period.copy|safe }}    
         {% for event in events %}

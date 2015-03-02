@@ -1,8 +1,7 @@
-<div class="hero gradient background-fixed">
+<div class="hero background-fixed featured_image">
   <div class="hero-inner">
     <div class="hero-copy">
-  <h1>{{ item.name}}</h1>
+  <h1>{% if item.name %}{{ item.name }}{% else %}{{ item._type }}{% endif %}</h1>
     </div>
   </div>
-  
 </div>

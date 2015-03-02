@@ -8,51 +8,39 @@
 {% elseif featured_image_object %}
   {% set background_image = base_url + featured_image_object %}
 {% else %}
-  {% set background_image = cms.global.featured_image.url %}
+  {% set background_image = base_url + cms.global.featured_image.url %}
 {% endif %} 
 {% if background_image %}
 <style type="text/css">
-  .gradient {
+  .featured_image {
     background-image: url({{ background_image }});
-    background-position: {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}top{% endif %} center;
-    background-size: 100%;
+    background-position: {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}center{% endif %} center;
+    background-size: cover;
     background-repeat: no-repeat;
-    height: 400px;
-      height: {{ item.featured_image.height}};
+    height: auto;
+    margin-top:40px; 
+      {% if item.featured_image.height %}height: {{ item.featured_image.height }};{% endif %}
       background-color: white;
-  }
+    }
   
-  .gradient:hover {
+  .featured_image:hover {
     opacity: 0.98;
     -webkit-transition:opacity 0s ease-in 0s;
     -moz-transition:opacity 0s ease-in 0s;
     transition:opacity 0s ease-in 0s
   }
-  body.home .hero {
-      height:auto;
-    }
+  
   @media screen and (min-width: 37.5em) {
-    .gradientTK {
-    background: -moz-linear-gradient(top,  rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.37) 100%), url({{ background_image }}) no-repeat top center;
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0.5)), color-stop(100%,rgba(0,0,0,0.37))), url({{ background_image }}) no-repeat top center;
-    background: -webkit-linear-gradient(top,  rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.37) 100%), url({{ background_image }}) no-repeat top center;
-    background: -o-linear-gradient(top,  rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.37) 100%), url({{ background_image }}) no-repeat top center;
-    background: -ms-linear-gradient(top,  rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.37) 100%), url({{ background_image }}) no-repeat top center;
-    background: linear-gradient(to bottom,  rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.37) 100%), url({{ background_image }}) no-repeat top center;
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#99000000', endColorstr='#5e000000',GradientType=0 );
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
-    src='{{ background_image }}',
-    sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(
-    src='{{ background_image }}',
-    sizingMethod='scale')";
-    /*background-position: top center;
-    background-size:100%;*/
-          /*background-size:cover;*/
-  } 
-   /*.background-fixed {
-      background-attachment: fixed;
-    }*/
-  }
+
+    .featured_image {
+      margin-top: 0;
+    }
+    .hero {
+      {% if item.featured_image %}
+        height: 400px;
+      {% else %}
+        height: 210px;    
+      {% endif %}   
+    }
 </style>
 {% endif %}

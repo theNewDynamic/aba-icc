@@ -4,13 +4,13 @@ $lora: lora, $georgia;
 
 // Typography
 ///////////////////////////////////////////////////////////////////////////////
-//$sans-serif: "myriad-pro", "Avenir 45 Book","Lato", "Open Sans" ,"Helvetica Neue", Segoe, "Segoe UI", Arial, sans-serif;//$lato;// $helvetica;
+$sans-serif-embedded: "myriad-pro", "Avenir 45 Book","Lato", "Open Sans" ,"Helvetica Neue", Segoe, "Segoe UI", Arial, sans-serif;//$lato;// $helvetica;
 $sans-serif:  "Open Sans" ,"Helvetica Neue", Segoe, "Segoe UI", Arial, sans-serif;//$lato;// $helvetica;
 $serif: Georgia, Baskerville, "Baskerville old face", "Hoefler Text", Garamond, "Times New Roman", serif;//$georgia;
 
 
 $base-font-family: $sans-serif;//$sans-serif-alt;
-$heading-font-family: $sans-serif;
+$heading-font-family: $sans-serif-embedded;
 
 // Sizes
 // Font Sizes
@@ -51,6 +51,7 @@ $light-yellow: #FFF6BF;
 $light-green: #E6EFC2;
 $red: #b23e3a;
 $black: #191919;
+$white:#fafafa;
 
 $partyToTheRomeStatute: #074b7b;
 $signedbutNotRatified: #6fa4c7;

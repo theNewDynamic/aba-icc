@@ -21,7 +21,7 @@
 "modules/navigation-side-right",
 "modules/navigation-sidebar",
 "modules/flex-boxes-home", // HOME PAGE
-"modules/grid-items-lines", // BIO PAGE
+//"modules/grid-items-lines", // BIO PAGE
 "modules/layouts",
 "modules/flex-boxes", // BIO PAGE
 "modules/tables",
@@ -51,7 +51,12 @@
 body {
  background-color: $base-body-color;
 }
+ footer {
+    background-color: $light-gray;
+    font-size:.75em;
+    padding: 2.125em 0 .375em 9.5em;
 
+  }
 
 
 // body.home .content {
@@ -98,13 +103,7 @@ body {
 //   max-width: 150px;
 //   float: left;
 //   }
-  footer {
-    background-color: $light-gray;
-    font-size:.75em;
-    padding: 2.125em 0 .375em 9.5em;
-
-  }
-
+ 
 //   article.hentry p{
 // text-align: justify;
 //   }

@@ -6,68 +6,30 @@
 
 {% block sideMenu %}
   <div class="sidebar-content">
-    <h2>{{ cms.homepage.name }}</h2>
-
+    <h2 style="margin-bottom:4em;">{{ cms.homepage.name }}</h2>
      <p>{{ cms.homepage.sidebar_copy|safe }}</p> 
   </div>
 {% endblock %}
 
-
-
 {% block content %}
-  {% set data = cms.homepage.grid %}
   <div class="flex-boxes-home">
+  {% set data = cms.homepage.grid %}
     {% for row in data %}
       <a href="{% for relation in row.related_page %}{{ url(relation) }}{% endfor %}" 
-        class="flex-box{% if loop.index == 1 || loop.index == 8 || loop.index == 9 %} flex-box-big{% endif %}" 
-
-          {% if row.background_image %}
-            style="background:url({{ row.background_image|imageSize(400) }}){% if row.bg_position %} {{ row.bg_position }}{% endif %};background-size:{% if row.background_size %}{{ row.background_size }}{% else %}cover{% endif %};{% endif %}background-repeat:no-repeat;">
-        
+        class="flex-box{% if loop.index == 1 || loop.index == 8 || loop.index == 9 %} flex-box-big{% endif %}"{% if row.background_image %} style="background:url({{ row.background_image|imageSize(800) }}){% if row.bg_position %} {{ row.bg_position }}{% else %} center center{% endif %};background-size:{% if row.background_size %}{{ row.background_size }}{% else %}cover{% endif %};{% endif %}background-repeat:no-repeat;">        
         <figcaption>
           {% if row.heading %}
-            <h1>{{ row.heading }}</h1>
+            <h2 class="flex-title">{{ row.heading }}</h2>
           {% endif %}
           {% if row.copy %}
             {% if row.copy|size > 300 %} 
-              <small>{{ row.copy|safe }}</small>
+              <span class="small">{{ row.copy|safe }}</span>
             {% else %}
               {{ row.copy|safe }}
             {% endif %}
-
-          {% endif %}
-          
+          {% endif %}          
         </figcaption>
-        </a>
-
-
-
+      </a>
     {% endfor %}
   </div>
 {% endblock %}
-
-
-
-{# 
-
-            
-              {{ row.heading }}monKey brain3 saucenec0yeV5Ut7Lu3iG5Ap0Thoach3biV1V
-            
-            
-            
-              {{ row.copy }}
-            
-            
-            
-                <img src="{{ row.background_image|imageSize(200) }}" />
-            
-            
-            
-            
-                {% for relation in row.related_page %}
-            
-                  <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
-                {% endfor %}
-            
-
- #}

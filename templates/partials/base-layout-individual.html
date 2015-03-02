@@ -4,22 +4,19 @@
 {% set content_type = cms.theabaiccproject %}    
 
 {% block sideMenu %}
- {% include "templates/theabaiccproject/menu.html" %}
+ {% include "templates/partials/menu-abaiccproject.html" %}
 {% endblock %}
 
 {% block content %}
-  {% if item.featured_image %}
-    {% block head_extra %}
-      {#  Adds CSS Styles to the head to show featured image in the hero unit  #}
-      {% include "templates/partials/head_extra.html" %}
-    {% endblock %}
-  {% endif %}
   <div class="has-layout">
     {% include "templates/partials/format-article.html" %}
-    {# {% if item.timeline %}
-      <div class="timeline-background">
-        <iframe src='{{ item.timeline }}' width='100%' height='650' frameborder='0'></iframe>
-      </div>
-    {% endif %} #}
-   </div> 
-{% endblock %}
+    {% if item.timeline %}
+      {% include "templates/partials/timeline.html" %}
+    {% endif %}
+    {% block prev-next %}
+      {% set prev = prevItem(item, 'publish_date') %}
+      {% set next = nextItem(item, 'publish_date') %}
+    {% include "templates/partials/prev-next.html" %}
+    {% endblock %}
+  </div> 
+{% endblock %}{# //END CONTENT #}

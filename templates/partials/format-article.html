@@ -1,10 +1,21 @@
 <article class="hentry">
-  {% if item.name %}
+  {% if item.start_date %}{#  // Event Specific #}
+    <strong>Event Date: {% include "templates/partials/format-event-dates.html" %}</strong>
+  {% endif %}
+  {% if item.nameTK %} {# //TODO: Removing this for now because it's in the hero area #}
     <header>   
       <h1 class="entry-title">{{ item.name }}</h1>
     </header>
   {% endif %}
   <div class="entry-content prose columns-2 "><!--  //CONTENT -->
+    {# //Board of Adivisors specific #}
+    {% if item.position %}
+      <h2>{{ item.position }}</h2>
+    {% endif %}
+    {% if item.board_chair %}<strong>Board Chair</strong>{% endif %}
+    {% if item.image %}
+      <img src="{{ item.image|imageSize(300) }}" style="float:left;margin:10px 18px 4px 0;" />
+    {% endif %}
     {{ item.copy|safe }}
   </div>  
 </article>

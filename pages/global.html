@@ -37,6 +37,12 @@
         {{ cms.global.slug }}
       </li>
       <li>
+        <strong>Featured Image: </strong>
+        {# You can pull out a lot more information from the image property. Info here: #}
+        {# http://www.webhook.com/docs/widget-template-reference/#image #}
+        <img src="{{ cms.global.featured_image|imageSize(200) }}" />
+      </li>
+      <li>
         <strong>Main Menu: </strong>
         {# Loop of your Repeatable Form items. Remember, you can sort the order in your CMS if you need. #}
         <ul>

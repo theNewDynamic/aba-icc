@@ -1,12 +1,14 @@
-<section>
-  {% if item._type %}
+{% if item._type %}
+  <section>
     {% for type in cms_types %}
       {% if type.id == item._type %}
+      <header>
         {% if item.nameTK %}
           <h2><small>{{ type.name }}</small></h2>
         {% else %}
           <h1>{{ type.name }}</h1>
         {% endif %}
+      </header>
       {% endif %}
     {% endfor %}        
   {% endif %}
@@ -14,6 +16,6 @@
     <h1>{{ item.name }}</h1>
   {% endif %}
   {% if item.meta_descriptionTK %}
-    <p>{{ item.meta_description}}</p> 
-  {% endif %}
-</section>
+    <p>{{ item.meta_description}}</p>   
+  </section>
+{% endif %}

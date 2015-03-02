@@ -1,0 +1,26 @@
+{% if event_date %}
+{% if event_date > current_unix_date %}{#  // if start date is after now #}
+  <span class="flash"><strong>Upcoming: {% include "templates/partials/format-event-dates.html" %}</strong></span>
+  {% else %}
+  <strong>{% include "templates/partials/format-event-dates.html" %}</strong>
+  {% endif %}
+{% endif %}
+{% if event.name %}<h3><a href="{{ url(event) }}">{{ event.name }}</h3>{% endif %}
+{% if event.featured_image %}
+  <img src="{{ event.featured_image|imageCrop(120) }}" style="float:left;margin-right:1.5em;">
+{% endif %}
+{% if event.copy %}
+  <div class="copy">{{event.copy|safe}}</div>
+{% endif %}
+{% if event.venue || event.address %}
+<p style="display:inline-block;margin-right:2em;"><a href="{{ url(event) }}"><strong>Details</strong></a></p>
+{% endif %}
+
+
+{% if event.recap_link %}
+<p>  <a href="{{ event.recap_link}}"><strong>&raquo; See a Recap of this Event</strong></a></p>
+{% endif %}
+
+
+
+

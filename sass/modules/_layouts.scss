@@ -5,10 +5,33 @@
 //   }
 // }
 
+
+
+.full-width-bar {
+  width:100%;
+  background-color: $white;
+  padding: 1em;
+  border-top: $base-border;
+  border-bottom: $base-border;
+  margin-bottom: 1em;
+
+  h4, h3 {
+    margin: .5em 0 .75em 0;
+  }
+
+@include media($large-screen) {
+  padding:3em 5em;
+}
+}
+
+
 .heading h1 {
 text-align: center;
   }
 
+  .heading h2{
+margin-left: 2.5em;
+  }
 
 .timeline {  
   

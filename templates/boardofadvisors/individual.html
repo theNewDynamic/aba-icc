@@ -1,59 +1,17 @@
-{% extends "templates/partials/base.html" %}
-{# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
-{% block title %}{% parent %} - {{ item.name }}{% endblock %}
-{% set content_type = cms.boardofadvisors|sort('last_name') %}
-{% set landing = '/the-aba-icc-project/board-of-advisors/' %}
-{% block content %}
-  <div class="has-layout">
-    <article class="hentry">
-      {% if item.name %}
-        <header>   
-          <h1 class="entry-titleTK">{{ item.name }}</h1>
-        </header>
-      {% endif %}
-      <div class="entry-content prose columns-2 "><!--  //CONTENT -->
-        <h2>  {{ item.position }}</h2>
-        {% if item.board_chair %}<strong>Board Chair</strong>{% endif %}
-        <img src="{{ item.image|imageSize(300) }}" style="float:left;margin:10px 18px 4px 0;" />
-        {{ item.bio|safe }}
-    </div>  
-    </article>
+{% extends "templates/partials/base-layout-individual.html" %}
 
-   </div> 
+{% block hero %}
+  {% include "templates/partials/hero.html" %}
 {% endblock %}
 
+{% block sideMenu %}          
+  {% set content_type = cms.boardofadvisors|sort('last_name') %}
+  {% set landing = '/the-aba-icc-project/board-of-advisors/' %}
+  {% include "templates/partials/format-menu.html" %}
+{% endblock %}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{% block prev-next %}
+  {% set prev = prevItem(item, 'last_name') %}
+  {% set next = nextItem(item, 'last_name') %}
+{% include "templates/partials/prev-next.html" %}
+{% endblock %}

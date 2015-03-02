@@ -5,21 +5,27 @@
   $large-screen: em(860) !default;
   //////////////////////////////////////////////////////////////////////////////////
 
-  $hero-background-top: #fff;///#7F99BE; 
-  $hero-background-bottom: #20392B;
+  $hero-background-top: lighten($sidebar-right-color-background, 5%);//#fff;///#7F99BE; 
+  $hero-background-bottom:$sidebar-right-color-background;// #20392B;
   $hero-color: white;
   $gradient-angle: 10deg;
   //$hero-image: 'https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png';
-  $hero-image: '/static/images/icc-building.svg';
-
-  @include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
-  background-color: #324766;
-  background-position: 50%;
+  //$hero-image: 'http://www.aba-icc.org/assets/img/Astfeld-023-992x400.jpg';
+$hero-image: '/static/images/icc-building-28.png';
+@include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
+  //background-image: url('http://www.aba-icc.org/assets/img/Astfeld-023-992x400.jpg');
+  //background-color: $sidebar-right-color-background;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 3em;
   //min-height: 400px;
   //background-attachment: fixed;
+  margin-top: $navigation-height;
+  @include media($large-screen) {
+         
+          margin-top: 0;
+        }
 
   .hero-logo img {
     height: 4em;
@@ -57,6 +63,7 @@
         @include media($large-screen) {
           font-size: 1.1em;
           max-width: 40%;
+          margin-top: 0;
         }
       }
     }

@@ -69,6 +69,18 @@ a {
   }
 }
 
+.sidebar-right a {
+  color: darken($light-gray, 15%);
+   &:active,
+  &:focus,
+  &:hover {
+    color: $light-gray;
+  }
+
+
+
+}
+
 hr {
   border-bottom: $base-border;
   border-left: none;
@@ -96,4 +108,12 @@ article.hentry p,
     a {
       border-bottom: 1px dashed $base-link-color;
     }
+}
+
+.flash {
+  color: $red;
+}
+
+.small {
+  font-size: .875em;
 }

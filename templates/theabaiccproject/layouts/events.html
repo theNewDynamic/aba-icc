@@ -1,0 +1,46 @@
+{% extends "templates/partials/base-layout-individual.html" %}
+{# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
+{% set content_type = cms.theabaiccproject %}    
+{% block sideMenu %}
+  {% include "templates/partials/menu-abaiccproject.html" %}
+{% endblock %}
+
+{% block content %}
+  {% parent %}
+  {% set now = Date() %}
+  {% set current_date = now |date('U')%}
+  {% set data = cms.events %}
+  {% set event_date = data.start_date|date('U') %}
+  {% set start_time = data.start_date|date('g:ia') %}
+
+  <section class="events-upcoming">
+    
+    {% for event in data|sort('start_date') %}{#  //Sort  events with first upcoming at top #}
+    
+      {% set event_date = event.start_date|date('U') %}{#  // set to unix time for comparison #}
+      {% if event.end_date %} {# // only use the end date if it exists #}
+        {% set event_date_end = event.end_date|date('U') %}
+      {% endif %}
+      {% if event_date_end > current_unix_date || event_date > current_unix_date %}{#  // if end date is after now OR if start date is after now #}
+        <div class="full-width-bar">      
+        {% include "templates/partials/format-events.html" %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  </section>
+
+  <section class="events-past">
+    <div class="heading"><h2>Past Events</h2></div>
+    {% for event in data|sort('start_date', true) %}{#  //Sort past events with latest at top #}
+      {% set event_date = event.start_date|date('U') %}
+      {% if event.end_date %}
+        {% set event_date_end = event.end_date|date('U') %}
+      {% endif %}
+      {% if event_date < current_unix_date || event_date_end && event_date < current_unix_date %}{#  // if start date is before now OR if start date and end date is before now, that is, in the past #}
+      <div class="full-width-bar">
+        {% include "templates/partials/format-events.html" %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  </section>
+{% endblock %}

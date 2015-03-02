@@ -4,3 +4,9 @@
 {% block sideMenu %}
   {% include "templates/partials/menu-abaiccproject.html" %}
 {% endblock %}
+{% block content %}
+{% parent %}
+{% if getCurrentUrl() == '/follow/' || getCurrentUrl() == '/the-aba-icc-project/contact/' %}
+  <div class="full-width-bar"> {% include "templates/partials/mailing-list.html" %}</div>
+{% endif %}
+{% endblock %}

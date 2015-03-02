@@ -5,6 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
 <head>
   {% set now = Date() %}{% set current_unix_date = now|date('U') %}{% set global = cms.global %}
+  {% include "templates/partials/typekit.html" %}
   <script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -43,7 +44,9 @@
 <![endif]-->
 
 
-{% block head_extra %}{% endblock %}
+  {% block head_extra %}
+    {% include "templates/partials/head_extra.html" %}
+  {% endblock %}
 
   {% if  getSetting('analytics_id')  %}
     <script>
@@ -61,10 +64,14 @@
 <body id="container" class="{% if getCurrentUrl() != '/' %}page{% else %}home{% endif %} {{ item._type }}"{% block body_attributes %} data-search-index="true"{% endblock %}>
   <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
     {% include "templates/partials/navigation.html" %}
-    <aside class="sidebar-right">
+      <main class="content">      
+        {% block hero %}{% include "templates/partials/hero.html" %}{% endblock %}
+        <div id="start-of-content" class="accessibility-aid"></div>        
+        {% block content %}{% endblock %}
+      </main>
+      <aside id="menu" class="sidebar-right">
       {% include "templates/partials/navigation-heading.html" %}
-      <div class="hidden-small-screensTK">
-        <nav class="card-menu columns-small">
+        <nav>
           <ul class="nav-sidebar">
             {% block sideMenu %}          
               {% include "templates/partials/format-menu.html" %}
@@ -72,21 +79,9 @@
           </ul>
         </nav>
         {% block sideContent %}{% endblock %}
-      </div>  
-    </aside>
-      <main class="content">
       
-        {% block hero %}
-          {% include "templates/partials/hero.html" %}
-        {% endblock %}
+    </aside>
 
-        <div id="start-of-content" class="accessibility-aid"></div>        
-        {% block content %}
-        {% endblock %}
-      </main>
-      <aside id="menu-local" class="hidden-large-screens">
-        {% include "templates/partials/prev-next-links.html" with 25 %}
-      </aside>
     {% include "templates/partials/footer.html" %}
     {% include "templates/partials/scripts.html" %}
     {% block page_bottom %}{% endblock %}

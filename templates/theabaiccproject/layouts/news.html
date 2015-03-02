@@ -7,12 +7,17 @@
 
 {% block content %}
   {% parent %}
-  {% set data = cms.staff %}  
+  {% set data = cms.news %}  
+  {% set data = data|sort('name')  %}
+
   <section class="news">
-    {% for object in data|sort('last_name') %}{#  //Sort  events with first upcoming at top #}
-      <div class="full-width-bar">      
+    {% for object in data%}{#  //Sort  events with first upcoming at top #}
+      <div class="full-width-bar" style="min-height:285px;">      
         {% include "templates/partials/format-list.html" %}
       </div>
     {% endfor %}
   </section>
 {% endblock %}
+
+
+{# |sort('publish_date', true)  #}

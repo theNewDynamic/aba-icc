@@ -82,15 +82,18 @@ header.navigation {
     display: none;
     margin: 0 auto;
     overflow: visible;
-    padding: 0;
+    //padding: 0;
     width: 100%;
     z-index: 9999;
+    background-color: $sidebar-right-color-background;
+    padding: 0 0 1em 0;
 
     &.show {
       display: block;
     }
 
     @include media ($horizontal-bar-mode) {
+      background-color: transparent;
       display: inline;
       margin: 0;
       padding: 0;
@@ -100,7 +103,7 @@ header.navigation {
   // The nav items
 
   ul li.nav-link {
-    background: transparent;// $navigation-background;
+    background: $navigation-background;
     display: block;
     overflow: hidden;
     padding-right: 0.8em;
