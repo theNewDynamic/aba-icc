@@ -34,9 +34,24 @@ margin-left: 2.5em;
   }
 
 .timeline, .flex-box {  
+
+  .button {
+    border-color: $light-gray;
+    border-style: solid;
+    border-width: 1px;
+    padding: .125em .25em;
+  }
   
   .submenu {
     display: none;
+    h5 {
+      margin-bottom: .25em;
+    }
+    text-align: left;
+    a {
+      text-decoration: underline;
+
+    }
   }
   .is-expanded {
     display: block;

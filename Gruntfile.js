@@ -58,6 +58,32 @@ module.exports = function(grunt) {
 
 
 
+rsync: {
+    options: {
+        args: ["--verbose"],
+        exclude: [".git*","*.scss","node_modules"],
+        recursive: true
+    },
+    
+    backup: {
+        options: {
+            src: ".build/*",
+            dest: "_build",
+  
+            delete: true // Careful this option could cause data loss, read the docs!
+        }
+    },
+
+    // stage: {
+    //     options: {
+    //         src: ".build/*",
+    //         dest: "_build",
+  
+    //         delete: true // Careful this option could cause data loss, read the docs!
+    //     }
+    // }
+},
+
 
     // WHEN FILES CHANGE, RUN THE ABOVE TASKS ALONG WITH BUILD
     watch: {
@@ -81,6 +107,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-sass');
   grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-uglify');
+  grunt.loadNpmTasks("grunt-rsync");
 
   // NEVER REMOVE THESE LINES, OR ELSE YOUR PROJECT MAY NOT WORK
   require('./options/generatorOptions.js')(grunt);
