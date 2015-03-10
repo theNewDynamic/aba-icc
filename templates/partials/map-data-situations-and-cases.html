@@ -1,0 +1,19 @@
+{% set countries = cms.country %}
+{% set countries = countries|where('situations') %}
+{% set preliminary_examinations_color = 'green' %}{% set trials_color = 'black' %}
+
+"areas": [
+  {% for object in countries %}
+  { {% if object.iso_code %}"id":"{{ object.iso_code }}",{% endif %}"description":"{% for situation in object.situations %}{% if situation.phase %}{% autoescape 'js' %}<p><strong>Phase:</strong> {{ situation.phase }}</p>{% endautoescape %}{% endif %}{% if situation.brief_summary %}{% autoescape 'js' %}<p><strong>Overview:</strong> {{ situation.brief_summary }}{% endautoescape %}</p>{% endif %}{% if situation.link_to_more_information %}{% autoescape 'js' %}<br /><a href='{{ situation.link_to_more_information }}' target='_blank'>Source</a>{% endautoescape %}{% endif %}<hr />{% endfor %}",
+        {% if object.name %}{% autoescape 'js' %}"title": "{{ object.name }}"{% endautoescape %},{% endif %}
+{% set situation = object.situations|first %}
+{% autoescape 'js' %}
+"color": 
+{% if situation.phase == 'Preliminary Examinations: Initial Assessment' %}"#008AE5"
+{% elseif situation.phase == 'Preliminary Examinations: Admissibility Assessment' %}"#004D7F"
+{% elseif situation.phase == 'Preliminary Examinations: Subject Matter Jurisdiction Assessement' %}"#0073BF"
+{% elseif situation.phase == 'Preliminary Examinations: Closed - Decision Not to Proceed' %}"#003354"
+{% elseif situation.phase == 'Situations & Cases' %}"#000"
+{% endif %}
+{% endautoescape %}
+}{% if not loop.last %},{% endif %}{% endfor %}]

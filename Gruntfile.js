@@ -31,6 +31,15 @@ module.exports = function(grunt) {
     modernize: {
       src: ['bower_components/html5shiv/dist/html5shiv.min.js','bower_components/respond/dest/respond.min.js'],
       dest: 'static/javascript/modernize/modernize.min.js',
+    },
+    maps: {
+      src: [
+        'static/javascript/ammap/ammap.js', 
+        'static/javascript/ammap/maps/worldLow.js', 
+        'bower_components/listjs/dist/list.min.js', 
+        'static/javascript/listjs.js'
+        ],
+      dest: 'static/javascript/dist/maps.min.js',
     }
   },
 

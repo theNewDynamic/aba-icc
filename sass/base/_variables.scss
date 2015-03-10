@@ -57,6 +57,12 @@ $partyToTheRomeStatute: #074b7b;
 $signedbutNotRatified: #6fa4c7;
 $notASignatory: #FFF;
 
+$preliminaryexaminationsInitialAssessment:#008AE5;
+$preliminaryexaminationsAdmissibilityAssessment:#004D7F;
+$preliminaryexaminationsSubjectMatterJurisdictionAssessement:#0073BF;
+$preliminaryexaminationsClosedDecisionNottoProceed:#003354;
+$situationsAndCases:#000;
+
 
 //$brand-color: #1a7fc3;
 $brand-color: #3594cb;
@@ -131,7 +137,7 @@ $navigation-search-border: 1px solid darken($navigation-background, 1);
 $navigation-active-link-color: white;//transparentize(white, 0.3);
 $navigation-submenu-padding: 1em;
 $navigation-submenu-width: 12em;
-$horizontal-bar-mode: $large-screen;
+//$horizontal-bar-mode: $large-screen;
 
 //$navigation-background: $base-accent-color;
 

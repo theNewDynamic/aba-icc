@@ -1,10 +1,26 @@
+{% extends "templates/partials/base-layout-map.html" %}
+
+{% block sideContent %}
+  {% include "templates/partials/map-legend-situations-and-cases.html" %}
+{% endblock %}
+
+
+{% block content %}
+{% parent %}
+{% include "templates/partials/situations-and-cases-list.html" %}
+{% endblock %}
+
+{% block scripts_extra %}
+{% parent %}
+<script type="text/javascript">
+  
 
  // add all your code to this method, as this will ensure that page is loaded
     AmCharts.ready(function() {
         // create AmMap object
         var map = new AmCharts.AmMap();
         // set path to images
-        map.pathToImages = "static/assets/images/ammap/";
+        map.pathToImages = "/static/images/ammap/";
 
         /* create data provider object
          map property is usually the same as the name of the map file.
@@ -16,8 +32,12 @@
         */
         var dataProvider = {
             map: "worldLow",
+            zoomLevel: 1.65,
+            zoomLongitude: 25,
+            zoomLatitude: 10,
             getAreasFromMap:false,
-            // {% include map/map-data-state-parties.json %}
+            {% include "templates/partials/map-data-situations-and-cases.html" %}
+            
         };
         // pass data provider to the map object
         map.dataProvider = dataProvider;
@@ -27,11 +47,13 @@
          * selectedColor indicates color of the clicked area.
          */
         map.areasSettings = {
-            autoZoom: false,
-            selectedColor: "#bababa",
-            descriptionWindowTop: 60,
+            autoZoom: true,
+
+
+            //selectedColor: "#bababa",
+            descriptionWindowTop: 1,
             descriptionWindowLeft: 10,
-            outlineThickness: 0.3,
+            outlineThickness: 0.1,
             outlineColor: "#bababa"
         };
 
@@ -41,12 +63,15 @@
     //     maxValue: "a lot!"
     // }
         map.zoomControl = {
-            buttonFillColor: "#0e486d"
+            buttonFillColor: "#0e486d",
+            maxZoomLevel: 3,
+            panControlEnabled: false,
+            zoomControlEnabled: true,
+            gridBackgroundAlpha: 0.1,
+            gridAlpha: 0.3,
+
         }
-            {% assign stateParties = site.data.state-parties-map %}
-            {% assign statePartiesSigned = stateParties | where: 'date_signed', -'' %}
-            {% assign statePartiesRatified = stateParties | where: 'state_party', 'Y' %}
-            {% assign statePartiesSignedNotRatified = stateParties | where: 'signed_but_not_ratified', 'Y' %}
+           
 
         map.legend = {
             width: "72%",
@@ -60,14 +85,8 @@
             top: 10,
             left: 90,
             horizontalGap: 10
-            ,
-            data: [{
-                title: "{% if stateParties.size > 0 %}{{ statePartiesRatified.size }} state parties to the Rome Statute.{% endif %}",
-                color: "#074b7b"
-            }, {
-                title: "{% if stateParties.size > 0 %}{{ statePartiesSignedNotRatified.size }} Signed but not ratified or acceded.{% endif %}",
-                color: "#6fa4c7"
-            } ]
+            
+           
     };
 
 
@@ -75,5 +94,11 @@
         //map.smallMap = new AmCharts.SmallMap();
 
         // write the map to container div
-        map.write("map-stateparties");
+        map.write("map-output");
     });
+
+</script>
+
+
+
+{% endblock %}

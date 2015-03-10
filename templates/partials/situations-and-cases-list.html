@@ -1,0 +1,114 @@
+{# {% if situation.phase == 'Preliminary Examinations: Initial Assessment' %}"#008AE5"
+{% elseif situation.phase == 'Preliminary Examinations: Admissibility Assessment' %}"#004D7F"
+{% elseif situation.phase == 'Preliminary Examinations: Subject Matter Jurisdiction Assessement' %}"#0073BF"
+{% elseif situation.phase == 'Preliminary Examinations: Closed - Decision Not to Proceed' %}"#003354"
+{% elseif situation.phase == 'Situations & Cases' %}"#000"
+{% endif %}
+ 
+
+------------
+
+name: phase, x cases +
+brief overview
+
+ - long overview
+
+  - cases
+
+------------
+#}
+
+
+{% set countries = cms.country %}
+{% set countries = countries|where('situations') %}
+
+
+{% set preliminary_examinations_color = 'green' %}{% set trials_color = 'black' %}
+
+<div class="flex-boxes">
+{% for object in countries|sort('name') %}
+{% set situation = object.situations|first %}
+  <div class="flex-box {{ situation.phase|replace(':','', 'g')|replace(' ','-', 'g')|replace('&','', 'g')|lower }}">
+
+    <h2 class="flex-title">{{object.name}}</h2> <small>{% for situation in object.situations %}{{ situation.phase }}{% endfor %}</small>
+
+     <a href="javascript:void(0)" class="js-accordion-trigger" style="padding:.125em .25em;border:1px solid #c9c9c9;border-radius:2px;margin-bottom:3em;font-size:.85em;">Source</a>
+            
+            <div class="submenu">
+              
+              Some stuff here, more likely.
+            </div>
+          
+
+
+
+  </div>
+{% endfor %}
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{# 
+
+{% if object.situations %}
+  
+
+   {% if object.iso_code %}
+
+   "id":"{{ object.iso_code }}",{% endif %}
+
+   "description":"
+
+   {% for situation in object.situations %}
+
+   {% if situation.phase %}
+
+   <p><strong>Phase:</strong> {{ situation.phase }}</p>
+
+   {% endif %}
+
+   {% if situation.brief_summary %}
+
+   <p><strong>Overview:</strong> {{ situation.brief_summary }}</p>
+
+   {% endif %}
+
+   {% if situation.link_to_more_information %}
+
+   {% autoescape 'js' %}
+   <br /><a href='{{ situation.link_to_more_information }}' target='_blank'>Source</a>{% endautoescape %}
+
+   {% endif %}
+
+   {% endfor %}
+        {% if object.name %}
+        {{ object.name }}
+
+        {% endif %}
+
+{% set situation = object.situations|first %}
+
+
+
+
+
+
+
+
+
+  {% endif %} #}

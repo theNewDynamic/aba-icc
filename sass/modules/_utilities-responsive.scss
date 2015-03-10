@@ -7,7 +7,7 @@
 }
 .hidden-medium-screens, #mobile-sub-menu {
   display: inline;
-    @include media($small-screen-up) {
+    @include media($medium-screen-up) {
       display: none;
     }
 }

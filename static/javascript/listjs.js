@@ -1,0 +1,6 @@
+var options = {
+      valueNames: [ 'name', 'tagline', 'last_name_sort', 'genre'],
+      listClass: 'list-filter',
+  };
+  
+var countryList = new List('container-filter', options);

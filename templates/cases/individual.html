@@ -1,0 +1,142 @@
+{# ------------------------------------------------------- #}
+{# INDIVIDUAL VIEW FOR EACH cases #}
+{# This page can use any data from http:localhost:2000/cms/#/form/cases/ #}
+{# Webhook uses the SWIG.js (like Djagno/Twig) templating system. Their documentation is here: #}
+{# http://paularmstrong.github.io/swig/docs/tags/ #}
+{# Learn about calling data into Webhook pages here: #}
+{# http://www.webhook.com/docs/template-rules-and-filters/ #}
+{# ------------------------------------------------------- #}
+{# Confused what extends and blocks do? Watch a primer: #}
+{# http://www.webhook.com/docs/template-inheritance-blocks/ #}
+{% extends "templates/partials/base.html" %}
+{# This sets our page <title>. It will append this cases's name to the site title defined in base.html #}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+{% block content %}
+  <p><a href="{{ url('cases') }}">View a list of all cases</a></p>
+  <h1>{{ item.name }}</h1>
+  <ul>
+      <li>
+        <strong>Name: </strong>
+        {{ item.name }}
+      </li>
+      <li>
+        <strong>Create Date: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ item.create_date|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Last Updated: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ item.last_updated|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Publish Date: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ item.publish_date|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Long Name: </strong>
+        {{ item.long_name }}
+      </li>
+      <li>
+        <strong>Trial Opening: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ item.trial_opening|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Country: </strong>
+        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+        {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+        <a href="{{ url(item.country) }}">{{ item.country.name }}</a>
+      </li>
+      <li>
+        <strong>Accused: </strong>
+        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+        {% for relation in item.accused %}
+          {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+          <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
+        {% endfor %}
+      </li>
+      <li>
+        <strong>Case Status: </strong>
+        {{ item.case_status }}
+      </li>
+      <li>
+        <strong>Note: </strong>
+        {{ item.note }}
+      </li>
+      <li>
+        <strong>Charges: </strong>
+        {# Loop of your Repeatable Form items. Remember, you can sort the order in your CMS if you need. #}
+        <ul>
+        {% for row in item.charges %}
+            <li>
+              <strong>Accused: </strong>
+              {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+                {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+                <a href="{{ url(row.accused) }}">{{ row.accused.name }}</a>
+            </li>
+            <li>
+              <strong>Charges Status: </strong>
+              {{ row.charges_status }}
+            </li>
+            <li>
+              <strong>Charges: </strong>
+              {{ row.charges|safe }}
+            </li>
+            <li>
+              <strong>Factual Allegations: </strong>
+              {{ row.factual_allegations|safe }}
+            </li>
+            <li>
+              <strong>Date Summonses: </strong>
+              {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+                {{ row.date_summonses|date('F d Y') }}
+            </li>
+            <li>
+              <strong>Date of Initial Appearance: </strong>
+              {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+                {{ row.date_of_initial_appearance|date('F d Y') }}
+            </li>
+            <li>
+              <strong>Date of Confirmation of Charges: </strong>
+              {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+                {{ row.date_of_confirmation_of_charges|date('F d Y') }}
+            </li>
+        {% endfor %}
+        </ul>
+      </li>
+      <li>
+        <strong>Events: </strong>
+        {# Loop of your Repeatable Form items. Remember, you can sort the order in your CMS if you need. #}
+        <ul>
+        {% for row in item.events %}
+            <li>
+              <strong>Event: </strong>
+              {{ row.event }}
+            </li>
+            <li>
+              <strong>Event Date: </strong>
+              {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+                {{ row.event_date|date('F d Y') }}
+            </li>
+            <li>
+              <strong>Description: </strong>
+              {{ row.description|safe }}
+            </li>
+        {% endfor %}
+        </ul>
+      </li>
+      <li>
+        <strong>Video: </strong>
+        {# Embed.ly content usually comes with more data. Info here: #}{# http://www.webhook.com/docs/widget-template-reference/#embedly #}{{ item.video.html|safe  }}      </li>
+      <li>
+        <strong>Preview URL: </strong>
+        {{ item.preview_url }}
+      </li>
+      <li>
+        <strong>Slug: </strong>
+        {{ item.slug }}
+      </li>
+  </ul>
+{% endblock %}

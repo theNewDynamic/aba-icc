@@ -1,15 +1,16 @@
-#map-stateparties {
-  margin-top:-60px !important;
+#map-output, #map-stateparties {
+  //margin-top:-60px !important;
+  overflow: hidden;
+  height: 500px;
+  margin-bottom: 1em;
 }
-#map-stateparties, #map-situations-and-cases {
+#map-output, #map-stateparties, #map-situations-and-cases {
   background-color: #eee;
-  max-height: 780px;
+  max-height: 500px;
    height: 92vh;
    width: 100% !important;
-  @include media($d-vp) {
-  //width: 72% !important; //100 - sidebar width
-  //width: 68.5% !important;
-  }
+   //border-top: 3px solid $light-gray;
+   //border-bottom: 3px solid $light-gray;
 }
 
 .ammapDescriptionWindow {
@@ -21,8 +22,11 @@
   color: #555;
   padding: 1.5em;
   width: 365px !important;
+  p{ 
+    line-height: 1.4;
+  }
 
-  @include media($d-vp) {
+  @include media($large-screen) {
     width: 450px !important;
     left: 80px !important;
     top: 190px !important;
@@ -114,7 +118,11 @@ ul.legend-map {
   }
 
 
+
+
 }
+
+
 ul.legend-sidebar {
     list-style-type: none;
     margin-left: 0;
@@ -130,3 +138,57 @@ ul.legend-sidebar {
   //float: left;
   margin-bottom:1em;
  } 
+
+
+.partyToTheRomeStatute{
+  background-color: $partyToTheRomeStatute;
+  color: $white;
+  a {
+    color: $white;
+  }
+}
+.signedbutNotRatified{
+  background-color: $signedbutNotRatified;
+  color: $white;
+  a {
+    color: $white;
+  }
+}
+.notASignatory{
+  background-color: $notASignatory;
+  color: $black;
+  a {
+    color: $white;
+  }
+}
+
+
+.preliminary-examinations-initial-assessment, .preliminaryexaminationsInitialAssessment {
+  background-color:$preliminaryexaminationsInitialAssessment;
+  color: $white;
+}
+.preliminary-examinations-admissibility-assessment, .preliminaryexaminationsAdmissibilityAssessment {
+  background-color:$preliminaryexaminationsAdmissibilityAssessment;
+  color: $white;
+}
+.preliminary-examinations-subject-matter-jurisdiction-assessement, .preliminaryexaminationsSubjectMatterJurisdictionAssessement {
+  background-color:$preliminaryexaminationsSubjectMatterJurisdictionAssessement;
+  color: $white;
+}
+.preliminary-examinations-closed---decision-not-to-proceed, .preliminaryexaminationsClosedDecisionNottoProceed {
+  background-color:$preliminaryexaminationsClosedDecisionNottoProceed;
+  color: $white;
+}
+.situations--cases, .situationsAndCases {
+  background-color:$situationsAndCases;
+  color: $white;
+  .flex-title {
+    color: $white;
+  }
+}
+
+
+
+
+
+

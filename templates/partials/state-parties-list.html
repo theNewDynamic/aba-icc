@@ -1,0 +1,62 @@
+{% set countries = cms.country %}
+{% set countries = countries %}
+
+
+<div class="flex-boxes list-filter">
+  {% for object in countries|sort('name') %}
+    {% set situation = object.situations|first %}
+    <div class="flex-box{% if object.state_party %} partyToTheRomeStatute{% elseif object.signed_but_not_ratified %} signedbutNotRatified{% else %} notASignatory{% endif %}">
+      <h1 class="flex-title name">{{object.name}}</h1> <small></small>
+
+ <small>
+
+ {% if object.date_signed %}
+  <strong>Signature</strong><br /> {{ object.date_signed|date('Y-M-j')  }}
+    {% if object.date_ratified_or_acceded %}
+      <br /><strong>Ratification or Accenssion</strong><br /> {{ object.date_ratified_or_acceded|date('Y-M-j') }}
+    {% else %}
+      <br />Not Ratified or Acceded
+    {% endif %}
+  {% else %}
+    <br />Not a Signatory
+  {% endif %}
+
+</small>
+
+<br />
+<a href="{{ url(object) }}">Country Page</a>
+
+{% if object.genocide || object.crimes_against_humanity || object.aggression || object.war_crimes %}
+
+<br />
+<a href="javascript:void(0)" class="js-accordion-trigger" style="padding:.125em .25em;border:1px solid #c9c9c9;border-radius:2px;margin-bottom:3em;font-size:.85em;">
+  
+  Legislation
+</a>
+
+<div class="submenu">
+
+
+ <h5>Domestic Atrocity Crime Legislation</h5>
+
+ {% if object.genocide %}<strong>Genocide</strong><br />{{ object.genocide|markdown }}{% endif %}
+
+ {% if object.crimes_against_humanity %}<strong>Crimes against Humanity</strong><br />
+
+ {{ object.crimes_against_humanity|markdown }}{% endif %}
+
+ {% if object.aggression %}<strong>Aggression</strong><br />{{ object.aggression|markdown }}
+
+ {% endif %}
+
+ {% if object.war_crimes %}<strong>War Crimes</strong><br />{{ object.war_crimes|markdown }}{% endif %}
+
+ 
+</div>
+{% endif %}
+
+
+
+</div>
+{% endfor %}
+</div>

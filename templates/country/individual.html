@@ -43,6 +43,34 @@
         {{ item.iso_code }}
       </li>
       <li>
+        <strong>Internal Note: </strong>
+        {{ item.internal_note }}
+      </li>
+      <li>
+        <strong>Situations: </strong>
+        {# Loop of your Repeatable Form items. Remember, you can sort the order in your CMS if you need. #}
+        <ul>
+        {% for row in item.situations %}
+            <li>
+              <strong>Phase: </strong>
+              {{ row.phase }}
+            </li>
+            <li>
+              <strong>Brief Summary: </strong>
+              {{ row.brief_summary }}
+            </li>
+            <li>
+              <strong>Overview: </strong>
+              {{ row.overview|safe }}
+            </li>
+            <li>
+              <strong>Link to more Information: </strong>
+              {{ row.link_to_more_information }}
+            </li>
+        {% endfor %}
+        </ul>
+      </li>
+      <li>
         <strong>Rome Statute Data: </strong>
         {{ item.rome_statute_data }}
       </li>

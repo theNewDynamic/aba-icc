@@ -46,6 +46,7 @@
     "nodejs-websocket": "~1.2.0"
   },
   "devDependencies": {
-    "grunt-contrib-sass": "^0.8.1"
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-rsync": "^0.6.2"
   }
 }

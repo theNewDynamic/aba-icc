@@ -1,35 +1,20 @@
-{% extends "templates/partials/base.html" %}
-{# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
-{% block title %}{% parent %} - {{ item.name }}{% endblock %}
-{% block sideMenu %}
- {% include "templates/partials/menu-abouttheicc.html" %}
-{% endblock %}
-
-
-{% block hero %}{% endblock %}
+{% extends "templates/partials/base-layout-map.html" %}
 
 {% block sideContent %}
-  {% include "templates/partials/legend-stateparties.html" %}
+  {% include "templates/partials/map-legend-state-parties.html" %}
 {% endblock %}
 
 {% block content %}
-    <div class="has-layout" style="background:transparent;">
-        <div class="heading"><h1>{{ item.name }}</h1></div>
-    </div>
-    <div id="map-stateparties"></div>
+<div id="container-filter">
+{% parent %}
+    {% include "templates/partials/state-parties-list.html" %}
+</div>
 {% endblock %}
 
+
+
 {% block scripts_extra %}
-          {#  {% set stateParties = site.data.state-parties-map %}
-            {% set statePartiesSigned = stateParties | where: 'date_signed', -'' %}
-            {% set statePartiesRatified = stateParties | where: 'state_party', 'Y' %}
-            {% set statePartiesSignedNotRatified = stateParties | where: 'signed_but_not_ratified', 'Y' %} #}
-
-<script src="/static/javascript/ammap/ammap.js" type="text/javascript"></script>
-<script src="/static/javascript/ammap/maps/worldLow.js" type="text/javascript"></script>
-{# <script src="/static/javascript/ammap/map-state-parties.js" type="text/javascript"></script> #}
-
-
+{% parent %}
 <script type="text/javascript">
   
 
@@ -75,8 +60,15 @@
     //     minValue: "little",
     //     maxValue: "a lot!"
     // }
+    map.addTitle("{{ item.name }}", 18);
+    //map.addTitle("source: Gapminder", 11);
         map.zoomControl = {
-            buttonFillColor: "#0e486d"
+            buttonFillColor: "#0e486d",
+            maxZoomLevel: 3,
+            panControlEnabled: false,
+            zoomControlEnabled: true,
+            gridBackgroundAlpha: 0.1,
+            gridAlpha: 0.3
         }
            
 
@@ -101,7 +93,7 @@
         //map.smallMap = new AmCharts.SmallMap();
 
         // write the map to container div
-        map.write("map-stateparties");
+        map.write("map-output");
     });
 
 </script>
