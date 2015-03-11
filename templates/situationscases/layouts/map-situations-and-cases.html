@@ -39,6 +39,9 @@
             {% include "templates/partials/map-data-situations-and-cases.html" %}
             
         };
+        map.addTitle("{{ item.name|safe }}", 18);
+    map.addTitle("click on a country for details, or see the list below", 11);
+    
         // pass data provider to the map object
         map.dataProvider = dataProvider;
 

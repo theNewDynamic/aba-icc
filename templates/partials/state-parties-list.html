@@ -6,7 +6,7 @@
   {% for object in countries|sort('name') %}
     {% set situation = object.situations|first %}
     <div class="flex-box{% if object.state_party %} partyToTheRomeStatute{% elseif object.signed_but_not_ratified %} signedbutNotRatified{% else %} notASignatory{% endif %}">
-      <h1 class="flex-title name"><a href="{{ url(object) }}">{{object.name}} <i class="icon-ion-link small" style="padding-left:30px;margin-left:-30px;"></i></a></h1> 
+      <h1 class="flex-title name" style="position:relative;"><a href="{{ url(object) }}">{{object.name}} <i class="icon-ion-link small" style="color:#c6c6c6;position:absolute;right:3;"></i></a></h1> 
 
  <small>
 
@@ -30,7 +30,7 @@
 
 <br /><br />
 
-<a href="javascript:void(0)" class="js-accordion-trigger" style="margin-top:1em;"><small>Legislation <i class="icon-down-open"></i></small></a>
+<a href="javascript:void(0)" class="js-accordion-trigger" style="margin-top:1em;"><small>Legislation <i class="icon-down-open" style="color:#ddd;position:absolute;right:3;bottom:3;"></i></small></a>
 
 <div class="submenu small">
 
