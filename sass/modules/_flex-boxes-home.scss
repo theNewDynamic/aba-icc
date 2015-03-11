@@ -51,6 +51,13 @@
     display: block;
     margin: $flex-box-gutter;
     padding: 2em 2em 3em 2em;
+    
+    min-height: 190px;
+
+    @include media($medium-screen-up) {
+
+      min-height: initial;
+    }
 
     @for $i from 1 to 12 { // assign colors from $flex-box-top-colors list
       &:nth-child(#{$i}) {

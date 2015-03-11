@@ -1,7 +1,11 @@
 <div class="hero background-fixed featured_image">
   <div class="hero-inner">
+  
+
+
+
     <div class="hero-copy">
-  <h1>{% if item.name %}{{ item.name }}{% else %}{{ item._type }}{% endif %}</h1>
+  <h1>{% if item.name %}{{ item.name }}{% else %}{{ item._type }}{% endif %}{% if item._type == 'country' %} <img src="/static/images/countries/{{ item.iso_code }}.svg">{% endif %}</h1>
     </div>
   </div>
 </div>

@@ -42,6 +42,7 @@ $base-z-index: 0;
 $blue: #0e486d;//#1C82C7;// #477DCA;
 $blue-dark: #041621;
 $blue-aba-logo: #1b82c7;
+$blue-light: #008AE5;
 $dark-gray: #333;
 $medium-gray: #555;
 $lightest-gray: #efefef;// #f6f6f6;#f2f2f2;
@@ -57,9 +58,9 @@ $partyToTheRomeStatute: #074b7b;
 $signedbutNotRatified: #6fa4c7;
 $notASignatory: #FFF;
 
-$preliminaryexaminationsInitialAssessment:#008AE5;
-$preliminaryexaminationsAdmissibilityAssessment:#004D7F;
-$preliminaryexaminationsSubjectMatterJurisdictionAssessement:#0073BF;
+$preliminaryexaminationsInitialAssessment:$blue-light;
+$preliminaryexaminationsAdmissibilityAssessment:#0073BF;
+$preliminaryexaminationsSubjectMatterJurisdictionAssessement:#004D7F;
 $preliminaryexaminationsClosedDecisionNottoProceed:#003354;
 $situationsAndCases:#000;
 

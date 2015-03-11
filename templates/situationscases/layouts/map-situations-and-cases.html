@@ -6,8 +6,10 @@
 
 
 {% block content %}
-{% parent %}
-{% include "templates/partials/situations-and-cases-list.html" %}
+    <div id="container-filter">
+        {% parent %}
+        {% include "templates/partials/situations-and-cases-list.html" %}
+    </div>
 {% endblock %}
 
 {% block scripts_extra %}
