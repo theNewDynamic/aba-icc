@@ -1,0 +1,36 @@
+
+ {# 
+<li class="nav-sidebar-item">
+    <a href="/about-the-icc/state-parties-to-the-icc/" class="menu-item active-top">
+      Return to State Parties Map
+    </a>
+  </li>
+<li class="nav-sidebar-item">
+    
+      Return to Situations & Cases
+    </a>
+  </li> #}
+
+
+<li class="nav-sidebar-item active-top nav-heading"><a href="/situations-and-cases/situations-cases/">Situations & Cases <span style="font-size:.5em;">return</span></a></li> 
+{% for page in  content_type %}
+  <li class="nav-sidebar-item" tabindex="{{loop.index}}" data-ga-click="nav, go to explore, text:{{ link.page.name }}">
+    <a href="{{ url(page) }}" class="menu-item{% if getCurrentUrl() == url(page) %} active{% endif %}">
+      {{ page.name }}
+    </a>
+  </li>
+{% endfor %}  
+
+<li class="nav-sidebar-item active-top nav-heading" style="font-size:1.4em;padding-left:1em;"><a href="/about-the-icc/state-parties-to-the-icc/">Others <span style="font-size:.5em;">return</span></a></li> 
+{% for page in  sub_content_type %}
+
+  <li class="nav-sidebar-item" tabindex="{{loop.index}}" data-ga-click="nav, go to explore, text:{{ link.page.name }}">
+    <a href="{{ url(page) }}" class="menu-item{% if getCurrentUrl() == url(page) %} active{% endif %}">
+      {{ page.name }}
+    </a>
+  </li>
+{% endfor %}  
+
+
+
+

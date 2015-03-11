@@ -1,5 +1,5 @@
 
-var curVersion = 'v53';
+var curVersion = 'v54';
 
 var request = require('request');
 
@@ -106,6 +106,26 @@ module.exports = function(grunt) {
   grunt.registerTask('clean', 'Clean build files', function() {
     var done = this.async();
     generator.cleanFiles(done);
+  });
+
+  grunt.registerTask('build-static', 'Just builds the static files, meant to be used with watch tasks.', function() {
+    var done = this.async();
+
+    var strict = grunt.option('strict');
+
+    if(strict === true) {
+      generator.enableStrictMode();
+    }
+
+    var production = grunt.option('production');
+
+    if(production === true) {
+      generator.enableProduction();
+    }
+
+    checkVersion(function() {
+      generator.buildStatic(done);
+    })
   });
 
   // Build Task.

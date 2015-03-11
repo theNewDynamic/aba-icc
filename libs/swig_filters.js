@@ -107,6 +107,32 @@ module.exports.init = function (swig) {
     return out;
   };
 
+  var googleImageSize = function(image, width, height, crop) {
+
+    var source = image.resize_url;
+
+    if(width === 'auto' && height === 'auto') {
+      return image.resize_url;
+    } else if(width === 'auto' && height) {
+      source += '=h' + height;
+    } else if(width && height === 'auto') {
+      source += '=w' + width;
+    } else if(width && height) {
+      source += '=w' + width + '-h' +height;
+    } else if(width && !height) {
+      source += '=s' + width;
+    }
+
+    if(crop) {
+      source += '-c';
+    }
+
+    if(source.indexOf('http://') === 0) {
+      source = source.replace('http://', 'https://');
+    }
+
+    return source;
+  }
 
   var imageSize = function(input, size, deprecatedHeight, deprecatedGrow) {
 
@@ -126,15 +152,9 @@ module.exports.init = function (swig) {
         return input.url;
       }
 
-      imageSource = input.resize_url;
-
-      imageSource = imageSource + '=s' + size;
-
-      if(imageSource.indexOf('http://') === 0) {
-        imageSource = imageSource.replace('http://', 'https://');
-      }
-
+      return googleImageSize(input, size, deprecatedHeight);
     } else if (typeof input === 'string') {
+      console.log('The imageSize filter only supports image objects and not raw urls.'.red);
 
       var params = [];
       if(size) {
@@ -181,15 +201,9 @@ module.exports.init = function (swig) {
         return input.url;
       }
 
-      imageSource = input.resize_url;
-
-      imageSource = imageSource + '=s' + size + '-c';
-
-      if(imageSource.indexOf('http://') === 0) {
-        imageSource = imageSource.replace('http://', 'https://');
-      }
-      
+      return googleImageSize(input, size, deprecatedHeight, true);      
     } else if (typeof input === 'string') {
+      console.log('The imageCrop filter only supports image objects and not raw urls.'.red);
 
       var params = [];
       if(size) {
@@ -507,7 +521,7 @@ module.exports.init = function (swig) {
   swig.setFilter('truncate', truncate);
   swig.setFilter('sort', sort);
   swig.setFilter('startsWith', startsWith);
-  swig.setFilter('endsWith', endsWith)
+  swig.setFilter('endsWith', endsWith);
   swig.setFilter('reverse', reverse);
   swig.setFilter('imageSize', imageSize);
   swig.setFilter('imageCrop', imageCrop);

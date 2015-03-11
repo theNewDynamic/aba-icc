@@ -5,36 +5,109 @@
 {% endblock %}
 
 {% block sideMenu %}          
-  {% set content_type = cms.country|sort('name') %}
+
+
+  {% set content_type = cms.country|where('situations')|sort('name') %}
+  {% set sub_content_type = cms.country|exclude('situations')|sort('name') %}
   {% set landing = '/about-the-icc/state-parties-to-the-icc/' %}
   {% set landing = '/about-the-icc/state-parties-to-the-icc/' %} {# TODO: what should this go to? #}
-  {% include "templates/partials/format-menu.html" %}
+  {% include "templates/partials/format-menu-countries.html" %}
 {% endblock %}
 
 
 {% block content %}
 
-<div class="has-layout" style="padding:.75em;background-color:#fff;width:100%;min-height:80px;">
-  <ul style="margin:0;padding:0;">
-    <li style="margin:0;padding:0;">
-      {% if object.date_signed %}
-          <strong>Signature</strong>{{ object.date_signed|date('Y-M-j')  }}
-        {% if object.date_ratified_or_acceded %}
-          <strong>Ratification or Accenssion</strong>{{ object.date_ratified_or_acceded|date('Y-M-j') }}
+<div class="has-layout" style="padding:.75em;background-color:#fff;width:100%;">
+  <ul class="inline-block" style="margin:0;padding:0;">
+    <li><strong>Rome Statute</strong></li>
+      {% if item.date_signed %}
+          <li><strong>Signature:</strong> {{ item.date_signed|date('Y-M-j')  }}</li>
+        {% if item.date_ratified_or_acceded %}
+          <li><strong>Ratification or Accension:</strong> {{ item.date_ratified_or_acceded|date('Y-M-j') }}</li>
         {% else %}
-          <strong>Not Ratified or Acceded</strong>
+          <li><strong>Not Ratified or Acceded</strong></li>
         {% endif %}
       {% else %}
-        <strong>Not a Signatory to the Rome Statute</strong>
+        <li><strong>Not a Signatory to the Rome Statute</strong></li>
       {% endif %}
-    </li>
   </ul>
 </div>
 
-{% endblock %}
 
-{% block prev-next %}
-  {% set prev = prevItem(item, 'last_name') %}
-  {% set next = nextItem(item, 'last_name') %}
+
+
+{% set situation = item.situations|first %}
+{% if situation.phase %}
+<div class="has-layout" style="padding:.75em;background-color:#f7f7f7;width:100%;">
+  <ul class="inline-block" style="margin:0;padding:0;">
+    <li><strong>Phase:</strong> {{ situation.phase }}</li>
+  </ul>
+</div>
+{% endif %}
+
+
+
+
+{% set situation = item.situations|first %}
+
+{% set cases = item.cases_country %}
+{% if cases %}
+<div class="has-layout" style="padding:.75em;background-color:#e8e8e8;width:100%;">
+  <ul class="inline-block" style="margin:0;padding:0;">
+  {% if cases %}
+  <strong>Cases:</strong>
+  {% endif %}
+  {% for thecase in cases %}
+    <li style="margin-right:2em;margin-bottom:1em;"><a href="#{{ thecase.name|lower|replace(' ', '-') }}">{{ thecase.name }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+{% endif %}
+
+
+
+
+
+<div class="flex-boxesTK">
+  {% set situations = item.situations %}
+
+  {% for situation in situations %}
+  <article class="hentry">
+  
+{% if situation.overview %}
+<h2>Overview</h2>
+{{ situation.overview|safe }}
+
+{% endif %}
+</article>
+{% endfor %}
+
+
+</div>
+
+
+
+<div class="flex-boxes">
+{% for thecase in cases %}
+<div class="flex-box" id="{{ thecase.name|lower|replace(' ', '-') }}" style="background-color:white;">
+  <h3 class="flex-title">{% if thecase.long_name %}{{ thecase.long_name }}{% else %}{{ thecase.name }}{% endif %}</h3>
+
+  {{ thecase.case_status }} 
+  
+
+</div>
+
+{% endfor %}
+
+</div>
+
+
+
+
+
+{% set prev = prevItem(item, 'name') %}
+  {% set next = nextItem(item, 'name') %}
 {% include "templates/partials/prev-next.html" %}
+
 {% endblock %}

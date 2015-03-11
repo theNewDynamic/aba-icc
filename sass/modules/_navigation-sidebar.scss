@@ -20,6 +20,10 @@
    padding-left:1.6em;
 }
 
+.nav-heading {
+  font-size:1.4em;padding-left:1em;padding-bottom:.75em;
+}
+
 .menu-item {
   position: relative;
   background-color: lighten($sidebar-right-color-background, 6%);
