@@ -9,7 +9,6 @@
 
   {% set content_type = cms.country|where('situations')|sort('name') %}
   {% set sub_content_type = cms.country|exclude('situations')|sort('name') %}
-  {% set landing = '/about-the-icc/state-parties-to-the-icc/' %}
   {% set landing = '/about-the-icc/state-parties-to-the-icc/' %} {# TODO: what should this go to? #}
   {% include "templates/partials/format-menu-countries.html" %}
 {% endblock %}
