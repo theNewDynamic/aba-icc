@@ -83,9 +83,10 @@
     </aside>
 
     {% include "templates/partials/footer.html" %}
+    {% block scripts_extra %}{% endblock %}
     {% include "templates/partials/scripts.html" %}
     {% block page_bottom %}{% endblock %}
-    {% block scripts_extra %}{% endblock %}
+    
   </body>
 </html>
 

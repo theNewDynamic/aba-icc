@@ -12,14 +12,14 @@
 {% endblock %}
 
 {% block content %}
-  <div class="flex-boxes-home">
+  <div class="grid-items">
   {% set data = cms.homepage.grid %}
     {% for row in data %}
       <a href="{% for relation in row.related_page %}{{ url(relation) }}{% endfor %}" 
-        class="flex-box{% if loop.index == 1 || loop.index == 8 || loop.index == 9 %} flex-box-big{% endif %}"{% if row.background_image %} style="background:url({{ row.background_image|imageSize(800) }}){% if row.bg_position %} {{ row.bg_position }}{% else %} center center{% endif %};background-size:{% if row.background_size %}{{ row.background_size }}{% else %}cover{% endif %};{% endif %}background-repeat:no-repeat;">        
+        class="grid-item{% if loop.index == 1 || loop.index == 8 || loop.index == 9 %} grid-item-big{% endif %}"{% if row.background_image %} style="background:url({{ row.background_image|imageSize(800) }}){% if row.bg_position %} {{ row.bg_position }}{% else %} center top{% endif %};background-size:{% if row.background_size %}{{ row.background_size }}{% else %}cover{% endif %};{% endif %}background-repeat:no-repeat;">        
         <figcaption>
           {% if row.heading %}
-            <h2 class="flex-title">{{ row.heading }}</h2>
+            <h1 class="flex-title">{{ row.heading }}</h1>
           {% endif %}
           {% if row.copy %}
             {% if row.copy|size > 300 %} 

@@ -24,13 +24,17 @@
   $grid-item-color: white;
   $grid-item-height: 16em;
 
-  @include media($normal-screen-up) {
+  @include media($medium-screen-up) {
     $grid-item-height: 22.275vh;
   }
 
 
   @include clearfix;
 ////BP
+a {
+  color: darken($grid-item-color, 17%);
+}
+
   position: relative;
   margin-top:0;
   margin-right: $grid-item-border-size - 4px;
@@ -47,7 +51,7 @@
     overflow: hidden;
     float: left;
     padding: 1.75em;
-    @include media($normal-screen-up) {
+    @include media($medium-screen-up) {
       height: $grid-item-height;
     padding: 2vh;
   }
@@ -101,10 +105,10 @@
         font-size: 1.9vh;
         max-width: 80%;
       }
-      @include media($wide-screen-up) {
-        font-size: 1.4vh;
-        max-width: 80%;
-      }
+      // @include media($wide-screen-up) {
+      //   font-size: 1.4vh;
+      //   max-width: 80%;
+      // }
     }
 
     .presentational p {
@@ -158,4 +162,12 @@
 .text-right h1{
   text-align:right;
 }
+}
+
+.grid-item, .grid-item-big {
+  figcaption {
+    // position: absolute;               /* 2 */
+    // top: 20%;                         /* 3 */
+    transform: translate(0, 20%);
+  }
 }

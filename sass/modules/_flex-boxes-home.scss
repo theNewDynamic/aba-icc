@@ -41,6 +41,10 @@
 
     margin: 0 .4375em .4375em .4375em;
 
+    @include media($medium-screen-up) {
+      min-height: 95vh;
+    }
+
   .flex-box {
     @include transition (all 0.2s ease-in-out);
     @include flex(2 2 12em);
@@ -91,6 +95,9 @@
       color: $light-gray;// transparentize($flex-box-color, 0.1);
       line-height: 1.5em;
       margin: auto;
+    }
+    .copy {
+      padding-top:2em;
     }
   }
   .flex-box-big {

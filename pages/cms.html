@@ -8,9 +8,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta name="siteName" content="www,1aba-icc,1org">
   <meta name="buildLive" content="true">
+  {% if cmsSocketPort %}
+  <meta name="socketPort" content="{{ cmsSocketPort }}">
+  {% endif %}
 
   <link rel="stylesheet" href="http://cms.webhook.com/{{ cmsVersion }}/assets/app.min.css">
-  <link rel="stylesheet" href="/static/css/cms.css">
 
   <link rel="shortcut icon" href="/static/images/favicon.png">
   <link rel="apple-touch-icon icon-precomposed" href="/static/images/touch-icon.png"/>
