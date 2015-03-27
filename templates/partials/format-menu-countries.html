@@ -10,9 +10,16 @@
       Return to Situations & Cases
     </a>
   </li> #}
-
-
 <li class="nav-sidebar-item active-top nav-heading"><a href="/situations-and-cases/situations-cases/">Situations & Cases <span style="font-size:.5em;">return</span></a></li> 
+
+
+<div class="accordian">
+  <li class="nav-sidebar-item active-top nav-heading">
+
+<a href="javascript:void(0)" class="js-accordion-trigger" style="padding:.125em .25em;border:1px solid #c9c9c9;border-radius:2px;margin-bottom:3em;font-size:.85em;">countries</a></li>
+
+<ul class="submenu" style="">
+
 {% for page in  content_type %}
   <li class="nav-sidebar-item" tabindex="{{loop.index}}" data-ga-click="nav, go to explore, text:{{ link.page.name }}">
     <a href="{{ url(page) }}" class="menu-item{% if getCurrentUrl() == url(page) %} active{% endif %}">
@@ -22,15 +29,19 @@
 {% endfor %}  
 
 <li class="nav-sidebar-item active-top nav-heading" style="font-size:1.4em;padding-left:1em;"><a href="/about-the-icc/state-parties-to-the-icc/">Others <span style="font-size:.5em;">return</span></a></li> 
+
 {% for page in  sub_content_type %}
 
   <li class="nav-sidebar-item" tabindex="{{loop.index}}" data-ga-click="nav, go to explore, text:{{ link.page.name }}">
     <a href="{{ url(page) }}" class="menu-item{% if getCurrentUrl() == url(page) %} active{% endif %}">
-      {{ page.name }}f
+      {{ page.name }}
     </a>
   </li>
 {% endfor %}  
+</ul>
 
 
+
+</div>
 
 
