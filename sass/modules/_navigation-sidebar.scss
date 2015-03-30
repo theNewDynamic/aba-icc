@@ -10,6 +10,11 @@
   letter-spacing: .0625em;
   color: #f7f7f7;
 }
+
+ul li ul li{
+  padding-left: 2em;
+
+}
 .nav-sidebar-item a:hover,
 .nav-sidebar-item a:focus {
   text-decoration: none;

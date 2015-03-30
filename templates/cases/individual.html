@@ -1,12 +1,13 @@
 {% extends "templates/partials/base.html" %}
 
-
-{% block sideMenu %}          
-  {% set content_type = cms.country|where('situations')|sort('name') %}
-  {% set landing = '/about-the-icc/state-parties-to-the-icc/' %} {# TODO: what should this go to? #}
-  {% include "templates/partials/menu-side-situations-cases.html" %}
+{% block sideMenu %}
+  {% set global_menu = global.about_the_icc_menu %}
+  {% set local_menu_dropdown = cms.country|where('situations')|sort('name') %}
+  {% set local_menu_dropdown_label = 'Situation Countries' %}
+  {% set country = item.country  %}
+  {% set local_menu = cms.cases|where('country', country) %}
+  {% parent %}
 {% endblock %}
-
 
 
 

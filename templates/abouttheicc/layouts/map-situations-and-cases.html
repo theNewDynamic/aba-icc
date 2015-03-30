@@ -4,6 +4,11 @@
   {% include "templates/partials/map-legend-situations-and-cases.html" %}
 {% endblock %}
 
+{% block sideMenu %}
+{% parent %}
+{% set local_menu_dropdown = cms.country|where('situations')|sort('name') %}  
+{% endblock %}
+
 
 {% block content %}
     <div id="container-filter">
