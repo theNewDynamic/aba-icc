@@ -1,0 +1,19 @@
+<nav>
+  {% include "templates/partials/menu-side-countries.html" %}
+  {% set country = item.country  %}
+
+  {% set cases = cms.cases|where('country', country) %}
+
+  <ul class="nav-sidebar">
+    <li><a href="{{ url(item.country) }}">{{ country.name }} Cases</a></li>
+  
+
+  {% if cases %}
+    
+    {% for thecase in cases %}
+      <li class="nav-sidebar-item"><a href="{{ url(thecase) }}" class="{% if getCurrentUrl() == url(link.page) %} active{% endif %}">{{ thecase.name }}</a></li>
+      {% endfor %}
+    
+  {% endif %}
+</ul>
+</nav>

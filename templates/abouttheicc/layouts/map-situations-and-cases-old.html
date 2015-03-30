@@ -1,0 +1,17 @@
+{% extends "templates/abouttheicc/base-layout-map.html" %}
+{# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+{% block content %}
+  <div id="map-stateparties"></div>
+{% endblock %}
+
+{% if page.url contains '/state-parties-to-the-icc/' or page.url contains '/situations-and-cases-map/' %}
+  <script src="/assets/js/ammap/ammap.js" type="text/javascript"></script>
+  <script src="/assets/js/ammap/maps/worldLow.js" type="text/javascript"></script>
+
+  {% if page.url contains '/state-parties-to-the-icc/' %}
+    <script src="/assets/js/ammap/map-state-parties.js" type="text/javascript"></script>
+  {% elsif page.url contains '/situations-and-cases-map/' %}
+    <script src="/assets/js/ammap/map-situations-and-cases.js" type="text/javascript"></script>
+  {% endif %}
+{% endif %}

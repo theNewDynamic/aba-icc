@@ -40,7 +40,7 @@
         <strong>Featured Image: </strong>
         {# You can pull out a lot more information from the image property. Info here: #}
         {# http://www.webhook.com/docs/widget-template-reference/#image #}
-        <img src="{{ cms.global.featured_image|imageSize(200) }}" />
+        <img src="{{ cms.global.featured_image|imageSize(200, 200) }}" />
       </li>
       <li>
         <strong>Main Menu: </strong>
@@ -50,10 +50,8 @@
             <li>
               <strong>Page: </strong>
               {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
-                {% for relation in row.page %}
-                  {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
-                  <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
-                {% endfor %}
+                {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+                <a href="{{ url(row.page) }}">{{ row.page.name }}</a>
             </li>
         {% endfor %}
         </ul>
@@ -66,10 +64,8 @@
             <li>
               <strong>Page: </strong>
               {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
-                {% for relation in row.page %}
-                  {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
-                  <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
-                {% endfor %}
+                {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+                <a href="{{ url(row.page) }}">{{ row.page.name }}</a>
             </li>
         {% endfor %}
         </ul>
@@ -82,10 +78,8 @@
             <li>
               <strong>Page: </strong>
               {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
-                {% for relation in row.page %}
-                  {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
-                  <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
-                {% endfor %}
+                {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+                <a href="{{ url(row.page) }}">{{ row.page.name }}</a>
             </li>
         {% endfor %}
         </ul>

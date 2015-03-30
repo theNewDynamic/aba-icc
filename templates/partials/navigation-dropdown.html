@@ -6,7 +6,6 @@
     <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
-
       {% for menu in global.main_menu %}
         {% for page in menu.page %}
           <li tabindex="{{loop.index}}" class="nav-link{% if getCurrentUrl() == url(link.page) %} active{% endif %}" data-ga-click="nav, go to explore, text:{{ link.menu_text }}">
@@ -15,8 +14,7 @@
             </a>
           </li>
         {% endfor %}
-      {% endfor %}                
-      
+      {% endfor %}                      
       </ul>
     </nav>
     <div class="navigation-tools">
@@ -26,10 +24,6 @@
     </div>
   </div>
 </header>
-
-
-
-
 
 
 

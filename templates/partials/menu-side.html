@@ -1,0 +1,48 @@
+<nav>
+{% if landing %} {# Landing page (where the return link goes) IS SET IN THE LOCAL TEMPLATE #}
+<ul class="nav-sidebar">
+  <li class="nav-sidebar-item landing">
+    <a href="{{ landing }}" class="menu-item active-top">
+      Return
+    </a>
+  </li>
+  </ul>
+{% endif %}
+
+ 
+
+
+{% if global_menu %}
+<ul class="nav-sidebar">
+  {% for page in global_menu %}
+    {% set page = page.page %}    
+      {% include "templates/partials/format-menu-item.html" %}
+  {% endfor %} 
+</ul>  
+{% endif %}
+
+{# 
+{% for menu in global.about_the_icc_menu %}
+  {% set content_type = menu.page %}    
+    {% include "templates/partials/format-menu.html" %}
+{% endfor %} 
+ #}
+
+{% if content_type %}
+<ul class="nav-sidebar">
+  {% for page in  content_type %} {# CONTENT TYPE IS SET IN THE LOCAL TEMPLATE #}
+    
+      {% include "templates/partials/format-menu-item.html" %}
+    
+  {% endfor %}  
+  </ul>
+{% endif %}
+
+{% if sub_content_type %}
+  {% for page in  sub_content_type %}{# SUB CONTENT TYPE IS SET IN THE LOCAL TEMPLATE #}
+    <ul class="nav-sidebar">
+      {% include "templates/partials/format-menu-item.html" %}
+    </ul>  
+  {% endfor %}  
+{% endif %}
+</nav>

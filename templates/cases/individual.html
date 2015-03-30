@@ -1,111 +1,63 @@
-{# ------------------------------------------------------- #}
-{# INDIVIDUAL VIEW FOR EACH cases #}
-{# This page can use any data from http:localhost:2000/cms/#/form/cases/ #}
-{# Webhook uses the SWIG.js (like Djagno/Twig) templating system. Their documentation is here: #}
-{# http://paularmstrong.github.io/swig/docs/tags/ #}
-{# Learn about calling data into Webhook pages here: #}
-{# http://www.webhook.com/docs/template-rules-and-filters/ #}
-{# ------------------------------------------------------- #}
-{# Confused what extends and blocks do? Watch a primer: #}
-{# http://www.webhook.com/docs/template-inheritance-blocks/ #}
 {% extends "templates/partials/base.html" %}
-{# This sets our page <title>. It will append this cases's name to the site title defined in base.html #}
-{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+
+
+{% block sideMenu %}          
+  {% set content_type = cms.country|where('situations')|sort('name') %}
+  {% set landing = '/about-the-icc/state-parties-to-the-icc/' %} {# TODO: what should this go to? #}
+  {% include "templates/partials/menu-side-situations-cases.html" %}
+{% endblock %}
+
+
+
+
+
 {% block content %}
-  <p><a href="{{ url('cases') }}">View a list of all cases</a></p>
-  <h1>{{ item.name }}</h1>
-  <ul>
+  <div class="has-layout row row-bottom-next">
+    <ul class="inline-block">
       <li>
-        <strong>Name: </strong>
-        {{ item.name }}
+        <strong>Country: </strong>
+        <a href="{{ url(item.country) }}">{{ item.country.name }}</a>
       </li>
-      <li>
-        <strong>Create Date: </strong>
-        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
-        {{ item.create_date|date('F d Y') }}
-      </li>
-      <li>
-        <strong>Last Updated: </strong>
-        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
-        {{ item.last_updated|date('F d Y') }}
-      </li>
-      <li>
-        <strong>Publish Date: </strong>
-        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
-        {{ item.publish_date|date('F d Y') }}
-      </li>
-      <li>
-        <strong>Long Name: </strong>
-        {{ item.long_name }}
-      </li>
+      {% if item.case_status %}
+        <li>
+          <strong>Case Status: </strong>
+          {{ item.case_status }}
+        </li>
+      {% endif %}
+      {% if item.trial_opening %}
       <li>
         <strong>Trial Opening: </strong>
         {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
         {{ item.trial_opening|date('F d Y') }}
       </li>
-      <li>
-        <strong>Country: </strong>
-        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
-        {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
-        <a href="{{ url(item.country) }}">{{ item.country.name }}</a>
+      {% endif %}
+      
+       {% if item.note %}
+      <li class="small">
+        (<em>{{ item.note }}</em>)
       </li>
-      <li>
-        <strong>Accused: </strong>
-        {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
-        {% for relation in item.accused %}
-          {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
-          <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
-        {% endfor %}
-      </li>
-      <li>
-        <strong>Case Status: </strong>
-        {{ item.case_status }}
-      </li>
-      <li>
-        <strong>Note: </strong>
-        {{ item.note }}
-      </li>
-      <li>
-        <strong>Charges: </strong>
-        {# Loop of your Repeatable Form items. Remember, you can sort the order in your CMS if you need. #}
-        <ul>
-        {% for row in item.charges %}
-            <li>
-              <strong>Accused: </strong>
-              {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
-                {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
-                <a href="{{ url(row.accused) }}">{{ row.accused.name }}</a>
-            </li>
-            <li>
-              <strong>Charges Status: </strong>
-              {{ row.charges_status }}
-            </li>
-            <li>
-              <strong>Charges: </strong>
-              {{ row.charges|safe }}
-            </li>
-            <li>
-              <strong>Factual Allegations: </strong>
-              {{ row.factual_allegations|safe }}
-            </li>
-            <li>
-              <strong>Date Summonses: </strong>
-              {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
-                {{ row.date_summonses|date('F d Y') }}
-            </li>
-            <li>
-              <strong>Date of Initial Appearance: </strong>
-              {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
-                {{ row.date_of_initial_appearance|date('F d Y') }}
-            </li>
-            <li>
-              <strong>Date of Confirmation of Charges: </strong>
-              {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
-                {{ row.date_of_confirmation_of_charges|date('F d Y') }}
-            </li>
-        {% endfor %}
-        </ul>
-      </li>
+      {% endif %}
+    </ul>
+  </div>
+  <div class="has-layout row row-bottom">
+    <ul class="inline-block" style="margin:0;padding:0;">
+      <li><small><em>Page last updated:  {{ item.last_updated|date('F d Y') }}</em></small></li>
+    </ul>
+  </div>
+
+  {# <div class="has-layout row">
+    <h1>{% if item.long_name %}{{ item.long_name }}{% else %}{{ item.name }}{% endif %}</h1>
+  </div>
+ #}
+  <article class="hentry">
+  <h1>{% if item.long_name %}{{ item.long_name }}{% else %}{{ item.name }}{% endif %}</h1>
+  <ul>
+    {% for row in item.charges %}
+      {% include "templates/partials/case-info.html" %}
+    {% endfor %}
+  </ul>
+      <ul>      
+      {% if item.events  %}
       <li>
         <strong>Events: </strong>
         {# Loop of your Repeatable Form items. Remember, you can sort the order in your CMS if you need. #}
@@ -127,16 +79,9 @@
         {% endfor %}
         </ul>
       </li>
-      <li>
-        <strong>Video: </strong>
-        {# Embed.ly content usually comes with more data. Info here: #}{# http://www.webhook.com/docs/widget-template-reference/#embedly #}{{ item.video.html|safe  }}      </li>
-      <li>
-        <strong>Preview URL: </strong>
-        {{ item.preview_url }}
-      </li>
-      <li>
-        <strong>Slug: </strong>
-        {{ item.slug }}
-      </li>
+      {% endif %}
+      
+      
   </ul>
+  </article>
 {% endblock %}

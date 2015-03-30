@@ -1,4 +1,4 @@
-{% extends "templates/partials/base-layout-individual.html" %}
+{% extends "templates/partials/base.html" %}
 
 {% block hero %}
   {% include "templates/partials/hero.html" %}
@@ -7,7 +7,7 @@
 {% block sideMenu %}          
   {% set content_type = cms.boardofadvisors|sort('last_name') %}
   {% set landing = '/the-aba-icc-project/board-of-advisors/' %}
-  {% include "templates/partials/format-menu.html" %}
+  {% include "templates/partials/menu-side.html" %}
 {% endblock %}
 
 {% block prev-next %}

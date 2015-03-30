@@ -1,4 +1,4 @@
-{% extends "templates/partials/base-layout-individual.html" %}
+{% extends "templates/partials/base.html" %}
 {# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
 {% set content_type = cms.theabaiccproject %}    
 
@@ -6,7 +6,7 @@
 {% block sideMenu %}          
   {% set content_type = cms.events|sort('start_date', true) %}
   {% set landing = '/events/' %}
-  {% include "templates/partials/format-menu.html" %}
+  {% include "templates/partials/menu-side.html" %}
 {% endblock %}
 
 
