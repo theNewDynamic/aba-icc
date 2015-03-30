@@ -1,4 +1,5 @@
 {% extends "templates/partials/base.html" %}
+{% block title %}{% parent %} - {{ item._type }}{% endblock %}
 {% block sideMenu %}
   {% set global_menu = global.about_the_icc_menu %}
   {% parent %}

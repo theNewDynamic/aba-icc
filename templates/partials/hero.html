@@ -1,4 +1,4 @@
-<div class="hero background-fixed featured_image{% if item.charges %} images{% elseif item.image %} image{% endif %}">
+<div class="hero background-fixed featured_image{% if item.image %} image{% endif %}">
   <div class="hero-inner">
 
     <div class="hero-copy">
@@ -19,6 +19,11 @@
 <div class="images images-{{item.charges.length}}" style="width;100%;clear:both;height:400px;margin-bottom:3em;">
   {% for row in item.charges %}
     {% if row.accused.image %}
+    <style type="text/css">
+        .hero {
+          min-height: 400px;
+        }
+    </style>
       <figure style="width:160pz;height:180px;float:left;margin-right:.25em;">
         <img src="{{ row.accused.image|imageCrop(200, 200)}}" width="160" height="160">
         <figcaption>{{ row.accused.name }}</figcaption>

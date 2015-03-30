@@ -1,7 +1,6 @@
-{% extends "templates/partials/base.html" %}
+{% extends "templates/abouttheicc/base.html" %}
 
 {% block sideMenu %}
-  {% set global_menu = global.about_the_icc_menu %}
   {% set local_menu_dropdown = cms.country|where('situations')|sort('name') %}
   {% set local_menu_dropdown_label = 'Situation Countries' %}
   {% set country = item.country  %}

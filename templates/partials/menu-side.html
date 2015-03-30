@@ -5,7 +5,7 @@
 {% if global_menu %}
   {% if local_menu || local_menu_dropdown %}{#  If we have sub content, roll up the top level menu into a dropdown #}
     <ul class="nav-sidebar accordion">
-      <li class="nav-sidebar-item"><a href="javascript:void(0)" class="js-accordion-trigger menu-item{% if getCurrentUrl() == url(page) %} active{% endif %}">Up menu +</a>
+      <li class="nav-sidebar-item"><a href="javascript:void(0)" class="js-accordion-trigger menu-item{% if getCurrentUrl() == url(page) %} active{% endif %}">Main Menu +</a>
         <ul class="submenu">
           {% for page in global_menu %}
             {% set page = page.page %}    
