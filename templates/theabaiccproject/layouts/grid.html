@@ -1,12 +1,4 @@
-{% extends "templates/partials/base.html" %}
-{# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
-{% block title %}{% parent %} - {{ item.name }}{% endblock %}
-   {% block hero %}
-    {% endblock %}
-
-{% block sideMenu %}
-  {% include "templates/partials/menu-abaiccproject.html" %}
-{% endblock %}
+{% extends "templates/theabaiccproject/base.html" %}
 
 {% block content %}
 <div class="heading"><h1>{{ item.name }}</h1></div>

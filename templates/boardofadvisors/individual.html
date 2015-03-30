@@ -1,13 +1,13 @@
-{% extends "templates/partials/base-layout-individual.html" %}
+{% extends "templates/theabaiccproject/base.html" %}
 
 {% block hero %}
   {% include "templates/partials/hero.html" %}
 {% endblock %}
 
 {% block sideMenu %}          
-  {% set content_type = cms.boardofadvisors|sort('last_name') %}
-  {% set landing = '/the-aba-icc-project/board-of-advisors/' %}
-  {% include "templates/partials/format-menu.html" %}
+  {% set local_menu_dropdown = cms.boardofadvisors|sort('last_name') %}
+  {% set local_menu_dropdown_label = 'Board Members' %}  
+  {% parent %}
 {% endblock %}
 
 {% block prev-next %}

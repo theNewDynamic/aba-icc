@@ -19,13 +19,34 @@ $hero-image: '/static/images/icc-building-28.png';
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 3em;
-  //min-height: 400px;
+  height: auto;
   //background-attachment: fixed;
   margin-top: $navigation-height;
   @include media($large-screen) {
          
           margin-top: 0;
+
+
+.images figure {
+    .tilted {
+      @include transform(rotate(3deg));
+    }
+    margin-bottom: 2em;
+    display: inline-block;
+    height: 200px;
+    //box-shadow: 0 13px 50px rgba(0,0,0,0.3);
+    border-radius:1px;
+    width:160px;
+    height:160px;
+    margin:0;
+    figcaption {
+      color: $blue-dark;
+    }
+}
+
         }
+
+       
 
   .hero-logo img {
     height: 4em;
@@ -37,9 +58,9 @@ $hero-image: '/static/images/icc-building-28.png';
     @include clearfix;
     color: $hero-color;
     margin: auto;
-    padding: 3.5em;
+    padding: 3.5em 1.5em;
     text-align: center;
-
+height: auto;
     .hero-copy {
       text-align: center;
       
@@ -49,6 +70,7 @@ $hero-image: '/static/images/icc-building-28.png';
         padding: .375em;
         margin-bottom: 0.5em;
         background-color: rgba(0,0,0,0.4);
+        text-align: left;
 
         @include media($large-screen) {
           font-size: 1.8em;
@@ -73,4 +95,14 @@ $hero-image: '/static/images/icc-building-28.png';
       padding: 0.7em 1em;
     }
   }
+}
+.image{
+  min-height: 300px;
+}
+.images {
+  min-height: 400px;
+}
+.image-single {
+  @include transform(rotate(3deg));
+  box-shadow: 0 13px 50px rgba(0,0,0,0.3);
 }

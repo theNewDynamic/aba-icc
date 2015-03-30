@@ -5,6 +5,24 @@
 //   }
 // }
 
+.row {
+  padding:.75em 1.5em;
+  width:100%;
+  ul.inline-block {
+    margin:0;
+    padding:0;
+  }
+}
+.row-first {
+  background-color:darken($lightest-gray, 9%);
+}
+.row-bottom-next {
+  background-color:darken($lightest-gray, 6%);
+}
+.row-bottom {
+  background-color:darken($lightest-gray, 3%);
+}
+
 
 
 .full-width-bar {

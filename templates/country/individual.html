@@ -1,20 +1,28 @@
-{% extends "templates/partials/base-layout-individual.html" %}
+{% extends "templates/abouttheicc/base.html" %}
 
 {% block hero %}
   {% include "templates/partials/hero.html" %}
 {% endblock %}
 
-{% block sideMenu %}          
-  {% set content_type = cms.country|where('situations')|sort('name') %}
-  {% set sub_content_type = cms.country|exclude('situations')|sort('name') %}
-  {% set landing = '/about-the-icc/state-parties-to-the-icc/' %} {# TODO: what should this go to? #}
-  {% include "templates/partials/format-menu-countries.html" %}
+
+{% block sideMenu %}
+
+  {% set local_menu_dropdown = cms.country|where('situations')|sort('name') %}
+  {% set local_menu_dropdown_label = 'Situation Countries' %}
+  {% set country = item.name  %}
+  {% set local_menu = item.cases_country %}
+  {% parent %}
+  
+  
+  {# {% include "templates/partials/menu-side-countries.html" %} #}
 {% endblock %}
+
+
 
 
 {% block content %}
 
-<div class="has-layout" style="padding:.75em;background-color:#fff;width:100%;">
+<div class="has-layout row row-first">
   <ul class="inline-block" style="margin:0;padding:0;">
     <li><strong>Rome Statute</strong></li>
       {% if item.date_signed %}
@@ -35,7 +43,7 @@
 
 {% set situation = item.situations|first %}
 {% if situation.phase %}
-<div class="has-layout" style="padding:.75em;background-color:#f7f7f7;width:100%;">
+<div class="has-layout row row-bottom-next">
   <ul class="inline-block" style="margin:0;padding:0;">
     <li><strong>Phase:</strong> {{ situation.phase }}</li>
   </ul>
@@ -49,7 +57,7 @@
 
 {% set cases = item.cases_country %}
 {% if cases %}
-<div class="has-layout" style="padding:.75em;background-color:#e8e8e8;width:100%;">
+<div class="has-layout row row-bottom">
   <ul class="inline-block" style="margin:0;padding:0;">
   {% if cases %}
   <strong>Cases:</strong>
@@ -88,7 +96,7 @@
 <div class="flex-boxes">
 {% for thecase in cases %}
 <div class="flex-box" id="{{ thecase.name|lower|replace(' ', '-') }}" style="background-color:white;">
-  <h3 class="flex-title">{% if thecase.long_name %}{{ thecase.long_name }}{% else %}{{ thecase.name }}{% endif %}</h3>
+  <h3 class="flex-title"><a href="{{ url(thecase) }}">{% if thecase.long_name %}{{ thecase.long_name }}{% else %}{{ thecase.name }}{% endif %}</a></h3>
 
   {{ thecase.case_status }} 
   

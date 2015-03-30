@@ -1,9 +1,4 @@
-{% extends "templates/partials/base-layout-individual.html" %}
-{# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
-{% set content_type = cms.theabaiccproject %}    
-{% block sideMenu %}
-  {% include "templates/partials/menu-abaiccproject.html" %}
-{% endblock %}
+{% extends "templates/theabaiccproject/base.html" %}
 
 {% block content %}
   {% parent %}
