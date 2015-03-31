@@ -1,8 +1,10 @@
 #map-output, #map-stateparties {
   //margin-top:-60px !important;
   //overflow: hidden;
-  height: 500px;
   margin-bottom: 1em;
+  @include media($large-screen) {
+    height: 600px;  
+  }
 }
 #map-output, #map-stateparties, #map-situations-and-cases {
   background-color: #eee;
@@ -30,7 +32,7 @@
   @include media($large-screen) {
     width: 450px !important;
     left: 80px !important;
-    top: 190px !important;
+    top: 20px !important;
   }
   -ms-word-break: break-all;
   /* Be VERY careful with this, breaks normal words wh_erever */
