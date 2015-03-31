@@ -29,7 +29,8 @@ h1 small {
 
 h2, .h2 {
   font-size: $base-font-size * 1.9; // 16 * 2 = 32px
-  font-weight:300;
+  color: $blue-dark;
+
 }
 
 h3, .h3 {

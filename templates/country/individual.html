@@ -4,115 +4,128 @@
   {% include "templates/partials/hero.html" %}
 {% endblock %}
 
-
 {% block sideMenu %}
-
   {% set local_menu_dropdown = cms.country|where('situations')|sort('name') %}
   {% set local_menu_dropdown_label = 'Situation Countries' %}
   {% set country = item.name  %}
   {% set local_menu = item.cases_country %}
   {% parent %}
-  
-  
-  {# {% include "templates/partials/menu-side-countries.html" %} #}
 {% endblock %}
 
-
-
-
 {% block content %}
-
-<div class="has-layout row row-first">
-  <ul class="inline-block" style="margin:0;padding:0;">
-    <li><strong>Rome Statute</strong></li>
-      {% if item.date_signed %}
-          <li><strong>Signature:</strong> {{ item.date_signed|date('Y-M-j')  }}</li>
-        {% if item.date_ratified_or_acceded %}
-          <li><strong>Ratification or Accension:</strong> {{ item.date_ratified_or_acceded|date('Y-M-j') }}</li>
+  <div class="has-layout row row-first small">
+    <ul class="inline-block" style="margin:0;padding:0;">
+      <li><strong>Rome Statute: </strong></li>
+        {% if item.date_signed %}
+            <li><strong>Signature:</strong> {{ item.date_signed|date('j F Y')  }}</li>
+          {% if item.date_ratified_or_acceded %}
+            <li><strong>Ratification or Accension:</strong> {{ item.date_ratified_or_acceded|date('j F Y') }}</li>
+          {% else %}
+            <li><strong>Not Ratified or Acceded</strong></li>
+          {% endif %}
         {% else %}
-          <li><strong>Not Ratified or Acceded</strong></li>
+          <li><strong>Not a Signatory to the Rome Statute</strong></li>
         {% endif %}
-      {% else %}
-        <li><strong>Not a Signatory to the Rome Statute</strong></li>
-      {% endif %}
-  </ul>
-</div>
+    </ul>
+  </div>
 
-
-
-
-{% set situation = item.situations|first %}
-{% if situation.phase %}
-<div class="has-layout row row-bottom-next">
-  <ul class="inline-block" style="margin:0;padding:0;">
-    <li><strong>Phase:</strong> {{ situation.phase }}</li>
-  </ul>
-</div>
-{% endif %}
-
-
-
-
-{% set situation = item.situations|first %}
-
-{% set cases = item.cases_country %}
-{% if cases %}
-<div class="has-layout row row-bottom">
-  <ul class="inline-block" style="margin:0;padding:0;">
-  {% if cases %}
-  <strong>Cases:</strong>
+  {% set situation = item.situations|first %}
+  {% if situation.phase %}
+    <div class="has-layout row row-bottom-next small">
+      <ul class="inline-block" style="margin:0;padding:0;">
+        <li><strong>Phase:</strong> {{ situation.phase }}</li>
+      </ul>
+    </div>
   {% endif %}
-  {% for thecase in cases %}
-    <li style="margin-right:2em;margin-bottom:1em;"><a href="#{{ thecase.name|lower|replace(' ', '-') }}">{{ thecase.name }}</a></li>
+
+
+  {% set situation = item.situations|first %}
+
+  {% set cases = item.cases_country %}
+  {% if cases %}
+    <div class="has-layout row row-bottom hidden-medium-screens small">
+      <ul class="inline-block" style="margin:0;padding:0;">
+      {% if cases %}
+      <strong>Cases:</strong>
+      {% endif %}
+      {% for thecase in cases %}
+        <li style="margin-right:2em;margin-bottom:1em;"><a href="#{{ thecase.name|lower|replace(' ', '-') }}">{{ thecase.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+
+
+  <div class="flex-boxesTK">
+    {% set situations = item.situations %}
+    {% for situation in situations %}
+      <article class="hentry">
+        {% if situation.overview %}
+          <h2>Overview</h2>
+          {{ situation.overview|safe }}
+        {% endif %}
+      </article>
     {% endfor %}
-  </ul>
-</div>
+  </div>
 
+  <div class="flex-boxes">
+    {% for thecase in cases %}
+      <div class="flex-box" id="{{ thecase.name|lower|replace(' ', '-') }}" style="background-color:white;">
+        <h3 class="flex-title"><a href="{{ url(thecase) }}">{% if thecase.long_name %}{{ thecase.long_name }}{% else %}{{ thecase.name }}{% endif %}</a></h3>
+        {{ thecase.case_status }} 
+      </div>
+    {% endfor %}
+  </div>
+
+
+{% if item.genocide || item.crimes_against_humanity || item.aggression || item.war_crimes %}
+  <div class="timeline">
+    <div class="full-width-bar">
+    <h3>Domestic Atrocity Crime Legislation</h3>
+    {% if item.genocide %}
+      
+        <strong>Genocide</strong><br />
+        {{ item.genocide|markdown }}
+    
+    {% endif %}
+    
+    {% if item.crimes_against_humanity %}
+      
+        <strong>Crimes against Humanity</strong><br />
+        {{ item.crimes_against_humanity|markdown }}
+      
+    {% endif %}
+
+    {% if item.aggression %}
+      
+        <strong>Aggression</strong><br />
+        {{ item.aggression|markdown }}
+      
+    {% endif %}
+
+    {% if item.war_crimes %}
+      
+        <strong>War Crimes</strong><br />
+        {{ item.war_crimes|markdown }}
+      
+    {% endif %}
+  </div>
+  </div>
 {% endif %}
 
 
 
 
 
-<div class="flex-boxesTK">
-  {% set situations = item.situations %}
-
-  {% for situation in situations %}
-  <article class="hentry">
-  
-{% if situation.overview %}
-<h2>Overview</h2>
-{{ situation.overview|safe }}
-
-{% endif %}
-</article>
-{% endfor %}
-
-
-</div>
-
-
-
-<div class="flex-boxes">
-{% for thecase in cases %}
-<div class="flex-box" id="{{ thecase.name|lower|replace(' ', '-') }}" style="background-color:white;">
-  <h3 class="flex-title"><a href="{{ url(thecase) }}">{% if thecase.long_name %}{{ thecase.long_name }}{% else %}{{ thecase.name }}{% endif %}</a></h3>
-
-  {{ thecase.case_status }} 
-  
-
-</div>
-
-{% endfor %}
-
-</div>
 
 
 
 
 
-{% set prev = prevItem(item, 'name') %}
+
+
+
+  {% set prev = prevItem(item, 'name') %}
   {% set next = nextItem(item, 'name') %}
-{% include "templates/partials/prev-next.html" %}
-
+  {% include "templates/partials/prev-next.html" %}
 {% endblock %}

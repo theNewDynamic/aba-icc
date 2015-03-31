@@ -1,119 +1,19 @@
-{# {% if situation.phase == 'Preliminary Examinations: Initial Assessment' %}"#008AE5"
-{% elseif situation.phase == 'Preliminary Examinations: Admissibility Assessment' %}"#004D7F"
-{% elseif situation.phase == 'Preliminary Examinations: Subject Matter Jurisdiction Assessement' %}"#0073BF"
-{% elseif situation.phase == 'Preliminary Examinations: Closed - Decision Not to Proceed' %}"#003354"
-{% elseif situation.phase == 'Situations & Cases' %}"#000"
-{% endif %}
- 
-
-------------
-
-name: phase, x cases +
-brief overview
-
- - long overview
-
-  - cases
-
-------------
-#}
-
-
 {% set countries = cms.country %}
 {% set countries = countries|where('situations') %}
-
-
 {% set preliminary_examinations_color = 'green' %}{% set trials_color = 'black' %}
-
 <div class="flex-boxes list-filter">
-{% for object in countries|sort('name') %}
-{% set situation = object.situations|first %}
-  <div class="flex-box {{ situation.phase|replace(':','', 'g')|replace(' ','-', 'g')|replace('&','', 'g')|lower }}">
-<h1 class="flex-title name" style="position:relative;"><a href="{{ url(object) }}">{{object.name}} <i class="icon-ion-link small" style="color:#c6c6c6;position:absolute;right:3;"></i></a></h1> 
-
-     <small>{{ situation.phase }}</small>
-     
-
-     {% if situation.overview %}
-     <br /><br />
-
-    <a href="javascript:void(0)" class="js-accordion-trigger" style="margin-top:1em;"><small>Overview <i class="icon-down-open" style="color:#ddd;position:absolute;right:3;bottom:3;"></i></small></a>
-        
-            <div class="submenu">
-              
-              {{ situation.overview|safe }}
-            </div>
-          
-{% endif %}
-
-
-  </div>
-{% endfor %}
+  {% for object in countries|sort('name') %}
+    {% set situation = object.situations|first %}
+    <div class="flex-box {{ situation.phase|replace(':','', 'g')|replace(' ','-', 'g')|replace('&','', 'g')|lower }}">
+      <h1 class="flex-title name" style="position:relative;"><a href="{{ url(object) }}">{{object.name}} <i class="icon-ion-link small" style="color:#c6c6c6;position:absolute;right:3;"></i></a></h1> 
+      <small>{{ situation.phase }}</small>
+      {% if situation.overview %}
+        <br /><br />
+        <a href="javascript:void(0)" class="js-accordion-trigger" style="margin-top:1em;"><small>Overview <i class="icon-down-open" style="color:#ddd;position:absolute;right:3;bottom:3;"></i></small></a>        
+        <div class="submenu">              
+          {{ situation.overview|safe }}
+        </div>
+      {% endif %}
+    </div>
+  {% endfor %}
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{# 
-
-{% if object.situations %}
-  
-
-   {% if object.iso_code %}
-
-   "id":"{{ object.iso_code }}",{% endif %}
-
-   "description":"
-
-   {% for situation in object.situations %}
-
-   {% if situation.phase %}
-
-   <p><strong>Phase:</strong> {{ situation.phase }}</p>
-
-   {% endif %}
-
-   {% if situation.brief_summary %}
-
-   <p><strong>Overview:</strong> {{ situation.brief_summary }}</p>
-
-   {% endif %}
-
-   {% if situation.link_to_more_information %}
-
-   {% autoescape 'js' %}
-   <br /><a href='{{ situation.link_to_more_information }}' target='_blank'>Source</a>{% endautoescape %}
-
-   {% endif %}
-
-   {% endfor %}
-        {% if object.name %}
-        {{ object.name }}
-
-        {% endif %}
-
-{% set situation = object.situations|first %}
-
-
-
-
-
-
-
-
-
-  {% endif %} #}

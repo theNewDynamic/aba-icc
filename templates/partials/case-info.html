@@ -1,38 +1,49 @@
 
     <li>
-      <h1><small>Accused</small><br /><a href="{{ url(row.accused) }}">{{ row.accused.name }}</a></h1>
+    {% if row.accused.image %}
+  <img src="{{ row.accused.image|imageCrop(200, 200)}}" width="180" height="180" style="float:left;margin:.5em 1em 1em 0;">
+  
+{% endif %}  <h1><small>Accused</small><br /><a href="{{ url(row.accused) }}">{{ row.accused.name }}</a>
+<br /><small>{{ row.accused.title }}</small>
+</h1>
     </li>
-    <li>
-      <h5>Charges Status</h5>
-      {{ row.charges_status }}
+
+
+
+
+    <li style="width:100%;clear:both;margin-top:3em;">
+      <h3>Status of Case</h3>
+      <h5>{{ row.charges_status }}</h5>
     </li>
+
+
     {% if row.date_summonses %}
     <li>
       <strong>Date Summonses: </strong>
-        {{ row.date_summonses|date('F d Y') }}
+        {{ row.date_summonses|date('j F Y') }}
     </li>
     {% endif %}
     {% if row.date_of_initial_appearance %}
     <li>
       <strong>Date of Initial Appearance: </strong>
-        {{ row.date_of_initial_appearance|date('F d Y') }}
+        {{ row.date_of_initial_appearance|date('j F Y') }}
     </li>
     {% endif %}
     {% if row.date_of_confirmation_of_charges %}
     <li>
       <strong>Date of Confirmation of Charges: </strong>
-        {{ row.date_of_confirmation_of_charges|date('F d Y') }}
+        {{ row.date_of_confirmation_of_charges|date('j F Y') }}
     </li>
     {% endif %}
     {% if row.charges %}
     <li>
-      <h5>Charges</h5>
+      <h3>Charges</h3>
       {{ row.charges|safe }}
     </li>
     {% endif %}
     {% if row.factual_allegations %}
     <li>
-      <strong>Factual Allegations: </strong>
+      <h3>Factual Allegations: </h3>
       {{ row.factual_allegations|safe }}
     </li>
     {% endif %}

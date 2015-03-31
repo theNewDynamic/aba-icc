@@ -28,6 +28,16 @@ $sidebar-right-color: $light-gray !default;
       color: $sidebar-right-color;
       background: $sidebar-right-color-background;
       //font-family: $heading-font-family;
+      h2 {
+        color: darken($light-gray, 15%);
+        margin-bottom: .125em;
+        margin-top: .125em;
+      }
+      h2 small {
+        font-weight: 300;
+        line-height: 1.1;
+        margin-bottom: 0; //probably should use a class name for this, huh
+      }
       // Styles      
       section {
           padding:1.5em 0;
@@ -35,7 +45,7 @@ $sidebar-right-color: $light-gray !default;
             padding: 0 1.5em;
           }
           p {
-            font-size: .85em;
+            font-size: .9375em;
             font-weight: 200;
             color: darken($sidebar-right-color, 15%);
           }
