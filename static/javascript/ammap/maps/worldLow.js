@@ -660,7 +660,7 @@ AmCharts.maps.worldLow={
 				},
 				{
 					"id":"PS",
-					"title":"Palestinian Territories",
+					"title":"Palestine",
 					"d":"M574.92,367.87L574.92,369.88L574.5,370.84L573.18,371.29L573.31,370.43L574.02,369.97L573.32,369.61L573.9,367.41z"
 				},
 				{
