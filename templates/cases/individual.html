@@ -49,13 +49,17 @@
     <h1>{% if item.long_name %}{{ item.long_name }}{% else %}{{ item.name }}{% endif %}</h1>
   </div>
  #}
+
+ <div class="has-layout row ">
+ <h1>{% if item.long_name %}{{ item.long_name }}{% else %}{{ item.name }}{% endif %}</h1>
+ </div>
   <article class="hentry">
-  <h1>{% if item.long_name %}{{ item.long_name }}{% else %}{{ item.name }}{% endif %}</h1>
-  <ul>
+  {# <h1>{% if item.long_name %}{{ item.long_name }}{% else %}{{ item.name }}{% endif %}</h1> #}
+  
     {% for row in item.charges %}
       {% include "templates/partials/case-info.html" %}
     {% endfor %}
-  </ul>
+  
       <ul>      
       {% if item.events  %}
       <li>

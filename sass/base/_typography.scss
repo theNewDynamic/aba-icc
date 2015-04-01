@@ -35,6 +35,8 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: $base-font-size * 1.75; // 16 * 1.75 = 28px
+  color: $blue-dark;
+  margin: 1.5em auto .75em auto;
 }
 
 h4, .h4 {

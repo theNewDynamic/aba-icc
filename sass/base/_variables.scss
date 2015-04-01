@@ -53,6 +53,7 @@ $light-green: #E6EFC2;
 $red: #b23e3a;
 $black: #191919;
 $white:#fafafa;
+$green:#7EB1A8;
 
 $partyToTheRomeStatute: #074b7b;
 $signedbutNotRatified: #6fa4c7;
@@ -85,7 +86,7 @@ $base-accent-color: saturate($blue, 30);
 $action-color: $blue;
 
 //  Text Link Colors
-$base-link-color: $base-accent-color;
+$base-link-color: $green;//$base-accent-color;
 $hover-link-color: darken($base-accent-color, 15);
 
 $base-button-color: $base-link-color;

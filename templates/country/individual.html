@@ -5,8 +5,9 @@
 {% endblock %}
 
 {% block sideMenu %}
+  
   {% set local_menu_dropdown = cms.country|where('situations')|sort('name') %}
-  {% set local_menu_dropdown_label = 'Situation Countries' %}
+  {% set local_menu_dropdown_label = 'Situation & Preliminary Examination Countries' %}
   {% set country = item.name  %}
   {% set local_menu = item.cases_country %}
   {% parent %}
@@ -29,13 +30,17 @@
     </ul>
   </div>
 
-  {% set situation = item.situations|first %}
-  {% if situation.phase %}
+  {% set situations = item.situations %}
+  {% if situations %}
+
     <div class="has-layout row row-bottom-next small">
       <ul class="inline-block" style="margin:0;padding:0;">
-        <li><strong>Phase:</strong> {{ situation.phase }}</li>
+      {% for phase in situations %}
+        <li><strong>Phase:</strong> {{ phase.phase }} {% if loop.index == 2 %}II{% endif %}{% if loop.index == 3 %}III{% endif %}</li>
+        {% endfor %}
       </ul>
     </div>
+  
   {% endif %}
 
 
@@ -61,14 +66,15 @@
     {% for situation in situations %}
       <article class="hentry">
         {% if situation.overview %}
-          <h2>Overview</h2>
+          <h2>Overview{% if loop.index == 2 %}, situation II{% endif %}{% if loop.index == 3 %}, situation III{% endif %}</h2>
           {{ situation.overview|safe }}
         {% endif %}
       </article>
     {% endfor %}
   </div>
 
-  <div class="flex-boxes">
+{% if cases %}<div class="has-layout"><h4>Cases <small style="font-size:.625em;">click through for details</small></h4></div>{% endif %}
+  <div class="flex-boxes">  
     {% for thecase in cases %}
       <div class="flex-box" id="{{ thecase.name|lower|replace(' ', '-') }}" style="background-color:white;">
         <h3 class="flex-title"><a href="{{ url(thecase) }}">{% if thecase.long_name %}{{ thecase.long_name }}{% else %}{{ thecase.name }}{% endif %}</a></h3>
@@ -77,53 +83,29 @@
     {% endfor %}
   </div>
 
-
 {% if item.genocide || item.crimes_against_humanity || item.aggression || item.war_crimes %}
   <div class="timeline">
     <div class="full-width-bar">
-    <h3>Domestic Atrocity Crime Legislation</h3>
-    {% if item.genocide %}
-      
+      <h3>Domestic Atrocity Crime Legislation</h3>
+      {% if item.genocide %}      
         <strong>Genocide</strong><br />
         {{ item.genocide|markdown }}
-    
-    {% endif %}
-    
-    {% if item.crimes_against_humanity %}
-      
+      {% endif %}    
+      {% if item.crimes_against_humanity %}      
         <strong>Crimes against Humanity</strong><br />
-        {{ item.crimes_against_humanity|markdown }}
-      
-    {% endif %}
-
-    {% if item.aggression %}
-      
+        {{ item.crimes_against_humanity|markdown }}      
+      {% endif %}
+      {% if item.aggression %}      
         <strong>Aggression</strong><br />
-        {{ item.aggression|markdown }}
-      
-    {% endif %}
-
-    {% if item.war_crimes %}
-      
+        {{ item.aggression|markdown }}      
+      {% endif %}
+      {% if item.war_crimes %}      
         <strong>War Crimes</strong><br />
-        {{ item.war_crimes|markdown }}
-      
-    {% endif %}
-  </div>
+        {{ item.war_crimes|markdown }}      
+      {% endif %}
+    </div>
   </div>
 {% endif %}
-
-
-
-
-
-
-
-
-
-
-
-
 
   {% set prev = prevItem(item, 'name') %}
   {% set next = nextItem(item, 'name') %}
