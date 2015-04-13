@@ -43,6 +43,23 @@
 }
 
 
+.box { //similar to full-width-bar, but less padding
+  width:100%;
+  background-color: $white;  
+  background-color: rgba(255,255,255,0.7);
+  padding: 1em;
+  margin-bottom: 1em;
+
+  h4, h3 {
+    margin: .5em 0 .75em 0;
+  }
+
+@include media($large-screen) {
+  padding:2em 2em;
+}
+}
+
+
 .heading h1 {
 text-align: center;
   }

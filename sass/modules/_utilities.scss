@@ -3,6 +3,9 @@ hr {
   border: 0;
   border-top: 1px solid darken($base-background-color, 1%);
 }
+hr.large-space {
+  margin:3em auto;
+}
 
 hr.section-divider {
   border-top:none;

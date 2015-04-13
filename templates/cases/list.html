@@ -13,7 +13,7 @@
 {# Confused what extends and blocks do? Watch a primer: #}
 {# http://www.webhook.com/docs/template-inheritance-blocks/ #}
 {% extends "templates/partials/base.html" %}
-<article class="hentry">
+
 {# This sets our page <title>. It will append cases to the site title defined in base.html #}
 {% block title %}{% parent %} - cases{% endblock %}
 
@@ -27,7 +27,7 @@
   {% set data = data|sort('publish_date', true) %}
 
   {# This is how you set pagination. It's always important to do this after your sort. #}
-  
+  {% set data = paginate(data, 5) %}
 
   <h1>List of cases</h1>
 
@@ -39,6 +39,6 @@
   </ul>
 
   {# The actual pagination template, feel free to edit or replace the default one. #}
-  
-</article>
+  {% include "templates/partials/paginator.html" %}
+
 {% endblock %}

@@ -1,13 +1,25 @@
 {% extends "templates/abouttheicc/base.html" %}
 {# This sets our page <title>. It will append this accused's name to the site title defined in base.html #}
 {% block title %}{% parent %} - {{ item.name }}{% endblock %}
+
+{% block sideMenu %}
+  {% set local_menu_dropdown = cms.country|where('situations')|sort('name') %}
+  {% set local_menu_dropdown_label = 'Situation & Preliminary Examination Countries' %}
+  {% set country = item.country  %}
+  {% set local_menu = cms.cases|where('country', country) %}
+  {% parent %}
+{% endblock %}
 {% block content %}
   
-  <div class="has-layout row row-bottom-next">
+  <div class="has-layout row row-bottom-next small">
     <ul class="inline-block">
+    {% if item.country %}
+    <li><strong>Country: </strong><a href="{{ url(item.country) }}">{{ item.country.name }}</a></li>
+    {% endif %}
+
       {% if item.cases_accused %}
         <li>
-          <strong>Cases: </strong>
+          <strong>Case{% if item.cases_accused.length > 1 %}s{% endif %}: </strong>
           {% for relation in item.cases_accused %}
             <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
           {% endfor %}
@@ -16,23 +28,32 @@
     </ul>
   </div>
 
-  <article class="hentry">
-    
-    {% for relation in item.cases_accused %}
-      {% set charges = relation.charges %}      
-        <ul>
+<article class="hentry">
+
+
+  {% for relation in item.cases_accused %}
+  <div class="flex-boxes-small">
+  {% set charges = relation.charges %}   
+      <div class="flex-box">
+        <h2><a href="{{ url(relation) }}">{{ relation.name }}</a></h2>
           {% for row in charges %}
-          {% if row.accused._id == item._id %}
-            {% include "templates/partials/case-info.html" %}
+            {% if row.accused._id == item._id %}
+              {% include "templates/partials/format-charges-status.html" %}
             {% endif %}
           {% endfor %}
-        </ul>
-      
-      {% endfor %}
-  
-  </article>
 
-  <div class="has-layout row row-bottom">
+        {% include "templates/partials/accused-events.html" %}
+        {% for row in charges %}
+          {% if row.accused._id == item._id %}
+            {% include "templates/partials/format-case-charges.html" %}
+          {% endif %}
+        {% endfor %}
+      </div>
+      </div>
+  {% endfor %}
+
+</article>
+  <div class="has-layout row row-bottom small">
     <ul class="inline-block">
       {% if item.image_credit  %}
         <li>

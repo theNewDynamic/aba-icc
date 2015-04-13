@@ -2,17 +2,15 @@
 
 {% block sideMenu %}
   {% set local_menu_dropdown = cms.country|where('situations')|sort('name') %}
-  {% set local_menu_dropdown_label = 'Situation Countries' %}
+  {% set local_menu_dropdown_label = 'Situation & Preliminary Examination Countries' %}
   {% set country = item.country  %}
   {% set local_menu = cms.cases|where('country', country) %}
   {% parent %}
 {% endblock %}
 
-
-
-
 {% block content %}
-  <div class="has-layout row row-bottom-next">
+{# ROWS ON TOP OF PAGE #}
+  <div class="has-layout row row-bottom-next small">
     <ul class="inline-block">
       <li>
         <strong>Country: </strong>
@@ -30,62 +28,54 @@
         {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
         {{ item.trial_opening|date('j F Y') }}
       </li>
-      {% endif %}
-      
-       {% if item.note %}
-      <li class="small">
-        (<em>{{ item.note }}</em>)
-      </li>
+      {% endif %}      
+      {% if item.note %}
+        <li class="small">
+          (<em>{{ item.note }}</em>)
+        </li>
       {% endif %}
     </ul>
   </div>
-  <div class="has-layout row row-bottom">
+  <div class="has-layout row row-bottom small">
     <ul class="inline-block" style="margin:0;padding:0;">
       <li><small><em>Page last updated:  {{ item.last_updated|date('j F Y') }}</em></small></li>
     </ul>
   </div>
-
-  {# <div class="has-layout row">
-    <h1>{% if item.long_name %}{{ item.long_name }}{% else %}{{ item.name }}{% endif %}</h1>
-  </div>
- #}
-
- <div class="has-layout row ">
- <h1>{% if item.long_name %}{{ item.long_name }}{% else %}{{ item.name }}{% endif %}</h1>
+ <div class="has-layout row small">
+  <h1>{% if item.long_name %}{{ item.long_name }}{% else %}{{ item.name }}{% endif %}</h1>
  </div>
+ {# //END ROWS ON TOP OF PAGE #}
+  {% for thecase in cases %}    
+    <h3 class="flex-title">
+      <a href="{{ url(thecase) }}">
+        {% if thecase.long_name %}{{ thecase.long_name }}{% else %}{{ thecase.name }}{% endif %}
+      </a>
+    </h3>
+    {{ thecase.case_status }} 
+  {% endfor %}
+  
   <article class="hentry">
-  {# <h1>{% if item.long_name %}{{ item.long_name }}{% else %}{{ item.name }}{% endif %}</h1> #}
-  
+  <div class="flex-boxes-small">
     {% for row in item.charges %}
-      {% include "templates/partials/case-info.html" %}
-    {% endfor %}
-  
-      <ul>      
-      {% if item.events  %}
-      <li>
-        <strong>Events: </strong>
-        {# Loop of your Repeatable Form items. Remember, you can sort the order in your CMS if you need. #}
-        <ul>
-        {% for row in item.events %}
-            <li>
-              <strong>Event: </strong>
-              {{ row.event }}
-            </li>
-            <li>
-              <strong>Event Date: </strong>
-              {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
-                {{ row.event_date|date('j F Y') }}
-            </li>
-            <li>
-              <strong>Description: </strong>
-              {{ row.description|safe }}
-            </li>
-        {% endfor %}
-        </ul>
-      </li>
-      {% endif %}
-      
-      
-  </ul>
+      <div class="flex-box" id="{{ thecase.name|lower|replace(' ', '-') }}" style="min-width:100%;">
+        {% include "templates/partials/format-case-info.html" %}
+      </div>
+    {% endfor %}    
+    </div>
   </article>
+
+  {% if item.events %}
+    <div class="flex-boxes-small">  
+      {% for row in item.events %}
+        <div class="flex-box" id="{{ thecase.name|lower|replace(' ', '-') }}">
+          {% include "templates/partials/format-case-events.html" %}
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+
+
+
+
 {% endblock %}

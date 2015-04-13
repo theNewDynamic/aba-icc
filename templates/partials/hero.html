@@ -1,20 +1,18 @@
 <div class="hero background-fixed featured_image{% if item.image %} image{% endif %}">
   <div class="hero-inner">
-
     <div class="hero-copy">
-  <h1>{% if item.name %}{{ item.name }}{% else %}{{ item._type }}{% endif %}{% if item._type == 'country' %} <img src="/static/images/countries/{{ item.iso_code }}.svg">{% endif %}
-{% if item.title %}<br /><small> {{ item.title }}</small>{% endif %}
-  </h1>
-
-
-  {% if item.image %}
-    <img src="{{ item.image|imageCrop(200, 200)}}" class="image-single" width="200" height="200">
-  {% endif %}
-
-
-    </div>
-
-
+      {% if item.image %}
+        <img src="{{ item.image|imageCrop(200, 200)}}" class="image-single" style="float:left;width:22%;margin-right:2%;">
+        <div style="float:left;width:75%;">
+      {% else %}
+        <div>
+      {% endif %}
+    <h1>
+      {% if item.name %}{{ item.name }}{% else %}{{ item._type }}{% endif %}{% if item._type == 'country' %} <img src="/static/images/countries/{{ item.iso_code }}.svg">{% endif %}
+      {% if item.title %}<br /><small> {{ item.title }}</small>{% endif %}
+    </h1>
+  </div>
+</div>
 {% if item.charges %}
 <div class="images images-{{item.charges.length}}" style="width;100%;clear:both;height:400px;margin-bottom:3em;">
   {% for row in item.charges %}
@@ -32,8 +30,5 @@
   {% endfor %}
   </div>
 {% endif %}
-
-
-
   </div>
 </div>

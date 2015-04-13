@@ -156,6 +156,9 @@ a {
 }
 
 @include media($medium-screen-up) {
+.text-left{
+  text-align:left;
+}
 .text-left h1{
   text-align:left;
 }

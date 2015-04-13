@@ -1,0 +1,15 @@
+<ul>
+  {% if row.date_summonses %}
+    <strong>Date Summonses: </strong>
+    <li>{{ row.date_summonses|date('j F Y') }}</li>
+  {% endif %}
+  {% if row.date_of_initial_appearance %}
+    <strong>Date of Initial Appearance: </strong>
+    <li>{{ row.date_of_initial_appearance|date('j F Y') }}</li>
+  {% endif %}
+  {% if row.date_of_confirmation_of_charges %}
+    <strong>Date of Confirmation of Charges: </strong>
+    <li> {{ row.date_of_confirmation_of_charges|date('j F Y') }}</li>
+  {% endif %}
+</ul>
+

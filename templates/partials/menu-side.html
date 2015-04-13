@@ -37,7 +37,7 @@
   </ul>
 {% endif %}
 
-{% if item._type == 'cases' || item._type == 'country' %}
+{% if item._type == 'cases' || item._type == 'country' || item._type == 'accused'  %}
 {# <ul class="nav-sidebar accordion"> WIP TRYING TO SEPERATE SITUAATION COUNTRIES FROM PE COUNTRIES
     <li class="nav-sidebar-item"><a href="javascript:void(0)" class="js-accordion-trigger menu-item{% if getCurrentUrl() == url(page) %} active{% endif %}">Situation Countries. +</a>
       <ul class="submenu">
@@ -62,7 +62,7 @@
 
 {# if local_menu is show items are shown on page PAGE LEVEL SUB CONTENT #}
 {% if local_menu %} 
-  {% if item._type == 'cases' || item._type == 'country' %}
+  {% if item._type == 'cases' || item._type == 'country' || item._type == 'accused' %}
   {# if cases or country you must set the country name or use item.name in your template #}
     <header style="padding-left:1.5em;">
       <h5 style="margin-bottom:.5em;"><a href="{{ url(country) }}">Cases in {% if country.name %}{{ country.name }}{% else %}{{ item.name }}{% endif %}</a></h5>

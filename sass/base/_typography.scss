@@ -56,6 +56,10 @@ h6, .h6{
   font-size: $base-font-size;
 }
 
+.has-layout h1, .has-layout h2, .has-layout h3 {
+  color: $blue-dark;
+} 
+
 p {
   margin: 0 0 $small-spacing;
 }
@@ -124,4 +128,8 @@ article.hentry p,
 
 .small {
   font-size: .875em;
+}
+
+.strong {
+  font-weight: bold;
 }
