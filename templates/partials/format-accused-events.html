@@ -1,4 +1,4 @@
-<h5>{{ event.event }}: {{ event.event_date|date('j F Y') }}</h5>
+<h5>{{ event.event }}{% if event.event_date %}: {{ event.event_date|date('j F Y') }}{% endif %}</h5>
   {% if event.description %}
     {{ event.description|safe }}
   {% endif %}
