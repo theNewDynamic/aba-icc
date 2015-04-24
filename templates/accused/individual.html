@@ -14,9 +14,8 @@
   <div class="has-layout row row-bottom-next small">
     <ul class="inline-block">
     {% if item.country %}
-    <li><strong>Country: </strong><a href="{{ url(item.country) }}">{{ item.country.name }}</a></li>
+      <li><strong>Country: </strong><a href="{{ url(item.country) }}">{{ item.country.name }}</a></li>
     {% endif %}
-
       {% if item.cases_accused %}
         <li>
           <strong>Case{% if item.cases_accused.length > 1 %}s{% endif %}: </strong>
@@ -29,27 +28,24 @@
   </div>
 
 <article class="hentry">
-
-
   {% for relation in item.cases_accused %}
   <div class="flex-boxes-small">
   {% set charges = relation.charges %}   
-      <div class="flex-box">
-        <h2><a href="{{ url(relation) }}">{{ relation.name }}</a></h2>
-          {% for row in charges %}
-            {% if row.accused._id == item._id %}
-              {% include "templates/partials/format-charges-status.html" %}
-            {% endif %}
-          {% endfor %}
-
-        {% include "templates/partials/accused-events.html" %}
+    <div class="flex-box">
+      <h2><a href="{{ url(relation) }}">{{ relation.name }}</a></h2>
+        {% for row in charges %}
+          {% if row.accused._id == item._id %}
+            {% include "templates/partials/format-charges-status.html" %}
+          {% endif %}
+        {% endfor %}        
         {% for row in charges %}
           {% if row.accused._id == item._id %}
             {% include "templates/partials/format-case-charges.html" %}
           {% endif %}
         {% endfor %}
+        {% include "templates/partials/accused-events.html" %}
       </div>
-      </div>
+    </div>
   {% endfor %}
 
 </article>
