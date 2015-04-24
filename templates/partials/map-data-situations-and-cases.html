@@ -4,7 +4,7 @@
 
 "areas": [
   {% for object in countries %}
-  { {% if object.iso_code %}"id":"{{ object.iso_code }}",{% endif %}"description":"{% for situation in object.situations %}{% if situation.phase %}{% autoescape 'js' %}<p><strong>Phase:</strong> {{ situation.phase }}</p>{% endautoescape %}{% endif %}{% if situation.brief_summary %}{% autoescape 'js' %}<p><strong>Overview:</strong> {{ situation.brief_summary }}{% endautoescape %}</p>{% endif %}{% if situation.link_to_more_information %}{% autoescape 'js' %}<br /><a href='{{ situation.link_to_more_information }}' target='_blank'>Source</a>{% endautoescape %}{% endif %}<hr />{% endfor %}<br /><a href='{{ url(object) }}'>(country page)</a>",
+  { {% if object.iso_code %}"id":"{{ object.iso_code }}",{% endif %}"description":"{% for situation in object.situations %}{% if situation.phase %}{% autoescape 'js' %}<p><strong>Phase:</strong> {{ situation.phase }}</p>{% endautoescape %}{% endif %}{% if situation.brief_summary %}{% autoescape 'js' %}<p><strong>Overview:</strong> {{ situation.brief_summary }}{% endautoescape %}</p>{% endif %}{% if situation.link_to_more_information %}{% autoescape 'js' %}<br /><a href='{{ situation.link_to_more_information }}' target='_blank'>{# Source #}</a>{% endautoescape %}{% endif %}<hr />{% endfor %}<br /><a href='{{ url(object) }}'>(Country Page)</a>",
         {% if object.name %}{% autoescape 'js' %}"title": "{{ object.name }}"{% endautoescape %},{% endif %}
 {% set situation = object.situations|first %}
 {% autoescape 'js' %}
