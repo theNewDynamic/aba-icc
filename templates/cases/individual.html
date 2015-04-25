@@ -41,38 +41,25 @@
       <li><small><em>Page last updated:  {{ item.last_updated|date('j F Y') }}</em></small></li>
     </ul>
   </div>
- <div class="has-layout row small">
-  <h1>{% if item.long_name %}{{ item.long_name }}{% else %}{{ item.name }}{% endif %}</h1>
- </div>
- {# //END ROWS ON TOP OF PAGE #}
-  {% for thecase in cases %}    
-    <h3 class="flex-title">
-      <a href="{{ url(thecase) }}">
-        {% if thecase.long_name %}{{ thecase.long_name }}{% else %}{{ thecase.name }}{% endif %}
-      </a>
-    </h3>
-    {{ thecase.case_status }} 
-  {% endfor %}
-  
-  <article class="hentry">
-  <div class="flex-boxes-small">
-    {% for row in item.charges %}
-      <div class="flex-box" id="{{ thecase.name|lower|replace(' ', '-') }}" style="min-width:100%;">
-        {% include "templates/partials/format-case-info.html" %}
-      </div>
-    {% endfor %}    
-    </div>
-  </article>
+   {# //END ROWS ON TOP OF PAGE #}
+  <div class="has-layout row small">
+    <h1>{% if item.long_name %}{{ item.long_name }}{% else %}{{ item.name }}{% endif %}</h1>
+  </div>
 
-  {% if item.events %}
-    <div class="flex-boxes-small">  
-      {% for row in item.events %}
-        <div class="flex-box" id="{{ thecase.name|lower|replace(' ', '-') }}">
-          {% include "templates/partials/format-case-events.html" %}
-        </div>
-      {% endfor %}
-    </div>
-  {% endif %}
+
+  {% set case_id = item._id %}
+
+  <div class="has-layout">
+    <article>
+      {% for accused in cms.accused %}
+        {% for charge in accused.charges %}          
+            {% if charge.related_case._id == case_id %}
+              {% include "templates/partials/format-cases-listing-accused.html" %}              
+            {% endif %}
+        {% endfor %}      
+      {% endfor %}      
+    </article>
+  </div>
 
 
 

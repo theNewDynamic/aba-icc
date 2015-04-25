@@ -1,8 +1,4 @@
 .accordion {  
-
-  .bud {
-    display: none;
-  }
   
   ul.submenu {
     display: none;
@@ -10,4 +6,33 @@
   .is-expanded {
     display: block;
   }
+}
+
+
+.has-layout .accordion {  
+
+  margin: 1em 0;
+ 
+  ul.submenu {
+    padding-bottom:0;
+  }
+  
+  li {
+    padding-left:0;
+    margin-bottom: 1em;    
+  }
+
+  .submenu {
+    font-size:.9375em;
+    li {
+      margin-bottom: 1.5em;  
+    }
+    .flex-title {
+      margin-bottom: 0;
+    }
+    p {
+      margin-top:0;
+    }
+  }
+  
 }

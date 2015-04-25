@@ -1,0 +1,17 @@
+{% if charge.charges || charge.factual_allegations %}  
+  <ul class="accordion">
+    <li>
+      <a href="javascript:void(0)" class="js-accordion-trigger flex-title"><h6>Charges & Allegations {% include "templates/partials/icon-arrow-down.html" %}</h6></a>
+      <ul class="submenu">
+      {% if charge.factual_allegations %}  
+          <strong>Factual Allegations:</strong>
+          {{ charge.factual_allegations|safe }}
+        {% endif %}
+        {% if charge.charges %}  
+          <strong>Charges:</strong>
+          {{ charge.charges|safe }} 
+        {% endif %}              
+      </ul>
+    </li>
+  </ul>
+{% endif %}

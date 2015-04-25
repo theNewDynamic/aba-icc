@@ -54,6 +54,7 @@ h5, .h5 {
 
 h6, .h6{
   font-size: $base-font-size;
+  margin:.5em 0;
 }
 
 .has-layout h1, .has-layout h2, .has-layout h3 {
@@ -114,7 +115,7 @@ picture {
 
 article.hentry p,
 .wf-active article.hentry p {
-  font-size: 1.0625em;
+  //font-size: 1.0625em;
   line-height: $unitless-line-height * 1.1;
 
     a {
@@ -126,10 +127,14 @@ article.hentry p,
   color: $red;
 }
 
-.small {
+small, .small {
   font-size: .875em;
 }
 
 .strong {
   font-weight: bold;
+}
+
+.red {
+  color: $red;
 }

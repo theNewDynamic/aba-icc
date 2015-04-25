@@ -26,29 +26,27 @@
       {% endif %}
     </ul>
   </div>
+{# // END TOP ROW #}
 
-<article class="hentry">
-  {% for relation in item.cases_accused %}
-  <div class="flex-boxes-small">
-  {% set charges = relation.charges %}   
-    <div class="flex-box">
-      <h2><a href="{{ url(relation) }}">{{ relation.name }}</a></h2>
-        {% for row in charges %}
-          {% if row.accused._id == item._id %}
-            {% include "templates/partials/format-charges-status.html" %}
-          {% endif %}
-        {% endfor %}        
-        {% for row in charges %}
-          {% if row.accused._id == item._id %}
-            {% include "templates/partials/format-case-charges.html" %}
-          {% endif %}
-        {% endfor %}
-        {% include "templates/partials/accused-events.html" %}
-      </div>
-    </div>
-  {% endfor %}
+  <div class="has-layout">
+    <article>
+      {% for charge in item.charges %}      
+        <div class="full-width-bar">
+          <h2 class="h3 m0">
+            <a href="{{ url(charge.related_case) }}">{{ charge.related_case.name }}</a>
+          </h2>
+          <h6>{# Status of Case:  #}
+            <span class="red">
+              {% include "templates/partials/format-accused-charges-status.html" %}
+            </span>
+          </h6>
+          {% include "templates/partials/format-accused-charges.html" %}
+          {% include "templates/partials/format-accused-events.html" %}
+        </div>            
+      {% endfor %}      
+    </article>
+  </div>
 
-</article>
   <div class="has-layout row row-bottom small">
     <ul class="inline-block">
       {% if item.image_credit  %}
