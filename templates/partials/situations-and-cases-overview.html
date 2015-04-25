@@ -1,0 +1,48 @@
+{% set countries = cms.country %}
+{% set countries = countries|where('situations') %}
+{% set preliminary_examinations_color = 'green' %}{% set trials_color = 'black' %}
+
+  {% for object in countries|sort('name') %}
+    {% set situation = object.situations|first %}
+    <div class="full-width-bar">
+      <div class="grid">
+        <div class="left-side-wide">  
+          <h2>
+            <a href="{{ url(object) }}">
+              {{object.name}}
+            </a>
+          </h2>           
+          <small>
+            {{ situation.phase }}
+          </small>
+          <hr />
+          {% if object.cases_country %}
+            {% for cases in object.cases_country %}
+            {% set case_id = cases._id %}
+              <ul>
+                <li>
+                  <strong><a href="{{ url(cases) }}">{{ cases.name }}</a></strong>        
+                  {% if cases.case_status %}
+                    <br /><small>{{ cases.case_status }}</small>
+                  {% endif %}
+                  <ul>
+                    {% for accused in cms.accused %}
+                      {% for charge in accused.charges %}          
+                        {% if charge.related_case._id == case_id %}
+                          <li><a href="{{ url(accused) }}">{{ accused.name }}</a></li>
+                        {% endif %}
+                      {% endfor %}      
+                    {% endfor %}      
+                  </ul>
+                </li>
+              </ul>
+            {% endfor %}
+          {% endif %}
+        </div>
+        <div class="right-side-narrow" style="padding-top:.5em;">
+          {% set accordion = false %}
+            {% include "templates/partials/format-situation-overview.html" with accordion %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}

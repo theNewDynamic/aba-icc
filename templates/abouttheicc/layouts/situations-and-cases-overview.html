@@ -1,0 +1,15 @@
+{% extends "templates/abouttheicc/base.html" %}
+
+{% block sideMenu %}
+  {% parent %}
+{% endblock %}
+
+{% block content %}
+  <div class="has-layout">
+    <article>
+    {% include "templates/partials/situations-and-cases-overview.html" %}
+    </article>
+  </div>
+{% endblock %}
+
+
