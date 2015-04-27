@@ -3,7 +3,7 @@
 {% set preliminary_examinations_color = 'green' %}{% set trials_color = 'black' %}
 
   {% for object in countries|sort('name') %}
-    {% set situation = object.situations|first %}
+    {# {% set situation = object.situations|first %} #}
     <div class="full-width-bar">
       <div class="grid">
         <div class="left-side-wide">  
@@ -11,10 +11,14 @@
             <a href="{{ url(object) }}">
               {{object.name}}
             </a>
-          </h2>           
-          <small>
-            {{ situation.phase }}
-          </small>
+          </h2>   
+          {% for situation in object.situations %}
+          {% if loop.index == 2 %}<h6>Situation II</h6>{% endif %}{% if loop.index == 3 %}<h6>Situation III</h6>{% endif %}
+            <small>
+              {{ situation.phase }}
+            </small>
+          {% endfor %}
+
           <hr />
           {% if object.cases_country %}
             {% for cases in object.cases_country %}
@@ -41,7 +45,11 @@
         </div>
         <div class="right-side-narrow" style="padding-top:.5em;">
           {% set accordion = false %}
+          {% for situation in object.situations %}
+            {% if loop.index == 2 %}<h5>Situation II</h5>{% endif %}{% if loop.index == 3 %}<h5>Situation III</h5>{% endif %}
+            {% if situation.brief_summary %}{{ situation.brief_summary }}{% endif %}
             {% include "templates/partials/format-situation-overview.html" with accordion %}
+            {% endfor %}
         </div>
       </div>
     </div>
