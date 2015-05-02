@@ -44,7 +44,7 @@
           {% endif %}
         </div>
         <div class="right-side-narrow" style="padding-top:.5em;">
-          {% set accordion = false %}
+          {% set accordion = false %} {# so we can use the same overview code without the accordion hiding action #}
           {% for situation in object.situations %}
             {% if loop.index == 2 %}<h5>Situation II</h5>{% endif %}{% if loop.index == 3 %}<h5>Situation III</h5>{% endif %}
             {% if situation.brief_summary %}{{ situation.brief_summary }}{% endif %}

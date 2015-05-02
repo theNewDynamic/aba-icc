@@ -14,11 +14,25 @@
   {% else %}
     <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
   {% endif %}
+  
+<script>
+   WebFontConfig = {
+      typekit: { id: 'uor5rqc' }
+   };
+
+   (function(d) {
+      var wf = d.createElement('script'), s = d.scripts[0];
+      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.6/webfont.js';
+      s.parentNode.insertBefore(wf, s);
+   })(document);
+</script>
 
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>{% block title %}{{ global.name }}{% endblock %}</title>
+
+  <link rel='dns-prefetch' href='https://ajax.googleapis.com'>
 
   {% set bust_cache = 'no' %}{# set to yes to generate a time stamp on the css file for cachebusting  #}
   <link href='/static/css/screen.css{% if bust_cache == 'yes' %}?generated={{ current_unix_date }}{% endif %}' rel='stylesheet' type="text/css" />
@@ -56,7 +70,8 @@
 
     </script>
   {% endif %}
-</head>
+
+  </head>
 <body id="container" class="{% if getCurrentUrl() != '/' %}page{% else %}home{% endif %} {{ item._type }}"{% block body_attributes %} data-search-index="true"{% endblock %}>
   <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
     {% include "templates/partials/navigation.html" %}

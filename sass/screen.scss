@@ -7,6 +7,29 @@
 "bower_components/neat/app/assets/stylesheets/neat",
 "base/base";
 
+// html.wf-loading .content, html.wf-loading nav ul li a, html.wf-loading .sidebar-right section header {
+//   opacity: 0;
+//   //background-color: #000;  
+// }
+
+// html.wf-active .content, html.wf-active nav ul li a, html.wf-active .sidebar-right section header{
+//   opacity: 1;
+//   @include transition (all .5s ease-in-out);
+//   //background-color: $base-body-color;
+// }
+
+// html.wf-loading  {
+//   opacity: 0;
+//   //background-color: #000;  
+// }
+
+// html.wf-active {
+//   opacity: 1;
+//   @include transition (all .5s ease-in-out);
+//   //background-color: $base-body-color;
+// }
+
+
 // Vendor
 @import "vendor/font-icons";
 
