@@ -4,6 +4,9 @@ article.hentry, .hentry {
   max-width: 750px;
   overflow: hidden;
   position:relative;
+  p {
+    text-align: justify;
+  }
   header {
     margin-bottom: .5em;
   }
