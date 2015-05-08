@@ -34,7 +34,7 @@
 
   
 
-  {% set bust_cache = 'no' %}{# set to yes to generate a time stamp on the css file for cachebusting  #}
+  {% set bust_cache = 'yes' %}{# set to yes to generate a time stamp on the css file for cachebusting  #}
   <link href='/static/css/screen.css{% if bust_cache == 'yes' %}?generated={{ current_unix_date }}{% endif %}' rel='stylesheet' type="text/css" />
   <link rel="icon" href="/static/images/favicon.ico" type="image/x-icon">
    

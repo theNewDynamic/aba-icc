@@ -1,7 +1,7 @@
 <div class="hero background-fixed featured_image{% if item.image %} image{% endif %}">
   <div class="hero-inner">
     <div class="hero-copy">
-      {% if item.image %}
+      {% if item.imageTK %}
         <img src="{{ item.image|imageCrop(200, 200)}}" class="image-single" style="float:left;width:22%;margin-right:2%;">
         <div style="float:left;width:75%;">
       {% else %}
@@ -13,7 +13,7 @@
     </h1>
   </div>
 </div>
-{% if item.charges %}
+{% if item.chargesTK %}
 <div class="images images-{{item.charges.length}}" style="width;100%;clear:both;height:400px;margin-bottom:3em;">
   {% for row in item.charges %}
     {% if row.accused.image %}
