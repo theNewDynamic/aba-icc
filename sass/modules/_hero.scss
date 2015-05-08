@@ -1,20 +1,4 @@
 .hero {  
-  ///////////////////////////////////////////////////////////////////////////////////
-  $base-border-radius: 3px !default;
-  $base-accent-color: #477DCA !default;
-  $large-screen: em(860) !default;
-  //////////////////////////////////////////////////////////////////////////////////
-
-  $hero-background-top: lighten($sidebar-right-color-background, 5%);//#fff;///#7F99BE; 
-  $hero-background-bottom:$sidebar-right-color-background;// #20392B;
-  $hero-color: white;
-  $gradient-angle: 10deg;
-  //$hero-image: 'https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png';
-  //$hero-image: 'http://www.aba-icc.org/assets/img/Astfeld-023-992x400.jpg';
-$hero-image: '/static/images/icc-building-28.png';
-@include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
-  //background-image: url('http://www.aba-icc.org/assets/img/Astfeld-023-992x400.jpg');
-  //background-color: $sidebar-right-color-background;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -22,37 +6,29 @@ $hero-image: '/static/images/icc-building-28.png';
   height: auto;
   //background-attachment: fixed;
   margin-top: $navigation-height;
-  @include media($large-screen) {
-         
-          margin-top: 0;
-
-
-.images figure {
-    .tilted {
-      @include transform(rotate(3deg));
+  @include media($large-screen) {         
+    margin-top: 0;
+    .images figure {
+      .tilted {
+        @include transform(rotate(3deg));
+      }
+      margin-bottom: 2em;
+      display: inline-block;
+      height: 200px;
+      //box-shadow: 0 13px 50px rgba(0,0,0,0.3);
+      border-radius:1px;
+      width:160px;
+      height:160px;
+      margin:0;
+      figcaption {
+        color: $blue-dark;
+      }
     }
-    margin-bottom: 2em;
-    display: inline-block;
-    height: 200px;
-    //box-shadow: 0 13px 50px rgba(0,0,0,0.3);
-    border-radius:1px;
-    width:160px;
-    height:160px;
-    margin:0;
-    figcaption {
-      color: $blue-dark;
-    }
-}
-
-        }
-
-       
-
+  }
   .hero-logo img {
     height: 4em;
     margin-bottom: 1em;
   }
-
   .hero-inner {
     @include outer-container;
     @include clearfix;
@@ -60,10 +36,9 @@ $hero-image: '/static/images/icc-building-28.png';
     margin: auto;
     padding: 3.5em 1.5em;
     text-align: center;
-height: auto;
-    .hero-copy {
-      text-align: center;
-      
+    height: auto;
+      .hero-copy {
+        text-align: center;      
       h1 {
         //font-size: 1.6em;
         float: left;
@@ -71,12 +46,10 @@ height: auto;
         margin-bottom: 0.5em;
         background-color: rgba(0,0,0,0.4);
         text-align: left;
-
         @include media($large-screen) {
           font-size: 1.8em;
         }
       }
-
       p {
         font-weight: 200;
         line-height: 1.4em;
