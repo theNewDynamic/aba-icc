@@ -54,23 +54,24 @@
 
 
 .full-width-bar {
-  width:100%;
+  //width:100%;
+  width:98%;
   background-color: $white;
   padding: 1em;
-  border-top: $base-border;
-  border-bottom: $base-border;
-  margin-bottom: 1em;
+  //border-top: $base-border;
+  //border-bottom: $base-border;
+  border: $base-border;
+  margin: 1em auto;
+  //margin-bottom: 1em;
   p {
     text-align: justify;
   }
-
   h4, h3 {
     margin: .5em 0 .75em 0;
   }
-
-@include media($large-screen) {
-  padding:3em 5em;
-}
+  @include media($large-screen) {
+    padding:3em 5em;
+  }
 }
 
 
