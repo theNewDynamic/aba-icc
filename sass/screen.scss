@@ -7,31 +7,9 @@
 "bower_components/neat/app/assets/stylesheets/neat",
 "base/base";
 
-// html.wf-loading .content, html.wf-loading nav ul li a, html.wf-loading .sidebar-right section header {
-//   opacity: 0;
-//   //background-color: #000;  
-// }
-
-// html.wf-active .content, html.wf-active nav ul li a, html.wf-active .sidebar-right section header{
-//   opacity: 1;
-//   @include transition (all .5s ease-in-out);
-//   //background-color: $base-body-color;
-// }
-
-// html.wf-loading  {
-//   opacity: 0;
-//   //background-color: #000;  
-// }
-
-// html.wf-active {
-//   opacity: 1;
-//   @include transition (all .5s ease-in-out);
-//   //background-color: $base-body-color;
-// }
-
-
 // Vendor
-@import "vendor/font-icons";
+@import 
+"vendor/font-icons";
 
 //Modules
 @import 
@@ -44,7 +22,6 @@
 "modules/navigation",
 "modules/navigation-side-right",
 "modules/navigation-sidebar",
-//"modules/flex-boxes-home", // HOME PAGE
 "modules/grid-items", // BIO PAGE
 "modules/layouts",
 "modules/flex-boxes", // BIO PAGE
@@ -55,25 +32,6 @@
 "modules/utilities-responsive",
 "modules/utilities-iframes";
 
-//Extras
-//===@import "modules/map";
-
-// OPTIONAL MODULES
-/////"modules/article",
-//"modules/nav-top",
-//=="modules/comments",
-//=="modules/page-splash",
-//=="modules/pager-icons",
-//"modules/layouts",
-//=="modules/cycle-slideshow",
-//=="modules/item-list",
-//=="modules/list-news",
-//=="modules/card",
-//=="modules/sliding-menu-top",
-//=="modules/vertical-timeline",
-//=="modules/headings",
-
-
 body {
  background-color: $base-body-color;
 }
@@ -83,69 +41,3 @@ body {
     padding: 2.125em 0 .375em 9.5em;
 
   }
-
-
-// body.home .content {
-//   //background-color: $sidebar-right-color-background;
-//    background-color: $content-color-background;
-// }
-
-//  li.follow {
-//   text-align: center;
-//   border-radius: 3px;
-//   border: 1px solid darken($base-accent-color, 5%);
-//   padding: .5em 0 .45em 2em;
-//   margin-right: 1em;
-// }
-
-
-// .white {
-//   color: white;
-// }
-
-
-
-// .selected {
-//   background-color: red;
-//   color: black;
-// }
-
-// body.card-timeline blockquote{
-//   display: none;
-// }
-// body.card-timeline article p{
-//   font-size:110%;
-// }
-
-// .bio {
-//   margin-left:0;
-//   margin-right:1em;
-//   display:inline-block;
-//   float:left;
-
-// }
-// .bio img {
-//   //border-radius: 50%;
-//   max-width: 150px;
-//   float: left;
-//   }
- 
-//   article.hentry p{
-// text-align: justify;
-//   }
-
-//   .timeline-background {
-//     padding-top:2em;
-//     background-color:#FFF;
-//     padding-bottom:2em;
-//     margin-bottom:8em;
-//     border-top:1px solid #ccc;
-//     border-bottom:#ccc;
-//   }
-
-// .include {
-//  position: relative;
-//  height:100%;
-//  width: 100%;
-//  background-color: red;
-// }

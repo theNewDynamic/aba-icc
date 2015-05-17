@@ -4,8 +4,8 @@ $lora: lora, $georgia;
 
 // Typography
 ///////////////////////////////////////////////////////////////////////////////
-$sans-serif-embedded: "myriad-pro" ,"Helvetica Neue", Segoe, "Segoe UI", Arial, sans-serif;//$lato;// $helvetica;
-$sans-serif:"myriad-pro" ,"Helvetica Neue", Segoe, "Segoe UI", Arial, sans-serif;//$lato;// $helvetica;
+$sans-serif-embedded: "Helvetica Neue", "Helvetica", Segoe, "Segoe UI", Arial, sans-serif;//$lato;// $helvetica;
+$sans-serif: "Helvetica Neue", "Helvetica", Segoe, "Segoe UI", Arial, sans-serif;//$lato;// $helvetica;
 $serif: Georgia, Baskerville, "Baskerville old face", "Hoefler Text", Garamond, "Times New Roman", serif;//$georgia;
 
 
@@ -14,7 +14,7 @@ $heading-font-family: $sans-serif-embedded;
 
 // Sizes
 // Font Sizes
-$base-font-size: 1em;
+$base-font-size: 0.9375em;
 $h1-font-size: $base-font-size * 2.5;
 $h2-font-size: $base-font-size * 2;
 $h3-font-size: $base-font-size * 1.75;

@@ -45,8 +45,8 @@ $sidebar-right-color: $light-gray !default;
             padding: 0 1.5em;
           }
           p {
-            font-size: .9375em;
-            font-weight: 200;
+            //font-size: .9375em;
+            //font-weight: 300;
             color: darken($sidebar-right-color, 15%);
           }
         }

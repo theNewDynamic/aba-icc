@@ -341,7 +341,21 @@ header.navigation {
       }
     }
 
+    
+
     @include media($horizontal-bar-mode) {
+      display: inline-block;
+      position: fixed;
+      right:10px;
+      width: 16em;
+
+      input {
+        @include box-sizing(border-box);
+        display: block;
+      }
+    }
+
+    @include media($x-large-screen) {
       display: inline-block;
       position: fixed;
       right:140px;
