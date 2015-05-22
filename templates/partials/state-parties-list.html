@@ -7,16 +7,30 @@
     <div class="flex-box{% if object.state_party %} partyToTheRomeStatute{% elseif object.signed_but_not_ratified %} signedbutNotRatified{% else %} notASignatory{% endif %}">
       <h1 class="flex-title name" style="position:relative;"><a href="{{ url(object) }}">{{ object.name }} <i class="icon-ion-link small" style="color:#c6c6c6;position:absolute;right:3;"></i></a></h1> 
         <small>
+         
+
+
          {% if object.date_signed %}
           <strong>Signature</strong><br /> {{ object.date_signed|date('j F Y')  }}
-            {% if object.date_ratified_or_acceded %}
-              <br /><strong>Ratification or Accession</strong><br /> {{ object.date_ratified_or_acceded|date('j F Y') }}
-            {% else %}
+        {% endif %}
+
+
+        {% if object.date_ratified_or_acceded %}
+              <br /><strong>Ratification or Accession</strong><br /> {{ object.date_ratified_or_acceded|date('j F Y') }}            
+        {% endif %}
+
+
+        {% if object.date_signed || object.state_party && not object.date_ratified_or_acceded %}
               <br />Not Ratified or Acceded
-            {% endif %}
-          {% else %}
+         {% endif %}     
+
+
+        
+          {% if not object.state_party && not object.date_signed  %}          
             <br />Not a Signatory
           {% endif %}
+
+
         </small>
 
         {% if object.genocide || object.crimes_against_humanity || object.aggression || object.war_crimes %}
