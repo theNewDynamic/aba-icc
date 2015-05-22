@@ -22,7 +22,7 @@
 "modules/navigation",
 "modules/navigation-side-right",
 "modules/navigation-sidebar",
-"modules/grid-items", // BIO PAGE
+"modules/grid-items", // home PAGE
 "modules/layouts",
 "modules/flex-boxes", // BIO PAGE
 "modules/flex-boxes-small", 
@@ -41,3 +41,38 @@ body {
     padding: 2.125em 0 .375em 9.5em;
 
   }
+
+.gallery {
+  margin-bottom: 3em;
+  @include clearfix;
+  //
+
+}
+.gallery-item {
+  margin: 1em 0; 
+  width: 100%;  
+  background-color: $lightest-gray;
+  border: $base-border;
+  float: left;
+  overflow: visible;  
+  @include media($large-screen) {
+    width: 12rem;
+    margin:1em 1.5em 1em 0;
+    height: 18.75rem;
+  }
+  img {
+    width: 100%;
+    @include media($large-screen) {
+      //margin: 0 -1.25em 0 -.625em;
+      width: 12rem;
+    }
+  }
+  p{
+    text-align: center;
+    padding:.625em;
+    margin-bottom: 0;
+    @include media($large-screen) {
+      float: none;
+    }    
+  }
+}

@@ -1,0 +1,28 @@
+<div class="timeline">
+  {% for section in sections %}
+    <div class="full-width-bar">
+      <h1>{{ section.heading }}</h1>
+      {% if section.tabular_data != '' %}{# //responsibilities #}
+        <ul class="boxed-list left">
+          {% for row in section.tabular_data %}
+            <li>{{row}}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+      {{ section.copy|safe }}   
+      {% set gallery = section.gallery %}{#  //pull in the images from each section's gallery #}
+      <div class="gallery">
+        {% for object in gallery %}
+          <div class="gallery-item">
+            <img src="{{ object|imageCrop(320,320) }}">
+            {% if object.caption %}
+              <p class="small m0 align-left">
+                {{ object.caption }}
+              </p>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
