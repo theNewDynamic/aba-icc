@@ -23,6 +23,11 @@
           </div>
         {% endfor %}
       </div>
+      {% if section.footnotes %}
+      <div class="footnotes">
+        {{ section.footnotes|safe }}
+      </div>
+      {% endif %}
     </div>
   {% endfor %}
 </div>

@@ -82,6 +82,11 @@ a {
   }
 }
 
+article.hentry p a, .full-width-bar p a {
+  border-bottom: 1px dashed $action-color;
+
+}
+
 .sidebar-right a {
   color: darken($light-gray, 15%);
    &:active,
@@ -127,7 +132,7 @@ article.hentry p,
   color: $red;
 }
 
-small, .small {
+small, .small, .footnotes, .footnotes p {
   font-size: .875em;
 }
 

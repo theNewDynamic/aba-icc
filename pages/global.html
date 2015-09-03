@@ -84,5 +84,21 @@
         {% endfor %}
         </ul>
       </li>
+      <li>
+        <strong>Footer Links: </strong>
+        {# Loop of your Repeatable Form items. Remember, you can sort the order in your CMS if you need. #}
+        <ul>
+        {% for row in cms.global.footer_links %}
+            <li>
+              <strong>Text: </strong>
+              {{ row.text }}
+            </li>
+            <li>
+              <strong>Link: </strong>
+              {{ row.link }}
+            </li>
+        {% endfor %}
+        </ul>
+      </li>
   </ul>
 {% endblock %}
