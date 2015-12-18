@@ -4,7 +4,7 @@
 
 {% block sideMenu %}
   {% set local_menu_dropdown = cms.country|where('situations')|sort('name') %}
-  {% set local_menu_dropdown_label = 'Situation & Preliminary Examination Countries' %}
+  {% set local_menu_dropdown_label = 'Situation & Preliminary Examinations Countries' %}
   {% set country = item.country  %}
   {% set local_menu = cms.cases|where('country', country) %}
   {% parent %}

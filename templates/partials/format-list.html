@@ -1,3 +1,4 @@
+{{ object.publish_date|date('F j, Y') }}
 {% if object.name %}<h3><a href="{{ url(object) }}">{{ object.name }}</a></h3>{% endif %}
 {% if object.featured_image %}
     <img src="{{ object.featured_image|imageCrop(120) }}" style="float:left;margin-right:1.5em;">

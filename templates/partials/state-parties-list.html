@@ -9,7 +9,7 @@
         <small>
         {# see rules for this on Github https://github.com/ABA-Center-for-Human-Rights/aba-icc/issues/99#issuecomment-104703665 #}
          {% if object.date_signed %}
-          <strong>Signature</strong><br />{{ object.date_signed|date('j F Y')  }}
+          <strong>Signature</strong><br />{{ object.date_signed|date('F jS, Y')  }}
           {% if not object.date_ratified_or_acceded %}
             <br />
             Not Ratified or Acceded
@@ -20,7 +20,7 @@
               <br />
               <strong>{% if  object.date_signed %}Ratification{% else %}Accession{% endif %}</strong>
               <br /> 
-            {{ object.date_ratified_or_acceded|date('j F Y') }}            
+            {{ object.date_ratified_or_acceded|date('F jS, Y') }}            
         {% endif %}
           {% if not object.state_party && not object.date_signed  %}          
             <br />Not a Signatory

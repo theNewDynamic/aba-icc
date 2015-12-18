@@ -5,9 +5,9 @@
 {% endblock %}
 
 {% block sideMenu %}
-  
+
   {% set local_menu_dropdown = cms.country|where('situations')|sort('name') %}
-  {% set local_menu_dropdown_label = 'Situation & Preliminary Examination Countries' %}
+  {% set local_menu_dropdown_label = 'Situation & Preliminary Examinations Countries' %}
   {% set country = item.name  %}
   {% set local_menu = item.cases_country %}
   {% parent %}
@@ -18,9 +18,9 @@
     <ul class="inline-block" style="margin:0;padding:0;">
       <li><strong>Rome Statute: </strong></li>
         {% if item.date_signed %}
-            <li><strong>Signature:</strong> {{ item.date_signed|date('j F Y')  }}</li>
+            <li><strong>Signature:</strong> {{ item.date_signed|date('F jS, Y')  }}</li>
           {% if item.date_ratified_or_acceded %}
-            <li><strong>Ratification or Accension:</strong> {{ item.date_ratified_or_acceded|date('j F Y') }}</li>
+            <li><strong>Ratification or Accension:</strong> {{ item.date_ratified_or_acceded|date('F jS, Y') }}</li>
           {% else %}
             <li><strong>Not Ratified or Acceded</strong></li>
           {% endif %}
@@ -40,7 +40,7 @@
         {% endfor %}
       </ul>
     </div>
-  
+
   {% endif %}
 
 
@@ -74,11 +74,11 @@
   </div>
 
 {% if cases %}<div class="has-layout"><h4>Cases <small style="font-size:.625em;">click through for details</small></h4></div>{% endif %}
-  <div class="flex-boxes">  
+  <div class="flex-boxes">
     {% for thecase in cases %}
       <div class="flex-box" id="{{ thecase.name|lower|replace(' ', '-') }}" style="background-color:white;">
         <h3 class="flex-title"><a href="{{ url(thecase) }}">{% if thecase.long_name %}{{ thecase.long_name }}{% else %}{{ thecase.name }}{% endif %}</a></h3>
-        {{ thecase.case_status }} 
+        {{ thecase.case_status }}
       </div>
     {% endfor %}
   </div>
@@ -87,21 +87,21 @@
   <div class="timeline">
     <div class="full-width-bar">
       <h3>Domestic Atrocity Crime Legislation</h3>
-      {% if item.genocide %}      
+      {% if item.genocide %}
         <strong>Genocide</strong><br />
         {{ item.genocide|markdown }}
-      {% endif %}    
-      {% if item.crimes_against_humanity %}      
+      {% endif %}
+      {% if item.crimes_against_humanity %}
         <strong>Crimes against Humanity</strong><br />
-        {{ item.crimes_against_humanity|markdown }}      
+        {{ item.crimes_against_humanity|markdown }}
       {% endif %}
-      {% if item.aggression %}      
+      {% if item.aggression %}
         <strong>Aggression</strong><br />
-        {{ item.aggression|markdown }}      
+        {{ item.aggression|markdown }}
       {% endif %}
-      {% if item.war_crimes %}      
+      {% if item.war_crimes %}
         <strong>War Crimes</strong><br />
-        {{ item.war_crimes|markdown }}      
+        {{ item.war_crimes|markdown }}
       {% endif %}
     </div>
   </div>

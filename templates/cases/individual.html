@@ -2,7 +2,7 @@
 
 {% block sideMenu %}
   {% set local_menu_dropdown = cms.country|where('situations')|sort('name') %}
-  {% set local_menu_dropdown_label = 'Situation & Preliminary Examination Countries' %}
+  {% set local_menu_dropdown_label = 'Situation & Preliminary Examinations Countries' %}
   {% set country = item.country  %}
   {% set local_menu = cms.cases|where('country', country) %}
   {% parent %}
@@ -26,7 +26,7 @@
       <li>
         <strong>Trial Opening: </strong>
         {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
-        {{ item.trial_opening|date('j F Y') }}
+        {{ item.trial_opening|date('F jS, Y') }}
       </li>
       {% endif %}      
       {% if item.note %}
@@ -38,7 +38,7 @@
   </div>
   <div class="has-layout row row-bottom small">
     <ul class="inline-block" style="margin:0;padding:0;">
-      <li><small><em>Page last updated:  {{ item.last_updated|date('j F Y') }}</em></small></li>
+      <li><small><em>Page last updated:  {{ item.last_updated|date('F jS, Y') }}</em></small></li>
     </ul>
   </div>
    {# //END ROWS ON TOP OF PAGE #}
