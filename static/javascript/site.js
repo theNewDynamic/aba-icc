@@ -21,7 +21,7 @@ $('#tipue_search_input').tipuesearch({
   highlightEveryTerm: true,
   descriptiveWords: 100
 });
-   $('a:not([href^="{{ getSetting('site_url') }}"]):not([href^="#"]):not([href^="/"])').attr("target","_blank");
+   $('a:not([href^="http://www.aba-icc.org/"]):not([href^="#"]):not([href^="/"])').attr("target","_blank");
 
 
 // if the menu is hidden, then show it = if display none, then display block. Or  = if display block, none.
