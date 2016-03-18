@@ -1,33 +1,42 @@
 url: http://www.aba-icc.org
 sitename: 'The ABA-ICC Project'
 description: "American Bar Association's International Criminal Court Project"
-# do not include  https://github.com/...
 
-#Jekyll Options
-# if using more than one Jekyll instance on your local machine
+
+
+## DO NOT EDIT BELOW THIS LINE
+version: 3.0.3
+# full_rebuild: true
+image_url: https://URL.imgix.net
+future: false
+incremental: false
+timezone: Etc/Zulu
 port: 4049
-permalink:  pretty
-
-# Dependencies
-markdown: kramdown
 include: ['_pages']
-# relative_permalinks: false # won't need this as of 2.0: Deprecation: Starting in 2.0, permalinks for pages in subfolders must be relative to the site source directory, not the parent directory. Also will change exclude directory
-exclude: ['readme.md','license.md','Gemfile','links.jsonp', 'CNAME', 'rakefile', 'bower.json', 'node_modules', 'content-list.yaml']
+exclude:
+  - readme.md
+  - todo.md
+  - license.md
+  - Gemfile
+  - Gemfile.lock
+  - bower.json
+  - CNAME
+  - node_modules
+  - sass
+  - gulpfile.js
+  - package.json
+  - javascript
+  - vendor
 
 images: /assets/img/
 # dev options (true/false)
 # if site is in production, 'production: true'
-production: true
-include_addthis_sharing: true
+production: false
 bust_css_cache: true
 
 # options (data)
 google_analytics_id: UA-51919693-2
 addthis_id: "ra-53c565a74f2c5c5b"
-
-sass:
-    style: :compressed
-    sass_dir: assets/css/_sass
 
 # source: content
 

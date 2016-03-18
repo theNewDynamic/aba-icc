@@ -1,0 +1,85 @@
+$include-sidebar-right: true !default;
+//These must be in % values to calculate widths
+$sidebar-right-width: 28%;//31.5%;// 33% !default;
+$sidebar-right-breakpoint: $large-screen-up !default;
+$sidebar-right-color: $light-gray !default;
+
+// =============== RIGHT SIDEBAR ===============
+@if $include-sidebar-right != false {
+  .content
+   {
+    //clear: both;
+    width:100%;
+    @include media($sidebar-right-breakpoint) {
+      width: 100% - $sidebar-right-width;
+    }
+  }
+
+  .sidebar-right {
+    font-size: .875em;
+      clear: both;
+      overflow: hidden;
+      width: 100%;
+      height: 100%;//auto;
+      position: relative;
+      text-align: left;
+      //padding: 0;
+      min-height: 600px;
+      color: $sidebar-right-color;
+      background: $sidebar-right-color-background;
+      //font-family: $heading-font-family;
+      h2 {
+        color: darken($light-gray, 15%);
+        margin-bottom: .125em;
+        margin-top: .125em;
+      }
+      h2 small {
+        font-weight: 300;
+        line-height: 1.1;
+        margin-bottom: 0; //probably should use a class name for this, huh
+      }
+      // Styles      
+      section {
+          padding:1.5em 0;
+          header {
+            padding: 0 1.5em;
+          }
+          p {
+            //font-size: .9375em;
+            //font-weight: 300;
+            color: darken($sidebar-right-color, 15%);
+          }
+        }
+      @include media($sidebar-right-breakpoint) {
+        border-top: $navigation-height solid $navigation-background;
+        width: $sidebar-right-width;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        right: 0;
+        overflow-y: scroll; // TODO: style the scroll? check on browser pics
+        -webkit-overflow-scrolling: touch;
+      }
+    }
+  }
+
+// IF WE'RE CALLING THE FILE BUT NOT USING RIGHT SIDEBAR MAKE SURE IT DOESN'T MESS UP FRONT-END
+  @else {
+    .sidebar-right {
+      display:none;
+    }
+  }
+
+.sidebar-content {
+  padding: 0 2em;
+  text-align: left;
+  figure {
+    //position: absolute;
+    //bottom: 1em;
+    //left: 0;
+    margin: 0;
+  }
+  figcaption {
+    font-size: .8em;
+  }
+}
