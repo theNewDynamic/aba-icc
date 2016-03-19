@@ -1,5 +1,5 @@
 ---
-title: "ABA\'s ICC Project & Stanford Law release latest online roundtable, Arguendo, on UN Security Council-ICC relations"
+title: "ABA's ICC Project & Stanford Law release latest online roundtable, Arguendo, on UN Security Council-ICC relations"
 published: true
 date: 2015-12-11T01:48:00.000Z
 featured_image_path: /uploads/1449798553665_ICJT%20_%20UNSC_ICC.png
