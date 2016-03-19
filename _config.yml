@@ -50,6 +50,9 @@ collections:
   countries:
     output: true
     permalink: '/:collection/:path/'
+  country:
+    output: true
+    permalink: '/:collection/:path/'
   board-of-advisors:
     output: true
     permalink: '/:collection/:path/'
