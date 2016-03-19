@@ -12,6 +12,7 @@ crimes_against_humanity: "[International Crimes (Tribunals) Act of 1973](https:/
 war_crimes: "[International Crimes (Tribunals) Act of 1973](https://iccdb.hrlc.net/data/doc/518/keyword/145/)"
 slug: bangladesh
 ---
+
 Genocide
 
 [International Crimes (Tribunals) Act of 1973](https://iccdb.hrlc.net/data/doc/518/keyword/46/)
