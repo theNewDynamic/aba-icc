@@ -1,14 +1,12 @@
 ---
 title: "Thailand"
 published: true
-date: 2015-02-23T18:47:00.000Z
 featured_image_path:
 featured_image_attribution:
 geocode: THA
 iso_code: TH
-internal_note:
 territory:
-state_party:
+state_party: false
 signed_but_not_ratified: true
 signed_date: 2000-10-02
 ratified_or_acceded_date:

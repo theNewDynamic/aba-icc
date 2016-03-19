@@ -1,15 +1,13 @@
 ---
 title: "South Korea"
 published: true
-date: 2015-02-23T19:03:00.000Z
 featured_image_path: /uploads/1427901258422_14879843793_19a278b0c6_b.jpg
 featured_image_attribution:
 geocode: KOR
 iso_code: KR
-internal_note:
-territory:
+territory: false
 state_party: true
-signed_but_not_ratified:
+signed_but_not_ratified: false
 signed_date: 2000-03-07
 ratified_or_acceded_date:
 entry_into_force_date: 2003-01-31

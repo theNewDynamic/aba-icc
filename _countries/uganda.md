@@ -1,15 +1,13 @@
 ---
 title: "Uganda"
 published: true
-date: 2015-02-23T18:45:00.000Z
 featured_image_path: /uploads/1427918432239_15277311729_94f73fbd20_c.jpg
 featured_image_attribution:
 geocode: UGA
 iso_code: UG
-internal_note:
-territory:
+territory: false
 state_party: true
-signed_but_not_ratified:
+signed_but_not_ratified: false
 signed_date: 1999-03-17
 ratified_or_acceded_date:
 entry_into_force_date: 2002-09-01

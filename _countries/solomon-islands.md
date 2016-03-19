@@ -1,14 +1,12 @@
 ---
 title: "Solomon Islands"
 published: true
-date: 2015-02-23T18:49:00.000Z
 featured_image_path:
 featured_image_attribution:
 geocode: SLB
 iso_code: SB
-internal_note:
-territory:
-state_party:
+territory: false
+state_party: false
 signed_but_not_ratified: true
 signed_date: 1998-12-02
 ratified_or_acceded_date:

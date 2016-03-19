@@ -1,14 +1,12 @@
 ---
 title: "Zimbabwe"
 published: true
-date: 2015-02-23T18:42:00.000Z
 featured_image_path:
 featured_image_attribution:
 geocode: ZWE
 iso_code: ZW
-internal_note:
-territory:
-state_party:
+territory: false
+state_party: false
 signed_but_not_ratified: true
 signed_date: 1998-07-17
 ratified_or_acceded_date:

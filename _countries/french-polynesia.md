@@ -1,15 +1,13 @@
 ---
 title: "French Polynesia"
 published: true
-date: 2015-02-23T19:10:00.000Z
 featured_image_path:
 featured_image_attribution:
 geocode: PYF
 iso_code: PF
-internal_note:
 territory: true
-state_party:
-signed_but_not_ratified:
+state_party: false
+signed_but_not_ratified: false
 signed_date:
 ratified_or_acceded_date:
 entry_into_force_date:

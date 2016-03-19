@@ -1,14 +1,12 @@
 ---
 title: "Ukraine"
 published: true
-date: 2015-02-23T18:45:00.000Z
 featured_image_path: /uploads/1427985885968_7329620622_082d2dd917_c.jpg
 featured_image_attribution:
 geocode: UKR
 iso_code: UA
-internal_note:
-territory:
-state_party:
+territory: false
+state_party: false
 signed_but_not_ratified: true
 signed_date: 2000-01-19
 ratified_or_acceded_date:

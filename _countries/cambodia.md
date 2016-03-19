@@ -1,15 +1,13 @@
 ---
 title: "Cambodia"
 published: true
-date: 2015-02-23T19:16:00.000Z
 featured_image_path: /uploads/1427908395339_456945131_f8b8377610_b.jpg
 featured_image_attribution:
 geocode: KHM
 iso_code: KH
-internal_note: Registered Vessels of Comoros, Greece, and Cambodia
-territory:
+territory: false
 state_party: true
-signed_but_not_ratified:
+signed_but_not_ratified: false
 signed_date: 2000-10-23
 ratified_or_acceded_date:
 entry_into_force_date: 2002-07-01
@@ -21,3 +19,4 @@ war_crimes: "[Cambodian Criminal Code, Articles 1893-98](http://www.unodc.org/re
 note:
 slug: cambodia
 ---
+note: Registered Vessels of Comoros, Greece, and Cambodia

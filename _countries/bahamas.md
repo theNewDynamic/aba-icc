@@ -1,14 +1,12 @@
 ---
 title: "Bahamas"
 published: true
-date: 2015-02-23T19:20:00.000Z
 featured_image_path:
 featured_image_attribution:
 geocode: BHS
 iso_code: BS
-internal_note:
-territory:
-state_party:
+territory: false
+state_party: false
 signed_but_not_ratified: true
 signed_date: 2000-12-28
 ratified_or_acceded_date:

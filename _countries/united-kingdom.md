@@ -1,15 +1,13 @@
 ---
 title: "United Kingdom"
 published: true
-date: 2015-02-23T18:45:00.000Z
 featured_image_path: /uploads/1447358290560_2706292588_b65d125d52_o.jpg
 featured_image_attribution:
 geocode: GBR
 iso_code: GB
-internal_note:
-territory:
+territory: false
 state_party: true
-signed_but_not_ratified:
+signed_but_not_ratified: false
 signed_date: 1998-11-29
 ratified_or_acceded_date:
 entry_into_force_date: 2002-07-01

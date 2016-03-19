@@ -1,14 +1,12 @@
 ---
 title: "Syria"
 published: true
-date: 2015-02-23T18:47:00.000Z
 featured_image_path:
 featured_image_attribution:
 geocode: SYR
 iso_code: SY
-internal_note:
 territory:
-state_party:
+state_party: false
 signed_but_not_ratified: true
 signed_date: 2000-11-29
 ratified_or_acceded_date:

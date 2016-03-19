@@ -1,15 +1,13 @@
 ---
 title: "Iraq"
 published: true
-date: 2015-02-23T19:05:00.000Z
 featured_image_path: /uploads/1427983878211_LA_110730Baghdad_014-1.jpg
 featured_image_attribution: "Image courtesy of welate kurdan"
 geocode: IRQ
 iso_code: IQ
-internal_note:
-territory:
-state_party:
-signed_but_not_ratified:
+territory: false
+state_party: false
+signed_but_not_ratified: false
 signed_date:
 ratified_or_acceded_date:
 entry_into_force_date:

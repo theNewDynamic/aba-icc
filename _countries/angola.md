@@ -1,14 +1,12 @@
 ---
 title: "Angola"
 published: true
-date: 2015-02-23T19:21:00.000Z
 featured_image_path:
 featured_image_attribution:
 geocode: AGO
 iso_code: AO
-internal_note:
 territory:
-state_party:
+state_party: false
 signed_but_not_ratified: true
 signed_date: 1998-10-07
 ratified_or_acceded_date:

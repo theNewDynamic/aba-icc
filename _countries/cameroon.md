@@ -1,14 +1,12 @@
 ---
 title: "Cameroon"
 published: true
-date: 2015-02-23T19:16:00.000Z
 featured_image_path:
 featured_image_attribution:
 geocode: CMR
 iso_code: CM
-internal_note:
 territory:
-state_party:
+state_party: false
 signed_but_not_ratified: true
 signed_date: 1998-07-17
 ratified_or_acceded_date:

@@ -1,14 +1,12 @@
 ---
 title: "Monaco"
 published: true
-date: 2015-02-23T18:58:00.000Z
 featured_image_path:
 featured_image_attribution:
 geocode: MCO
 iso_code: MC
-internal_note:
 territory:
-state_party:
+state_party: false
 signed_but_not_ratified: true
 signed_date: 1998-07-18
 ratified_or_acceded_date:

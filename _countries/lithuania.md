@@ -1,15 +1,13 @@
 ---
 title: "Lithuania"
 published: true
-date: 2015-02-23T19:01:00.000Z
 featured_image_path:
 featured_image_attribution:
 geocode: LTU
 iso_code: LT
-internal_note:
-territory:
+territory: false
 state_party: true
-signed_but_not_ratified:
+signed_but_not_ratified: false
 signed_date: 1998-12-09
 ratified_or_acceded_date:
 entry_into_force_date: 2003-08-01

@@ -1,15 +1,13 @@
 ---
 title: "Honduras"
 published: true
-date: 2015-02-23T19:07:00.000Z
 featured_image_path: /uploads/1427896512673_13440821895_503641818b_c.jpg
 featured_image_attribution:
 geocode: HND
 iso_code: HN
-internal_note:
-territory:
+territory: false
 state_party: true
-signed_but_not_ratified:
+signed_but_not_ratified: false
 signed_date: 1998-10-07
 ratified_or_acceded_date:
 entry_into_force_date: 2002-09-01

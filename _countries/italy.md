@@ -1,15 +1,13 @@
 ---
 title: "Italy"
 published: true
-date: 2015-02-23T19:05:00.000Z
 featured_image_path:
 featured_image_attribution:
 geocode: ITA
 iso_code: IT
-internal_note:
-territory:
+territory: false
 state_party: true
-signed_but_not_ratified:
+signed_but_not_ratified: false
 signed_date: 1998-07-18
 ratified_or_acceded_date:
 entry_into_force_date: 2002-07-01

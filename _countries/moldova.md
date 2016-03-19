@@ -1,15 +1,13 @@
 ---
 title: "Moldova"
 published: true
-date: 2015-02-23T18:58:00.000Z
 featured_image_path:
 featured_image_attribution:
 geocode: MDA
 iso_code: MD
-internal_note:
-territory:
+territory: false
 state_party: true
-signed_but_not_ratified:
+signed_but_not_ratified: false
 signed_date: 2000-09-08
 ratified_or_acceded_date:
 entry_into_force_date: 2010-12-31

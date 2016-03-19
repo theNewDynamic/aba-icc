@@ -1,14 +1,12 @@
 ---
 title: "United States"
 published: true
-date: 2015-02-23T18:44:00.000Z
 featured_image_path:
 featured_image_attribution:
 geocode: USA
 iso_code: US
-internal_note:
-territory:
-state_party:
+territory: false
+state_party: false
 signed_but_not_ratified: true
 signed_date: 2000-12-30
 ratified_or_acceded_date:

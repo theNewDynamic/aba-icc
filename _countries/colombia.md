@@ -1,15 +1,13 @@
 ---
 title: "Colombia"
 published: true
-date: 2015-02-23T19:15:00.000Z
 featured_image_path: /uploads/1427982507754_8174914876_830f6033d5_z.jpg
 featured_image_attribution:
 geocode: COL
 iso_code: CO
-internal_note:
-territory:
+territory: false
 state_party: true
-signed_but_not_ratified:
+signed_but_not_ratified: false
 signed_date: 1998-12-09
 ratified_or_acceded_date:
 entry_into_force_date: 2002-11-01
