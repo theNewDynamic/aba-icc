@@ -1,10 +1,10 @@
 //Base
 @import
-"../bower_components/normalize-scss/normalize",
-"../bower_components/normalize-opentype.css/normalize-opentype",
-"../bower_components/bourbon/dist/bourbon",
+"./node_modules/normalize.scss/normalize.scss",
+"./node_modules/normalize-opentype.css/normalize-opentype.scss",
+"bourbon/bourbon",
 //"modules/grid-settings",//overrides bitters grid-settings
-"../bower_components/neat/app/assets/stylesheets/neat",
+"neat/neat",
 "base/base";
 
 // Vendor

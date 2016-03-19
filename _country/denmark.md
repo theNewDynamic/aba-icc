@@ -1,0 +1,13 @@
+---
+title: "Denmark"
+published: true
+date: 2015-02-23T19:12:00.000Z
+geocode: DNK
+iso_code: DK
+state_party: true
+signed_date: 1998-09-25
+entry_into_force_date: 2002-07-01
+ratified_apic_date: 2005-06-03
+genocide: [Denmark - Genocide Act](https://iccdb.hrlc.net/data/doc/132/keyword/46/)
+slug: denmark
+---
