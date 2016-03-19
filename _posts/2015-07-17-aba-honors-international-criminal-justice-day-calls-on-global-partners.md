@@ -2,7 +2,6 @@
 title: "ABA honors International Criminal Justice Day, calls on global partners"
 published: true
 date: 2015-07-17T18:47:00.000Z
-type: news
 slug: 2015-07-17-aba-honors-international-criminal-justice-day-calls-on-global-partners
 ---
 

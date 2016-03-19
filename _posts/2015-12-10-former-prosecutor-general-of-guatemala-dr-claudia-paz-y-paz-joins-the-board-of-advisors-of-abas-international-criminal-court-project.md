@@ -3,7 +3,6 @@ title: "Former Prosecutor General of Guatemala, Dr. Claudia Paz y Paz, Joins the
 published: true
 date: 2015-12-11T01:41:00.000Z
 featured_image_path: /uploads/1449798589143_Claudia_Paz_y_Paz.jpg
-type: news
 slug: 2015-12-10-former-prosecutor-general-of-guatemala-dr-claudia-paz-y-paz-joins-the-board-of-advisors-of-abas-international-criminal-court-project
 ---
 

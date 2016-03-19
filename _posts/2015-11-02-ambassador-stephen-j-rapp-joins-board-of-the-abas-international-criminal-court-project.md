@@ -3,7 +3,6 @@ title: "Ambassador Stephen J. Rapp joins Board of the ABA's International Crimin
 published: true
 date: 2015-11-03T01:40:00.000Z
 featured_image_path: /uploads/1446514584589_vyt00165-168x168.jpg
-type: news
 slug: 2015-11-02-ambassador-stephen-j-rapp-joins-board-of-the-abas-international-criminal-court-project
 ---
 

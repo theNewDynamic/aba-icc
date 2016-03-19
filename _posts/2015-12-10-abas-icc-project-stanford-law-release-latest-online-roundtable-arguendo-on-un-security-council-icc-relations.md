@@ -3,7 +3,6 @@ title: "ABA's ICC Project & Stanford Law release latest online roundtable, Argue
 published: true
 date: 2015-12-11T01:48:00.000Z
 featured_image_path: /uploads/1449798553665_ICJT%20_%20UNSC_ICC.png
-type: news
 slug: 2015-12-10-abas-icc-project-stanford-law-release-latest-online-roundtable-arguendo-on-un-security-council-icc-relations
 ---
 

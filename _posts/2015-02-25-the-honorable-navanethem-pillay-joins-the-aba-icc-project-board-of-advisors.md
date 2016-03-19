@@ -2,7 +2,6 @@
 title: "The Honorable Navanethem Pillay Joins the ABA-ICC Project Board of Advisors"
 published: true
 date: 2015-02-25T17:32:00.000Z
-type: news
 slug: 2015-02-25-the-honorable-navanethem-pillay-joins-the-aba-icc-project-board-of-advisors
 ---
 
