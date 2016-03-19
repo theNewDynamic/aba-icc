@@ -19,7 +19,6 @@ future: false
 incremental: false
 timezone: Etc/Zulu
 port: 4049
-include: ['_pages']
 exclude:
   - readme.md
   - todo.md
@@ -61,9 +60,6 @@ collections:
     output: true
     permalink: '/country/:path/'
   events:
-    output: true
-    permalink: '/:collection/:path/'
-  evolution-of-international-criminal-justice:
     output: true
     permalink: '/:collection/:path/'
   situations:
