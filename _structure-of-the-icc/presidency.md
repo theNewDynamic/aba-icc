@@ -2,9 +2,9 @@
 title: "Presidency"
 published: true
 responsibilities:
-  -Represents the ICC externally
-  -Organize the Judicial Chambers
-  -Perform a select number of judicial functions
+  - Represents the ICC externally
+  - Organize the Judicial Chambers
+  - Perform a select number of judicial functions
 footnotes: " Photos courtesy of ICC-CPI. "
 images:
   - name: "Judge Silvia Alejandra Fernández De Gurmendi, President (Argentina)"

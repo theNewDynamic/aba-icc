@@ -2,10 +2,10 @@
 title: "Office Of The Prosecutor"
 published: true
 responsibilities:
-  -Analyze Jurisdiction and Admissibility
-  -Work with Governments and other Actors to Facilitate Cooperation
-  -Investigate Crimes
-  -Prosecute Individuals
+  - Analyze Jurisdiction and Admissibility
+  - Work with Governments and other Actors to Facilitate Cooperation
+  - Investigate Crimes
+  - Prosecute Individuals
 footnotes: " Photos courtesy of Mailweb.org and ICC-CPI. "
 images:
   - name: "Mrs. Fatou Bensouda, ICC Prosecutor (The Gambia)"

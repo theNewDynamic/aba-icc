@@ -2,9 +2,9 @@
 title: "Assembly of State Parties"
 published: true
 responsibilities:
-  -Change ICC Law and Procedures
-  -Elect Judges and Prosecutors
-  -Determine ICC's Budget
+  - Change ICC Law and Procedures
+  - Elect Judges and Prosecutors
+  - Determine ICC's Budget
 footnotes: " Photos courtesy of Flickr. "
 images:
   - name: "H.E. Sidiki Kaba, President (Senegal) "

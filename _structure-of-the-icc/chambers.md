@@ -2,11 +2,11 @@
 title: "Chambers"
 published: true
 responsibilities:
-  -Issue Arrest Warrants
-  -Determine Jurisdiction and Admissibility
-  -Confirm or Reject Charges
-  -Adjudicate Cases
-  -Hear Appeals
+  - Issue Arrest Warrants
+  - Determine Jurisdiction and Admissibility
+  - Confirm or Reject Charges
+  - Adjudicate Cases
+  - Hear Appeals
 footnotes: " Photos courtesy of ICC-CPI, Link to Poland, Tufts Alumni, and LinkedIn. "
 images:
   - name: "Judge Silvia Alejandra Fernández De Gurmendi, Appeals Division (Argentina)"
