@@ -1,5 +1,5 @@
 ---
-title: "The ABA\'s ICC Project"
+title: "The ABA's ICC Project"
 published: true
 date: 2015-02-04T05:58:00.000Z
 featured_image_path: /uploads/1423101251774_Benjamin_Ferencz.jpg
