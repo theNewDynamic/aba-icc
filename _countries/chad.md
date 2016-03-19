@@ -2,11 +2,18 @@
 title: "Chad"
 published: true
 date: 2015-02-23T19:15:00.000Z
+featured_image_path:
+featured_image_attribution:
 geocode: TCD
 iso_code: TD
+internal_note:
+territory:
 state_party: true
+signed_but_not_ratified:
 signed_date: 1999-10-20
+ratified_or_acceded_date:
 entry_into_force_date: 2007-01-01
+ratified_apic_date:
 genocide:
 crimes_against_humanity:
 aggression:

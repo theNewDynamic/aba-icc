@@ -2,8 +2,18 @@
 title: "Holy See"
 published: true
 date: 2015-02-23T19:07:00.000Z
+featured_image_path:
+featured_image_attribution:
 geocode: VAT
 iso_code: VA
+internal_note:
+territory:
+state_party:
+signed_but_not_ratified:
+signed_date:
+ratified_or_acceded_date:
+entry_into_force_date:
+ratified_apic_date:
 genocide: [Law N. VIII - Chapter 3 - Article 14](http://www.vaticanstate.va/content/dam/vaticanstate/documenti/leggi-e-decreti/Normative-Penali-e-Amministrative/Law%20N.%20VIII%20-%20Supplementary%20Norms%20on%20Criminal%20Law.pdf)
 crimes_against_humanity: [Law N. VIII - Chapter 3 - Articles 13-15](http://www.vaticanstate.va/content/dam/vaticanstate/documenti/leggi-e-decreti/Normative-Penali-e-Amministrative/Law%20N.%20VIII%20-%20Supplementary%20Norms%20on%20Criminal%20Law.pdf)
 aggression:

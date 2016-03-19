@@ -2,10 +2,16 @@
 title: "Hungary"
 published: true
 date: 2015-02-23T19:06:00.000Z
+featured_image_path:
+featured_image_attribution:
 geocode: HUN
 iso_code: HU
+internal_note:
+territory:
 state_party: true
+signed_but_not_ratified:
 signed_date: 1999-01-14
+ratified_or_acceded_date:
 entry_into_force_date: 2002-07-01
 ratified_apic_date: 2006-03-21
 genocide: [Hungarian Code of 1978 (amended in 2005) - Chapter 11 - Title 1 - Section 155](https://iccdb.hrlc.net/data/doc/290/keyword/46/)

@@ -2,10 +2,16 @@
 title: "Bosnia and Herzegovina"
 published: true
 date: 2015-02-23T19:18:00.000Z
+featured_image_path:
+featured_image_attribution:
 geocode: BIH
 iso_code: BA
+internal_note:
+territory:
 state_party: true
+signed_but_not_ratified:
 signed_date: 1998-07-17
+ratified_or_acceded_date:
 entry_into_force_date: 2002-07-01
 ratified_apic_date: 2012-01-23
 genocide: [Bosnia-Herzegovina Criminal Code, Chapter 17, Article 171](https://iccdb.hrlc.net/data/doc/118/keyword/46/)

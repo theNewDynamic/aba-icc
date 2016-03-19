@@ -2,11 +2,18 @@
 title: "South Africa"
 published: true
 date: 2015-02-23T18:49:00.000Z
+featured_image_path:
+featured_image_attribution:
 geocode: ZAF
 iso_code: ZA
+internal_note:
+territory:
 state_party: true
+signed_but_not_ratified:
 signed_date: 1998-07-17
+ratified_or_acceded_date:
 entry_into_force_date: 2002-07-01
+ratified_apic_date:
 genocide: [South Africa Penal Code - Title II - Chapter 1 - Article 281](http://www1.umn.edu/humanrts/research/Penal%20Code%20%28English%29.pdf) [South Africa: Implementation of the ICC Statute - Chapter 5 - Schedule 1 - Part 1](https://iccdb.hrlc.net/data/doc/43/keyword/46/)
 crimes_against_humanity: [South Africa Penal Code - Title II - Chapter 1 - Article 281](http://www1.umn.edu/humanrts/research/Penal%20Code%20%28English%29.pdf) [South Africa: Implementation of the ICC Statute - Chapter 5 - Schedule 1 - Part 2](https://iccdb.hrlc.net/data/doc/43/keyword/13/)
 aggression:

@@ -3,8 +3,17 @@ title: "Libya"
 published: true
 date: 2015-02-23T19:02:00.000Z
 featured_image_path: /uploads/1427983155435_Tripoli.jpg
+featured_image_attribution:
 geocode: LBY
 iso_code: LY
+internal_note:
+territory:
+state_party:
+signed_but_not_ratified:
+signed_date:
+ratified_or_acceded_date:
+entry_into_force_date:
+ratified_apic_date:
 genocide:
 crimes_against_humanity:
 aggression:

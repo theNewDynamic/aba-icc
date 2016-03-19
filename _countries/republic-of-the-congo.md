@@ -2,11 +2,18 @@
 title: "Republic of the Congo"
 published: true
 date: 2015-02-23T19:14:00.000Z
+featured_image_path:
+featured_image_attribution:
 geocode: COG
 iso_code: CG
+internal_note:
+territory:
 state_party: true
+signed_but_not_ratified:
 signed_date: 1998-07-17
+ratified_or_acceded_date:
 entry_into_force_date: 2004-08-01
+ratified_apic_date:
 genocide: [Law No. 8-98 of 31 October 1998 - Chapter 1](https://iccdb.hrlc.net/data/doc/533/)
 crimes_against_humanity: [Law No. 8-98 of 31 October 1998 - Chapter 3](https://iccdb.hrlc.net/data/doc/533/)
 aggression:

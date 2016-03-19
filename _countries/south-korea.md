@@ -3,10 +3,15 @@ title: "South Korea"
 published: true
 date: 2015-02-23T19:03:00.000Z
 featured_image_path: /uploads/1427901258422_14879843793_19a278b0c6_b.jpg
+featured_image_attribution:
 geocode: KOR
 iso_code: KR
+internal_note:
+territory:
 state_party: true
+signed_but_not_ratified:
 signed_date: 2000-03-07
+ratified_or_acceded_date:
 entry_into_force_date: 2003-01-31
 ratified_apic_date: 2006-10-18
 genocide: [Korea - ICC Crimes Act - Chapter 2 - Article 8](https://iccdb.hrlc.net/data/doc/206/keyword/46/)
