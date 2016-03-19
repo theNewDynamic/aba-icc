@@ -3,7 +3,7 @@ title: "Democratic Republic of the Congo "
 country: democratic-republic-of-the-congo
 published: true
 date: 2015-02-23T19:14:00.000Z
-phase: "Situations & Cases"
+phase: Situations & Cases
 link_to_more_information:
 description: "The situation in the Democratic Republic of the Congo involves armed conflict between government forces and many armed rebel groups. Within the Democratic Republic of the Congo situation, there are five cases."
 slug: democratic-republic-of-the-congo

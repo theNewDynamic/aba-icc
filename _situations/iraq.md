@@ -3,7 +3,7 @@ title: "Iraq"
 country: iraq
 published: true
 date: 2015-02-23T19:05:00.000Z
-phase: "Preliminary Examinations: Subject Matter Jurisdiction Assessement"
+phase: Preliminary Examinations, Subject Matter Jurisdiction Assessement
 link_to_more_information: "http://www.icc-cpi.int/EN_Menus/icc/structure%20of%20the%20court/office%20of%20the%20prosecutor/comm%20and%20ref/pe-ongoing/iraq/pages/iraq.aspx"
 description: "This Preliminary Examination concerns the U.S.-led coalition occupation of portions of Iraq between the initial occupation and the subsequent ratification of their presence by the new interim government of Iraq. The Preliminary Examination is currently in the Subject Matter Jurisdiction Assessment stage."
 slug: iraq

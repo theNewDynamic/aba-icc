@@ -3,7 +3,7 @@ title: "Honduras"
 country: honduras
 published: true
 date: 2015-02-23T19:07:00.000Z
-phase: "Preliminary Examinations: Closed - Decision Not to Proceed"
+phase: Preliminary Examinations, Closed - Decision Not to Proceed
 link_to_more_information: "http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/office%20of%20the%20prosecutor/comm%20and%20ref/pe-ongoing/honduras/Pages/honduras.aspx"
 description: "This Preliminary Examination concerns the 2009 coup d'etat as well as the resulting restrictions of civil liberties and police violence against civilians. The Preliminary Examination is currently in the Subject Matter Jurisdiction Assessment stage."
 slug: honduras

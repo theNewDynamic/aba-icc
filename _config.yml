@@ -10,6 +10,13 @@ case_statuses:
  - "Trial Complete, Acquitted"
  - "Trial Complete, Sentenced"
 
+phases:
+  - "Preliminary Examinations, Initial Assessment"
+  - "Preliminary Examinations, Admissibility Assessment"
+  - "Preliminary Examinations, Subject Matter Jurisdiction Assessement"
+  - "Preliminary Examinations, Closed - Decision Not to Proceed"
+  - "Situations & Cases"
+
 
 ## DO NOT EDIT BELOW THIS LINE
 version: 3.0.3

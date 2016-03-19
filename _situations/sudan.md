@@ -3,7 +3,7 @@ title: "Sudan"
 country: sudan
 published: true
 date: 2015-02-23T18:48:00.000Z
-phase: "Situations & Cases"
+phase: Situations & Cases
 link_to_more_information:
 description: "The situation in the Republic of Sudan involves a conflict between the government of the Republic of Sudan and several armed groups who are fighting for access to and control over resources and land. Within the Sudan situation, there are five cases."
 slug: sudan

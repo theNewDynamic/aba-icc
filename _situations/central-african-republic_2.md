@@ -3,7 +3,7 @@ title: "Central African Republic Situation II"
 country: central-african-republic
 published: true
 date: 2015-02-23T19:16:00.000Z
-phase: "Situations & Cases"
+phase: Situations & Cases
 link_to_more_information:
 description: "The second situation in the Central African Republic involves widespread killing of civilians, burning and looting of homes, and other serious crimes. There are currently no cases related to Central African Republic II situation, although an investigation is ongoing."
 slug: central-african-republic_2

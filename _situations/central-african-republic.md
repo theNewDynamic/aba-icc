@@ -3,7 +3,7 @@ title: "Central African Republic"
 country: central-african-republic
 published: true
 date: 2015-02-23T19:16:00.000Z
-phase: "Situations & Cases"
+phase: Situations & Cases
 link_to_more_information:
 description: "The first situation in the Central African Republic involves sectarian violence caused by the Christian anti-Balaka and Muslim Séléka militias. Within the Central African Republic I situation, there are two ongoing cases related to this situation."
 slug: central-african-republic

@@ -3,7 +3,7 @@ title: "Mali"
 country: mali
 published: true
 date: 2015-02-23T19:00:00.000Z
-phase: "Situations & Cases"
+phase: Situations & Cases
 link_to_more_information:
 description: "The situation in the Republic of Mali involves a conflict between government forces of the Republic of Mali and several armed groups fighting for independence. Within the situation in the Republic of Mali, there are not yet any cases against specific individuals."
 slug: mali

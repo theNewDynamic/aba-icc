@@ -3,7 +3,7 @@ title: "Colombia"
 country: colombia
 published: true
 date: 2015-02-23T19:15:00.000Z
-phase: "Preliminary Examinations: Admissibility Assessment"
+phase: Preliminary Examinations, Admissibility Assessment
 link_to_more_information: "http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/office%20of%20the%20prosecutor/comm%20and%20ref/pe-ongoing/colombia/Pages/colombia.aspx"
 description: "This Preliminary Examination concerns the armed conflict between paramilitaries and some public servants in waging war against illegal armed groups. The Preliminary Examination is currently in the Admissibility Assessment stage."
 slug: colombia

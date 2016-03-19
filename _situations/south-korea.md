@@ -3,7 +3,7 @@ title: "South Korea"
 country: south-korea
 published: true
 date: 2015-02-23T19:03:00.000Z
-phase: "Preliminary Examinations: Closed - Decision Not to Proceed"
+phase: Preliminary Examinations, Closed - Decision Not to Proceed
 link_to_more_information: "http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/office%20of%20the%20prosecutor/comm%20and%20ref/pe-cdnp/korea/Pages/korea.aspx"
 description: "This Preliminary Examination concerns South Korean civilians and marines on Yeonpyeong Island killed by North Korean fire. On June 23, 2014, the Office of the Prosecutor closed the Preliminary Examination, concluding there was insufficient evidence to proceed."
 slug: south-korea

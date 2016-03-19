@@ -3,7 +3,7 @@ title: "Cote d’Ivoire"
 country: cote-divoire
 published: true
 date: 2015-02-23T19:14:00.000Z
-phase: "Situations & Cases"
+phase: Situations & Cases
 link_to_more_information:
 description: "The situation in the Republic of Côte d'Ivoire involves violence resulting from contested presidential elections in 2010, as well as a decade of tension over the leadership of Côte d'Ivoire. Within the Côte d'Ivoire situation, there are two ongoing cases that involve three defendants."
 slug: cote-divoire

@@ -3,7 +3,7 @@ title: "Venezuela"
 country: venezuela
 published: true
 date: 2015-02-23T18:44:00.000Z
-phase: "Preliminary Examinations: Closed - Decision Not to Proceed"
+phase: Preliminary Examinations, Closed - Decision Not to Proceed
 link_to_more_information: "http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/office%20of%20the%20prosecutor/comm%20and%20ref/pe-cdnp/venezuela/Pages/venezuela.aspx"
 description: "This Preliminary Examination concerns civilian deaths as a result of crackdowns by security forces on election protesters. On February 9, 2006, the Office of the Prosecutor closed its Preliminary Examination in Venezuela."
 slug: venezuela

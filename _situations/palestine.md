@@ -3,7 +3,7 @@ title: "Palestine"
 country: palestine
 published: true
 date: 2015-02-23T18:54:00.000Z
-phase: "Preliminary Examinations: Subject Matter Jurisdiction Assessement"
+phase: Preliminary Examinations, Subject Matter Jurisdiction Assessement
 link_to_more_information:
 description: "This Preliminary Examination concerns civilian deaths in the Gaza Strip resulting from Hamas rockets and Israeli air strikes. The Preliminary Examination is currently in the Initial Assessment stage."
 slug: palestine

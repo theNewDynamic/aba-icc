@@ -3,7 +3,7 @@ title: "Kenya"
 country: kenya
 published: true
 date: 2015-02-23T19:04:00.000Z
-phase: "Situations & Cases"
+phase: Situations & Cases
 link_to_more_information:
 description: "The situation in the Republic of Kenya involves mass violence that occurred after the country’s contested 2007-2008 election. Within the Kenya situation, there are two ongoing cases."
 slug: kenya

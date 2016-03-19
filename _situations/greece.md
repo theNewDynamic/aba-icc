@@ -3,7 +3,7 @@ title: "Greece"
 country: greece
 published: true
 date: 2015-02-23T19:08:00.000Z
-phase: "Preliminary Examinations: Closed - Decision Not to Proceed"
+phase: Preliminary Examinations, Closed - Decision Not to Proceed
 link_to_more_information: "http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/office%20of%20the%20prosecutor/comm%20and%20ref/pe-cdnp/comoros/Pages/default.aspx"
 description: "This Preliminary Examination concerned allegations of civilian deaths during the boarding of the Mavi Marmara as it attempted to breach the Israeli blockade of the Gaza Strip. The Office of the Prosecutor closed the Preliminary Examination on 11 June 2014."
 slug: greece

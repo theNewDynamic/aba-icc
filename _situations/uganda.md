@@ -3,7 +3,7 @@ title: "Uganda"
 country: uganda
 published: true
 date: 2015-02-23T18:45:00.000Z
-phase: "Situations & Cases"
+phase: Situations & Cases
 link_to_more_information:
 description: "The situation in the Republic of Uganda involves a protracted conflict between the government of the Republic of Uganda and armed rebel groups, primarily the Lord's Resistance Army. Within the Ugandan situation, there are two ongoing cases."
 slug: uganda

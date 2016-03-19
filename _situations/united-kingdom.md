@@ -3,7 +3,7 @@ title: "United Kingdom"
 country: united-kingdom
 published: true
 date: 2015-02-23T18:45:00.000Z
-phase: "Preliminary Examinations: Subject Matter Jurisdiction Assessement"
+phase: Preliminary Examinations, Subject Matter Jurisdiction Assessement
 link_to_more_information:
 description:
 slug: united-kingdom
