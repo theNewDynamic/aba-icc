@@ -1,7 +1,6 @@
 ---
 title: "The U.S.-ICC Relationship "
 published: true
-date: 2015-02-04T13:38:00.000Z
 featured_image_path:
 description:
 timeline: "//cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AtZ5yV_Pso2idDZQRXNfUzQxd3JTQzhhMXg5UEpVYmc&font=Bevan-PotanoSans&maptype=toner&lang=en&height=900"

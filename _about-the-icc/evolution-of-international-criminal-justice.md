@@ -1,7 +1,6 @@
 ---
 title: "Evolution of International Criminal Justice"
 published: true
-date: 2015-02-04T13:36:00.000Z
 featured_image_path: /uploads/1424657827903_jackson-nuremberg.jpg
 description:
 include: timeline.html
