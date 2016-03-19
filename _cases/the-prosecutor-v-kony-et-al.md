@@ -3,7 +3,7 @@ title: "The Prosecutor v. Kony et al."
 published: true
 country: uganda
 trial_opening_date:
-case_status: Pre-trial
+case_status: "Pre-trial"
 long_name: "The Prosecutor v. Joseph Kony, Vincent Otti, Okot Odhiambo"
 accused:
   - joseph-kony
