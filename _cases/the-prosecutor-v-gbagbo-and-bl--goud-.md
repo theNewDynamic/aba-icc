@@ -1,0 +1,13 @@
+---
+title: "The Prosecutor v. Gbagbo and Blé Goudé"
+published: true
+country: cote-divoire
+trial_opening_date: 2016-01-28
+case_status: Trial Ongoing
+long_name: "The Prosecutor v. Laurent Gbagbo and Charles Blé Goudé"
+accused:
+  - laurent-gbagbo
+  - charles-blé-goudé
+
+slug: the-prosecutor-v-gbagbo-and-blé-goudé
+---

@@ -2,6 +2,13 @@ url: http://www.aba-icc.org
 sitename: 'The ABA-ICC Project'
 description: "American Bar Association's International Criminal Court Project"
 
+case_statuses:
+ - "Pre-trial"
+ - "Trial Ongoing"
+ - "Case Terminated"
+ - "Trial Adjourned"
+ - "Trial Complete, Acquitted"
+ - "Trial Complete, Sentenced"
 
 
 ## DO NOT EDIT BELOW THIS LINE
