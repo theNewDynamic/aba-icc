@@ -8,6 +8,6 @@ long_name: "The Prosecutor v. Bosco Ntaganda"
 accused:
   - bosco-ntaganda
 
-slug: the-prosecutor-v-ntaganda
+# slug: the-prosecutor-v-ntaganda
 ---
 

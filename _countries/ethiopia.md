@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression:
 war_crimes: "[The Criminal Code of the Federal Democratic Republic of Ethiopia, Article 270-282](https://iccdb.hrlc.net/data/doc/272/keyword/145/)"
 note:
-slug: ethiopia
+# slug: ethiopia
 ---

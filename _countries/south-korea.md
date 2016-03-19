@@ -17,5 +17,5 @@ crimes_against_humanity: "[Korea - ICC Crimes Act - Chapter 2 - Article 9](https
 aggression:
 war_crimes: "[Korea - ICC Crimes Act - Chapter 2 - Articles 10-15](https://iccdb.hrlc.net/data/doc/206/keyword/145/)"
 note:
-slug: south-korea
+# slug: south-korea
 ---

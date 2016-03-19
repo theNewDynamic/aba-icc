@@ -8,6 +8,6 @@ long_name: "The Prosecutor v. Ahmad Al Faqi Al Mahdi"
 accused:
   - ahmad-al-faqi-al-mahdi
 
-slug: the-prosecutor-v-al-faqi-al-mahdi
+# slug: the-prosecutor-v-al-faqi-al-mahdi
 ---
 

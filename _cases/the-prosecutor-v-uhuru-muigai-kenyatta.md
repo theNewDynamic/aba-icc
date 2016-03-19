@@ -9,6 +9,6 @@ accused:
   - uhuru-muigai-kenyatta
   - mohammed-hussein-ali
 
-slug: the-prosecutor-v-uhuru-muigai-kenyatta
+# slug: the-prosecutor-v-uhuru-muigai-kenyatta
 ---
 Charges Withdrawn

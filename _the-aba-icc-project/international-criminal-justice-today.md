@@ -5,7 +5,7 @@ featured_image_path: /uploads/1424289344517_ictj-overlay-1400x1271.jpg
 featured_image_position: top
 description: "International Criminal Justice Today (ICJT) is an online periodical dedicated to news, opinion, and other current events about international criminal justice"
 timeline:
-slug: international-criminal-justice-today
+# slug: international-criminal-justice-today
 ---
 
 [_International Criminal Justice Today_](http://bit.ly/ictj_page) (ICJT) is an online periodical dedicated to news, opinion, and other current events about international criminal justice, or the fight to hold criminally accountable those who participate in the international atrocity crimes of genocide, crimes against humanity, war crimes, and aggression. ICJT is the product of a partnership between the [American Bar Association Center for Human Rights](http://www.americanbar.org/groups/human_rights.html), its [International Criminal Court Project](http://www.aba-icc.org) and the [Stanford Law School Program in International and Comparative Law](https://www.law.stanford.edu/areas-of-interest/international-and-comparative-law)

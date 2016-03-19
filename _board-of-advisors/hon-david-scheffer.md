@@ -6,7 +6,7 @@ last_name: Scheffer
 image_path: /uploads/1423056312292_1365092094-davidscheffer.jpg
 position: Professor of Law, Northwestern University School of Law U.S. Ambassador at-Large for War Crimes Issues (1997-2001)
 description: Professor of Law, Northwestern University School of Law U.S. Ambassador at-Large for War Crimes Issues (1997-2001)
-slug: hon-david-scheffer
+# slug: hon-david-scheffer
 ---
 
 #### U.S. Ambassador at-Large for War Crimes Issues (1997-2001)

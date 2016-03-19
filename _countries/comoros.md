@@ -17,5 +17,5 @@ crimes_against_humanity: "[Loi n°11-022/au du 13 décembre 2011 - Titre III - C
 aggression:
 war_crimes: "[Loi n°11-022/au du 13 décembre 2011 - Titre III - Chapitre 1 - Article 20](https://iccdb.hrlc.net/data/doc/481/)"
 note:
-slug: comoros
+# slug: comoros
 ---

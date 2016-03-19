@@ -17,5 +17,5 @@ crimes_against_humanity: "[Crimes Against Humanity and War Crimes Act](http://la
 aggression:
 war_crimes: "[Crimes Against Humanity and War Crimes Act](http://laws-lois.justice.gc.ca/eng/acts/C-45.9/page-1.html)"
 note:
-slug: canada
+# slug: canada
 ---

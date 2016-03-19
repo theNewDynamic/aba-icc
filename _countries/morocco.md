@@ -17,5 +17,5 @@ crimes_against_humanity: "[Morocco Constitution, Article 23](http://www.ancl-rad
 aggression:
 war_crimes: "[Morocco Constitution, Article 23](http://www.ancl-radc.org.za/sites/default/files/morocco_eng.pdf)"
 note:
-slug: morocco
+# slug: morocco
 ---

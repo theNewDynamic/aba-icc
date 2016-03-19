@@ -6,7 +6,7 @@ date: 2015-02-23T18:45:00.000Z
 phase: Preliminary Examinations, Subject Matter Jurisdiction Assessement
 link_to_more_information: "http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/office%20of%20the%20prosecutor/comm%20and%20ref/pe-ongoing/ukraine/Pages/ukraine.aspx"
 description: "This Preliminary Examination concerns police violence against protesters of Ukraine's decision not to join the European Union. The Preliminary Examination is currently in the Subject Matter Jurisdiction Assessment stage."
-slug: ukraine
+# slug: ukraine
 ---
 
 Following the breakup of the Soviet Union in 1991, Ukraine gained its independence, taking with it the Crimean peninsula. On November 21, 2013, protests erupted in Ukraine as a result of President Yanukovych's decision not to sign an agreement for Ukraine to join with the European Union. Over the weeks that protests continued, violent clashes between protesters and security forces increased. In the first three months of protests, an estimated 118 people were killed as a result of the violence.

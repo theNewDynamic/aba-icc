@@ -17,5 +17,5 @@ crimes_against_humanity: "[Guatemala Penal Code - Title 11 - Chapter 4 - Article
 aggression:
 war_crimes:
 note:
-slug: guatemala
+# slug: guatemala
 ---

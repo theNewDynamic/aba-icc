@@ -6,7 +6,7 @@ last_name: Kirk McDonald
 image_path: /uploads/1423055978134_image-11.jpg
 position: President of the International Criminal Tribunal for the former Yugoslavia (1997-99)
 description: President of the International Criminal Tribunal for the former Yugoslavia (1997-99)
-slug: hon-gabrielle-anne-kirk-mcdonald
+# slug: hon-gabrielle-anne-kirk-mcdonald
 ---
 
 Hon. Judge McDonald is the former President of the International Criminal Tribunal for the former Yugoslavia (ICTY), a position she served as from 1997 to 1999. She is the only woman to occupy the tribunal's presidency since its establishment. As the presiding judge in Trial Chamber II, she issued the tribunal's verdict against Duško Tadić, the first international criminal trial since the Nuremberg Trials and the International Military Tribunal for the Far East. Judge McDonald was one of the first eleven judges elected by the United Nations to serve at the ICTY. Recently, she retired as one of three American arbitrators on the Iran – United States Claims Tribunal in The Hague.

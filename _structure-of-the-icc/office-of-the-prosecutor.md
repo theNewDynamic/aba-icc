@@ -18,5 +18,5 @@ images:
     image_path: /uploads/1433343547093_Michel_de_Smedt.jpg
   - name: " Fabricio Guariglia, Director of the Prosecutions Division (Argentina)."
     image_path: /uploads/1440087485915_Fabricio_Guariglia.jpg
-slug: office-of the prosecutor
+# slug: office-of the prosecutor
 ---

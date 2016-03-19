@@ -17,5 +17,5 @@ crimes_against_humanity: "[Macedonia Penal Code - Chapter 34 - Articles 403a, 40
 aggression: "[Macedonia Penal Code - Chapter 34 - Article 415](https://iccdb.hrlc.net/data/doc/384/keyword/1/)"
 war_crimes: "[Macedonia Penal Code - Chapter 34 - Articles 404-407, 409, 412-414, 416](https://iccdb.hrlc.net/data/doc/384/keyword/145/)"
 note:
-slug: macedonia
+# slug: macedonia
 ---

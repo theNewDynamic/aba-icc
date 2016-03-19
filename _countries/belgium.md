@@ -17,5 +17,5 @@ crimes_against_humanity: "[Belgium’s Law on Serious Violations of Internationa
 aggression:
 war_crimes: "[Belgium’s Law on Serious Violations of International Humanitarian Law](https://iccdb.hrlc.net/data/doc/65/keyword/145/)"
 note:
-slug: belgium
+# slug: belgium
 ---

@@ -8,6 +8,6 @@ long_name: "The Prosecutor v. Callixte Mbarushimana"
 accused:
   - callixte-mbarushimana
 
-slug: the-prosecutor-v-mbarushimana
+# slug: the-prosecutor-v-mbarushimana
 ---
 Charges Not Confirmed

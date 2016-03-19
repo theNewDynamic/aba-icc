@@ -17,5 +17,5 @@ crimes_against_humanity: "(https://iccdb.hrlc.net/data/country/10/)"
 aggression:
 war_crimes: "[Austria](https://iccdb.hrlc.net/data/country/10/)"
 note: "[Austria](https://iccdb.hrlc.net/data/country/10/)"
-slug: austria
+# slug: austria
 ---

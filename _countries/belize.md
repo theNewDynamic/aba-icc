@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression: "(https://iccdb.hrlc.net/data/doc/520/keyword/46/)"
 war_crimes:
 note:
-slug: belize
+# slug: belize
 ---

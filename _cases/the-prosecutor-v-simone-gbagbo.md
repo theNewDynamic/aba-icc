@@ -8,6 +8,6 @@ long_name:
 accused:
   - simone-gbagbo
 
-slug: the-prosecutor-v-simone-gbagbo
+# slug: the-prosecutor-v-simone-gbagbo
 ---
 

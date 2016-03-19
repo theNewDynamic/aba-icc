@@ -5,7 +5,7 @@ featured_image_path: /uploads/1423101251774_Benjamin_Ferencz.jpg
 featured_image_position: center
 description: "The project’s mission is to strengthen, regularize, and broaden U.S. engagement with the ICC."
 timeline:
-slug: about-the-project
+# slug: about-the-project
 ---
 
 <figure data-type="image" class="wy-figure-left wy-figure-small">![](http://lh3.googleusercontent.com/TTlcOO10qZgiEJTEhHh3em-KighUdxBIHK4Vjfsg7HRZKcd66IwRYiJuHVdwQ4LEKEVkGviamBgnW9HDCeZztFBLoCXXwy5gWg=s300)</figure>

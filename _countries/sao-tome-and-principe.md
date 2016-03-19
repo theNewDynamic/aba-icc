@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression:
 war_crimes:
 note:
-slug: sao-tome-and-principe
+# slug: sao-tome-and-principe
 ---

@@ -17,5 +17,5 @@ crimes_against_humanity: "[International Criminal Court Act - Part 1 - Article 7
 aggression: "[Malta - Criminal Code - Part II - Title II - Article 82c](https://iccdb.hrlc.net/data/doc/149/keyword/1/)"
 war_crimes: "[International Criminal Court Act - Part 1 - Article 8](https://iccdb.hrlc.net/data/doc/40/keyword/145/) [Malta - Criminal Code - Part II - Titles I, II - Articles 54a, 54d, 54f, 82a, 82b](https://iccdb.hrlc.net/data/doc/149/keyword/145/)"
 note:
-slug: malta
+# slug: malta
 ---

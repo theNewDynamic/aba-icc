@@ -17,5 +17,5 @@ crimes_against_humanity: "[Moldova Criminal Code - Chapter III - Article 40](htt
 aggression: "[Moldova Criminal Code - Chapter I - Article 139](https://iccdb.hrlc.net/data/doc/188/keyword/1/)"
 war_crimes: "[Moldova Criminal Code, Chapter I - Articles 136-138, 143](https://iccdb.hrlc.net/data/doc/188/keyword/145/)"
 note:
-slug: moldova
+# slug: moldova
 ---

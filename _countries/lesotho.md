@@ -17,5 +17,5 @@ crimes_against_humanity: "[Penal Code Act, 2010 - Part VI - Article 94](https://
 aggression:
 war_crimes: "[Penal Code Act, 2010 - Part VI - Article 95](https://iccdb.hrlc.net/data/doc/776/keyword/145/)"
 note:
-slug: lesotho
+# slug: lesotho
 ---

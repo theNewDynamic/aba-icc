@@ -17,5 +17,5 @@ crimes_against_humanity: "[Czech Criminal Code, Chapter 10](http://www.coe.int/t
 aggression:
 war_crimes:
 note:
-slug: czech-republic
+# slug: czech-republic
 ---

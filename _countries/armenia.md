@@ -17,5 +17,5 @@ crimes_against_humanity: "[Armenian Criminal Code, Chapter 33](https://iccdb.hrl
 aggression: "[Armenian Criminal Code, Chapter 33, Article 384](https://iccdb.hrlc.net/data/doc/169/keyword/1/)"
 war_crimes: "[Armenian Criminal Code, Chapter 33](https://iccdb.hrlc.net/data/doc/169/keyword/145/)"
 note:
-slug: armenia
+# slug: armenia
 ---

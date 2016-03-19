@@ -17,5 +17,5 @@ crimes_against_humanity: "[Law #26 (Human Rights Tribunal Code)](http://preventg
 aggression:
 war_crimes:
 note:
-slug: indonesia
+# slug: indonesia
 ---

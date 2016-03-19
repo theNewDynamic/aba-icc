@@ -13,5 +13,5 @@ images:
     image_path: /uploads/1432160866161_15769974281_f69c4819df_m.jpg
   - name: "Judge Joyce Aluoch, Vice-President (Kenya)"
     image_path: /uploads/1432160931694_aluoch.jpg
-slug: presidency
+# slug: presidency
 ---

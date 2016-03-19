@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression:
 war_crimes:
 note: "ratified war crimes amendment 9/26/2011"
-slug: san-marino
+# slug: san-marino
 ---

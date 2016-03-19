@@ -17,5 +17,5 @@ crimes_against_humanity: "[Bill 6406-07 ](https://iccdb.hrlc.net/data/doc/247/)"
 aggression:
 war_crimes: "[Bill 6406-07](https://iccdb.hrlc.net/data/doc/247/)"
 note:
-slug: chile
+# slug: chile
 ---

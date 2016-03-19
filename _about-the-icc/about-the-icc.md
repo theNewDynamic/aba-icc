@@ -3,7 +3,7 @@ title: "About the ICC"
 published: true
 featured_image_path: /uploads/1431095283480_bg-icc-wh-1600x900.jpg
 description: "The International Criminal Court (ICC) is the world's only permanent international court with a mandate to investigate and prosecute individuals who participate in the international atrocity crimes of genocide, crimes against humanity, and war crimes. "
-slug: about-the-icc
+# slug: about-the-icc
 ---
 
 The International Criminal Court (ICC) is the world's _only permanent_ international court with a mandate to investigate and prosecute individuals who participate in the international atrocity crimes of genocide, crimes against humanity, and war crimes. The ICC's jurisdiction may expand in 2017 to include the crime of aggression.

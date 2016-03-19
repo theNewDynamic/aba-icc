@@ -17,5 +17,5 @@ crimes_against_humanity: "[Tajikistan Criminal Code - Section II - Chapter 3 - A
 aggression: "[Tajikistan Criminal Code - Section XV - Chapter 34 - Article 395](https://iccdb.hrlc.net/data/doc/198/keyword/1/)"
 war_crimes: "[Tajikistan Criminal Code - Section XV - Chapter 34 - Article 403](https://iccdb.hrlc.net/data/doc/198/keyword/145/)"
 note:
-slug: tajikistan
+# slug: tajikistan
 ---

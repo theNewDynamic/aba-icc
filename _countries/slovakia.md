@@ -17,5 +17,5 @@ crimes_against_humanity: "[Slovakia Criminal Code - Part II - Chapter 12 - Title
 aggression: "[Slovakia Criminal Code - Part II - Chapter 12 - Title 1 - Section 417](https://iccdb.hrlc.net/data/doc/458/keyword/1/)"
 war_crimes: "[Slovakia Criminal Code - Part II - Chapter 12 - Title 2 - Sections 426-428, 431-435](https://iccdb.hrlc.net/data/doc/458/keyword/145/)"
 note:
-slug: slovakia
+# slug: slovakia
 ---

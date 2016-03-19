@@ -5,7 +5,7 @@ featured_image_path:
 featured_image_position: bottom
 description:
 timeline:
-slug: contact
+# slug: contact
 ---
 
 ##### **American Bar Association's International Criminal Court Project**
@@ -54,7 +54,7 @@ featured_image_path: /uploads/1424440375683_aba-interns-international-criminal-j
 featured_image_position: center
 description: "The American Bar Association's (ABA) International Criminal Court (ICC) Project offers internships throughout the year to qualified individuals from anywhere in the world who have demonstrated an interest in the promotion of international criminal justice. "
 timeline:
-slug: internships
+# slug: internships
 ---
 
 The American Bar Association's (ABA) International Criminal Court (ICC) Project offers internships throughout the year to qualified individuals from anywhere in the world who have demonstrated an interest in the promotion of international criminal justice. Interns with the ABA-ICC Project undertake a wide variety of different work assisgnment, such as helping organizing advocacy events in Washington, D.C. and around the world, conducting research for material to be published on our websites, drafting memorandums on interesting issues in international criminal justice, and helping maintain work relationships with outside organizations and entities. In addition to working on the ABA-ICC Project, interns are offered the opportunity to assist other programs within the [ABA Center for Human Rights](http://www.americanbar.org/groups/human_rights.html), such as our business and human rights, human rights defenders, and anti-trafficking programs.

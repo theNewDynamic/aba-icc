@@ -8,6 +8,6 @@ long_name: "The Prosecutor v. Abdel Raheem Muhammad Hussein"
 accused:
   - abdel-raheem-muhammad-hussein
 
-slug: the-prosecutor-v-hussein
+# slug: the-prosecutor-v-hussein
 ---
 

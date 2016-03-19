@@ -9,6 +9,6 @@ accused:
   - saif-al-islam-gaddafi
   - abdullah-al-senussi
 
-slug: the-prosecutor-vs-s-gadaffi-and-senussi
+# slug: the-prosecutor-vs-s-gadaffi-and-senussi
 ---
 

@@ -17,6 +17,6 @@ crimes_against_humanity: "[Cambodian Criminal Code, Articles 188-92](http://www.
 aggression:
 war_crimes: "[Cambodian Criminal Code, Articles 1893-98](http://www.unodc.org/res/cld/document/khm/criminal_code_of_the_kingdom_of_cambodia_html/Cambodia_Criminal-Code-of-the-Kingdom-of-Cambodia-30-Nov-2009-Eng.pdf)"
 note:
-slug: cambodia
+# slug: cambodia
 ---
 note: Registered Vessels of Comoros, Greece, and Cambodia

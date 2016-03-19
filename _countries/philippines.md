@@ -17,5 +17,5 @@ crimes_against_humanity: "[Philippine Act on Crimes Against International Humani
 aggression:
 war_crimes: "[Philippine Act on Crimes Against International Humanitarian Law - Chapter III - Section 4](https://iccdb.hrlc.net/data/doc/411/keyword/145/l)"
 note:
-slug: philippines
+# slug: philippines
 ---

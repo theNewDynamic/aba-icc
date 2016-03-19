@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression: "[Criminal Code of Mongolia - Title 10 - Chapter 13 - Article 297](https://iccdb.hrlc.net/data/doc/337/keyword/1/)"
 war_crimes: "[Criminal Code of Mongolia - Title 10 - Chapter 13 - Articles 299, 301, 304, 306](https://iccdb.hrlc.net/data/doc/337/keyword/145/)"
 note:
-slug: mongolia
+# slug: mongolia
 ---

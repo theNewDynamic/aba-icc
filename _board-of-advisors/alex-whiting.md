@@ -6,7 +6,7 @@ last_name: Whiting
 image_path: /uploads/1456417764306_1D2B9579.jpg
 position: Professor of Practice, Harvard Law School; Prosecution Coordinator and Investigations Coordinator at the International Criminal Court (2010-2013)
 description:
-slug: alex-whiting
+# slug: alex-whiting
 ---
 
 Alex Whiting is a Professor of Practice at Harvard Law School where he teaches, writes and consults on domestic and international criminal prosecution issues. From 2010 until 2013, he was in the Office of the Prosecutor at the International Criminal Court (ICC) in The Hague where he served first as the Investigations Coordinator, overseeing all of the investigations in the office, and then as Prosecutions Coordinator, overseeing all of the office’s ongoing prosecutions. Before going to the ICC, Whiting taught for more than three years as an Assistant Clinical Professor of Law at Harvard Law School, again with a focus on prosecution subjects. From 2002-2007, he was a Trial Attorney and then a Senior Trial Attorney with the International Criminal Tribunal for the Former Yugoslavia (ICTY) in The Hague. He was lead prosecution counsel in _Prosecutor v. Fatmir Limaj, Isak Musliu, and Haradin Bala; Prosecutor v. Milan Marti__ć__;_ and _Prosecutor v. Dragomir Milo__š__evi__ć_.

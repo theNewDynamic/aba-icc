@@ -6,7 +6,7 @@ date: 2015-02-23T19:03:00.000Z
 phase: Preliminary Examinations, Closed - Decision Not to Proceed
 link_to_more_information: "http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/office%20of%20the%20prosecutor/comm%20and%20ref/pe-cdnp/korea/Pages/korea.aspx"
 description: "This Preliminary Examination concerns South Korean civilians and marines on Yeonpyeong Island killed by North Korean fire. On June 23, 2014, the Office of the Prosecutor closed the Preliminary Examination, concluding there was insufficient evidence to proceed."
-slug: south-korea
+# slug: south-korea
 ---
 
 At the end of World War II, the Korean Peninsula was divided into two separate States, North and South Korea. Since 1945, the two States have been in and out of open armed conflict with minor skirmishes in between. North Korea is believed to have been responsible for deaths of South Korean civilians and marines on Yeonpyeong Island on November 23, 2010 and the sinking of a South Korea warship, the Cheonan.

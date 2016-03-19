@@ -17,5 +17,5 @@ crimes_against_humanity: "[Liechtenstein Law of 20 October 2004 on Cooperation w
 aggression:
 war_crimes: "[Liechtenstein Law of 20 October 2004 on Cooperation with the International Criminal Court and other International Tribunals](https://iccdb.hrlc.net/data/doc/96/keyword/145/)"
 note:
-slug: liechtenstein
+# slug: liechtenstein
 ---

@@ -17,5 +17,5 @@ crimes_against_humanity: "[Uruguay Criminal Code, Article 18](http://www.parlame
 aggression:
 war_crimes: "[Uruguay Criminal Code, Article 26](http://www.parlamento.gub.uy/leyes/AccesoTextoLey.asp?Ley=18026&Anchor=)"
 note:
-slug: uruguay
+# slug: uruguay
 ---

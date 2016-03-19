@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression: "[Ukraine Criminal Code - Chapter XX - Article 437](https://iccdb.hrlc.net/data/doc/464/keyword/1/)"
 war_crimes: "[Ukraine Criminal Code - Chapter XX - Article 438](https://iccdb.hrlc.net/data/doc/464/keyword/145/)"
 note:
-slug: ukraine
+# slug: ukraine
 ---

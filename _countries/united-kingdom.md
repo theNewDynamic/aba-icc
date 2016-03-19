@@ -17,5 +17,5 @@ crimes_against_humanity: "[International Criminal Court Act - Part 5 - Sections 
 aggression:
 war_crimes: "[International Criminal Court Act - Part 5 - Sections 50-53, 55, 56, 58-60, 66; Schedule 8 - Article 8](https://iccdb.hrlc.net/data/doc/85/keyword/145/)"
 note:
-slug: united-kingdom
+# slug: united-kingdom
 ---

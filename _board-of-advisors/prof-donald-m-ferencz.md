@@ -6,7 +6,7 @@ last_name: Ferencz
 image_path: /uploads/1423055612725_image-2.jpg
 position: Founder of the Global Institute for the Prevention of Aggression
 description: Founder of the Global Institute for the Prevention of Aggression
-slug: prof-donald-m-ferencz
+# slug: prof-donald-m-ferencz
 ---
 
 Mr. Donald M. Ferencz is a lawyer, an educator, and a proponent of the rule of law. He is the founder of the Global Institute for the Prevention of Aggression, a co-organizer of the worldwide campaign to ratify the 2010 Kampala amendments to the ICC Statute, and a non-governmental advisor to the Assembly of States Parties' working group on the crime of aggression. Mr. Ferencz was also a contributing author to the Handbook on the Ratification and Implementation of the Kampala Amendments to the Rome Statute of the International Criminal Court, a “how-to" manual for states on the implementation of new amendments regarding aggression.

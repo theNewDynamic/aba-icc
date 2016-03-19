@@ -9,6 +9,6 @@ accused:
   - abdallah-banda-abakaer-nourain
   - saleh-mohammed-jerbo-jamus
 
-slug: the-prosecutor-v-banda
+# slug: the-prosecutor-v-banda
 ---
 Charges Withdrawn: Death of Accused

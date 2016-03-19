@@ -17,5 +17,5 @@ crimes_against_humanity: "[Latvia Penal Code - Chapter IX - Section 71.2](https:
 aggression: "[Latvia Penal Code - Chapter IX - Sections 72, 77](https://iccdb.hrlc.net/data/doc/452/keyword/1/)"
 war_crimes: "[Latvia Penal Code - Chapter IX - Section 74](https://iccdb.hrlc.net/data/doc/452/keyword/145/)"
 note:
-slug: latvia
+# slug: latvia
 ---

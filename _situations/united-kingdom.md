@@ -6,7 +6,7 @@ date: 2015-02-23T18:45:00.000Z
 phase: Preliminary Examinations, Subject Matter Jurisdiction Assessement
 link_to_more_information:
 description:
-slug: united-kingdom
+# slug: united-kingdom
 ---
 
 In March 2003, a U.S.-led coalition occupied portions of Iraq, including the capitol city of Baghdad. On April 7, 2003, a U.K. contingent took control of Basra, and, by May 7, the U.S. declared an end to major combat operations. On May 8, 2003, the U.S. and U.K. provided the U.N. Security Council with specific legal authorities that justified the occupation. The occupation ended on June 30, 2004 when the new interim government of Iraq assumed control of occupying forces and consented to the presence of coalition forces.

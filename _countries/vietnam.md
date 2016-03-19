@@ -17,5 +17,5 @@ crimes_against_humanity: "[Vietnam Criminal Code - Chapter XXIV - Article 342](h
 aggression: "[Vietnam Criminal Code - Chapter XXIV - Article 341](https://iccdb.hrlc.net/data/doc/622/keyword/1/)"
 war_crimes: "[Vietnam Criminal Code - Chapter XXIV - Article 343](https://iccdb.hrlc.net/data/doc/622/keyword/145/)"
 note:
-slug: vietnam
+# slug: vietnam
 ---

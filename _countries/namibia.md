@@ -17,5 +17,5 @@ crimes_against_humanity: "[Constitution of the Republic of Namibia - Chapter 3 -
 aggression:
 war_crimes: "[Namibia - Geneva Conventions Act](https://iccdb.hrlc.net/data/doc/784/keyword/145/)"
 note:
-slug: namibia
+# slug: namibia
 ---

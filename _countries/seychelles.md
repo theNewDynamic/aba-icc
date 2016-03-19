@@ -17,5 +17,5 @@ crimes_against_humanity: "[Seychelles - Constitution - Chapter III - Part I - Ar
 aggression:
 war_crimes:
 note:
-slug: seychelles
+# slug: seychelles
 ---

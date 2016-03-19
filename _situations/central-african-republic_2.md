@@ -6,7 +6,7 @@ date: 2015-02-23T19:16:00.000Z
 phase: Situations & Cases
 link_to_more_information:
 description: "The second situation in the Central African Republic involves widespread killing of civilians, burning and looting of homes, and other serious crimes. There are currently no cases related to Central African Republic II situation, although an investigation is ongoing."
-slug: central-african-republic_2
+# slug: central-african-republic_2
 ---
 
 The second situation in the Central African Republic (called Central African Republic II). In late 2012 and again in early 2013, mostly Muslim Seleka rebels seized power and territory in a military campaign characterized by widespread killing of civilians, burning and looting of homes, and other serious crimes. This campaign resulted in their taking of Bangui, the CAR's capital, and forcing President Bozizé into exile. In response, groups calling themselves the anti-Balaka - a mainly Christian militia - organized to fight against the Seleka. The anti-Balaka began committing large-scale reprisal attacks against Muslim civilians and others.

@@ -8,6 +8,6 @@ long_name: "The Prosecutor v. Omar Hassan Ahmad Al Bashir"
 accused:
   - omar-hassan-ahmad-al-bashir
 
-slug: the-prosecutor-v-al-bashir
+# slug: the-prosecutor-v-al-bashir
 ---
 

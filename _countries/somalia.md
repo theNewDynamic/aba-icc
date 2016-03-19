@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression:
 war_crimes: "[Constitution of Somalia](https://iccdb.hrlc.net/data/doc/853/keyword/145/)"
 note:
-slug: somalia
+# slug: somalia
 ---

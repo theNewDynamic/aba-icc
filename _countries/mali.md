@@ -17,5 +17,5 @@ crimes_against_humanity: "[Mali Penal Code - Book III - Chapter I - Article 29](
 aggression:
 war_crimes: "[Mali Penal Code - Book III - Chapter I - Article 31](https://iccdb.hrlc.net/data/doc/319/)"
 note:
-slug: mali
+# slug: mali
 ---

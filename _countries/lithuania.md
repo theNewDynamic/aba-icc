@@ -17,5 +17,5 @@ crimes_against_humanity: "[Criminal Code of the Republic of Lithuania - Chapter 
 aggression:
 war_crimes: "[Criminal Code of the Republic of Lithuania - Chapter XV - Articles 101-109, 111](https://iccdb.hrlc.net/data/doc/312/keyword/145/)"
 note:
-slug: lithuania
+# slug: lithuania
 ---

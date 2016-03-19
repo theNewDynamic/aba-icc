@@ -8,6 +8,6 @@ long_name: "The Prosecutor v. Jean-Pierre Bemba Gombo"
 accused:
   - jean-pierre-bemba-gombo
 
-slug: the-prosecutor-v-bemba
+# slug: the-prosecutor-v-bemba
 ---
 

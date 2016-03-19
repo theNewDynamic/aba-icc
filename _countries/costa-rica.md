@@ -17,5 +17,5 @@ crimes_against_humanity: "[Costa Rican Penal Code, Article 379](https://iccdb.hr
 aggression:
 war_crimes: "[Costa Rican Penal Code, Article 378](https://iccdb.hrlc.net/data/doc/178/keyword/145/) [Aprobación del Estatuto de Roma de la Corte Penal Internacional - Parte II - Artículo 8](https://iccdb.hrlc.net/data/doc/537/)"
 note:
-slug: costa-rica
+# slug: costa-rica
 ---

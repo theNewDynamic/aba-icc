@@ -5,5 +5,5 @@ responsibilities:
   - Support victims and their families through reparations and assistance.
 footnotes:
 images:
-slug: trust-fund for victims
+# slug: trust-fund for victims
 ---

@@ -8,7 +8,7 @@ long_name: "The Prosecutor v. Thomas Lubanga Dyilo"
 accused:
   - thomas-lubanga-dyilo
 
-slug: the-prosecutor-v-lubanga
+# slug: the-prosecutor-v-lubanga
 ---
 
 ---

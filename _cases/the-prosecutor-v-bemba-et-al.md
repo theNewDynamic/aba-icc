@@ -12,5 +12,5 @@ accused:
   - fidèle-babala-wandu
   - narcisse-arido
 
-slug: the-prosecutor-v-bemba-et-al
+# slug: the-prosecutor-v-bemba-et-al
 ---

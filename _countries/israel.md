@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression:
 war_crimes:
 note: "12/31/2000* (unsigned on 8/28/2002)expressed intent not to ratify"
-slug: israel
+# slug: israel
 ---

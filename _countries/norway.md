@@ -17,5 +17,5 @@ crimes_against_humanity: "[Norwegian Criminal Code - Chapter 16 - Sections 102, 
 aggression: "[The General Civil Penal Code - Part II - Chapter 8 - Sections 84, 86](https://iccdb.hrlc.net/data/doc/354/keyword/1/)"
 war_crimes: "[Norwegian Criminal Code - Chapter 16 - Section 103-108](https://iccdb.hrlc.net/data/doc/105/keyword/145/)"
 note: "war crimes amendment signed 6/10/2013"
-slug: norway
+# slug: norway
 ---

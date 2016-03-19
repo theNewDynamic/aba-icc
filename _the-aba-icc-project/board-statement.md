@@ -5,7 +5,7 @@ featured_image_path:
 featured_image_position: bottom
 description:
 timeline:
-slug: board-statement
+# slug: board-statement
 ---
 
 ## American Bar Association's International Criminal Court Project

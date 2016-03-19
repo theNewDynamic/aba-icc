@@ -17,5 +17,5 @@ crimes_against_humanity: "[Bulgarian Criminal Code, Chapter 14](https://iccdb.hr
 aggression: "[Bulgarian Criminal Code, Chapter 14, Article 409](https://iccdb.hrlc.net/data/doc/172/keyword/1/)"
 war_crimes: "[Bulgarian Criminal Code, Chapter 14](https://iccdb.hrlc.net/data/doc/172/keyword/145/)"
 note:
-slug: bulgaria
+# slug: bulgaria
 ---

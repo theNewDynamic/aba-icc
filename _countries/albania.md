@@ -17,6 +17,6 @@ crimes_against_humanity: "[Albanian Criminal Code, Chapter 1, Article 74](https:
 aggression:
 war_crimes: "[Albanian Criminal Code, Chapter 1, Article 75](https://iccdb.hrlc.net/data/doc/215/keyword/145/)"
 note:
-slug: albania
+# slug: albania
 ---
 ---

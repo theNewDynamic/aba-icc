@@ -17,5 +17,5 @@ crimes_against_humanity: "[Montenegro Criminal Code - Title 35 - Article 427](ht
 aggression: "[Montenegro Criminal Code - Title 35 - Article 442](https://iccdb.hrlc.net/data/doc/339/keyword/1/)"
 war_crimes: "[Montenegro Criminal Code - Title 35 - Articles 428-441](http://www.iccnow.org/documents/MontDraftCrCodeDec03.pdf)"
 note:
-slug: montenegro
+# slug: montenegro
 ---

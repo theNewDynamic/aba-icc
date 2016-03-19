@@ -17,5 +17,5 @@ crimes_against_humanity: "[Timor-Leste Criminal Code - Book II - Title I - Chapt
 aggression:
 war_crimes: "[Timor-Leste Criminal Code - Book II - Title I - Chapter I - Article 125-130](https://iccdb.hrlc.net/data/doc/387/keyword/145/)"
 note:
-slug: timor-leste
+# slug: timor-leste
 ---

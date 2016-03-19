@@ -17,5 +17,5 @@ crimes_against_humanity: "[Burundian Criminal Code No. 1/05 of 22 April 2009, st
 aggression:
 war_crimes:
 note:
-slug: burundi
+# slug: burundi
 ---

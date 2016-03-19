@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression:
 war_crimes:
 note:
-slug: antigua-and-barbuda
+# slug: antigua-and-barbuda
 ---

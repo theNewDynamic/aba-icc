@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression:
 war_crimes:
 note:
-slug: south-georgia-and-the-south-sandwich-islands
+# slug: south-georgia-and-the-south-sandwich-islands
 ---

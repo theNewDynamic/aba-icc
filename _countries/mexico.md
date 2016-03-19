@@ -17,5 +17,5 @@ crimes_against_humanity: "[Mexico Penal Code - Book II - Title III](https://iccd
 aggression:
 war_crimes:
 note:
-slug: mexico
+# slug: mexico
 ---

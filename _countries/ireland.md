@@ -17,5 +17,5 @@ crimes_against_humanity: "[Irish International Criminal Court Act of October 200
 aggression:
 war_crimes: "[Irish International Criminal Court Act of October 2006 - Part 2 - Article 8.2](https://iccdb.hrlc.net/data/doc/201/keyword/145/)"
 note:
-slug: ireland
+# slug: ireland
 ---

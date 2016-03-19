@@ -17,5 +17,5 @@ crimes_against_humanity: "[Spain Penal Code - Book I - Title XXIV - Chapter II B
 aggression:
 war_crimes: "[Spain Penal Code - Book I - Title XXIV - Chapter III - Articles 608-614 bis](https://iccdb.hrlc.net/data/doc/706/keyword/145/)"
 note:
-slug: spain
+# slug: spain
 ---

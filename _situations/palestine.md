@@ -6,7 +6,7 @@ date: 2015-02-23T18:54:00.000Z
 phase: Preliminary Examinations, Subject Matter Jurisdiction Assessement
 link_to_more_information:
 description: "This Preliminary Examination concerns civilian deaths in the Gaza Strip resulting from Hamas rockets and Israeli air strikes. The Preliminary Examination is currently in the Initial Assessment stage."
-slug: palestine
+# slug: palestine
 ---
 
 On June 12, 2014, members of the Hamas terrorist group kidnapped 3 Israeli children from the West Bank. Their bodies were found by the Israeli Defense Force on June 30, 2014, leading Israeli Prime Minister Benyamin Netanyahu to issue a statement vowing revenge against Hamas. Following escalating tension from the kidnappings, the southern region of Israel was hit by missiles fired by Hamas members in the Gaza Strip. The rocket fire killed seven Israeli civilians. The Israeli Air Force responded with air strikes in Gaza designed to cripple Hamas' missile capabilities. An estimated 2,100 Palestinian civilians were killed in the air strikes.

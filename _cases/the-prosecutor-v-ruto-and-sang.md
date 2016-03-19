@@ -10,6 +10,6 @@ accused:
   - joshua-arap-sang
   - henry-kiprono-kosgey
 
-slug: the-prosecutor-v-ruto-and-sang
+# slug: the-prosecutor-v-ruto-and-sang
 ---
 

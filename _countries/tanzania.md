@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression: "[Tanzania - Penal Code - Part II - Division 1 - Chapter VII - Article 43](https://iccdb.hrlc.net/data/doc/393/keyword/1/)"
 war_crimes:
 note:
-slug: tanzania
+# slug: tanzania
 ---

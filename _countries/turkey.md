@@ -17,5 +17,5 @@ crimes_against_humanity: "[Turkey Criminal Code - Volume II - Chapter I - Sectio
 aggression:
 war_crimes:
 note:
-slug: turkey
+# slug: turkey
 ---

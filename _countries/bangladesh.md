@@ -17,5 +17,5 @@ crimes_against_humanity: "[International Crimes (Tribunals) Act of 1973](https:/
 aggression:
 war_crimes: "[International Crimes (Tribunals) Act of 1973](https://iccdb.hrlc.net/data/doc/518/keyword/145/)"
 note:
-slug: bangladesh
+# slug: bangladesh
 ---

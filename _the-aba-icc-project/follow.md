@@ -5,7 +5,7 @@ featured_image_path:
 featured_image_position: bottom
 description: "Keep up-to-date with the ABA-ICC Project."
 timeline:
-slug: follow
+# slug: follow
 ---
 
 ## Enter your details below to keep up-to-date with the ABA-ICC Project.
@@ -39,5 +39,5 @@ featured_image_path:
 featured_image_position: bottom
 description:
 timeline:
-slug: news
+# slug: news
 ---

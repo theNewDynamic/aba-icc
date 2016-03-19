@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression:
 war_crimes: "[Paraguay Criminal Code - Book II - Title IX - Article 320](https://iccdb.hrlc.net/data/doc/361/)"
 note:
-slug: paraguay
+# slug: paraguay
 ---

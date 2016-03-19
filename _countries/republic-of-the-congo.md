@@ -17,5 +17,5 @@ crimes_against_humanity: "[Law No. 8-98 of 31 October 1998 - Chapter 3](https://
 aggression:
 war_crimes: "[Law No. 8-98 of 31 October 1998 - Chapter 2](https://iccdb.hrlc.net/data/doc/533/)"
 note:
-slug: republic-of-the-congo
+# slug: republic-of-the-congo
 ---

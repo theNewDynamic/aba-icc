@@ -17,5 +17,5 @@ crimes_against_humanity: "[Adaptation of Criminal Legislation to ICC Statute - C
 aggression:
 war_crimes: "[Adaptation of Criminal Legislation to ICC Statute - Chapter II - Section 2 - Articles 10-16](https://iccdb.hrlc.net/data/doc/99/keyword/145/) [Law No. 144/99 on International Judicial Cooperation in Criminal Matters - Part I - Chapter 1 - Article 7](https://iccdb.hrlc.net/data/doc/156/keyword/145/)"
 note:
-slug: portugal
+# slug: portugal
 ---

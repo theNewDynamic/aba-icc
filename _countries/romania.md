@@ -17,5 +17,5 @@ crimes_against_humanity: "[Romania Criminal Code - Title I - Chapter I - Article
 aggression:
 war_crimes: "[Romania Criminal Code - Title I - Chapter I - Articles 173, 174, 177](https://iccdb.hrlc.net/data/doc/369/keyword/145/)"
 note:
-slug: romania
+# slug: romania
 ---

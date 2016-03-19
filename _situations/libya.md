@@ -6,7 +6,7 @@ date: 2015-02-23T19:02:00.000Z
 phase: Situations & Cases
 link_to_more_information:
 description: "The situation in the Libyan Arab Jamahiriya (Libya) involves mass violence that occurred throughout Libya’s six month popular uprising in 2011. Within the Libya situation, there is one ongoing case, with one case terminated after the death of Colonel Muammar Gaddafi."
-slug: libya
+# slug: libya
 ---
 
 The situation in the Libyan Arab Jamahiriya (Libya) involves mass violence that occurred throughout Libya's six month popular uprising in 2011. Colonel Muammar Mohammed Abu Minyar Gaddafi had ruled Libya since seizing power in 1969 and instituted a legal and political regime which allowed him to rule with absolute power. After the Tunisian and Egyptian revolutions in early 2011, Gaddafi and the Libyan government allegedly began preparing for possible demonstrations in Libya. Initial protests in Libya began on February 15, 2011, when thousands of demonstrators gathered in front of the police headquarters in Benghazi to protest the arrest of two Libyan lawyers and human rights activists. Libyan Security Forces allegedly openly fired into the crowd, killing many civilians. Additional protests followed these initial killings, then calling for Gaddafi's government to step down.

@@ -17,5 +17,5 @@ crimes_against_humanity: "[International Criminal Court Act - Part II - Section 
 aggression:
 war_crimes: "[International Criminal Court Act - Part II - Section 9](https://iccdb.hrlc.net/data/doc/410/keyword/145/)"
 note:
-slug: uganda
+# slug: uganda
 ---

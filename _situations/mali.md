@@ -6,7 +6,7 @@ date: 2015-02-23T19:00:00.000Z
 phase: Situations & Cases
 link_to_more_information:
 description: "The situation in the Republic of Mali involves a conflict between government forces of the Republic of Mali and several armed groups fighting for independence. Within the situation in the Republic of Mali, there are not yet any cases against specific individuals."
-slug: mali
+# slug: mali
 ---
 
 The situation in the Republic of Mali involves a conflict between government forces of the Republic of Mali and several armed groups fighting for independence or increased autonomy, including the Mouvement national de libération de l'Azawad (National Movement for the Liberation of Azawad, MNLA), al-Qaeda in the Islamic Maghreb (AQIM), Ansar Dine and the Mouvement pour l'unicité et le jihad en Afrique de l'Ouest (Movement for Oneness and Jihad in West Africa, MUJAO) and other militias.

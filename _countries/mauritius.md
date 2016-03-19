@@ -17,5 +17,5 @@ crimes_against_humanity: "[International Criminal Court Act - Section 2 - Part I
 aggression:
 war_crimes: "[International Criminal Court Act - Section 2 - Part III](https://iccdb.hrlc.net/data/doc/467/keyword/145/) [Mutual Assistance in Criminal and Related Matters Act 2003](https://iccdb.hrlc.net/data/doc/327/keyword/145/)"
 note:
-slug: mauritius
+# slug: mauritius
 ---

@@ -39,5 +39,5 @@ images:
     image_path: /uploads/1432161396323_16777532022_ef3ecf90f0_m.jpg
   - name: "Judge Kuniko Ozaki, Trial Division (Japan)"
     image_path: /uploads/1432161418079_15769974281_f69c4819df_m.jpg
-slug: chambers
+# slug: chambers
 ---

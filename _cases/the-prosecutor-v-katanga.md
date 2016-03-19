@@ -8,6 +8,6 @@ long_name: "The Prosecutor v. Germain Katanga"
 accused:
   - germain-katanga
 
-slug: the-prosecutor-v-katanga
+# slug: the-prosecutor-v-katanga
 ---
 

@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression: "[Polish Criminal Code - Chapter XVI - Article 117](https://iccdb.hrlc.net/data/doc/457/keyword/1/)"
 war_crimes: "[Polish Criminal Code - Chapter XVI - Articles 121-125](https://iccdb.hrlc.net/data/doc/457/keyword/145/)"
 note:
-slug: poland
+# slug: poland
 ---

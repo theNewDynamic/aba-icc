@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression:
 war_crimes: "[Singapore - Geneva Conventions Act - Part II - Article 3](https://iccdb.hrlc.net/data/doc/802/keyword/145/)"
 note:
-slug: singapore
+# slug: singapore
 ---

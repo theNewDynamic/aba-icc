@@ -9,6 +9,6 @@ accused:
   - laurent-gbagbo
   - charles-blé-goudé
 
-slug: the-prosecutor-v-gbagbo-and-blé-goudé
+# slug: the-prosecutor-v-gbagbo-and-blé-goudé
 ---
 

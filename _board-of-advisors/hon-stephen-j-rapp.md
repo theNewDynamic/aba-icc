@@ -6,7 +6,7 @@ last_name: Rapp
 image_path: /uploads/1446508766027_vyt00165-168x168.jpg
 position: U.S. Ambassador at-large for War Crimes Issues (2009-15)
 description:
-slug: hon-stephen-j-rapp
+# slug: hon-stephen-j-rapp
 ---
 
 From 2009 to 2015, Ambassador Stephen J. Rapp served as the U.S. Ambassador-at-Large for War Crimes Issues, heading the Office of Global Criminal Justice in the U.S. Department of State.. Appointed by President Obama, he was confirmed by the Senate, and assumed his duties on September 8, 2009. Prior to his appointment, he served as Prosecutor of the Special Court for Sierra Leone beginning in January 2007, leading the prosecutions of former Liberian President Charles Taylor and other persons alleged to bear the greatest responsibility for the atrocities committed during the civil war in Sierra Leone. During his tenure, his office achieved the first convictions in history for sexual slavery and forced marriage as crimes against humanity, and for attacks on peacekeepers and for recruitment and use of child soldiers as violations of international humanitarian law.

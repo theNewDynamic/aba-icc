@@ -17,5 +17,5 @@ crimes_against_humanity: "[Australian Criminal Code Act 1995, Chapter 8, Divisio
 aggression:
 war_crimes: "[Australian Criminal Code Act 1995, Chapter 8, Division 268 Subdivision C](https://iccdb.hrlc.net/data/doc/860/keyword/145/)"
 note:
-slug: australia
+# slug: australia
 ---

@@ -17,5 +17,5 @@ crimes_against_humanity: "[El Salvadoran Penal Code, Article 363](https://iccdb.
 aggression:
 war_crimes: "[El Salvadoran Penal Code, Article 362](https://iccdb.hrlc.net/data/doc/577/)"
 note:
-slug: el-salvador
+# slug: el-salvador
 ---

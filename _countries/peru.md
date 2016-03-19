@@ -17,5 +17,5 @@ crimes_against_humanity: "[Peru Criminal Code - Title XIV - Articles 319-324](ht
 aggression:
 war_crimes:
 note:
-slug: peru
+# slug: peru
 ---

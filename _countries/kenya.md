@@ -17,5 +17,5 @@ crimes_against_humanity: "[Kenyan International Crimes Act of 2008](https://iccd
 aggression:
 war_crimes: "[Kenyan International Crimes Act of 2008](https://iccdb.hrlc.net/data/doc/309/keyword/145/)"
 note:
-slug: kenya
+# slug: kenya
 ---

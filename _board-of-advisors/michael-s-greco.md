@@ -6,7 +6,7 @@ last_name: Greco
 image_path: /uploads/1423055185306_greco_michael.jpg
 position: President, American Bar Association (2005-06) Of Counsel, K&L Gates LLP
 description: President, American Bar Association (2005-06); Of Counsel, K&L Gates LLP
-slug: michael-s-greco
+# slug: michael-s-greco
 ---
 
 Michael S. Greco is former president of the American Bar Association (2005-2006) and chairs the [ABA Center for Human Rights](http://www.americanbar.org/groups/human_rights.html), the ABA's ICC Project and its Board of Advisors, and the ABA Working Group on a Right to Counsel in Civil Matters. He is a trial lawyer, arbitrator and mediator in resolving disputes throughout the U.S. and internationally. Since 2012 he has been Visiting Professor of the Practice of Law at Peking University School of Transnational Law, Shenzhen, China, and teaches the course _International Criminal Justice_.

@@ -9,6 +9,6 @@ accused:
   - ahmad-muhammad-harun
   - ali-muhammad-ali-abd-al-rahman
 
-slug: the-prosecutor-v-harun-and-kushayb
+# slug: the-prosecutor-v-harun-and-kushayb
 ---
 

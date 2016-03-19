@@ -17,5 +17,5 @@ crimes_against_humanity: "[USA - American Service-members protection Act - Title
 aggression: "[United States of America - Constitution - Article I - Section 10; Article III - Section 3](https://iccdb.hrlc.net/data/doc/859/keyword/1/)"
 war_crimes: "[USA - Crimes and Criminal Procedures War crimes - Title 18 - Chapter 118 - § 2441](https://iccdb.hrlc.net/data/doc/617/keyword/145/) [USA - American Service-members protection Act - Title II - Section 2015](https://iccdb.hrlc.net/data/doc/619/keyword/145/)"
 note: "expressed intent not to ratify"
-slug: united-states
+# slug: united-states
 ---

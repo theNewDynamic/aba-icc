@@ -6,7 +6,7 @@ last_name: Taft
 image_path: /uploads/1423056416844_image-7.jpg
 position: Chief Legal Adviser to the U.S. Department of State (2000-04)
 description: Chief Legal Adviser to the U.S. Department of State (2000-04)
-slug: william-taft-iv
+# slug: william-taft-iv
 ---
 
 Mr. William Taft IV was appointed by President George W. Bush as Legal Adviser to the U.S. Department of State. He is also the principal adviser on all domestic and international legal matters to the Foreign Service and the diplomatic and consular posts abroad. After four years of service at the State Department, he rejoined law firm Fried Frank, Washington, D.C. office, as a litigation partner, concentrating in government contracts counseling and international trade.

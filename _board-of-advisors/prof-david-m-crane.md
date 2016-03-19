@@ -6,7 +6,7 @@ last_name: Crane
 image_path: /uploads/1423055538651_headshot_crane_david-385x379.jpg
 position: Professor of Law, Syracuse University Chief Prosecutor of the Special Court for Sierra Leone (2002-05)
 description: Professor of Law, Syracuse University Chief Prosecutor of the Special Court for Sierra Leone (2002-05)
-slug: prof-david-m-crane
+# slug: prof-david-m-crane
 ---
 
 Prof. David Crane was the founding Chief Prosecutor of the Special Court for Sierra Leone from 2002 to 2005 after being appointed by Secretary General of the United Nations, Kofi Annan. Served with the rank of Under-Secretary General, he indicted the President of Liberia, Charles Taylor, the first sitting African head of state in history to be held accountable. Prior to this position, he served over 30 years in the U.S. government. Appointed to the Senior Executive Service of the United States in 1997, Mr. Crane has held numerous key managerial positions during his three decades of public service, including as Waldemar A. Solf Professor of International Law at the United States Army Judge Advocate General's School. Additionally, he is a member of the faculty of the Institute for National Security and Counterterrorism, a joint venture with the Maxwell School of Public Citizenship at Syracuse University.

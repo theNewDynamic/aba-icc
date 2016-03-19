@@ -17,5 +17,5 @@ crimes_against_humanity: "[German Criminal Code - Chapter 7 - Sections 126, 129a
 aggression: "[German Criminal Code - Chapter 1 - Sections 5, 80, 80a](https://iccdb.hrlc.net/data/doc/142/keyword/1/)"
 war_crimes: "[German Criminal Code - Chapter 7 - Sections 126, 129a, 138](https://iccdb.hrlc.net/data/doc/142/keyword/145/) [Act to Introduce the Code of Crimes against International Law of 26 June 2002 - Article 1 - Part 2 - Chapter 2 - Section 8](https://iccdb.hrlc.net/data/doc/49/keyword/145/)"
 note:
-slug: germany
+# slug: germany
 ---

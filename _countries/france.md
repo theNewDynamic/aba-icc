@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression:
 war_crimes: "[French Penal Code - Book IV - Title III - Chapter II - Section II - Article 432-4](https://iccdb.hrlc.net/data/doc/174/keyword/145/)"
 note:
-slug: france
+# slug: france
 ---

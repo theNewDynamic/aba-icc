@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression: "[Uzbekistan Criminal Code - Section II - Chapter 8 - Article 151](https://iccdb.hrlc.net/data/doc/200/keyword/1/)"
 war_crimes: "[Uzbekistan Criminal Code - Section II - Chapter 8 - Article 152](https://iccdb.hrlc.net/data/doc/200/keyword/145/)"
 note:
-slug: uzbekistan
+# slug: uzbekistan
 ---

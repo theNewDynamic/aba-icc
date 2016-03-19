@@ -17,5 +17,5 @@ crimes_against_humanity: "[International Criminal Court Act - Part II - Article 
 aggression:
 war_crimes: "[International Criminal Court Act - Part II - Article 11](https://iccdb.hrlc.net/data/doc/167/keyword/145/)"
 note:
-slug: trinidad-and-tobago
+# slug: trinidad-and-tobago
 ---

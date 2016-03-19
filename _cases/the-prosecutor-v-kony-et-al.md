@@ -10,6 +10,6 @@ accused:
   - vincent-otti
   - okot-odhiambo
 
-slug: the-prosecutor-v-kony-et-al
+# slug: the-prosecutor-v-kony-et-al
 ---
 

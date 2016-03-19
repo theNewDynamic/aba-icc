@@ -13,6 +13,6 @@ images:
     image_path: /uploads/1432160349506_jkMRixw7iGLuHYKfDHcWfLe-Xkh5Ry1y3o_ve7wsUaI6inpWX3BIzfqkyp32bL3QGd7FYb3h7ywldQlP0FlddJH5AHyWLmE%3Ds1200
   - name: "H.E. Álvaro Moerzinger, Vice-President (Uruguay)"
     image_path: /uploads/1432160357015_DtU1cZ4xkCgBjQf2jAGZ9VlVmYJ9JoTOyhBmmbQtl_PZKP-Ji7so-j7YSe-bR3TDf-5Q0Pt02PqAHV64MtyfWP4UCrH0JSjT%3Ds1200
-slug: assembly-of state parties
+# slug: assembly-of state parties
 ---
 ---

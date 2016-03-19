@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression:
 war_crimes:
 note: "expressed intent not to ratify"
-slug: sudan
+# slug: sudan
 ---

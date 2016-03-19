@@ -17,5 +17,5 @@ crimes_against_humanity: "[Slovenia Criminal Code - Chapter 14 - Articles 101, 1
 aggression: "[Slovenia Criminal Code - Chapter 14 - Article 103](https://iccdb.hrlc.net/data/doc/196/keyword/1/)"
 war_crimes: "[Slovenia Criminal Code - Chapter 14 - Articles 102, 105](https://iccdb.hrlc.net/data/doc/196/keyword/145/)"
 note:
-slug: slovenia
+# slug: slovenia
 ---

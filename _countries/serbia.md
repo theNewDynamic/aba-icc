@@ -17,5 +17,5 @@ crimes_against_humanity: "[Serbian Criminal Code - Chapter 34 - Article 371](htt
 aggression: "[Serbian Criminal Code - Chapter 34 - Article 386](https://iccdb.hrlc.net/data/doc/202/keyword/1/)"
 war_crimes: "[Serbian Criminal Code, Article 372-376, 378, 381-383, 385](https://iccdb.hrlc.net/data/doc/202/keyword/145/)"
 note:
-slug: serbia
+# slug: serbia
 ---

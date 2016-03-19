@@ -8,6 +8,6 @@ long_name:
 accused:
   - walter-osapiri-barasa
 
-slug: the-prosecutor-v-walter-osapiri-barasa
+# slug: the-prosecutor-v-walter-osapiri-barasa
 ---
 

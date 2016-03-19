@@ -17,5 +17,5 @@ crimes_against_humanity: "[Crimes Decree of 2009 of Fiji, No. 44](https://iccdb.
 aggression:
 war_crimes:
 note:
-slug: fiji
+# slug: fiji
 ---

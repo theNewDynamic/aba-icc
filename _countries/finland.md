@@ -17,5 +17,5 @@ crimes_against_humanity: "[The Penal Code of Finland](https://iccdb.hrlc.net/dat
 aggression: "[The Penal Code of Finland](https://iccdb.hrlc.net/data/doc/139/keyword/1/)"
 war_crimes: "[The Penal Code of Finland](https://iccdb.hrlc.net/data/doc/139/keyword/145/)"
 note:
-slug: finland
+# slug: finland
 ---

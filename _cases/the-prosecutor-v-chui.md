@@ -8,6 +8,6 @@ long_name: "The Prosecutor v. Mathieu Ngudjolo Chui​"
 accused:
   - mathieu-ngudjolo-chui
 
-slug: the-prosecutor-v-chui
+# slug: the-prosecutor-v-chui
 ---
 

@@ -17,5 +17,5 @@ crimes_against_humanity: "[Switzerland Penal Code - Book II - Title 12 - Article
 aggression:
 war_crimes: "[Switzerland Penal Code - Book II - Title 12 - Article 264b-j](https://iccdb.hrlc.net/data/doc/166/keyword/145/)"
 note:
-slug: switzerland
+# slug: switzerland
 ---

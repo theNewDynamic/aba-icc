@@ -17,5 +17,5 @@ crimes_against_humanity: "[Estonian Penal Code, Section 89](https://iccdb.hrlc.n
 aggression: "[Estonian Penal Code, Section 91](https://iccdb.hrlc.net/data/doc/438/keyword/1/)"
 war_crimes: "[Estonian Penal Code, Section 94-109](https://iccdb.hrlc.net/data/doc/438/keyword/145/)"
 note:
-slug: estonia
+# slug: estonia
 ---

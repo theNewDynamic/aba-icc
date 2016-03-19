@@ -17,5 +17,5 @@ crimes_against_humanity: "[International Crimes Act 2003 - § 2 - Section 4](htt
 aggression:
 war_crimes: "[International Crimes Act 2003 - § 2 - Sections 5-7](https://iccdb.hrlc.net/data/doc/55/keyword/145/)"
 note:
-slug: netherlands
+# slug: netherlands
 ---

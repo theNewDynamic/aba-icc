@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression:
 war_crimes: "[Monaco Criminal Code](http://www.legimonaco.mc/305/legismclois.nsf/ViewSommaire/5C2938D8D46C7348C12574FD004BE402!OpenDocument)"
 note:
-slug: monaco
+# slug: monaco
 ---

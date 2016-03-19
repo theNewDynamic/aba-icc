@@ -17,5 +17,5 @@ crimes_against_humanity: "[Croatian Criminal Code - Chapter Thirteen - Article 1
 aggression: "[Croatian Criminal Code - Chapter Thirteen - Article 157](https://iccdb.hrlc.net/data/doc/179/keyword/1/)"
 war_crimes: "[Croation Criminal Code - Chapter Thirteen - Article 158](https://iccdb.hrlc.net/data/doc/179/keyword/145/)"
 note:
-slug: croatia
+# slug: croatia
 ---

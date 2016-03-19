@@ -6,7 +6,7 @@ date: 2015-02-23T19:04:00.000Z
 phase: Situations & Cases
 link_to_more_information:
 description: "The situation in the Republic of Kenya involves mass violence that occurred after the country’s contested 2007-2008 election. Within the Kenya situation, there are two ongoing cases."
-slug: kenya
+# slug: kenya
 ---
 
 The situation in the Republic of Kenya involves mass violence that occurred after the country's contested 2007-2008 election. Supporters of the opposition candidate rejected the declared election results and accused the government of electoral fraud. A series of protests, demonstrations and post-election violence unfolded largely along tribal lines. More than 1,100 people died, 3,500 were injured and up to 600,000 forcibly displaced over the course of the violence.
