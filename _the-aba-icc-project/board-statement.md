@@ -1,9 +1,10 @@
 ---
 title: "Board Statement"
 published: true
-date: 2015-02-04T06:00:00.000Z
+featured_image_path:
 featured_image_position: bottom
-type: theabaiccproject
+description:
+timeline:
 slug: board-statement
 ---
 

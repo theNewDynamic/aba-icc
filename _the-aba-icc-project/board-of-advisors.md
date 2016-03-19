@@ -1,7 +1,9 @@
 ---
 title: "Board of Advisors"
 published: true
-date: 2015-02-04T06:11:00.000Z
-type: theabaiccproject
+featured_image_path:
+featured_image_position:
+description:
+timeline:
 slug: board-of-advisors
 ---

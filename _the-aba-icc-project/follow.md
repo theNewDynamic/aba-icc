@@ -1,10 +1,10 @@
 ---
 title: "Follow"
 published: true
-date: 2015-03-01T23:04:00.000Z
+featured_image_path:
 featured_image_position: bottom
 description: "Keep up-to-date with the ABA-ICC Project."
-type: theabaiccproject
+timeline:
 slug: follow
 ---
 
@@ -32,5 +32,12 @@ You can also follow us on [Facebook](http://facebook.com/ABAICCProject) and [Twi
 
 </form>
 
-<script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script> 
-
+<script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script> ---
+title: "News"
+published: true
+featured_image_path:
+featured_image_position: bottom
+description:
+timeline:
+slug: news
+---

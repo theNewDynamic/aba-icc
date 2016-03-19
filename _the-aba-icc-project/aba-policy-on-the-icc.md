@@ -1,10 +1,10 @@
 ---
 title: "ABA Policy on the ICC"
 published: true
-date: 2015-02-04T06:03:00.000Z
+featured_image_path:
 featured_image_position: bottom
+description:
 timeline: "http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AtZ5yV_Pso2idGJaZ2lTYjV3ZlRSVnFhMEVHeC11OFE&font=Bevan-PotanoSans&maptype=toner&lang=en&height=900"
-type: theabaiccproject
 slug: aba-policy-on-the-icc
 ---
 
