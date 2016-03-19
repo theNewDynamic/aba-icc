@@ -51,28 +51,31 @@ collections:
   about-the-icc:
     output: true
     permalink: '/:collection/:path/'
-  the-aba-icc-project:
+  board-of-advisors:
+    output: true
+    permalink: '/:collection/:path/'
+  cases:
     output: true
     permalink: '/:collection/:path/'
   countries:
     output: true
-    permalink: '/:collection/:path/'
-  country:
+    permalink: '/country/:path/'
+  events:
     output: true
     permalink: '/:collection/:path/'
-  board-of-advisors:
+  evolution-of-international-criminal-justice:
+    output: true
+    permalink: '/:collection/:path/'
+  situations:
     output: true
     permalink: '/:collection/:path/'
   staff:
     output: true
     permalink: '/:collection/:path/'
-  news:
+  structure-of-the-icc:
     output: true
     permalink: '/:collection/:path/'
-  events:
-    output: true
-    permalink: '/:collection/:path/'
-  news:
+  the-aba-icc-project:
     output: true
     permalink: '/:collection/:path/'
 
