@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
-# gem 'github-pages'
-gem 'jekyll'
+gem 'github-pages'
+# gem 'jekyll'
 
 group :jekyll_plugins do
   gem "html-proofer"
@@ -9,7 +9,7 @@ group :jekyll_plugins do
   # gem 'jekyll-assets'
   # gem 'autoprefixer-rails'
   #gem 'jekyll-imgix'
-  gem 'jekyll-sitemap'
+  # gem 'jekyll-sitemap'
   #gem 'jekyll-archives'
 end
 # gem 'jekyll-paginate'

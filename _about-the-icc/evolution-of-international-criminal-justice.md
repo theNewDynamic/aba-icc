@@ -1,6 +1,5 @@
 ---
 title: Evolution of International Criminal Justice
-layout: card-timeline
 splash_image: unsplash_52ce83efb2b0b_1.jpg
 excerpt: "A timeline to explore the evolution of international criminal justice and learn about the multiple and varied influences that have shaped this field of international affairs."
 ---

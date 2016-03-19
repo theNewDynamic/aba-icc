@@ -41,65 +41,34 @@ addthis_id: "ra-53c565a74f2c5c5b"
 # source: content
 
 collections:
- the-aba-icc-project:
-  collection_name: "The ABA-ICC Project"
-  output: true
-  permalink: /:collection/:path/
- about-the-icc:
-  collection_name: About the ICC
-  output: true
-  permalink: /:path/
- rights-of-the-participants:
-  output: true
-  permalink: /:collection/:path/
- evolution-of-international-criminal-justice:
-  collection_name: "The Evolution of International Criminal Justice"
-  permalink: /:collection/:path/
-  output: true
-  splash_image: "Nuremberg_Trials.jpg"
-  description: "A timeline to explore the evolution of international criminal justice and learn about the multiple and varied influences that have shaped this field of international affairs."
- situations-and-cases:
-  collection_name: "Current Situations & Cases"
-  permalink: /:collection/:path/
-  output: true
- countries:
-  collection_name: "Situations & Cases"
-  permalink: /:collection/:path/
-  output: true
- board-of-advisors:
-  collection_name: "Board of Advisors"
-  main_page_link: "/the-aba-icc-project/board-of-advisors/"
-  output: true
-  permalink: /:collection/:path/
- development:
-  collection_name: "Situations & Cases"
-  output: true
-  permalink: /:collection/:path/
+  about-the-icc:
+    output: true
+    permalink: '/:collection/:path/'
+  the-aba-icc-project:
+    output: true
+    permalink: '/:collection/:path/'
+  countries:
+    output: true
+    permalink: '/:collection/:path/'
+  board-of-advisors:
+    output: true
+    permalink: '/:collection/:path/'
+  staff:
+    output: true
+    permalink: '/:collection/:path/'
+  news:
+    output: true
+    permalink: '/:collection/:path/'
+  events:
+    output: true
+    permalink: '/:collection/:path/'
+  news:
+    output: true
+    permalink: '/:collection/:path/'
 
 defaults:
   -
-   scope:
-    path: ''
-    type: pages
-   values:
-    layout: page
-  -
-   scope:
-    path: ""
-    type: 'board-of-advisors'
-   values:
-    layout: page
-  -
-   scope:
-    path: "aba-news"
-    type: "posts"
-   values:
-    layout: article
-    category: "Event"
-  -
-   scope:
-    path: ""
-    type: "the-aba-icc-project" # empty string for all files
-   values:
-    sharing: false
-    comments: false
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"

@@ -1,5 +1,5 @@
 ---
-layout: home
+#layout: home
 title: "American Bar Association's International Criminal Court Project"
 #sidebar_include: "snippets/article-latest.html"
 include: "grids/grid-items-home.html"

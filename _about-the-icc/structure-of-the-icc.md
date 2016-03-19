@@ -1,6 +1,5 @@
 ---
 title: Structure of the ICC
-layout: article
 category:
 ---
 ## _Check back soon for changes to this page_
@@ -33,7 +32,7 @@ Judge Sanji Mmasenono MONAGENG (Botswana), First Vice-President
 
 Judge Cuno TARFUSSER (Italy), Second Vice-President
 
- 
+
 
 # Judicial Divisions
 
@@ -92,7 +91,7 @@ Michel de Smedt, Head of Investigation
 
 # Registry
 
-#### Overview 
+#### Overview
 
 The Registry is responsible for the non-judicial aspects of the administration and servicing of the Court.
 
@@ -100,11 +99,11 @@ The Registry is responsible for the non-judicial aspects of the administration a
 
 It is headed by the Registrar who is the principal administrative officer of the Court. All the tasks performed by the Registry are in clear support of the strategic goals of the Court as outlined in the ICC Strategic Plan.
 
-#### Responsibility 
+#### Responsibility
 
 The Registry provides judicial and administrative support to all organs of the Court and carries out its specific responsibilities in the areas of defense, victims and witnesses, outreach and detention. In relation to the Court's field activities, the work of the Registry focuses on providing administrative support to the teams of both the Registry and the Office of the Prosecutor as well as on conducting activities in relation to its specific responsibilities in the areas mentioned above. At the headquarters the Registry services the Court by providing the necessary support to judicial proceedings.
 
-#### Incumbent Personnel 
+#### Incumbent Personnel
 
 # Other Offices
 
