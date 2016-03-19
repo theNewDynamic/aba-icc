@@ -6,5 +6,10 @@ geocode: COK
 iso_code: CK
 state_party: true
 entry_into_force_date: 2008-10-01
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: cook-islands
 ---

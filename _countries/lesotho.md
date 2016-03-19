@@ -10,18 +10,8 @@ entry_into_force_date: 2002-07-01
 ratified_apic_date: 2005-09-16
 genocide: [Penal Code Act, 2010 - Part VI - Article 93](https://iccdb.hrlc.net/data/doc/776/keyword/46/)
 crimes_against_humanity: [Penal Code Act, 2010 - Part VI - Article 94](https://iccdb.hrlc.net/data/doc/776/keyword/13/)
+aggression:
 war_crimes: [Penal Code Act, 2010 - Part VI - Article 95](https://iccdb.hrlc.net/data/doc/776/keyword/145/)
+note:
 slug: lesotho
 ---
-Genocide
-
-[Penal Code Act, 2010 - Part VI - Article 93](https://iccdb.hrlc.net/data/doc/776/keyword/46/)
-
-Crimes against Humanity
-
-[Penal Code Act, 2010 - Part VI - Article 94](https://iccdb.hrlc.net/data/doc/776/keyword/13/)
-
-War Crimes
-
-[Penal Code Act, 2010 - Part VI - Article 95](https://iccdb.hrlc.net/data/doc/776/keyword/145/)
-

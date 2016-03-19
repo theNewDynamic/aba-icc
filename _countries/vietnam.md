@@ -8,21 +8,6 @@ genocide: [Vietnam Criminal Code - Chapter XXIV - Article 342](https://iccdb.hrl
 crimes_against_humanity: [Vietnam Criminal Code - Chapter XXIV - Article 342](https://iccdb.hrlc.net/data/doc/622/keyword/13/)
 aggression: [Vietnam Criminal Code - Chapter XXIV - Article 341](https://iccdb.hrlc.net/data/doc/622/keyword/1/)
 war_crimes: [Vietnam Criminal Code - Chapter XXIV - Article 343](https://iccdb.hrlc.net/data/doc/622/keyword/145/)
+note:
 slug: vietnam
 ---
-Genocide
-
-[Vietnam Criminal Code - Chapter XXIV - Article 342](https://iccdb.hrlc.net/data/doc/622/keyword/46/)
-
-Crimes against Humanity
-
-[Vietnam Criminal Code - Chapter XXIV - Article 342](https://iccdb.hrlc.net/data/doc/622/keyword/13/)
-
-Aggression
-
-[Vietnam Criminal Code - Chapter XXIV - Article 341](https://iccdb.hrlc.net/data/doc/622/keyword/1/)
-
-War Crimes
-
-[Vietnam Criminal Code - Chapter XXIV - Article 343](https://iccdb.hrlc.net/data/doc/622/keyword/145/)
-

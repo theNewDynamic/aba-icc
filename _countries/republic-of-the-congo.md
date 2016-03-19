@@ -9,18 +9,8 @@ signed_date: 1998-07-17
 entry_into_force_date: 2004-08-01
 genocide: [Law No. 8-98 of 31 October 1998 - Chapter 1](https://iccdb.hrlc.net/data/doc/533/)
 crimes_against_humanity: [Law No. 8-98 of 31 October 1998 - Chapter 3](https://iccdb.hrlc.net/data/doc/533/)
+aggression:
 war_crimes: [Law No. 8-98 of 31 October 1998 - Chapter 2](https://iccdb.hrlc.net/data/doc/533/)
+note:
 slug: republic-of-the-congo
 ---
-Genocide
-
-[Law No. 8-98 of 31 October 1998 - Chapter 1](https://iccdb.hrlc.net/data/doc/533/)
-
-Crimes against Humanity
-
-[Law No. 8-98 of 31 October 1998 - Chapter 3](https://iccdb.hrlc.net/data/doc/533/)
-
-War Crimes
-
-[Law No. 8-98 of 31 October 1998 - Chapter 2](https://iccdb.hrlc.net/data/doc/533/)
-

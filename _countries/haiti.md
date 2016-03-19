@@ -6,5 +6,10 @@ geocode: HTI
 iso_code: HT
 signed_but_not_ratified: true
 signed_date: 1999-02-26
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: haiti
 ---

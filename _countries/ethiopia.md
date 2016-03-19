@@ -5,14 +5,9 @@ date: 2015-02-23T19:11:00.000Z
 geocode: ETH
 iso_code: ET
 genocide: [The Criminal Code of the Federal Democratic Republic of Ethiopia, Article 269](https://iccdb.hrlc.net/data/doc/272/keyword/46/)
+crimes_against_humanity:
+aggression:
 war_crimes: [The Criminal Code of the Federal Democratic Republic of Ethiopia, Article 270-282](https://iccdb.hrlc.net/data/doc/272/keyword/145/)
+note:
 slug: ethiopia
 ---
-Genocide
-
-[The Criminal Code of the Federal Democratic Republic of Ethiopia, Article 269](https://iccdb.hrlc.net/data/doc/272/keyword/46/)
-
-War Crimes
-
-[The Criminal Code of the Federal Democratic Republic of Ethiopia, Article 270-282](https://iccdb.hrlc.net/data/doc/272/keyword/145/)
-

@@ -12,21 +12,6 @@ genocide: [Estonian Penal Code, Section 90](https://iccdb.hrlc.net/data/doc/438/
 crimes_against_humanity: [Estonian Penal Code, Section 89](https://iccdb.hrlc.net/data/doc/438/keyword/13/)
 aggression: [Estonian Penal Code, Section 91](https://iccdb.hrlc.net/data/doc/438/keyword/1/)
 war_crimes: [Estonian Penal Code, Section 94-109](https://iccdb.hrlc.net/data/doc/438/keyword/145/)
+note:
 slug: estonia
 ---
-Genocide
-
-[Estonian Penal Code, Section 90](https://iccdb.hrlc.net/data/doc/438/keyword/46/)
-
-Crimes against Humanity
-
-[Estonian Penal Code, Section 89](https://iccdb.hrlc.net/data/doc/438/keyword/13/)
-
-Aggression
-
-[Estonian Penal Code, Section 91](https://iccdb.hrlc.net/data/doc/438/keyword/1/)
-
-War Crimes
-
-[Estonian Penal Code, Section 94-109](https://iccdb.hrlc.net/data/doc/438/keyword/145/)
-

@@ -12,21 +12,6 @@ genocide: [Macedonia Penal Code - Chapter 34 - Articles 407a, 416a](https://iccd
 crimes_against_humanity: [Macedonia Penal Code - Chapter 34 - Articles 403a, 407a](https://iccdb.hrlc.net/data/doc/384/keyword/13/)
 aggression: [Macedonia Penal Code - Chapter 34 - Article 415](https://iccdb.hrlc.net/data/doc/384/keyword/1/)
 war_crimes: [Macedonia Penal Code - Chapter 34 - Articles 404-407, 409, 412-414, 416](https://iccdb.hrlc.net/data/doc/384/keyword/145/)
+note:
 slug: macedonia
 ---
-Genocide
-
-[Macedonia Penal Code - Chapter 34 - Articles 407a, 416a](https://iccdb.hrlc.net/data/doc/384/keyword/46/)
-
-Crimes against Humanity
-
-[Macedonia Penal Code - Chapter 34 - Articles 403a, 407a](https://iccdb.hrlc.net/data/doc/384/keyword/13/)
-
-Aggression
-
-[Macedonia Penal Code - Chapter 34 - Article 415](https://iccdb.hrlc.net/data/doc/384/keyword/1/)
-
-War Crimes
-
-[Macedonia Penal Code - Chapter 34 - Articles 404-407, 409, 412-414, 416](https://iccdb.hrlc.net/data/doc/384/keyword/145/)
-

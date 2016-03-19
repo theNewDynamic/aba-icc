@@ -6,5 +6,10 @@ geocode: VCT
 iso_code: VC
 state_party: true
 entry_into_force_date: 2003-03-01
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: saint-vincent-and-the-grenadines
 ---

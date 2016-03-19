@@ -8,21 +8,6 @@ genocide: [Azerbaijan Criminal Code, Chapter 16, Articles 103 & 104](https://icc
 crimes_against_humanity: [Azerbaijan Criminal Code, Chapter 16](https://iccdb.hrlc.net/data/doc/224/keyword/13/)
 aggression: [Azerbaijan Criminal Code, Chapter 16, Articles 100 & 101](https://iccdb.hrlc.net/data/doc/224/keyword/1/)
 war_crimes: [Azerbaijan Criminal Code, Chapter 17](https://iccdb.hrlc.net/data/doc/224/keyword/145/)
+note:
 slug: azerbaijan
 ---
-Genocide
-
-[Azerbaijan Criminal Code, Chapter 16, Articles 103 & 104](https://iccdb.hrlc.net/data/doc/224/keyword/46/)
-
-Crimes against Humanity
-
-[Azerbaijan Criminal Code, Chapter 16](https://iccdb.hrlc.net/data/doc/224/keyword/13/)
-
-Aggression
-
-[Azerbaijan Criminal Code, Chapter 16, Articles 100 & 101](https://iccdb.hrlc.net/data/doc/224/keyword/1/)
-
-War Crimes
-
-[Azerbaijan Criminal Code, Chapter 17](https://iccdb.hrlc.net/data/doc/224/keyword/145/)
-

@@ -8,18 +8,8 @@ signed_but_not_ratified: true
 signed_date: 2000-09-08
 genocide: [Morocco Constitution, Article 23](http://www.ancl-radc.org.za/sites/default/files/morocco_eng.pdf)
 crimes_against_humanity: [Morocco Constitution, Article 23](http://www.ancl-radc.org.za/sites/default/files/morocco_eng.pdf)
+aggression:
 war_crimes: [Morocco Constitution, Article 23](http://www.ancl-radc.org.za/sites/default/files/morocco_eng.pdf)
+note:
 slug: morocco
 ---
-Genocide
-
-[Morocco Constitution, Article 23](http://www.ancl-radc.org.za/sites/default/files/morocco_eng.pdf)
-
-Crimes against Humanity
-
-[Morocco Constitution, Article 23](http://www.ancl-radc.org.za/sites/default/files/morocco_eng.pdf)
-
-War Crimes
-
-[Morocco Constitution, Article 23](http://www.ancl-radc.org.za/sites/default/files/morocco_eng.pdf)
-

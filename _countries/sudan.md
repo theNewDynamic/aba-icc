@@ -8,10 +8,10 @@ geocode: SDN
 iso_code: SD
 signed_but_not_ratified: true
 signed_date: 2000-09-08
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
 note: expressed intent not to ratify
 slug: sudan
 ---
-note:
-
-expressed intent not to ratify
-

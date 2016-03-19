@@ -10,9 +10,9 @@ state_party: true
 signed_date: 1998-11-29
 entry_into_force_date: 2013-05-01
 genocide: [Cote d’Ivoire Penal Code - Article 137](https://iccdb.hrlc.net/data/doc/426/)
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: cote-divoire
 ---
-Genocide
-
-[Cote d’Ivoire Penal Code - Article 137](https://iccdb.hrlc.net/data/doc/426/)
-

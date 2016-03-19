@@ -7,5 +7,10 @@ iso_code: SN
 state_party: true
 signed_date: 1998-07-18
 entry_into_force_date: 2002-07-01
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: senegal
 ---

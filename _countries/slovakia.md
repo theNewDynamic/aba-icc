@@ -12,21 +12,6 @@ genocide: [Slovakia Criminal Code - Part II - Chapter 12 - Title 1 - Section 418
 crimes_against_humanity: [Slovakia Criminal Code - Part II - Chapter 12 - Title 2 - Section 432](https://iccdb.hrlc.net/data/doc/458/keyword/13/)
 aggression: [Slovakia Criminal Code - Part II - Chapter 12 - Title 1 - Section 417](https://iccdb.hrlc.net/data/doc/458/keyword/1/)
 war_crimes: [Slovakia Criminal Code - Part II - Chapter 12 - Title 2 - Sections 426-428, 431-435](https://iccdb.hrlc.net/data/doc/458/keyword/145/)
+note:
 slug: slovakia
 ---
-Genocide
-
-[Slovakia Criminal Code - Part II - Chapter 12 - Title 1 - Section 418](https://iccdb.hrlc.net/data/doc/458/keyword/46/)
-
-Crimes against Humanity
-
-[Slovakia Criminal Code - Part II - Chapter 12 - Title 2 - Section 432](https://iccdb.hrlc.net/data/doc/458/keyword/13/)
-
-Aggression
-
-[Slovakia Criminal Code - Part II - Chapter 12 - Title 1 - Section 417](https://iccdb.hrlc.net/data/doc/458/keyword/1/)
-
-War Crimes
-
-[Slovakia Criminal Code - Part II - Chapter 12 - Title 2 - Sections 426-428, 431-435](https://iccdb.hrlc.net/data/doc/458/keyword/145/)
-

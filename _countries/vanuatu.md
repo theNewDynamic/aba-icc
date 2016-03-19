@@ -6,10 +6,10 @@ geocode: VUT
 iso_code: VU
 state_party: true
 entry_into_force_date: 2002-01-31
+genocide:
+crimes_against_humanity:
+aggression:
 war_crimes: [Vanuatu - Geneva Conventions Act - Part II - Article 4](https://iccdb.hrlc.net/data/doc/839/keyword/145/)
+note:
 slug: vanuatu
 ---
-War Crimes
-
-[Vanuatu - Geneva Conventions Act - Part II - Article 4](https://iccdb.hrlc.net/data/doc/839/keyword/145/)
-

@@ -12,21 +12,6 @@ genocide: [Slovenia Criminal Code - Chapter 14 - Articles 100, 105](https://iccd
 crimes_against_humanity: [Slovenia Criminal Code - Chapter 14 - Articles 101, 105](https://iccdb.hrlc.net/data/doc/196/keyword/13/)
 aggression: [Slovenia Criminal Code - Chapter 14 - Article 103](https://iccdb.hrlc.net/data/doc/196/keyword/1/)
 war_crimes: [Slovenia Criminal Code - Chapter 14 - Articles 102, 105](https://iccdb.hrlc.net/data/doc/196/keyword/145/)
+note:
 slug: slovenia
 ---
-Genocide
-
-[Slovenia Criminal Code - Chapter 14 - Articles 100, 105](https://iccdb.hrlc.net/data/doc/196/keyword/46/)
-
-Crimes against Humanity
-
-[Slovenia Criminal Code - Chapter 14 - Articles 101, 105](https://iccdb.hrlc.net/data/doc/196/keyword/13/)
-
-Aggression
-
-[Slovenia Criminal Code - Chapter 14 - Article 103](https://iccdb.hrlc.net/data/doc/196/keyword/1/)
-
-War Crimes
-
-[Slovenia Criminal Code - Chapter 14 - Articles 102, 105](https://iccdb.hrlc.net/data/doc/196/keyword/145/)
-

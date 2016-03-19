@@ -9,24 +9,8 @@ signed_date: 1998-11-10
 entry_into_force_date: 2002-07-01
 genocide: [International Criminal Court Act - Section 2 - Part II](https://iccdb.hrlc.net/data/doc/467/keyword/46/) [Mutual Assistance in Criminal and Related Matters Act 2003](https://iccdb.hrlc.net/data/doc/327/keyword/46/)
 crimes_against_humanity: [International Criminal Court Act - Section 2 - Part I](https://iccdb.hrlc.net/data/doc/467/keyword/13/) [Mutual Assistance in Criminal and Related Matters Act 2003](https://iccdb.hrlc.net/data/doc/327/keyword/13/)
+aggression:
 war_crimes: [International Criminal Court Act - Section 2 - Part III](https://iccdb.hrlc.net/data/doc/467/keyword/145/) [Mutual Assistance in Criminal and Related Matters Act 2003](https://iccdb.hrlc.net/data/doc/327/keyword/145/)
+note:
 slug: mauritius
 ---
-Genocide
-
-[International Criminal Court Act - Section 2 - Part II](https://iccdb.hrlc.net/data/doc/467/keyword/46/)
-
-[Mutual Assistance in Criminal and Related Matters Act 2003](https://iccdb.hrlc.net/data/doc/327/keyword/46/)
-
-Crimes against Humanity
-
-[International Criminal Court Act - Section 2 - Part I](https://iccdb.hrlc.net/data/doc/467/keyword/13/)
-
-[Mutual Assistance in Criminal and Related Matters Act 2003](https://iccdb.hrlc.net/data/doc/327/keyword/13/)
-
-War Crimes
-
-[International Criminal Court Act - Section 2 - Part III](https://iccdb.hrlc.net/data/doc/467/keyword/145/)
-
-[Mutual Assistance in Criminal and Related Matters Act 2003](https://iccdb.hrlc.net/data/doc/327/keyword/145/)
-

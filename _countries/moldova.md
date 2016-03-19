@@ -11,21 +11,6 @@ genocide: [Moldova Criminal Code - Chapter I - Article 135](https://iccdb.hrlc.n
 crimes_against_humanity: [Moldova Criminal Code - Chapter III - Article 40](https://iccdb.hrlc.net/data/doc/188/keyword/13/)
 aggression: [Moldova Criminal Code - Chapter I - Article 139](https://iccdb.hrlc.net/data/doc/188/keyword/1/)
 war_crimes: [Moldova Criminal Code, Chapter I - Articles 136-138, 143](https://iccdb.hrlc.net/data/doc/188/keyword/145/)
+note:
 slug: moldova
 ---
-Genocide
-
-[Moldova Criminal Code - Chapter I - Article 135](https://iccdb.hrlc.net/data/doc/188/keyword/46/)
-
-Crimes against Humanity
-
-[Moldova Criminal Code - Chapter III - Article 40](https://iccdb.hrlc.net/data/doc/188/keyword/13/)
-
-Aggression
-
-[Moldova Criminal Code - Chapter I - Article 139](https://iccdb.hrlc.net/data/doc/188/keyword/1/)
-
-War Crimes
-
-[Moldova Criminal Code, Chapter I - Articles 136-138, 143](https://iccdb.hrlc.net/data/doc/188/keyword/145/)
-

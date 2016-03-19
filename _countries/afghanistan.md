@@ -8,5 +8,10 @@ geocode: AFG
 iso_code: AF
 state_party: true
 entry_into_force_date: 2003-05-01
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: afghanistan
 ---

@@ -10,18 +10,8 @@ entry_into_force_date: 2002-07-01
 ratified_apic_date: 2004-09-21
 genocide: [Liechtenstein Law of 20 October 2004 on Cooperation with the International Criminal Court and other International Tribunals](https://iccdb.hrlc.net/data/doc/96/keyword/46/)
 crimes_against_humanity: [Liechtenstein Law of 20 October 2004 on Cooperation with the International Criminal Court and other International Tribunals](https://iccdb.hrlc.net/data/doc/96/keyword/13/)
+aggression:
 war_crimes: [Liechtenstein Law of 20 October 2004 on Cooperation with the International Criminal Court and other International Tribunals](https://iccdb.hrlc.net/data/doc/96/keyword/145/)
+note:
 slug: liechtenstein
 ---
-Genocide
-
-[Liechtenstein Law of 20 October 2004 on Cooperation with the International Criminal Court and other International Tribunals](https://iccdb.hrlc.net/data/doc/96/keyword/46/)
-
-Crimes against Humanity
-
-[Liechtenstein Law of 20 October 2004 on Cooperation with the International Criminal Court and other International Tribunals](https://iccdb.hrlc.net/data/doc/96/keyword/13/)
-
-War Crimes
-
-[Liechtenstein Law of 20 October 2004 on Cooperation with the International Criminal Court and other International Tribunals](https://iccdb.hrlc.net/data/doc/96/keyword/145/)
-

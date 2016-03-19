@@ -12,21 +12,6 @@ genocide: [Bosnia-Herzegovina Criminal Code, Chapter 17, Article 171](https://ic
 crimes_against_humanity: [Bosnia-Herzegovina Criminal Code, Chapter 17, Article 172](https://iccdb.hrlc.net/data/doc/118/keyword/13/)
 aggression: [Bosnia-Herzegovina Law on Implementation of the Rome Statute of the International Criminal Court and Cooperation with the International Criminal Court, Article 2](http://iccdb.webfactional.com/documents/implementations/pdf/BH_Law_on_Implementation_of_the_Rome_Statute_ENG.pdf)
 war_crimes: [Bosnia-Herzegovina Criminal Code, Chapter 17, Article 173](https://iccdb.hrlc.net/data/doc/118/keyword/145/)
+note:
 slug: bosnia-and-herzegovina
 ---
-Genocide
-
-[Bosnia-Herzegovina Criminal Code, Chapter 17, Article 171](https://iccdb.hrlc.net/data/doc/118/keyword/46/)
-
-Crimes against Humanity
-
-[Bosnia-Herzegovina Criminal Code, Chapter 17, Article 172](https://iccdb.hrlc.net/data/doc/118/keyword/13/)
-
-Aggression
-
-[Bosnia-Herzegovina Law on Implementation of the Rome Statute of the International Criminal Court and Cooperation with the International Criminal Court, Article 2](http://iccdb.webfactional.com/documents/implementations/pdf/BH_Law_on_Implementation_of_the_Rome_Statute_ENG.pdf)
-
-War Crimes
-
-[Bosnia-Herzegovina Criminal Code, Chapter 17, Article 173](https://iccdb.hrlc.net/data/doc/118/keyword/145/)
-

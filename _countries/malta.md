@@ -12,27 +12,6 @@ genocide: [International Criminal Court Act - Part 1 - Article 6](https://iccdb.
 crimes_against_humanity: [International Criminal Court Act - Part 1 - Article 7](https://iccdb.hrlc.net/data/doc/40/keyword/13/) [Malta - Criminal Code - Part II - Titles I, II - Articles 54a, 54c, 54f, 82a, 82b](https://iccdb.hrlc.net/data/doc/149/keyword/13/)
 aggression: [Malta - Criminal Code - Part II - Title II - Article 82c](https://iccdb.hrlc.net/data/doc/149/keyword/1/)
 war_crimes: [International Criminal Court Act - Part 1 - Article 8](https://iccdb.hrlc.net/data/doc/40/keyword/145/) [Malta - Criminal Code - Part II - Titles I, II - Articles 54a, 54d, 54f, 82a, 82b](https://iccdb.hrlc.net/data/doc/149/keyword/145/)
+note:
 slug: malta
 ---
-Genocide
-
-[International Criminal Court Act - Part 1 - Article 6](https://iccdb.hrlc.net/data/doc/40/keyword/46/)
-
-[Malta - Criminal Code - Part II - Titles I, II - Articles 54a, 54b, 54f, 82a, 82b](https://iccdb.hrlc.net/data/doc/149/keyword/46/)
-
-Crimes against Humanity
-
-[International Criminal Court Act - Part 1 - Article 7](https://iccdb.hrlc.net/data/doc/40/keyword/13/)
-
-[Malta - Criminal Code - Part II - Titles I, II - Articles 54a, 54c, 54f, 82a, 82b](https://iccdb.hrlc.net/data/doc/149/keyword/13/)
-
-Aggression
-
-[Malta - Criminal Code - Part II - Title II - Article 82c](https://iccdb.hrlc.net/data/doc/149/keyword/1/)
-
-War Crimes
-
-[International Criminal Court Act - Part 1 - Article 8](https://iccdb.hrlc.net/data/doc/40/keyword/145/)
-
-[Malta - Criminal Code - Part II - Titles I, II - Articles 54a, 54d, 54f, 82a, 82b](https://iccdb.hrlc.net/data/doc/149/keyword/145/)
-

@@ -9,5 +9,10 @@ state_party: true
 signed_date: 1998-07-18
 entry_into_force_date: 2002-08-01
 ratified_apic_date: 2007-07-06
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: greece
 ---

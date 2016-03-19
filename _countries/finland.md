@@ -12,21 +12,6 @@ genocide: [The Penal Code of Finland](https://iccdb.hrlc.net/data/doc/139/keywor
 crimes_against_humanity: [The Penal Code of Finland](https://iccdb.hrlc.net/data/doc/139/keyword/13/)
 aggression: [The Penal Code of Finland](https://iccdb.hrlc.net/data/doc/139/keyword/1/)
 war_crimes: [The Penal Code of Finland](https://iccdb.hrlc.net/data/doc/139/keyword/145/)
+note:
 slug: finland
 ---
-Genocide
-
-[The Penal Code of Finland](https://iccdb.hrlc.net/data/doc/139/keyword/46/)
-
-Crimes against Humanity
-
-[The Penal Code of Finland](https://iccdb.hrlc.net/data/doc/139/keyword/13/)
-
-Aggression
-
-[The Penal Code of Finland](https://iccdb.hrlc.net/data/doc/139/keyword/1/)
-
-War Crimes
-
-[The Penal Code of Finland](https://iccdb.hrlc.net/data/doc/139/keyword/145/)
-

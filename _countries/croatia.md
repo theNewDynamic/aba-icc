@@ -12,21 +12,6 @@ genocide: [Croatian Criminal Code - Chapter Thriteen - Article 156](https://iccd
 crimes_against_humanity: [Croatian Criminal Code - Chapter Thirteen - Article 157A](https://iccdb.hrlc.net/data/doc/179/keyword/13/)
 aggression: [Croatian Criminal Code - Chapter Thirteen - Article 157](https://iccdb.hrlc.net/data/doc/179/keyword/1/)
 war_crimes: [Croation Criminal Code - Chapter Thirteen - Article 158](https://iccdb.hrlc.net/data/doc/179/keyword/145/)
+note:
 slug: croatia
 ---
-Genocide
-
-[Croatian Criminal Code - Chapter Thriteen - Article 156](https://iccdb.hrlc.net/data/doc/179/keyword/46/)
-
-Crimes against Humanity
-
-[Croatian Criminal Code - Chapter Thirteen - Article 157A](https://iccdb.hrlc.net/data/doc/179/keyword/13/)
-
-Aggression
-
-[Croatian Criminal Code - Chapter Thirteen - Article 157](https://iccdb.hrlc.net/data/doc/179/keyword/1/)
-
-War Crimes
-
-[Croation Criminal Code - Chapter Thirteen - Article 158](https://iccdb.hrlc.net/data/doc/179/keyword/145/)
-

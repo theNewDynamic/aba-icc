@@ -9,18 +9,8 @@ signed_date: 1998-12-09
 entry_into_force_date: 2003-08-01
 genocide: [Criminal Code of the Republic of Lithuania - Chapter XV - Article 99](https://iccdb.hrlc.net/data/doc/312/keyword/46/)
 crimes_against_humanity: [Criminal Code of the Republic of Lithuania - Chapter XV - Article 100](https://iccdb.hrlc.net/data/doc/312/keyword/13/)
+aggression:
 war_crimes: [Criminal Code of the Republic of Lithuania - Chapter XV - Articles 101-109, 111](https://iccdb.hrlc.net/data/doc/312/keyword/145/)
+note:
 slug: lithuania
 ---
-Genocide
-
-[Criminal Code of the Republic of Lithuania - Chapter XV - Article 99](https://iccdb.hrlc.net/data/doc/312/keyword/46/)
-
-Crimes against Humanity
-
-[Criminal Code of the Republic of Lithuania - Chapter XV - Article 100](https://iccdb.hrlc.net/data/doc/312/keyword/13/)
-
-War Crimes
-
-[Criminal Code of the Republic of Lithuania - Chapter XV - Articles 101-109, 111](https://iccdb.hrlc.net/data/doc/312/keyword/145/)
-

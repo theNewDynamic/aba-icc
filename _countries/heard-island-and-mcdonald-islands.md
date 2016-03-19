@@ -5,5 +5,10 @@ date: 2015-02-23T19:07:00.000Z
 geocode: HMD
 iso_code: HM
 territory: true
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: heard-island-and-mcdonald-islands
 ---

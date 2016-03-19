@@ -11,18 +11,8 @@ entry_into_force_date: 2002-07-01
 ratified_apic_date: 2004-07-08
 genocide: [Mali Penal Code - Book III - Chapter I - Article 30](https://iccdb.hrlc.net/data/doc/319/)
 crimes_against_humanity: [Mali Penal Code - Book III - Chapter I - Article 29](https://iccdb.hrlc.net/data/doc/319/)
+aggression:
 war_crimes: [Mali Penal Code - Book III - Chapter I - Article 31](https://iccdb.hrlc.net/data/doc/319/)
+note:
 slug: mali
 ---
-Genocide
-
-[Mali Penal Code - Book III - Chapter I - Article 30](https://iccdb.hrlc.net/data/doc/319/)
-
-Crimes against Humanity
-
-[Mali Penal Code - Book III - Chapter I - Article 29](https://iccdb.hrlc.net/data/doc/319/)
-
-War Crimes
-
-[Mali Penal Code - Book III - Chapter I - Article 31](https://iccdb.hrlc.net/data/doc/319/)
-

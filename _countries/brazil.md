@@ -9,9 +9,9 @@ signed_date: 2000-02-06
 entry_into_force_date: 2002-09-01
 ratified_apic_date: 2011-12-11
 genocide: [Law No. 2.889 of October 1,1956](https://iccdb.hrlc.net/data/doc/522/)
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: brazil
 ---
-Genocide
-
-[Law No. 2.889 of October 1,1956](https://iccdb.hrlc.net/data/doc/522/)
-

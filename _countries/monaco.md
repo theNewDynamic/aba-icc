@@ -6,10 +6,10 @@ geocode: MCO
 iso_code: MC
 signed_but_not_ratified: true
 signed_date: 1998-07-18
+genocide:
+crimes_against_humanity:
+aggression:
 war_crimes: [Monaco Criminal Code](http://www.legimonaco.mc/305/legismclois.nsf/ViewSommaire/5C2938D8D46C7348C12574FD004BE402!OpenDocument)
+note:
 slug: monaco
 ---
-War Crimes
-
-[Monaco Criminal Code](http://www.legimonaco.mc/305/legismclois.nsf/ViewSommaire/5C2938D8D46C7348C12574FD004BE402!OpenDocument)
-

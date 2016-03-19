@@ -5,14 +5,9 @@ date: 2015-02-23T18:49:00.000Z
 geocode: SOM
 iso_code: SO
 genocide: [Constitution of Somalia](https://iccdb.hrlc.net/data/doc/853/keyword/46/)
+crimes_against_humanity:
+aggression:
 war_crimes: [Constitution of Somalia](https://iccdb.hrlc.net/data/doc/853/keyword/145/)
+note:
 slug: somalia
 ---
-Genocide
-
-[Constitution of Somalia](https://iccdb.hrlc.net/data/doc/853/keyword/46/)
-
-War Crimes
-
-[Constitution of Somalia](https://iccdb.hrlc.net/data/doc/853/keyword/145/)
-

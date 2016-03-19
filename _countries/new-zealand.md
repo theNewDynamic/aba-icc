@@ -12,21 +12,6 @@ genocide: [International Crimes and International Criminal Court Act 2000 - Part
 crimes_against_humanity: [International Crimes and International Criminal Court Act 2000 - Part II - Section 10](https://iccdb.hrlc.net/data/doc/151/keyword/13/)
 aggression: [International Non-Aggression and Lawful Use of Force, 2012](http://crimeofaggression.info/2013/01/new-zealand-international-non-aggression-and-lawful-use-of-force-implementation-of-amendment-to-statute-of-rome-bill-2012/)
 war_crimes: [International Crimes and International Criminal Court Act 2000 - Part II Section 11](http://www.legislation.govt.nz/act/public/2000/0026/28.0/DLM63091.html)
+note:
 slug: new-zealand
 ---
-Genocide
-
-[International Crimes and International Criminal Court Act 2000 - Part II - Section 9](https://iccdb.hrlc.net/data/doc/151/keyword/46/)
-
-Crimes against Humanity
-
-[International Crimes and International Criminal Court Act 2000 - Part II - Section 10](https://iccdb.hrlc.net/data/doc/151/keyword/13/)
-
-Aggression
-
-[International Non-Aggression and Lawful Use of Force, 2012](http://crimeofaggression.info/2013/01/new-zealand-international-non-aggression-and-lawful-use-of-force-implementation-of-amendment-to-statute-of-rome-bill-2012/)
-
-War Crimes
-
-[International Crimes and International Criminal Court Act 2000 - Part II Section 11](http://www.legislation.govt.nz/act/public/2000/0026/28.0/DLM63091.html)
-

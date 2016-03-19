@@ -9,19 +9,9 @@ signed_but_not_ratified: true
 signed_date: 2000-01-19
 ratified_apic_date: 2007-01-28
 genocide: [Ukraine Criminal Code - Chapter XX - Article 442](https://iccdb.hrlc.net/data/doc/464/keyword/46/)
+crimes_against_humanity:
 aggression: [Ukraine Criminal Code - Chapter XX - Article 437](https://iccdb.hrlc.net/data/doc/464/keyword/1/)
 war_crimes: [Ukraine Criminal Code - Chapter XX - Article 438](https://iccdb.hrlc.net/data/doc/464/keyword/145/)
+note:
 slug: ukraine
 ---
-Genocide
-
-[Ukraine Criminal Code - Chapter XX - Article 442](https://iccdb.hrlc.net/data/doc/464/keyword/46/)
-
-Aggression
-
-[Ukraine Criminal Code - Chapter XX - Article 437](https://iccdb.hrlc.net/data/doc/464/keyword/1/)
-
-War Crimes
-
-[Ukraine Criminal Code - Chapter XX - Article 438](https://iccdb.hrlc.net/data/doc/464/keyword/145/)
-

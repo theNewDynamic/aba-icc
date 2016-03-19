@@ -11,21 +11,6 @@ genocide: [Tajikistan Criminal Code - Section XV - Chapter 34 - Article 398](htt
 crimes_against_humanity: [Tajikistan Criminal Code - Section II - Chapter 3 - Article 18](https://iccdb.hrlc.net/data/doc/198/keyword/13/)
 aggression: [Tajikistan Criminal Code - Section XV - Chapter 34 - Article 395](https://iccdb.hrlc.net/data/doc/198/keyword/1/)
 war_crimes: [Tajikistan Criminal Code - Section XV - Chapter 34 - Article 403](https://iccdb.hrlc.net/data/doc/198/keyword/145/)
+note:
 slug: tajikistan
 ---
-Genocide
-
-[Tajikistan Criminal Code - Section XV - Chapter 34 - Article 398](https://iccdb.hrlc.net/data/doc/198/keyword/46/)
-
-Crimes against Humanity
-
-[Tajikistan Criminal Code - Section II - Chapter 3 - Article 18](https://iccdb.hrlc.net/data/doc/198/keyword/13/)
-
-Aggression
-
-[Tajikistan Criminal Code - Section XV - Chapter 34 - Article 395](https://iccdb.hrlc.net/data/doc/198/keyword/1/)
-
-War Crimes
-
-[Tajikistan Criminal Code - Section XV - Chapter 34 - Article 403](https://iccdb.hrlc.net/data/doc/198/keyword/145/)
-

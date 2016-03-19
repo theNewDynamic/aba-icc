@@ -10,18 +10,8 @@ entry_into_force_date: 2002-07-01
 ratified_apic_date: 2008-07-24
 genocide: [International Crimes Act 2003 - § 2 - Section 3](https://iccdb.hrlc.net/data/doc/55/keyword/46/)
 crimes_against_humanity: [International Crimes Act 2003 - § 2 - Section 4](https://iccdb.hrlc.net/data/doc/55/keyword/13/)
+aggression:
 war_crimes: [International Crimes Act 2003 - § 2 - Sections 5-7](https://iccdb.hrlc.net/data/doc/55/keyword/145/)
+note:
 slug: netherlands
 ---
-Genocide
-
-[International Crimes Act 2003 - § 2 - Section 3](https://iccdb.hrlc.net/data/doc/55/keyword/46/)
-
-Crimes against Humanity
-
-[International Crimes Act 2003 - § 2 - Section 4](https://iccdb.hrlc.net/data/doc/55/keyword/13/)
-
-War Crimes
-
-[International Crimes Act 2003 - § 2 - Sections 5-7](https://iccdb.hrlc.net/data/doc/55/keyword/145/)
-

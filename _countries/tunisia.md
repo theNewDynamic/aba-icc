@@ -6,5 +6,10 @@ geocode: TUN
 iso_code: TN
 state_party: true
 entry_into_force_date: 2002-09-01
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: tunisia
 ---

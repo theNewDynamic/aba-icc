@@ -10,18 +10,8 @@ signed_date: 1999-08-11
 entry_into_force_date: 2005-06-01
 genocide: [Kenyan International Crimes Act of 2008](https://iccdb.hrlc.net/data/doc/309/keyword/46/)
 crimes_against_humanity: [Kenyan International Crimes Act of 2008](https://iccdb.hrlc.net/data/doc/309/keyword/13/)
+aggression:
 war_crimes: [Kenyan International Crimes Act of 2008](https://iccdb.hrlc.net/data/doc/309/keyword/145/)
+note:
 slug: kenya
 ---
-Genocide
-
-[Kenyan International Crimes Act of 2008](https://iccdb.hrlc.net/data/doc/309/keyword/46/)
-
-Crimes against Humanity
-
-[Kenyan International Crimes Act of 2008](https://iccdb.hrlc.net/data/doc/309/keyword/13/)
-
-War Crimes
-
-[Kenyan International Crimes Act of 2008](https://iccdb.hrlc.net/data/doc/309/keyword/145/)
-

@@ -12,21 +12,6 @@ genocide: [Latvia Penal Code - Chapter IX - Section 71](https://iccdb.hrlc.net/d
 crimes_against_humanity: [Latvia Penal Code - Chapter IX - Section 71.2](https://iccdb.hrlc.net/data/doc/452/keyword/13/)
 aggression: [Latvia Penal Code - Chapter IX - Sections 72, 77](https://iccdb.hrlc.net/data/doc/452/keyword/1/)
 war_crimes: [Latvia Penal Code - Chapter IX - Section 74](https://iccdb.hrlc.net/data/doc/452/keyword/145/)
+note:
 slug: latvia
 ---
-Genocide
-
-[Latvia Penal Code - Chapter IX - Section 71](https://iccdb.hrlc.net/data/doc/452/keyword/46/)
-
-Crimes against Humanity
-
-[Latvia Penal Code - Chapter IX - Section 71.2](https://iccdb.hrlc.net/data/doc/452/keyword/13/)
-
-Aggression
-
-[Latvia Penal Code - Chapter IX - Sections 72, 77](https://iccdb.hrlc.net/data/doc/452/keyword/1/)
-
-War Crimes
-
-[Latvia Penal Code - Chapter IX - Section 74](https://iccdb.hrlc.net/data/doc/452/keyword/145/)
-

@@ -7,9 +7,9 @@ iso_code: KG
 signed_but_not_ratified: true
 signed_date: 1998-12-07
 genocide: [Kyrgyzstan Criminal Code - Section XII - Chapter 34 - Article 373](https://iccdb.hrlc.net/data/doc/584/keyword/46/)
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: kyrgyzstan
 ---
-Genocide
-
-[Kyrgyzstan Criminal Code - Section XII - Chapter 34 - Article 373](https://iccdb.hrlc.net/data/doc/584/keyword/46/)
-

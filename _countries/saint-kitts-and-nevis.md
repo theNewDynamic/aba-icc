@@ -6,5 +6,10 @@ geocode: KNA
 iso_code: KN
 state_party: true
 entry_into_force_date: 2006-11-01
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: saint-kitts-and-nevis
 ---

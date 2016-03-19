@@ -10,5 +10,10 @@ state_party: true
 signed_date: 2000-09-07
 entry_into_force_date: 2003-10-01
 ratified_apic_date: 2004-04-01
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: guinea
 ---

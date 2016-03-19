@@ -6,5 +6,10 @@ geocode: GNB
 iso_code: GW
 signed_but_not_ratified: true
 signed_date: 2000-09-12
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: guinea-bissau
 ---

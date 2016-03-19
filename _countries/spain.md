@@ -10,18 +10,8 @@ entry_into_force_date: 2002-07-01
 ratified_apic_date: 2009-09-24
 genocide: [Spain Penal Code - Book I - Title XXIV - Chapter II - Article 607](https://iccdb.hrlc.net/data/doc/706/keyword/46/)
 crimes_against_humanity: [Spain Penal Code - Book I - Title XXIV - Chapter II Bis - Article 607 bis](https://iccdb.hrlc.net/data/doc/706/keyword/13/)
+aggression:
 war_crimes: [Spain Penal Code - Book I - Title XXIV - Chapter III - Articles 608-614 bis](https://iccdb.hrlc.net/data/doc/706/keyword/145/)
+note:
 slug: spain
 ---
-Genocide
-
-[Spain Penal Code - Book I - Title XXIV - Chapter II - Article 607](https://iccdb.hrlc.net/data/doc/706/keyword/46/)
-
-Crimes against Humanity
-
-[Spain Penal Code - Book I - Title XXIV - Chapter II Bis - Article 607 bis](https://iccdb.hrlc.net/data/doc/706/keyword/13/)
-
-War Crimes
-
-[Spain Penal Code - Book I - Title XXIV - Chapter III - Articles 608-614 bis](https://iccdb.hrlc.net/data/doc/706/keyword/145/)
-

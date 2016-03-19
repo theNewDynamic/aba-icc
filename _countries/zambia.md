@@ -7,5 +7,10 @@ iso_code: ZM
 state_party: true
 signed_date: 1998-07-17
 entry_into_force_date: 2003-02-01
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: zambia
 ---

@@ -7,5 +7,10 @@ iso_code: NR
 state_party: true
 signed_date: 2000-12-13
 entry_into_force_date: 2002-07-01
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: nauru
 ---

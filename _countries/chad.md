@@ -7,5 +7,10 @@ iso_code: TD
 state_party: true
 signed_date: 1999-10-20
 entry_into_force_date: 2007-01-01
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: chad
 ---

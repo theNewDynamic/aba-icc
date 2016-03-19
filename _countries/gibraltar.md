@@ -5,5 +5,10 @@ date: 2015-02-23T19:09:00.000Z
 geocode: GIB
 iso_code: GI
 territory: true
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: gibraltar
 ---

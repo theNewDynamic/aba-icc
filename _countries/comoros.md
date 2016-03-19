@@ -10,18 +10,8 @@ signed_date: 2000-09-22
 entry_into_force_date: 2006-11-01
 genocide: [Loi n°11-022/au du 13 décembre 2011 - Titre III - Chapitre 1 - Article 17](https://iccdb.hrlc.net/data/doc/481/)
 crimes_against_humanity: [Loi n°11-022/au du 13 décembre 2011 - Titre III - Chapitre 1 - Article 18](https://iccdb.hrlc.net/data/doc/481/)
+aggression:
 war_crimes: [Loi n°11-022/au du 13 décembre 2011 - Titre III - Chapitre 1 - Article 20](https://iccdb.hrlc.net/data/doc/481/)
+note:
 slug: comoros
 ---
-Genocide
-
-[Loi n°11-022/au du 13 décembre 2011 - Titre III - Chapitre 1 - Article 17](https://iccdb.hrlc.net/data/doc/481/)
-
-Crimes against Humanity
-
-[Loi n°11-022/au du 13 décembre 2011 - Titre III - Chapitre 1 - Article 18](https://iccdb.hrlc.net/data/doc/481/)
-
-War Crimes
-
-[Loi n°11-022/au du 13 décembre 2011 - Titre III - Chapitre 1 - Article 20](https://iccdb.hrlc.net/data/doc/481/)
-

@@ -12,21 +12,6 @@ genocide: [Bulgarian Criminal Code, Chapter 14, Article 416](https://iccdb.hrlc.
 crimes_against_humanity: [Bulgarian Criminal Code, Chapter 14](https://iccdb.hrlc.net/data/doc/172/keyword/13/)
 aggression: [Bulgarian Criminal Code, Chapter 14, Article 409](https://iccdb.hrlc.net/data/doc/172/keyword/1/)
 war_crimes: [Bulgarian Criminal Code, Chapter 14](https://iccdb.hrlc.net/data/doc/172/keyword/145/)
+note:
 slug: bulgaria
 ---
-Genocide
-
-[Bulgarian Criminal Code, Chapter 14, Article 416](https://iccdb.hrlc.net/data/doc/172/keyword/46/)
-
-Crimes against Humanity
-
-[Bulgarian Criminal Code, Chapter 14](https://iccdb.hrlc.net/data/doc/172/keyword/13/)
-
-Aggression
-
-[Bulgarian Criminal Code, Chapter 14, Article 409](https://iccdb.hrlc.net/data/doc/172/keyword/1/)
-
-War Crimes
-
-[Bulgarian Criminal Code, Chapter 14](https://iccdb.hrlc.net/data/doc/172/keyword/145/)
-

@@ -8,18 +8,8 @@ geocode: IRQ
 iso_code: IQ
 genocide: [Statute of the Iraqi Special Tribunal - Section 2 - Part 2 - Article 11](http://preventgenocide.org/law/domestic/iraqispecialtribunal.htm)
 crimes_against_humanity: [Statute of the Iraqi Special Tribunal - Section 2 - Part 3 - Article 12](http://preventgenocide.org/law/domestic/iraqispecialtribunal.htm)
+aggression:
 war_crimes: [Statute of the Iraqi Special Tribunal - Section 2 - Part 4 - Article 13](http://preventgenocide.org/law/domestic/iraqispecialtribunal.htm)
+note:
 slug: iraq
 ---
-Genocide
-
-[Statute of the Iraqi Special Tribunal - Section 2 - Part 2 - Article 11](http://preventgenocide.org/law/domestic/iraqispecialtribunal.htm)
-
-Crimes against Humanity
-
-[Statute of the Iraqi Special Tribunal - Section 2 - Part 3 - Article 12](http://preventgenocide.org/law/domestic/iraqispecialtribunal.htm)
-
-War Crimes
-
-[Statute of the Iraqi Special Tribunal - Section 2 - Part 4 - Article 13](http://preventgenocide.org/law/domestic/iraqispecialtribunal.htm)
-

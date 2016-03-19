@@ -10,24 +10,8 @@ entry_into_force_date: 2002-07-01
 ratified_apic_date: 2007-10-03
 genocide: [Adaptation of Criminal Legislation to ICC Statute - Chapter II - Section 1 - Article 8](https://iccdb.hrlc.net/data/doc/99/keyword/46/) [Law No. 144/99 on International Judicial Cooperation in Criminal Matters - Part I - Chapter 1 - Article 7](https://iccdb.hrlc.net/data/doc/156/keyword/46/)
 crimes_against_humanity: [Adaptation of Criminal Legislation to ICC Statute - Chapter II - Section 1 - Article 9](https://iccdb.hrlc.net/data/doc/99/keyword/13/) [Law No. 144/99 on International Judicial Cooperation in Criminal Matters - Part I - Chapter 1 - Article 7](https://iccdb.hrlc.net/data/doc/156/keyword/13/)
+aggression:
 war_crimes: [Adaptation of Criminal Legislation to ICC Statute - Chapter II - Section 2 - Articles 10-16](https://iccdb.hrlc.net/data/doc/99/keyword/145/) [Law No. 144/99 on International Judicial Cooperation in Criminal Matters - Part I - Chapter 1 - Article 7](https://iccdb.hrlc.net/data/doc/156/keyword/145/)
+note:
 slug: portugal
 ---
-Genocide
-
-[Adaptation of Criminal Legislation to ICC Statute - Chapter II - Section 1 - Article 8](https://iccdb.hrlc.net/data/doc/99/keyword/46/)
-
-[Law No. 144/99 on International Judicial Cooperation in Criminal Matters - Part I - Chapter 1 - Article 7](https://iccdb.hrlc.net/data/doc/156/keyword/46/)
-
-Crimes against Humanity
-
-[Adaptation of Criminal Legislation to ICC Statute - Chapter II - Section 1 - Article 9](https://iccdb.hrlc.net/data/doc/99/keyword/13/)
-
-[Law No. 144/99 on International Judicial Cooperation in Criminal Matters - Part I - Chapter 1 - Article 7](https://iccdb.hrlc.net/data/doc/156/keyword/13/)
-
-War Crimes
-
-[Adaptation of Criminal Legislation to ICC Statute - Chapter II - Section 2 - Articles 10-16](https://iccdb.hrlc.net/data/doc/99/keyword/145/)
-
-[Law No. 144/99 on International Judicial Cooperation in Criminal Matters - Part I - Chapter 1 - Article 7](https://iccdb.hrlc.net/data/doc/156/keyword/145/)
-

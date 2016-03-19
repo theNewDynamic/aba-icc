@@ -6,5 +6,10 @@ geocode: ARE
 iso_code: AE
 signed_but_not_ratified: true
 signed_date: 2000-11-27
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: united-arab-emirates
 ---

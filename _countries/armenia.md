@@ -10,21 +10,6 @@ genocide: [Armenian Criminal Code, Article 393](https://iccdb.hrlc.net/data/doc/
 crimes_against_humanity: [Armenian Criminal Code, Chapter 33](https://iccdb.hrlc.net/data/doc/169/keyword/13/)
 aggression: [Armenian Criminal Code, Chapter 33, Article 384](https://iccdb.hrlc.net/data/doc/169/keyword/1/)
 war_crimes: [Armenian Criminal Code, Chapter 33](https://iccdb.hrlc.net/data/doc/169/keyword/145/)
+note:
 slug: armenia
 ---
-Genocide
-
-[Armenian Criminal Code, Article 393](https://iccdb.hrlc.net/data/doc/169/keyword/46/)
-
-Crimes against Humanity
-
-[Armenian Criminal Code, Chapter 33](https://iccdb.hrlc.net/data/doc/169/keyword/13/)
-
-Aggression
-
-[Armenian Criminal Code, Chapter 33, Article 384](https://iccdb.hrlc.net/data/doc/169/keyword/1/)
-
-War Crimes
-
-[Armenian Criminal Code, Chapter 33](https://iccdb.hrlc.net/data/doc/169/keyword/145/)
-

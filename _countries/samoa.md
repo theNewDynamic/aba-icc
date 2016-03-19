@@ -15,23 +15,3 @@ war_crimes: [International Criminal Court Act (No. 26 of 2007) - Part II - Artic
 note: ratified Kampala amendments 9/25/2012
 slug: samoa
 ---
-Genocide
-
-[International Criminal Court Act (No. 26 of 2007) - Part II - Article 5](https://iccdb.hrlc.net/data/doc/71/keyword/46/)
-
-Crimes against Humanity
-
-[International Criminal Court Act (No. 26 of 2007) - Part II - Article 6](https://iccdb.hrlc.net/data/doc/71/keyword/13/)
-
-Aggression
-
-[International Criminal Court Act (No. 26 of 2007) - Part I - Article 3](https://iccdb.hrlc.net/data/doc/71/keyword/1/)
-
-War Crimes
-
-[International Criminal Court Act (No. 26 of 2007) - Part II - Article 7](https://iccdb.hrlc.net/data/doc/71/keyword/145/)
-
-note:
-
-ratified Kampala amendments 9/25/2012
-

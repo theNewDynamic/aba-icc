@@ -8,5 +8,10 @@ iso_code: PS
 state_party: true
 signed_date: 2015-01-02
 entry_into_force_date: 2015-04-01
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: palestine
 ---

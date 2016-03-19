@@ -12,21 +12,6 @@ genocide: [Hungarian Code of 1978 (amended in 2005) - Chapter 11 - Title 1 - Sec
 crimes_against_humanity: [Hungarian Code of 1978 (amended in 2005) - Chapter 11 - Title 1 - Section 157](https://iccdb.hrlc.net/data/doc/290/keyword/13/)
 aggression: [Hungarian Code of 1978 (amended in 2005) - Chapter 11 - Title 1 - Section 153](https://iccdb.hrlc.net/data/doc/290/keyword/1/)
 war_crimes: [Hungarian Code of 1978 (amended in 2005) - Chapter 11 - Title 1 - Sections 158-165](https://iccdb.hrlc.net/data/doc/290/keyword/145/)
+note:
 slug: hungary
 ---
-Genocide
-
-[Hungarian Code of 1978 (amended in 2005) - Chapter 11 - Title 1 - Section 155](https://iccdb.hrlc.net/data/doc/290/keyword/46/)
-
-Crimes against Humanity
-
-[Hungarian Code of 1978 (amended in 2005) - Chapter 11 - Title 1 - Section 157](https://iccdb.hrlc.net/data/doc/290/keyword/13/)
-
-Aggression
-
-[Hungarian Code of 1978 (amended in 2005) - Chapter 11 - Title 1 - Section 153](https://iccdb.hrlc.net/data/doc/290/keyword/1/)
-
-War Crimes
-
-[Hungarian Code of 1978 (amended in 2005) - Chapter 11 - Title 1 - Sections 158-165](https://iccdb.hrlc.net/data/doc/290/keyword/145/)
-

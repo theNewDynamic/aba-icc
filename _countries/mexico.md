@@ -10,13 +10,8 @@ entry_into_force_date: 2005-12-31
 ratified_apic_date: 2007-09-27
 genocide: [Mexico Penal Code - Book II - Title III - Chapter II - Article 149](https://iccdb.hrlc.net/data/doc/329/)
 crimes_against_humanity: [Mexico Penal Code - Book II - Title III](https://iccdb.hrlc.net/data/doc/329/)
+aggression:
+war_crimes:
+note:
 slug: mexico
 ---
-Genocide
-
-[Mexico Penal Code - Book II - Title III - Chapter II - Article 149](https://iccdb.hrlc.net/data/doc/329/)
-
-Crimes against Humanity
-
-[Mexico Penal Code - Book II - Title III](https://iccdb.hrlc.net/data/doc/329/)
-

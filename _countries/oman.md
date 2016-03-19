@@ -6,5 +6,10 @@ geocode: OMN
 iso_code: OM
 signed_but_not_ratified: true
 signed_date: 2000-12-20
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: oman
 ---

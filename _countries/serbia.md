@@ -12,21 +12,6 @@ genocide: [Serbian Criminal Code - Chapter 34 - Articles 370, 375](https://iccdb
 crimes_against_humanity: [Serbian Criminal Code - Chapter 34 - Article 371](https://iccdb.hrlc.net/data/doc/202/keyword/13/)
 aggression: [Serbian Criminal Code - Chapter 34 - Article 386](https://iccdb.hrlc.net/data/doc/202/keyword/1/)
 war_crimes: [Serbian Criminal Code, Article 372-376, 378, 381-383, 385](https://iccdb.hrlc.net/data/doc/202/keyword/145/)
+note:
 slug: serbia
 ---
-Genocide
-
-[Serbian Criminal Code - Chapter 34 - Articles 370, 375](https://iccdb.hrlc.net/data/doc/202/keyword/46/)
-
-Crimes against Humanity
-
-[Serbian Criminal Code - Chapter 34 - Article 371](https://iccdb.hrlc.net/data/doc/202/keyword/13/)
-
-Aggression
-
-[Serbian Criminal Code - Chapter 34 - Article 386](https://iccdb.hrlc.net/data/doc/202/keyword/1/)
-
-War Crimes
-
-[Serbian Criminal Code, Article 372-376, 378, 381-383, 385](https://iccdb.hrlc.net/data/doc/202/keyword/145/)
-

@@ -6,5 +6,10 @@ geocode: IRN
 iso_code: IR
 signed_but_not_ratified: true
 signed_date: 2000-12-31
+genocide:
+crimes_against_humanity:
+aggression:
+war_crimes:
+note:
 slug: iran
 ---
