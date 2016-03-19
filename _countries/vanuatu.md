@@ -17,7 +17,7 @@ ratified_apic_date:
 genocide:
 crimes_against_humanity:
 aggression:
-war_crimes: [Vanuatu - Geneva Conventions Act - Part II - Article 4](https://iccdb.hrlc.net/data/doc/839/keyword/145/)
+war_crimes: "[Vanuatu - Geneva Conventions Act - Part II - Article 4](https://iccdb.hrlc.net/data/doc/839/keyword/145/)"
 note:
 slug: vanuatu
 ---

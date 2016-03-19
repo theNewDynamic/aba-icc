@@ -14,7 +14,7 @@ signed_date:
 ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date:
-genocide: [Nicaragua Penal Code - Book III - Title XIV - Articles 549-552](https://iccdb.hrlc.net/data/doc/347/)
+genocide: "[Nicaragua Penal Code - Book III - Title XIV - Articles 549-552](https://iccdb.hrlc.net/data/doc/347/)"
 crimes_against_humanity:
 aggression:
 war_crimes:

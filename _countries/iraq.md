@@ -14,10 +14,10 @@ signed_date:
 ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date:
-genocide: [Statute of the Iraqi Special Tribunal - Section 2 - Part 2 - Article 11](http://preventgenocide.org/law/domestic/iraqispecialtribunal.htm)
-crimes_against_humanity: [Statute of the Iraqi Special Tribunal - Section 2 - Part 3 - Article 12](http://preventgenocide.org/law/domestic/iraqispecialtribunal.htm)
+genocide: "[Statute of the Iraqi Special Tribunal - Section 2 - Part 2 - Article 11](http://preventgenocide.org/law/domestic/iraqispecialtribunal.htm)"
+crimes_against_humanity: "[Statute of the Iraqi Special Tribunal - Section 2 - Part 3 - Article 12](http://preventgenocide.org/law/domestic/iraqispecialtribunal.htm)"
 aggression:
-war_crimes: [Statute of the Iraqi Special Tribunal - Section 2 - Part 4 - Article 13](http://preventgenocide.org/law/domestic/iraqispecialtribunal.htm)
+war_crimes: "[Statute of the Iraqi Special Tribunal - Section 2 - Part 4 - Article 13](http://preventgenocide.org/law/domestic/iraqispecialtribunal.htm)"
 note:
 slug: iraq
 ---

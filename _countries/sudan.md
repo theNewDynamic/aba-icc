@@ -18,6 +18,6 @@ genocide:
 crimes_against_humanity:
 aggression:
 war_crimes:
-note: expressed intent not to ratify
+note: "expressed intent not to ratify"
 slug: sudan
 ---

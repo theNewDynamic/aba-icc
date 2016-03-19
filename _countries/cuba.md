@@ -14,7 +14,7 @@ signed_date:
 ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date:
-genocide: [Cuban Penal Code, Article 116](https://iccdb.hrlc.net/data/doc/712/)
+genocide: "[Cuban Penal Code, Article 116](https://iccdb.hrlc.net/data/doc/712/)"
 crimes_against_humanity:
 aggression:
 war_crimes:

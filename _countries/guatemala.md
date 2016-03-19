@@ -14,8 +14,8 @@ signed_date:
 ratified_or_acceded_date:
 entry_into_force_date: 2012-07-01
 ratified_apic_date:
-genocide: [Guatemala Penal Code - Title 11 - Chapter 4 - Articles 376, 377](https://iccdb.hrlc.net/data/doc/656/)
-crimes_against_humanity: [Guatemala Penal Code - Title 11 - Chapter 4 - Article 378](https://iccdb.hrlc.net/data/doc/656/)
+genocide: "[Guatemala Penal Code - Title 11 - Chapter 4 - Articles 376, 377](https://iccdb.hrlc.net/data/doc/656/)"
+crimes_against_humanity: "[Guatemala Penal Code - Title 11 - Chapter 4 - Article 378](https://iccdb.hrlc.net/data/doc/656/)"
 aggression:
 war_crimes:
 note:

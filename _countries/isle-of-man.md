@@ -18,6 +18,6 @@ genocide:
 crimes_against_humanity:
 aggression:
 war_crimes:
-note: (see United Kingdom)
+note: "(see United Kingdom)"
 slug: isle-of-man
 ---

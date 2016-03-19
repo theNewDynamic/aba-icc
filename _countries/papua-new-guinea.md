@@ -14,7 +14,7 @@ signed_date:
 ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date:
-genocide: [Criminal Code Act 1974 - Schedule 1 - Part V - Division 3 - Article 313a](https://iccdb.hrlc.net/data/doc/588/keyword/46/)
+genocide: "[Criminal Code Act 1974 - Schedule 1 - Part V - Division 3 - Article 313a](https://iccdb.hrlc.net/data/doc/588/keyword/46/)"
 crimes_against_humanity:
 aggression:
 war_crimes:

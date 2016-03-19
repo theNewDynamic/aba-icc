@@ -14,8 +14,8 @@ signed_date:
 ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date:
-genocide: [Law #26 (Human Rights Tribunal Code)](http://preventgenocide.org/id/hukum/genosida-UU26.htm)
-crimes_against_humanity: [Law #26 (Human Rights Tribunal Code)](http://preventgenocide.org/id/hukum/genosida-UU26.htm)
+genocide: "[Law #26 (Human Rights Tribunal Code)](http://preventgenocide.org/id/hukum/genosida-UU26.htm)"
+crimes_against_humanity: "[Law #26 (Human Rights Tribunal Code)](http://preventgenocide.org/id/hukum/genosida-UU26.htm)"
 aggression:
 war_crimes:
 note:

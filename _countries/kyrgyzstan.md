@@ -14,7 +14,7 @@ signed_date: 1998-12-07
 ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date:
-genocide: [Kyrgyzstan Criminal Code - Section XII - Chapter 34 - Article 373](https://iccdb.hrlc.net/data/doc/584/keyword/46/)
+genocide: "[Kyrgyzstan Criminal Code - Section XII - Chapter 34 - Article 373](https://iccdb.hrlc.net/data/doc/584/keyword/46/)"
 crimes_against_humanity:
 aggression:
 war_crimes:
