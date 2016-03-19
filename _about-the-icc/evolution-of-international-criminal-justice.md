@@ -1,11 +1,13 @@
 ---
-title: Evolution of International Criminal Justice
-splash_image: unsplash_52ce83efb2b0b_1.jpg
-excerpt: "A timeline to explore the evolution of international criminal justice and learn about the multiple and varied influences that have shaped this field of international affairs."
+title: "Evolution of International Criminal Justice"
+published: true
+date: 2015-02-04T13:36:00.000Z
+featured_image_path: /uploads/1424657827903_jackson-nuremberg.jpg
+description:
+include: timeline.html
+slug: evolution-of-international-criminal-justice
 ---
+
 In many ways, international criminal justice for the atrocity crimes of genocide, crimes against humanity, and war crimes truly begin with post-World War II trials, most notably the International Military Tribunal at Nuremberg (Nuremberg Tribunal). As momentous and influential as the Nuremberg Tribunal were and continue to be on the field, international criminal justice is also the product of numerous other important events, including events that occurred pre-Nuremberg.
 
-## [Click Here to Enter the Timeline](/evolution-of-international-criminal-justice/1870s/)
-
-<!-- The following timeline allows you to explore the evolution of international criminal justice and learn about the multiple and varied influences that have shaped this field of international affairs.
- -->
+---
