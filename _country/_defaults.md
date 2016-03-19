@@ -12,5 +12,17 @@ ratified_apic_date:
 genocide:
 crimes_against_humanity:
 aggression:
-war_crimes: 
+war_crimes:
 ---
+
+**Genocide**
+link
+
+**Crimes Against Humanity**
+link
+
+**Aggression**
+link
+
+**War Crimes**
+link
