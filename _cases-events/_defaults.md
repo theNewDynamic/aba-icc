@@ -4,5 +4,5 @@ published: true
 event_date:
 action:
 case: ''
-accused: -
+accused: ''
 ---
