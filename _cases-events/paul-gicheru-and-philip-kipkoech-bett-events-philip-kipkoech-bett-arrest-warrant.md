@@ -4,7 +4,8 @@ published: true
 event_date: 2015-09-10
 action: Arrest Warrant
 case: the-prosecutor-v-paul-gicheru-and-philip-kipkoech-bett
-accused: philip-kipkoech-bett
+accused:
+  - philip-kipkoech-bett
 slug: paul-gicheru-and-philip-kipkoech-bett-events-philip-kipkoech-bett-arrest-warrant
 ---
 

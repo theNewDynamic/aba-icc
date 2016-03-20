@@ -3,7 +3,8 @@ title: "The Prosecutor vs. S. Gadaffi and Senussi charges - Saif Al-Islam Gaddaf
 published: true
 charges_status: "Pretrial: Held Admissible (on appeal), suspect currently held in Libya"
 case: the-prosecutor-vs-s-gadaffi-and-senussi
-accused: saif-al-islam-gaddafi
+accused:
+  - saif-al-islam-gaddafi
 slug: the-prosecutor-vs-s-gadaffi-and-senussi-charges-saif-al-islam-gaddafi
 ---
 

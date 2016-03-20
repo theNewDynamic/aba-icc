@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-ruto-and-sang
-accused: joshua-arap-sang
+accused:
+  - joshua-arap-sang
 slug: ruto-and-sang-events-joshua-arap-sang
 ---
 

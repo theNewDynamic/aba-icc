@@ -4,7 +4,8 @@ published: true
 event_date: 2007-04-27
 action: Arrest Warrant
 case: the-prosecutor-v-harun-and-kushayb
-accused: ahmad-muhammad-harun
+accused:
+  - ahmad-muhammad-harun
 slug: harun-and-kushayb-events-ahmad-muhammad-harun-arrest-warrant
 ---
 

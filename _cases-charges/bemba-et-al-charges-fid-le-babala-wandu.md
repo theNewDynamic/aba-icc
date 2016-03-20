@@ -3,7 +3,8 @@ title: "Bemba et al. charges - Fidèle Babala Wandu"
 published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-bemba-et-al
-accused: fidèle-babala-wandu
+accused:
+  - fidèle-babala-wandu
 slug: bemba-et-al-charges-fidèle-babala-wandu
 ---
 

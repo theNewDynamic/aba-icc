@@ -3,7 +3,8 @@ title: "Kony et al. charges - Raska Lukwiya"
 published: true
 charges_status: "Terminated: Death of Accused"
 case: the-prosecutor-v-kony-et-al
-accused: raska-lukwiya
+accused:
+  - raska-lukwiya
 slug: kony-et-al-charges-raska-lukwiya
 ---
 

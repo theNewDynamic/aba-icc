@@ -3,7 +3,8 @@ title: "Kony et al. charges - Okot Odhiambo"
 published: true
 charges_status: "Terminated: Death of Accused"
 case: the-prosecutor-v-kony-et-al
-accused: okot-odhiambo
+accused:
+  - okot-odhiambo
 slug: kony-et-al-charges-okot-odhiambo
 ---
 

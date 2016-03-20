@@ -3,7 +3,8 @@ title: "Abu Garda charges - Bahr Idriss Abu Garda"
 published: true
 charges_status: "Pretrial: Charges Not Confirmed "
 case: the-prosecutor-v-abu-garda
-accused: bahr-idriss-abu-garda
+accused:
+  - bahr-idriss-abu-garda
 slug: abu-garda-charges-bahr-idriss-abu-garda
 ---
 

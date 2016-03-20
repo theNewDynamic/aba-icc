@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-uhuru-muigai-kenyatta
-accused: mohammed-hussein-ali
+accused:
+  - mohammed-hussein-ali
 slug: uhuru-muigai-kenyatta-events-mohammed-hussein-ali
 ---
 

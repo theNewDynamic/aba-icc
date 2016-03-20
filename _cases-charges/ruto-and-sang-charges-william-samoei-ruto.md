@@ -3,7 +3,8 @@ title: "Ruto and Sang charges - William Samoei Ruto"
 published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-ruto-and-sang
-accused: william-samoei-ruto
+accused:
+  - william-samoei-ruto
 slug: ruto-and-sang-charges-william-samoei-ruto
 ---
 

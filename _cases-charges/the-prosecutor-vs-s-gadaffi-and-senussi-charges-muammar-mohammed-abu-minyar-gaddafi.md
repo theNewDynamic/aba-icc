@@ -3,7 +3,8 @@ title: "The Prosecutor vs. S. Gadaffi and Senussi charges - Muammar Mohammed Abu
 published: true
 charges_status: "Charges Withdrawn: Death of Accused"
 case: the-prosecutor-vs-s-gadaffi-and-senussi
-accused: muammar-mohammed-abu-minyar-gaddafi
+accused:
+  - muammar-mohammed-abu-minyar-gaddafi
 slug: the-prosecutor-vs-s-gadaffi-and-senussi-charges-muammar-mohammed-abu-minyar-gaddafi
 ---
 

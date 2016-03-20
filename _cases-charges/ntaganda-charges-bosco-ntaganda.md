@@ -3,7 +3,8 @@ title: "Ntaganda charges - Bosco Ntaganda"
 published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-ntaganda
-accused: bosco-ntaganda
+accused:
+  - bosco-ntaganda
 slug: ntaganda-charges-bosco-ntaganda
 ---
 

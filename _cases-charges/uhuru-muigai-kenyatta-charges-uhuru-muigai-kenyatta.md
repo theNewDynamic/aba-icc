@@ -3,7 +3,8 @@ title: "Uhuru Muigai Kenyatta charges - Uhuru Muigai Kenyatta"
 published: true
 charges_status: "Closed: Charges Withdrawn"
 case: the-prosecutor-v-uhuru-muigai-kenyatta
-accused: uhuru-muigai-kenyatta
+accused:
+  - uhuru-muigai-kenyatta
 slug: uhuru-muigai-kenyatta-charges-uhuru-muigai-kenyatta
 ---
 

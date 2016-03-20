@@ -4,7 +4,8 @@ published: true
 event_date: 2014-06-12
 action: Confirmation of Charges
 case: the-prosecutor-v-gbagbo-and-blé-goudé
-accused: laurent-gbagbo
+accused:
+  - laurent-gbagbo
 slug: gbagbo-and-blé-goudé-events-laurent-gbagbo-confirmation-of charges
 ---
 

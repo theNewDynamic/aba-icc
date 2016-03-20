@@ -4,7 +4,8 @@ published: true
 event_date: 2014-06-09
 action: Confirmation of Charges
 case: the-prosecutor-v-ntaganda
-accused: bosco-ntaganda
+accused:
+  - bosco-ntaganda
 slug: ntaganda-events-bosco-ntaganda-confirmation-of charges
 ---
 

@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-ruto-and-sang
-accused: henry-kiprono-kosgey
+accused:
+  - henry-kiprono-kosgey
 slug: ruto-and-sang-events-henry-kiprono-kosgey
 ---
 

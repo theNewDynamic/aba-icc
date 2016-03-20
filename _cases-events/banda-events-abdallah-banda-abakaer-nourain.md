@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-banda
-accused: abdallah-banda-abakaer-nourain
+accused:
+  - abdallah-banda-abakaer-nourain
 slug: banda-events-abdallah-banda-abakaer-nourain
 ---
 

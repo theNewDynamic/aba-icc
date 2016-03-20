@@ -3,7 +3,8 @@ title: "Chui charges - Mathieu Ngudjolo Chui"
 published: true
 charges_status: "Closed: Acquitted"
 case: the-prosecutor-v-chui
-accused: mathieu-ngudjolo-chui
+accused:
+  - mathieu-ngudjolo-chui
 slug: chui-charges-mathieu-ngudjolo-chui
 ---
 

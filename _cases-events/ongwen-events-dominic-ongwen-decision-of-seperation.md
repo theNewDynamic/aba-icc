@@ -4,7 +4,8 @@ published: true
 event_date: 2015-02-06
 action: Decision of Seperation
 case: the-prosecutor-v-ongwen
-accused: dominic-ongwen
+accused:
+  - dominic-ongwen
 slug: ongwen-events-dominic-ongwen-decision-of seperation
 ---
 

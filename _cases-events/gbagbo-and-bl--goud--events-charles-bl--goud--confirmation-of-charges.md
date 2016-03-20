@@ -4,7 +4,8 @@ published: true
 event_date: 2014-12-11
 action: Confirmation of Charges
 case: the-prosecutor-v-gbagbo-and-blé-goudé
-accused: charles-blé-goudé
+accused:
+  - charles-blé-goudé
 slug: gbagbo-and-blé-goudé-events-charles-blé-goudé-confirmation-of charges
 ---
 

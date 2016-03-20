@@ -4,7 +4,8 @@ published: true
 event_date: 2008-05-04
 action: Arrest Warrant
 case: the-prosecutor-v-bemba
-accused: jean-pierre-bemba-gombo
+accused:
+  - jean-pierre-bemba-gombo
 slug: bemba-events-jean-pierre-bemba-gombo-arrest-warrant
 ---
 

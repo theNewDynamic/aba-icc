@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-hussein
-accused: abdel-raheem-muhammad-hussein
+accused:
+  - abdel-raheem-muhammad-hussein
 slug: hussein-events-abdel-raheem-muhammad-hussein
 ---
 

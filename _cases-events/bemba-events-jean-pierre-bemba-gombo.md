@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-bemba
-accused: jean-pierre-bemba-gombo
+accused:
+  - jean-pierre-bemba-gombo
 slug: bemba-events-jean-pierre-bemba-gombo
 ---
 

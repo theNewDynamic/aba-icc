@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-bemba-et-al
-accused: jean-jacques-magenda-kabongo
+accused:
+  - jean-jacques-magenda-kabongo
 slug: bemba-et-al-events-jean-jacques-magenda-kabongo
 ---
 

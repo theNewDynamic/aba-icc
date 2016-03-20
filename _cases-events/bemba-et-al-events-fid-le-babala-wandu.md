@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-bemba-et-al
-accused: fidèle-babala-wandu
+accused:
+  - fidèle-babala-wandu
 slug: bemba-et-al-events-fidèle-babala-wandu
 ---
 

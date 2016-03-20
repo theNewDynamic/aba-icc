@@ -4,7 +4,8 @@ published: true
 event_date: 2008-09-26
 action: Confirmation of Charges
 case: the-prosecutor-v-katanga
-accused: germain-katanga
+accused:
+  - germain-katanga
 slug: katanga-events-germain-katanga-confirmation-of charges
 ---
 

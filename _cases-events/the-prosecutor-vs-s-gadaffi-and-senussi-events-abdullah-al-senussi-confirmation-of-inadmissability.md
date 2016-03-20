@@ -4,7 +4,8 @@ published: true
 event_date: 2014-07-24
 action: Confirmation of Inadmissability
 case: the-prosecutor-vs-s-gadaffi-and-senussi
-accused: abdullah-al-senussi
+accused:
+  - abdullah-al-senussi
 slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-abdullah-al-senussi-confirmation-of inadmissability
 ---
 

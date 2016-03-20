@@ -4,7 +4,8 @@ published: true
 event_date: 2008-02-07
 action: Arrest Warrant
 case: the-prosecutor-v-chui
-accused: mathieu-ngudjolo-chui
+accused:
+  - mathieu-ngudjolo-chui
 slug: chui-events-mathieu-ngudjolo-chui-arrest-warrant
 ---
 

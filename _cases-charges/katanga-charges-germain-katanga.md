@@ -3,7 +3,8 @@ title: "Katanga charges - Germain Katanga"
 published: true
 charges_status: "Trial Complete: Sentenced"
 case: the-prosecutor-v-katanga
-accused: germain-katanga
+accused:
+  - germain-katanga
 slug: katanga-charges-germain-katanga
 ---
 

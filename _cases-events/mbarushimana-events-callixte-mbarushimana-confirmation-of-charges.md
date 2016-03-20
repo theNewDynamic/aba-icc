@@ -4,7 +4,8 @@ published: true
 event_date: 2011-12-16
 action: Confirmation of Charges
 case: the-prosecutor-v-mbarushimana
-accused: callixte-mbarushimana
+accused:
+  - callixte-mbarushimana
 slug: mbarushimana-events-callixte-mbarushimana-confirmation-of charges
 ---
 

@@ -3,7 +3,8 @@ title: "Harun and Kushayb charges - Ahmad Muhammad Harun"
 published: true
 charges_status: "Pre-trial: Suspect Remains at Large"
 case: the-prosecutor-v-harun-and-kushayb
-accused: ahmad-muhammad-harun
+accused:
+  - ahmad-muhammad-harun
 slug: harun-and-kushayb-charges-ahmad-muhammad-harun
 ---
 

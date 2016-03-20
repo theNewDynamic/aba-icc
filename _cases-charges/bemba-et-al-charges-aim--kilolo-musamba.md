@@ -3,7 +3,8 @@ title: "Bemba et al. charges - Aimé Kilolo Musamba"
 published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-bemba-et-al
-accused: aimé-kilolo-musamba
+accused:
+  - aimé-kilolo-musamba
 slug: bemba-et-al-charges-aimé-kilolo-musamba
 ---
 

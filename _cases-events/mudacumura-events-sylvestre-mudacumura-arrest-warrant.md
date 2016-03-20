@@ -4,6 +4,7 @@ published: true
 event_date: 2012-07-13
 action: Arrest Warrant
 case: the-prosecutor-v-mudacumura
-accused: sylvestre-mudacumura
+accused:
+  - sylvestre-mudacumura
 slug: mudacumura-events-sylvestre-mudacumura-arrest-warrant
 ---

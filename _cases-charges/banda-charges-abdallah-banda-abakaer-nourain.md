@@ -3,7 +3,8 @@ title: "Banda charges - Abdallah Banda Abakaer Nourain"
 published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-banda
-accused: abdallah-banda-abakaer-nourain
+accused:
+  - abdallah-banda-abakaer-nourain
 slug: banda-charges-abdallah-banda-abakaer-nourain
 ---
 

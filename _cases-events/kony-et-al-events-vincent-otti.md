@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-kony-et-al
-accused: vincent-otti
+accused:
+  - vincent-otti
 slug: kony-et-al-events-vincent-otti
 ---
 

@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-mbarushimana
-accused: callixte-mbarushimana
+accused:
+  - callixte-mbarushimana
 slug: mbarushimana-events-callixte-mbarushimana
 ---
 

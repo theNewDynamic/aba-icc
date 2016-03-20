@@ -3,7 +3,8 @@ title: "Ongwen charges - Dominic Ongwen"
 published: true
 charges_status: "Pre-trial: Awaiting Confirmation of Charges"
 case: the-prosecutor-v-ongwen
-accused: dominic-ongwen
+accused:
+  - dominic-ongwen
 slug: ongwen-charges-dominic-ongwen
 ---
 

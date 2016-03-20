@@ -4,6 +4,7 @@ published: true
 event_date: 2009-05-18
 action: Initial Appearance
 case: the-prosecutor-v-abu-garda
-accused: bahr-idriss-abu-garda
+accused:
+  - bahr-idriss-abu-garda
 slug: abu-garda-events-bahr-idriss-abu-garda-initial-appearance
 ---

@@ -4,7 +4,8 @@ published: true
 event_date: 2015-03-13
 action: Withdrawal of Charges
 case: the-prosecutor-v-uhuru-muigai-kenyatta
-accused: uhuru-muigai-kenyatta
+accused:
+  - uhuru-muigai-kenyatta
 slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta-withdrawal-of charges
 ---
 

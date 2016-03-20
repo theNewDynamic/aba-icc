@@ -4,7 +4,8 @@ published: true
 event_date: 2007-10-18
 action: Arrest Warrant
 case: the-prosecutor-v-katanga
-accused: germain-katanga
+accused:
+  - germain-katanga
 slug: katanga-events-germain-katanga-arrest-warrant
 ---
 

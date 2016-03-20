@@ -4,7 +4,8 @@ published: true
 event_date: 2014-10-21
 action: Interim Release from Detention
 case: the-prosecutor-v-bemba-et-al
-accused: aimé-kilolo-musamba
+accused:
+  - aimé-kilolo-musamba
 slug: bemba-et-al-events-aimé-kilolo-musamba-interim-release from detention
 ---
 

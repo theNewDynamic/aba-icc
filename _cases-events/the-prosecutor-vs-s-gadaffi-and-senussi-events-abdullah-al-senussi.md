@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-vs-s-gadaffi-and-senussi
-accused: abdullah-al-senussi
+accused:
+  - abdullah-al-senussi
 slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-abdullah-al-senussi
 ---
 

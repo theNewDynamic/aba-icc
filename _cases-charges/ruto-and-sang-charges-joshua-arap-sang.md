@@ -3,7 +3,8 @@ title: "Ruto and Sang charges - Joshua Arap Sang"
 published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-ruto-and-sang
-accused: joshua-arap-sang
+accused:
+  - joshua-arap-sang
 slug: ruto-and-sang-charges-joshua-arap-sang
 ---
 

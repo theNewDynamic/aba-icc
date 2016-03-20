@@ -3,7 +3,8 @@ title: "Ruto and Sang charges - Henry Kiprono Kosgey"
 published: true
 charges_status: "Pre-trial: Charges Not Confirmed "
 case: the-prosecutor-v-ruto-and-sang
-accused: henry-kiprono-kosgey
+accused:
+  - henry-kiprono-kosgey
 slug: ruto-and-sang-charges-henry-kiprono-kosgey
 ---
 

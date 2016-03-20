@@ -4,7 +4,8 @@ published: true
 event_date: 2007-01-29
 action: Confirmation of Charges
 case: the-prosecutor-v-lubanga
-accused: thomas-lubanga-dyilo
+accused:
+  - thomas-lubanga-dyilo
 slug: lubanga-events-thomas-lubanga-dyilo-confirmation-of charges
 ---
 

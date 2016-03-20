@@ -4,6 +4,7 @@ published: true
 event_date: 2011-01-28
 action: Initial appearance
 case: the-prosecutor-v-mbarushimana
-accused: callixte-mbarushimana
+accused:
+  - callixte-mbarushimana
 slug: mbarushimana-events-callixte-mbarushimana-initial-appearance
 ---

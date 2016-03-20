@@ -4,7 +4,8 @@ published: true
 event_date: 2014-11-11
 action: Confirmation of Charges
 case: the-prosecutor-v-bemba-et-al
-accused: aimé-kilolo-musamba
+accused:
+  - aimé-kilolo-musamba
 slug: bemba-et-al-events-aimé-kilolo-musamba-confirmation-of charges
 ---
 

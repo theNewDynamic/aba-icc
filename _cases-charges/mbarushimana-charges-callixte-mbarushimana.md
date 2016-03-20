@@ -3,7 +3,8 @@ title: "Mbarushimana charges - Callixte Mbarushimana"
 published: true
 charges_status: "Closed: Charges Not Confirmed"
 case: the-prosecutor-v-mbarushimana
-accused: callixte-mbarushimana
+accused:
+  - callixte-mbarushimana
 slug: mbarushimana-charges-callixte-mbarushimana
 ---
 

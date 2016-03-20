@@ -3,7 +3,8 @@ title: "Mudacumura charges - Sylvestre Mudacumura"
 published: true
 charges_status: "Pretrial: Suspect Remains at Large"
 case: the-prosecutor-v-mudacumura
-accused: sylvestre-mudacumura
+accused:
+  - sylvestre-mudacumura
 slug: mudacumura-charges-sylvestre-mudacumura
 ---
 

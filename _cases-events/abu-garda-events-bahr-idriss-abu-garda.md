@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-abu-garda
-accused: bahr-idriss-abu-garda
+accused:
+  - bahr-idriss-abu-garda
 slug: abu-garda-events-bahr-idriss-abu-garda
 ---
 

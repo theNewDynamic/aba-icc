@@ -4,7 +4,8 @@ published: true
 event_date: 2005-10-13
 action: Warrant of Arrest
 case: the-prosecutor-v-kony-et-al
-accused: vincent-otti
+accused:
+  - vincent-otti
 slug: kony-et-al-events-vincent-otti-warrant-of arrest
 ---
 

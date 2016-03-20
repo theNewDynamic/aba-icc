@@ -4,6 +4,7 @@ published: true
 event_date: 2013-03-22
 action: Voluntary Surrender to the ICC's Custody
 case: the-prosecutor-v-ntaganda
-accused: bosco-ntaganda
+accused:
+  - bosco-ntaganda
 slug: ntaganda-events-bosco-ntaganda-voluntary-surrender to the icc's custody
 ---

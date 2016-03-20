@@ -4,7 +4,8 @@ published: true
 event_date: 2005-10-13
 action: Warrant of Arrest
 case: the-prosecutor-v-kony-et-al
-accused: okot-odhiambo
+accused:
+  - okot-odhiambo
 slug: kony-et-al-events-okot-odhiambo-warrant-of arrest
 ---
 

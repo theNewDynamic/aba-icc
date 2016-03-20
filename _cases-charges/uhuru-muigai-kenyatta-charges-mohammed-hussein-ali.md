@@ -3,7 +3,8 @@ title: "Uhuru Muigai Kenyatta charges - Mohammed Hussein Ali "
 published: true
 charges_status: "Pre-trial: Charges not Confirmed"
 case: the-prosecutor-v-uhuru-muigai-kenyatta
-accused: mohammed-hussein-ali
+accused:
+  - mohammed-hussein-ali
 slug: uhuru-muigai-kenyatta-charges-mohammed-hussein-ali
 ---
 

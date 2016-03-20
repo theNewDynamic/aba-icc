@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-ruto-and-sang
-accused: william-samoei-ruto
+accused:
+  - william-samoei-ruto
 slug: ruto-and-sang-events-william-samoei-ruto
 ---
 

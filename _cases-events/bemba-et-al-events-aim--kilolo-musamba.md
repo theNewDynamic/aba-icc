@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-bemba-et-al
-accused: aimé-kilolo-musamba
+accused:
+  - aimé-kilolo-musamba
 slug: bemba-et-al-events-aimé-kilolo-musamba
 ---
 

@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-katanga
-accused: germain-katanga
+accused:
+  - germain-katanga
 slug: katanga-events-germain-katanga
 ---
 

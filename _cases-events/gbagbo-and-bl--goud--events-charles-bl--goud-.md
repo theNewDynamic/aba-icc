@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-gbagbo-and-blé-goudé
-accused: charles-blé-goudé
+accused:
+  - charles-blé-goudé
 slug: gbagbo-and-blé-goudé-events-charles-blé-goudé
 ---
 

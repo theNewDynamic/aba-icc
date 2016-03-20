@@ -4,7 +4,8 @@ published: true
 event_date: 2007-07-11
 action: Terminated
 case: the-prosecutor-v-kony-et-al
-accused: raska-lukwiya
+accused:
+  - raska-lukwiya
 slug: kony-et-al-events-raska-lukwiya-terminated-
 ---
 

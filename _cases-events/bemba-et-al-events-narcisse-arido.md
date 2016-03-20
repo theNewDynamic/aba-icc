@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-bemba-et-al
-accused: narcisse-arido
+accused:
+  - narcisse-arido
 slug: bemba-et-al-events-narcisse-arido
 ---
 

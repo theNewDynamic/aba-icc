@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-harun-and-kushayb
-accused: ali-muhammad-ali-abd-al-rahman
+accused:
+  - ali-muhammad-ali-abd-al-rahman
 slug: harun-and-kushayb-events-ali-muhammad-ali-abd-al-rahman
 ---
 

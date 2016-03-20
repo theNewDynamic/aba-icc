@@ -3,7 +3,8 @@ title: "Harun and Kushayb charges - Ali Muhammad Ali Abd-Al-Rahman"
 published: true
 charges_status: "Pre-trial: Suspect Remains at Large"
 case: the-prosecutor-v-harun-and-kushayb
-accused: ali-muhammad-ali-abd-al-rahman
+accused:
+  - ali-muhammad-ali-abd-al-rahman
 slug: harun-and-kushayb-charges-ali-muhammad-ali-abd-al-rahman
 ---
 

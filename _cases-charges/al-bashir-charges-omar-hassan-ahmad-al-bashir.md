@@ -3,7 +3,8 @@ title: "Al Bashir charges - Omar Hassan Ahmad Al Bashir"
 published: true
 charges_status: "Pre-trial: Suspect Remains at Large"
 case: the-prosecutor-v-al-bashir
-accused: omar-hassan-ahmad-al-bashir
+accused:
+  - omar-hassan-ahmad-al-bashir
 slug: al-bashir-charges-omar-hassan-ahmad-al-bashir
 ---
 

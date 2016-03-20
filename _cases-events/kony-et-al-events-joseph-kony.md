@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-kony-et-al
-accused: joseph-kony
+accused:
+  - joseph-kony
 slug: kony-et-al-events-joseph-kony
 ---
 

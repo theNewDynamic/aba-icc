@@ -3,7 +3,8 @@ title: "Lubanga charges - Thomas Lubanga Dyilo"
 published: true
 charges_status: "Trial Complete: Sentenced"
 case: the-prosecutor-v-lubanga
-accused: thomas-lubanga-dyilo
+accused:
+  - thomas-lubanga-dyilo
 slug: lubanga-charges-thomas-lubanga-dyilo
 ---
 

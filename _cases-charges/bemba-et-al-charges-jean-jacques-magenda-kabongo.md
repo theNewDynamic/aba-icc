@@ -3,7 +3,8 @@ title: "Bemba et al. charges - Jean-Jacques Magenda Kabongo"
 published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-bemba-et-al
-accused: jean-jacques-magenda-kabongo
+accused:
+  - jean-jacques-magenda-kabongo
 slug: bemba-et-al-charges-jean-jacques-magenda-kabongo
 ---
 

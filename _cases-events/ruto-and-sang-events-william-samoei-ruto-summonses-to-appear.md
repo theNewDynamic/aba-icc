@@ -4,7 +4,8 @@ published: true
 event_date: 2011-03-08
 action: Summonses to Appear
 case: the-prosecutor-v-ruto-and-sang
-accused: william-samoei-ruto
+accused:
+  - william-samoei-ruto
 slug: ruto-and-sang-events-william-samoei-ruto-summonses-to appear
 ---
 

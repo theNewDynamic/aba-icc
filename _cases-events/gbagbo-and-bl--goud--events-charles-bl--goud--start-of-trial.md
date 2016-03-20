@@ -4,7 +4,8 @@ published: true
 event_date:
 action: Start of Trial
 case: the-prosecutor-v-gbagbo-and-blé-goudé
-accused: charles-blé-goudé
+accused:
+  - charles-blé-goudé
 slug: gbagbo-and-blé-goudé-events-charles-blé-goudé-start-of trial
 ---
 

@@ -4,7 +4,8 @@ published: true
 event_date: 2014-10-21
 action: Interim Release from Detention
 case: the-prosecutor-v-bemba-et-al
-accused: jean-jacques-magenda-kabongo
+accused:
+  - jean-jacques-magenda-kabongo
 slug: bemba-et-al-events-jean-jacques-magenda-kabongo-interim-release from detention
 ---
 

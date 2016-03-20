@@ -4,7 +4,8 @@ published: true
 event_date: 2015-09-02
 action: Start of Trial
 case: the-prosecutor-v-ntaganda
-accused: bosco-ntaganda
+accused:
+  - bosco-ntaganda
 slug: ntaganda-events-bosco-ntaganda-start-of trial
 ---
 

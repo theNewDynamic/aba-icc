@@ -4,7 +4,8 @@ published: true
 event_date: 2016-01-28
 action: Start of Trial
 case: the-prosecutor-v-gbagbo-and-blé-goudé
-accused: laurent-gbagbo
+accused:
+  - laurent-gbagbo
 slug: gbagbo-and-blé-goudé-events-laurent-gbagbo-start-of trial
 ---
 

@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-mudacumura
-accused: sylvestre-mudacumura
+accused:
+  - sylvestre-mudacumura
 slug: mudacumura-events-sylvestre-mudacumura
 ---
 

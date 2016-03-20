@@ -4,7 +4,8 @@ published: true
 event_date: 2005-10-13
 action: Arrest Warrant
 case: the-prosecutor-v-kony-et-al
-accused: raska-lukwiya
+accused:
+  - raska-lukwiya
 slug: kony-et-al-events-raska-lukwiya-arrest-warrant
 ---
 

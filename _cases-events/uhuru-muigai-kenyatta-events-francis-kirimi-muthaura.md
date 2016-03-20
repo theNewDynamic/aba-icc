@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-uhuru-muigai-kenyatta
-accused: francis-kirimi-muthaura
+accused:
+  - francis-kirimi-muthaura
 slug: uhuru-muigai-kenyatta-events-francis-kirimi-muthaura
 ---
 

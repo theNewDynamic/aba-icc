@@ -4,7 +4,8 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-ntaganda
-accused: bosco-ntaganda
+accused:
+  - bosco-ntaganda
 slug: ntaganda-events-bosco-ntaganda
 ---
 

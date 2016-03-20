@@ -4,7 +4,8 @@ published: true
 event_date: 2009-03-04
 action: First Arrest Warrant
 case: the-prosecutor-v-al-bashir
-accused: omar-hassan-ahmad-al-bashir
+accused:
+  - omar-hassan-ahmad-al-bashir
 slug: al-bashir-events-omar-hassan-ahmad-al-bashir-first-arrest warrant
 ---
 

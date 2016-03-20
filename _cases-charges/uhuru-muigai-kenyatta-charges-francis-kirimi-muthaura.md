@@ -3,7 +3,8 @@ title: "Uhuru Muigai Kenyatta charges - Francis Kirimi Muthaura"
 published: true
 charges_status: "Closed: Charges Withdrawn"
 case: the-prosecutor-v-uhuru-muigai-kenyatta
-accused: francis-kirimi-muthaura
+accused:
+  - francis-kirimi-muthaura
 slug: uhuru-muigai-kenyatta-charges-francis-kirimi-muthaura
 ---
 
