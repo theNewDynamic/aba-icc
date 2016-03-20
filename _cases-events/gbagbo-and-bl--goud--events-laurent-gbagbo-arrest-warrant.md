@@ -1,7 +1,7 @@
 ---
 title: "Gbagbo and Blé Goudé - Laurent Gbagbo - Arrest Warrant"
 published: true
-date: 2011-11-30
+event_date: 2011-11-30
 event: Arrest Warrant
 case: the-prosecutor-v-gbagbo-and-blé-goudé
 accused: laurent-gbagbo

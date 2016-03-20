@@ -1,7 +1,7 @@
 ---
 title: "Gbagbo and Blé Goudé - Charles Blé Goudé - Initial Appearance"
 published: true
-date: 2014-03-27
+event_date: 2014-03-27
 event: Initial Appearance
 case: the-prosecutor-v-gbagbo-and-blé-goudé
 accused: charles-blé-goudé

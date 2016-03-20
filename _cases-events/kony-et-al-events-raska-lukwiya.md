@@ -1,7 +1,7 @@
 ---
 title: "Kony et al. - Raska Lukwiya"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-kony-et-al
 accused: raska-lukwiya

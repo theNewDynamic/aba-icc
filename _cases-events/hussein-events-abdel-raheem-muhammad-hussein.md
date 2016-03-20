@@ -1,7 +1,7 @@
 ---
 title: "Hussein - Abdel Raheem Muhammad Hussein"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-hussein
 accused: abdel-raheem-muhammad-hussein

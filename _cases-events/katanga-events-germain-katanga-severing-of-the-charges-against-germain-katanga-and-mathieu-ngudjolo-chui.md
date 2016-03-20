@@ -1,7 +1,7 @@
 ---
 title: "Katanga - Germain Katanga - Severing of the charges against Germain Katanga and Mathieu Ngudjolo Chui"
 published: true
-date: 2012-11-21
+event_date: 2012-11-21
 event: Severing of the charges against Germain Katanga and Mathieu Ngudjolo Chui
 case: the-prosecutor-v-katanga
 accused: germain-katanga

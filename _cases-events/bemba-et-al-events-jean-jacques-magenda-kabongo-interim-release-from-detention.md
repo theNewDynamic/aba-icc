@@ -1,7 +1,7 @@
 ---
 title: "Bemba et al. - Jean-Jacques Magenda Kabongo - Interim Release from Detention"
 published: true
-date: 2014-10-21
+event_date: 2014-10-21
 event: Interim Release from Detention
 case: the-prosecutor-v-bemba-et-al
 accused: jean-jacques-magenda-kabongo

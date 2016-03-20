@@ -1,7 +1,7 @@
 ---
 title: "Ongwen - Dominic Ongwen - Decision of Seperation"
 published: true
-date: 2015-02-06
+event_date: 2015-02-06
 event: Decision of Seperation
 case: the-prosecutor-v-ongwen
 accused: dominic-ongwen

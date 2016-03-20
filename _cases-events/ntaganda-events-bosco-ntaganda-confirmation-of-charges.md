@@ -1,7 +1,7 @@
 ---
 title: "Ntaganda - Bosco Ntaganda - Confirmation of Charges"
 published: true
-date: 2014-06-09
+event_date: 2014-06-09
 event: Confirmation of Charges
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda

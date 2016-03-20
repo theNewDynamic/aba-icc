@@ -1,7 +1,7 @@
 ---
 title: "Banda - Abdallah Banda Abakaer Nourain"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-banda
 accused: abdallah-banda-abakaer-nourain

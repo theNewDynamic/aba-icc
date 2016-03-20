@@ -1,7 +1,7 @@
 ---
 title: "Mbarushimana - Callixte Mbarushimana - Confirmation of Charges "
 published: true
-date: 2011-12-16
+event_date: 2011-12-16
 event: Confirmation of Charges
 case: the-prosecutor-v-mbarushimana
 accused: callixte-mbarushimana

@@ -1,7 +1,7 @@
 ---
 title: "Bemba et al. - Fidèle Babala Wandu - Initial Appearance"
 published: true
-date: 2013-11-27
+event_date: 2013-11-27
 event: Initial Appearance
 case: the-prosecutor-v-bemba-et-al
 accused: fidèle-babala-wandu

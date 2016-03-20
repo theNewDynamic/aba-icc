@@ -1,7 +1,7 @@
 ---
 title: "Katanga - Germain Katanga - Arrest Warrant "
 published: true
-date: 2007-10-18
+event_date: 2007-10-18
 event: Arrest Warrant
 case: the-prosecutor-v-katanga
 accused: germain-katanga

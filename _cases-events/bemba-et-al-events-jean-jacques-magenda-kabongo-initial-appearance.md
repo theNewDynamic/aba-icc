@@ -1,7 +1,7 @@
 ---
 title: "Bemba et al. - Jean-Jacques Magenda Kabongo - Initial Appearance"
 published: true
-date: 2013-12-05
+event_date: 2013-12-05
 event: Initial Appearance
 case: the-prosecutor-v-bemba-et-al
 accused: jean-jacques-magenda-kabongo

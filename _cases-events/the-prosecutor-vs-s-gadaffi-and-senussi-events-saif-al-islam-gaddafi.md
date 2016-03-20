@@ -1,7 +1,7 @@
 ---
 title: "The Prosecutor vs. S. Gadaffi and Senussi - Saif Al-Islam Gaddafi"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: saif-al-islam-gaddafi

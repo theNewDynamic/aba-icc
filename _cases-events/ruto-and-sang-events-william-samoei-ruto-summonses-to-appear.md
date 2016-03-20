@@ -1,7 +1,7 @@
 ---
 title: "Ruto and Sang - William Samoei Ruto - Summonses to Appear"
 published: true
-date: 2011-03-08
+event_date: 2011-03-08
 event: Summonses to Appear
 case: the-prosecutor-v-ruto-and-sang
 accused: william-samoei-ruto

@@ -1,7 +1,7 @@
 ---
 title: "Ruto and Sang - Joshua Arap Sang - Start of Trial"
 published: true
-date: 2013-09-10
+event_date: 2013-09-10
 event: Start of Trial
 case: the-prosecutor-v-ruto-and-sang
 accused: joshua-arap-sang

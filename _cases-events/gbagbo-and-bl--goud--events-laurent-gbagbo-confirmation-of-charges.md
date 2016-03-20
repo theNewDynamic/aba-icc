@@ -1,7 +1,7 @@
 ---
 title: "Gbagbo and Blé Goudé - Laurent Gbagbo - Confirmation of Charges"
 published: true
-date: 2014-06-12
+event_date: 2014-06-12
 event: Confirmation of Charges
 case: the-prosecutor-v-gbagbo-and-blé-goudé
 accused: laurent-gbagbo

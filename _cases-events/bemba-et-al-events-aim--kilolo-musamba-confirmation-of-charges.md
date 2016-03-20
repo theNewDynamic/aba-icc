@@ -1,7 +1,7 @@
 ---
 title: "Bemba et al. - Aimé Kilolo Musamba - Confirmation of Charges"
 published: true
-date: 2014-11-11
+event_date: 2014-11-11
 event: Confirmation of Charges
 case: the-prosecutor-v-bemba-et-al
 accused: aimé-kilolo-musamba

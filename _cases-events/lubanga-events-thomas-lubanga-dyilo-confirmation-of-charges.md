@@ -1,7 +1,7 @@
 ---
 title: "Lubanga - Thomas Lubanga Dyilo - Confirmation of Charges"
 published: true
-date: 2007-01-29
+event_date: 2007-01-29
 event: Confirmation of Charges
 case: the-prosecutor-v-lubanga
 accused: thomas-lubanga-dyilo

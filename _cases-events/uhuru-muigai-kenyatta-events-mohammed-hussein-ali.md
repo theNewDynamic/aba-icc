@@ -1,7 +1,7 @@
 ---
 title: "Uhuru Muigai Kenyatta - Mohammed Hussein Ali "
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: mohammed-hussein-ali

@@ -1,7 +1,7 @@
 ---
 title: "Chui - Mathieu Ngudjolo Chui - Confirmation of Charges"
 published: true
-date: 2008-09-26
+event_date: 2008-09-26
 event: Confirmation of Charges
 case: the-prosecutor-v-chui
 accused: mathieu-ngudjolo-chui

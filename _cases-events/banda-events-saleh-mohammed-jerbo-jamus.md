@@ -1,7 +1,7 @@
 ---
 title: "Banda - Saleh Mohammed Jerbo Jamus"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-banda
 accused: saleh-mohammed-jerbo-jamus

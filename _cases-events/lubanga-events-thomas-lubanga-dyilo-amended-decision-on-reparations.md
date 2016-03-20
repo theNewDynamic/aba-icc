@@ -1,7 +1,7 @@
 ---
 title: "Lubanga - Thomas Lubanga Dyilo - Amended Decision on Reparations"
 published: true
-date: 2015-03-03
+event_date: 2015-03-03
 event: Amended Decision on Reparations
 case: the-prosecutor-v-lubanga
 accused: thomas-lubanga-dyilo

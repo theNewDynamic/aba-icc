@@ -1,7 +1,7 @@
 ---
 title: "Banda - Abdallah Banda Abakaer Nourain - Termination of Trial"
 published: true
-date: 2013-10-04
+event_date: 2013-10-04
 event: Termination of Trial
 case: the-prosecutor-v-banda
 accused: abdallah-banda-abakaer-nourain

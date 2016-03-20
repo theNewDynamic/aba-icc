@@ -1,7 +1,7 @@
 ---
 title: "Ruto and Sang - Joshua Arap Sang - Initial Appearance"
 published: true
-date: 2011-04-07
+event_date: 2011-04-07
 event: Initial Appearance
 case: the-prosecutor-v-ruto-and-sang
 accused: joshua-arap-sang

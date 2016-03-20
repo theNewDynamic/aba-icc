@@ -1,7 +1,7 @@
 ---
 title: "Uhuru Muigai Kenyatta - Francis Kirimi Muthaura"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: francis-kirimi-muthaura

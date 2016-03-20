@@ -1,7 +1,7 @@
 ---
 title: "Ruto and Sang - William Samoei Ruto"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-ruto-and-sang
 accused: william-samoei-ruto

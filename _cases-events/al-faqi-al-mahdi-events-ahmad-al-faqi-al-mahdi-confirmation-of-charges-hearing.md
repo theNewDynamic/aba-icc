@@ -1,7 +1,7 @@
 ---
 title: "Al Faqi Al Mahdi - Ahmad Al Faqi Al Mahdi - Confirmation of Charges Hearing"
 published: true
-date: 2016-03-01
+event_date: 2016-03-01
 event: Confirmation of Charges Hearing
 case: the-prosecutor-v-al-faqi-al-mahdi
 accused: ahmad-al-faqi-al-mahdi

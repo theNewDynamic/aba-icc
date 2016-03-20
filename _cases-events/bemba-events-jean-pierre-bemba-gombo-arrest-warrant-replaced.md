@@ -1,7 +1,7 @@
 ---
 title: "Bemba - Jean-Pierre Bemba Gombo - Arrest Warrant Replaced"
 published: true
-date: 2008-06-10
+event_date: 2008-06-10
 event: Arrest Warrant Replaced
 case: the-prosecutor-v-bemba
 accused: jean-pierre-bemba-gombo

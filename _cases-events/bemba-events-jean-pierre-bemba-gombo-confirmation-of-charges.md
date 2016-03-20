@@ -1,7 +1,7 @@
 ---
 title: "Bemba - Jean-Pierre Bemba Gombo - Confirmation of Charges"
 published: true
-date: 2009-06-15
+event_date: 2009-06-15
 event: Confirmation of Charges
 case: the-prosecutor-v-bemba
 accused: jean-pierre-bemba-gombo

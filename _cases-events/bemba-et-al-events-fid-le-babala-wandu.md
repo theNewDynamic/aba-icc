@@ -1,7 +1,7 @@
 ---
 title: "Bemba et al. - Fidèle Babala Wandu"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-bemba-et-al
 accused: fidèle-babala-wandu

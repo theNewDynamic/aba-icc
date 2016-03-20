@@ -1,7 +1,7 @@
 ---
 title: "Kony et al. - Vincent Otti - Warrant of Arrest "
 published: true
-date: 2005-10-13
+event_date: 2005-10-13
 event: Warrant of Arrest
 case: the-prosecutor-v-kony-et-al
 accused: vincent-otti

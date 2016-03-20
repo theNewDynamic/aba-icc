@@ -1,7 +1,7 @@
 ---
 title: "Gbagbo and Blé Goudé - Charles Blé Goudé - Start of Trial"
 published: true
-date:
+event_date:
 event: Start of Trial
 case: the-prosecutor-v-gbagbo-and-blé-goudé
 accused: charles-blé-goudé

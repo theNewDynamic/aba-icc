@@ -1,7 +1,7 @@
 ---
 title: "Bemba et al. - Jean-Jacques Magenda Kabongo"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-bemba-et-al
 accused: jean-jacques-magenda-kabongo

@@ -1,7 +1,7 @@
 ---
 title: "Gbagbo and Blé Goudé - Charles Blé Goudé - Arrest Warrant"
 published: true
-date: 2013-09-30
+event_date: 2013-09-30
 event: Arrest Warrant
 case: the-prosecutor-v-gbagbo-and-blé-goudé
 accused: charles-blé-goudé

@@ -1,7 +1,7 @@
 ---
 title: "Uhuru Muigai Kenyatta - Francis Kirimi Muthaura - Withdrawal of Charges"
 published: true
-date: 2013-03-11
+event_date: 2013-03-11
 event: Withdrawal of Charges
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: francis-kirimi-muthaura

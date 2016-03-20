@@ -1,7 +1,7 @@
 ---
 title: "Harun and Kushayb - Ali Muhammad Ali Abd-Al-Rahman"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-harun-and-kushayb
 accused: ali-muhammad-ali-abd-al-rahman

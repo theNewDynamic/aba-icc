@@ -1,7 +1,7 @@
 ---
 title: "Mbarushimana - Callixte Mbarushimana"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-mbarushimana
 accused: callixte-mbarushimana

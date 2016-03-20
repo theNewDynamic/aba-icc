@@ -1,7 +1,7 @@
 ---
 title: "Ongwen - Dominic Ongwen"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-ongwen
 accused: dominic-ongwen

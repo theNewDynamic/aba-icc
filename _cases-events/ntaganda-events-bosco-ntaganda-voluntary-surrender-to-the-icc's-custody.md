@@ -1,7 +1,7 @@
 ---
-title: "Ntaganda - Bosco Ntaganda - Voluntary Surrender to the ICC'#39;s Custody"
+title: "Ntaganda - Bosco Ntaganda - Voluntary Surrender to the ICC's Custody"
 published: true
-date: 2013-03-22
+event_date: 2013-03-22
 event: Voluntary Surrender to the ICC's Custody
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda

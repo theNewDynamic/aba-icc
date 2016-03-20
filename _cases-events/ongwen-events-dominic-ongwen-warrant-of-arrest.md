@@ -1,7 +1,7 @@
 ---
 title: "Ongwen - Dominic Ongwen - Warrant of Arrest"
 published: true
-date: 2005-10-13
+event_date: 2005-10-13
 event: Warrant of Arrest
 case: the-prosecutor-v-ongwen
 accused: dominic-ongwen

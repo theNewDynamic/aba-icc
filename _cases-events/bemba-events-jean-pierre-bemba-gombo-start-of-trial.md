@@ -1,7 +1,7 @@
 ---
 title: "Bemba - Jean-Pierre Bemba Gombo - Start of Trial "
 published: true
-date: 2010-11-22
+event_date: 2010-11-22
 event: Start of Trial
 case: the-prosecutor-v-bemba
 accused: jean-pierre-bemba-gombo

@@ -1,7 +1,7 @@
 ---
 title: "Bemba et al. - Jean-Pierre Bemba Gombo"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-bemba-et-al
 accused: jean-pierre-bemba-gombo

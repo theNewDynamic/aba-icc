@@ -1,7 +1,7 @@
 ---
 title: "Chui - Mathieu Ngudjolo Chui - Arrest Warrant "
 published: true
-date: 2008-02-07
+event_date: 2008-02-07
 event: Arrest Warrant
 case: the-prosecutor-v-chui
 accused: mathieu-ngudjolo-chui

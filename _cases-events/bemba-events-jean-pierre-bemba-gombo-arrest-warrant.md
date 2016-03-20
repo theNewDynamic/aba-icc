@@ -1,7 +1,7 @@
 ---
 title: "Bemba - Jean-Pierre Bemba Gombo - Arrest Warrant"
 published: true
-date: 2008-05-04
+event_date: 2008-05-04
 event: Arrest Warrant
 case: the-prosecutor-v-bemba
 accused: jean-pierre-bemba-gombo

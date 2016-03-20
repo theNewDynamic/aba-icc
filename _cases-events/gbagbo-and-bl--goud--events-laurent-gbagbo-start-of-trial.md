@@ -1,7 +1,7 @@
 ---
 title: "Gbagbo and Blé Goudé - Laurent Gbagbo - Start of Trial"
 published: true
-date: 2016-01-28
+event_date: 2016-01-28
 event: Start of Trial
 case: the-prosecutor-v-gbagbo-and-blé-goudé
 accused: laurent-gbagbo

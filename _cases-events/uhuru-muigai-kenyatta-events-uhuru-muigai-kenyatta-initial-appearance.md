@@ -1,7 +1,7 @@
 ---
 title: "Uhuru Muigai Kenyatta - Uhuru Muigai Kenyatta - Initial Appearance"
 published: true
-date: 2011-04-08
+event_date: 2011-04-08
 event: Initial Appearance
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: uhuru-muigai-kenyatta

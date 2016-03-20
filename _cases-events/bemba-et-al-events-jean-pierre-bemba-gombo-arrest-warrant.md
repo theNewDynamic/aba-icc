@@ -1,7 +1,7 @@
 ---
 title: "Bemba et al. - Jean-Pierre Bemba Gombo - Arrest Warrant"
 published: true
-date: 2013-11-28
+event_date: 2013-11-28
 event: Arrest Warrant
 case: the-prosecutor-v-bemba-et-al
 accused: jean-pierre-bemba-gombo

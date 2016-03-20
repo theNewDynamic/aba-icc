@@ -1,7 +1,7 @@
 ---
 title: "Mudacumura - Sylvestre Mudacumura"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-mudacumura
 accused: sylvestre-mudacumura

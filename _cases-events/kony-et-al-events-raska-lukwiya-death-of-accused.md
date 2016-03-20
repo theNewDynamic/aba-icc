@@ -1,7 +1,7 @@
 ---
 title: "Kony et al. - Raska Lukwiya - Death of Accused"
 published: true
-date: 2006-08-12
+event_date: 2006-08-12
 event: Death of Accused
 case: the-prosecutor-v-kony-et-al
 accused: raska-lukwiya

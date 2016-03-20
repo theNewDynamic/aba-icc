@@ -1,7 +1,7 @@
 ---
 title: "Al Bashir - Omar Hassan Ahmad Al Bashir - First Arrest Warrant "
 published: true
-date: 2009-03-04
+event_date: 2009-03-04
 event: First Arrest Warrant
 case: the-prosecutor-v-al-bashir
 accused: omar-hassan-ahmad-al-bashir

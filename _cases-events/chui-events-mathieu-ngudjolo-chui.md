@@ -1,7 +1,7 @@
 ---
 title: "Chui - Mathieu Ngudjolo Chui"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-chui
 accused: mathieu-ngudjolo-chui

@@ -1,7 +1,7 @@
 ---
 title: "Gbagbo and Blé Goudé - Charles Blé Goudé"
 published: true
-date:
+event_date:
 event:
 case: the-prosecutor-v-gbagbo-and-blé-goudé
 accused: charles-blé-goudé

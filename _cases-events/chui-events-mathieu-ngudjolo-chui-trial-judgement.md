@@ -1,7 +1,7 @@
 ---
 title: "Chui - Mathieu Ngudjolo Chui - Trial Judgement "
 published: true
-date: 2012-12-18
+event_date: 2012-12-18
 event: Trial Judgement
 case: the-prosecutor-v-chui
 accused: mathieu-ngudjolo-chui
