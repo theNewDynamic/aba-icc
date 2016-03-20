@@ -2,7 +2,7 @@
 title:
 published: true
 date:
-event:
+action:
 case:
 accused:
 ---
