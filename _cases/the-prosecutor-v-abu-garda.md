@@ -8,6 +8,6 @@ long_name: "The Prosecutor v. Bahr Idriss Abu Garda"
 accused:
   - bahr-idriss-abu-garda
 
-# slug: the-prosecutor-v-abu-garda
+slug: the-prosecutor-v-abu-garda
 ---
 
