@@ -1,7 +1,7 @@
 ---
 title:
 published: true
-date:
+event_date:
 action:
 case:
 accused:
