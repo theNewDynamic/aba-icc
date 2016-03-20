@@ -57,7 +57,7 @@ collections:
   about-the-icc:
     output: true
     permalink: '/:collection/:path/'
-  accused:
+  accuseds:
     output: true
     permalink: '/:collection/:path/'
   board-of-advisors:
