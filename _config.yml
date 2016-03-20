@@ -63,6 +63,12 @@ collections:
   cases:
     output: true
     permalink: '/:collection/:path/'
+  cases-charges:
+    output: true
+    permalink: '/:collection/:path/'
+  cases-events:
+    output: true
+    permalink: '/:collection/:path/'
   countries:
     output: true
     permalink: '/country/:path/'

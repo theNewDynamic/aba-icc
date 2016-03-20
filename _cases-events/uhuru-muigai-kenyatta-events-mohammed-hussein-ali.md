@@ -1,0 +1,12 @@
+---
+title: "Uhuru Muigai Kenyatta - Mohammed Hussein Ali "
+published: true
+date:
+event:
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: mohammed-hussein-ali
+slug: uhuru-muigai-kenyatta-events-mohammed-hussein-ali
+---
+
+The Office of the Prosecutor made public a summonses to appear for on Ali 15 December 2010. Pre-Trial Chamber II declined to confirm the charges on 23 January 2012.
+

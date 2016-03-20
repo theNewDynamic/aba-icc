@@ -1,0 +1,19 @@
+---
+title: "Banda charges - Saleh Mohammed Jerbo Jamus"
+published: true
+charges_status: "Charges Withdrawn: Death of Accused"
+case: the-prosecutor-v-banda
+accused: saleh-mohammed-jerbo-jamus
+slug: banda-charges-saleh-mohammed-jerbo-jamus
+---
+
+### Factual Allegations
+
+Saleh Mohammed Jerbo Jamus (Jerbo) was the alleged Chief of Staff or "Operations Room" Commander of the Sudan Liberation Army-Unity (SLA-Unity) and a member of the Justice and Equality Movement (JEM), which are groups fighting against forces supporting the Government of the Republic of Sudan in Darfur. The Office of the Prosecutor alleges that splinter forces of JEM along with troops from the Sudan Liberation Army-Unity (SLA-Unity) and the Sudan Liberation Army Abdul-Shafie (SLA-Abdul Shafie) attacked the African Union Peacekeeping Mission in Sudan (AMIS) at the Haskanita Military Group Site (MGS Haskanita) in Darfur on 29 September 2007. The attack allegedly resulted in the death of 12 and the wounding of 8 AMIS soldiers, along with the destruction of communications, vehicles, computers, fuel, and ammunition, among other property of AMIS. The Office of the Prosecutor alleges that Jerbo commanded the attackers from the SLA-Unity and SLA-Abdul Shafie groups, who committed the attack jointly with other armed groups, including those commanded by Abdallah Banda Abakaer Nourain (Banda). The Office of the Prosecutor alleges that Jerbo was perceived as acting as second in command to Banda during the MGS attack. The Office of the Prosecutor also alleges that Jerbo and other commanders participated in meetings establishing a common plan to attack the MGS Haskanita and committed the attack pursuant to this plan. Banda and Jerbo both allegedly made an essential contribution to the attack by designing and planning it, and by ordering the involved troops and personally participating in the attack and afterwards, looting MGS Haskanita property. Trial Chamber IV terminated proceedings against Jerbo on 4 October 2013 after receiving evidence of his death on 19 April 2013.
+
+### Charges
+
+**[War Crimes](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1172) (three counts)**: violence to life ([Article 8(2)(c)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359) of the Rome Statute), intentionally directing attacks against personnel, installations, material, units and vehicles involved in a peacekeeping mission ([Article 8(2)(e)(iii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2369) of the Rome Statute), pillaging ([Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371) of the Rome Statute<span class="redactor-invisible-space">)</span>
+
+The Accused is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
+

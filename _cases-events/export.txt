@@ -1,0 +1,1898 @@
+@@@
+title: "Ruto and Sang - William Samoei Ruto"
+published: true
+date:
+event:
+case: the-prosecutor-v-ruto-and-sang
+accused: william-samoei-ruto
+slug: ruto-and-sang-events-william-samoei-ruto
+---
+
+Charges against Ruto were confirmed on 23 January 2012. The trial began on 10 September 2013.
+
+@@@
+title: "Ruto and Sang - William Samoei Ruto - Summonses to Appear"
+published: true
+date: 2011-03-08
+event: Summonses to Appear
+case: the-prosecutor-v-ruto-and-sang
+accused: william-samoei-ruto
+slug: ruto-and-sang-events-william-samoei-ruto-summonses-to appear
+---
+
+[Summonses to appear](http://www.icc-cpi.int/iccdocs/doc/doc1037044.pdf)
+
+@@@
+title: "Ruto and Sang - William Samoei Ruto - Initial Appearance"
+published: true
+date: 2011-04-07
+event: Initial Appearance
+case: the-prosecutor-v-ruto-and-sang
+accused: william-samoei-ruto
+slug: ruto-and-sang-events-william-samoei-ruto-initial-appearance
+---
+@@@
+title: "Ruto and Sang - William Samoei Ruto - Confirmation of Charges"
+published: true
+date: 2012-01-23
+event: Confirmation of Charges
+case: the-prosecutor-v-ruto-and-sang
+accused: william-samoei-ruto
+slug: ruto-and-sang-events-william-samoei-ruto-confirmation-of charges
+---
+
+[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1314535.pdf)
+
+@@@
+title: "Ruto and Sang - William Samoei Ruto - Start of Trial "
+published: true
+date: 2013-09-10
+event: Start of Trial
+case: the-prosecutor-v-ruto-and-sang
+accused: william-samoei-ruto
+slug: ruto-and-sang-events-william-samoei-ruto-start-of trial
+---
+@@@
+title: "Walter Osapiri Barasa - Walter Osapiri Barasa"
+published: true
+date:
+event:
+case: the-prosecutor-v-walter-osapiri-barasa
+accused: walter-osapiri-barasa
+slug: walter-osapiri-barasa-events-walter-osapiri-barasa
+---
+
+The Office of the Prosecutor made public an arrest warrant for Barasa on 2 October 2013. Accused remains [at-large](http://allafrica.com/stories/201501110255.html).
+
+@@@
+title: "Walter Osapiri Barasa - Walter Osapiri Barasa - Arrest Warrant "
+published: true
+date: 2013-10-02
+event: Arrest Warrant
+case: the-prosecutor-v-walter-osapiri-barasa
+accused: walter-osapiri-barasa
+slug: walter-osapiri-barasa-events-walter-osapiri-barasa-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc1650592.pdf)
+
+@@@
+title: "Kony et al. - Vincent Otti"
+published: true
+date:
+event:
+case: the-prosecutor-v-kony-et-al
+accused: vincent-otti
+slug: kony-et-al-events-vincent-otti
+---
+
+The Office of the Prosecutor made public an arrest warrant for Otti on 13 October 2005. Accused remains at-large but there are reports he is [deceased](http://www.haguejusticeportal.net/index.php?id=8194).
+
+@@@
+title: "Kony et al. - Vincent Otti - Warrant of Arrest "
+published: true
+date: 2005-10-13
+event: Warrant of Arrest
+case: the-prosecutor-v-kony-et-al
+accused: vincent-otti
+slug: kony-et-al-events-vincent-otti-warrant-of arrest
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc97189.pdf)
+
+@@@
+title: "Uhuru Muigai Kenyatta - Uhuru Muigai Kenyatta"
+published: true
+date:
+event:
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: uhuru-muigai-kenyatta
+slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta
+---
+
+Charges against Kenyatta were confirmed on 23 January 2012. The notice to withdraw charges was made public on 5 December 2014. Charges against him were withdrawn on 13 March 2015. The Trial Chamber terminated the proceedings on 13 March 2015.
+
+@@@
+title: "Uhuru Muigai Kenyatta - Uhuru Muigai Kenyatta - Summonses to Appear"
+published: true
+date: 2011-03-08
+event: Summonses to Appear
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: uhuru-muigai-kenyatta
+slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta-summonses-to appear
+---
+
+[Summonses to appear](http://www.icc-cpi.int/iccdocs/doc/doc1037052.pdf)
+
+@@@
+title: "Uhuru Muigai Kenyatta - Uhuru Muigai Kenyatta - Initial Appearance"
+published: true
+date: 2011-04-08
+event: Initial Appearance
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: uhuru-muigai-kenyatta
+slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta-initial-appearance
+---
+@@@
+title: "Uhuru Muigai Kenyatta - Uhuru Muigai Kenyatta - Confirmation of Charges"
+published: true
+date: 2012-01-23
+event: Confirmation of Charges
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: uhuru-muigai-kenyatta
+slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta-confirmation-of charges
+---
+
+[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1314543.pdf)
+
+@@@
+title: "Uhuru Muigai Kenyatta - Uhuru Muigai Kenyatta - Withdrawal of Charges "
+published: true
+date: 2015-03-13
+event: Withdrawal of Charges
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: uhuru-muigai-kenyatta
+slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta-withdrawal-of charges
+---
+
+[Decision on the withdrawal of charges](http://www.icc-cpi.int/iccdocs/doc/doc1936247.pdf)
+
+@@@
+title: "Uhuru Muigai Kenyatta - Uhuru Muigai Kenyatta - Termination of Proceedings"
+published: true
+date: 2015-03-13
+event: Termination of Proceedings
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: uhuru-muigai-kenyatta
+slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta-termination-of proceedings
+---
+@@@
+title: "Lubanga - Thomas Lubanga Dyilo"
+published: true
+date:
+event:
+case: the-prosecutor-v-lubanga
+accused: thomas-lubanga-dyilo
+slug: lubanga-events-thomas-lubanga-dyilo
+---
+
+Lubanga was transferred to the Hague on 16 March 2006. Charges were confirmed against him on 29 January 2007. He was convicted on 14 March 2012. He was sentenced, on 10 July 2012, to 14 years of imprisonment from which his time already spent in ICC custody will be deducted.
+
+@@@
+title: "Lubanga - Thomas Lubanga Dyilo - Arrest Warrant "
+published: true
+date: 2006-03-17
+event: Arrest Warrant
+case: the-prosecutor-v-lubanga
+accused: thomas-lubanga-dyilo
+slug: lubanga-events-thomas-lubanga-dyilo-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc236258.pdf)
+
+@@@
+title: "Lubanga - Thomas Lubanga Dyilo - Confirmation of Charges"
+published: true
+date: 2007-01-29
+event: Confirmation of Charges
+case: the-prosecutor-v-lubanga
+accused: thomas-lubanga-dyilo
+slug: lubanga-events-thomas-lubanga-dyilo-confirmation-of charges
+---
+
+[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc266175.PDF)
+
+@@@
+title: "Lubanga - Thomas Lubanga Dyilo - Start of Trial "
+published: true
+date: 2009-01-26
+event: Start of Trial
+case: the-prosecutor-v-lubanga
+accused: thomas-lubanga-dyilo
+slug: lubanga-events-thomas-lubanga-dyilo-start-of trial
+---
+@@@
+title: "Lubanga - Thomas Lubanga Dyilo - Trial Judgement "
+published: true
+date: 2012-03-14
+event: Trial Judgement
+case: the-prosecutor-v-lubanga
+accused: thomas-lubanga-dyilo
+slug: lubanga-events-thomas-lubanga-dyilo-trial-judgement
+---
+@@@
+title: "Lubanga - Thomas Lubanga Dyilo - Appeal Judgement "
+published: true
+date: 2014-12-01
+event: Appeal Judgement
+case: the-prosecutor-v-lubanga
+accused: thomas-lubanga-dyilo
+slug: lubanga-events-thomas-lubanga-dyilo-appeal-judgement
+---
+@@@
+title: "Lubanga - Thomas Lubanga Dyilo - Sentencing"
+published: true
+date: 2012-07-10
+event: Sentencing
+case: the-prosecutor-v-lubanga
+accused: thomas-lubanga-dyilo
+slug: lubanga-events-thomas-lubanga-dyilo-sentencing
+---
+@@@
+title: "Lubanga - Thomas Lubanga Dyilo - Decision on Reparations"
+published: true
+date: 2012-08-07
+event: Decision on Reparations
+case: the-prosecutor-v-lubanga
+accused: thomas-lubanga-dyilo
+slug: lubanga-events-thomas-lubanga-dyilo-decision-on reparations
+---
+@@@
+title: "Lubanga - Thomas Lubanga Dyilo - Amended Decision on Reparations"
+published: true
+date: 2015-03-03
+event: Amended Decision on Reparations
+case: the-prosecutor-v-lubanga
+accused: thomas-lubanga-dyilo
+slug: lubanga-events-thomas-lubanga-dyilo-amended-decision on reparations
+---
+@@@
+title: "Mudacumura - Sylvestre Mudacumura"
+published: true
+date:
+event:
+case: the-prosecutor-v-mudacumura
+accused: sylvestre-mudacumura
+slug: mudacumura-events-sylvestre-mudacumura
+---
+
+The Office of the Prosecutor made public an arrest warrant for Mudacumura on 13 July 2012. Accused remains [at-large](http://allafrica.com/stories/201504151814.html).
+
+@@@
+title: "Mudacumura - Sylvestre Mudacumura - Arrest Warrant "
+published: true
+date: 2012-07-13
+event: Arrest Warrant
+case: the-prosecutor-v-mudacumura
+accused: sylvestre-mudacumura
+slug: mudacumura-events-sylvestre-mudacumura-arrest-warrant
+---
+@@@
+title: "Simone Gbagbo - Simone Gbagbo"
+published: true
+date:
+event:
+case: the-prosecutor-v-simone-gbagbo
+accused: simone-gbagbo
+slug: simone-gbagbo-events-simone-gbagbo
+---
+
+The Office of the Prosecutor made public an arrest warrant for Gbagbo on 22 November 2012. She was [tried](http://www.france24.com/en/20150310-simone-gbagbo-wife-first-lady-ivory-coast-jailed-20-years-election-violence-court-sentence/) for election violence in Côte d'Ivoire but has not been extradited to the ICC.
+
+@@@
+title: "Simone Gbagbo - Simone Gbagbo - Arrest Warrant "
+published: true
+date: 2012-11-22
+event: Arrest Warrant
+case: the-prosecutor-v-simone-gbagbo
+accused: simone-gbagbo
+slug: simone-gbagbo-events-simone-gbagbo-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc1344439.pdf)
+
+@@@
+title: "Banda - Saleh Mohammed Jerbo Jamus"
+published: true
+date:
+event:
+case: the-prosecutor-v-banda
+accused: saleh-mohammed-jerbo-jamus
+slug: banda-events-saleh-mohammed-jerbo-jamus
+---
+
+Charges were confirmed against Jerbo on 7 March 2011. Trial Chamber IV terminated proceedings against him on 4 October 2013 after receiving evidence of his death on 19 April 2013.
+
+@@@
+title: "Banda - Saleh Mohammed Jerbo Jamus - Summonses"
+published: true
+date: 2009-08-27
+event: Summonses
+case: the-prosecutor-v-banda
+accused: saleh-mohammed-jerbo-jamus
+slug: banda-events-saleh-mohammed-jerbo-jamus-summonses
+---
+@@@
+title: "Banda - Saleh Mohammed Jerbo Jamus - Initial Appearance"
+published: true
+date: 2010-06-17
+event: Initial Appearance
+case: the-prosecutor-v-banda
+accused: saleh-mohammed-jerbo-jamus
+slug: banda-events-saleh-mohammed-jerbo-jamus-initial-appearance
+---
+@@@
+title: "Banda - Saleh Mohammed Jerbo Jamus - Confirmation of Charges"
+published: true
+date: 2011-03-07
+event: Confirmation of Charges
+case: the-prosecutor-v-banda
+accused: saleh-mohammed-jerbo-jamus
+slug: banda-events-saleh-mohammed-jerbo-jamus-confirmation-of charges
+---
+@@@
+title: "Banda - Saleh Mohammed Jerbo Jamus - Termination of Proceedings "
+published: true
+date: 2013-10-04
+event: Termination of Proceedings
+case: the-prosecutor-v-banda
+accused: saleh-mohammed-jerbo-jamus
+slug: banda-events-saleh-mohammed-jerbo-jamus-termination-of proceedings
+---
+@@@
+title: "The Prosecutor vs. S. Gadaffi and Senussi - Saif Al-Islam Gaddafi"
+published: true
+date:
+event:
+case: the-prosecutor-vs-s-gadaffi-and-senussi
+accused: saif-al-islam-gaddafi
+slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-saif-al-islam-gaddafi
+---
+
+The Office of the Prosecutor made public an arrest warrant for Gaddafi on 27 June 2011. Accused is in the custody of a rebel militia in Libya.
+
+@@@
+title: "The Prosecutor vs. S. Gadaffi and Senussi - Saif Al-Islam Gaddafi - Arrest Warrant "
+published: true
+date: 2011-06-27
+event: Arrest Warrant
+case: the-prosecutor-vs-s-gadaffi-and-senussi
+accused: saif-al-islam-gaddafi
+slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-saif-al-islam-gaddafi-arrest-warrant
+---
+@@@
+title: "Kony et al. - Raska Lukwiya"
+published: true
+date:
+event:
+case: the-prosecutor-v-kony-et-al
+accused: raska-lukwiya
+slug: kony-et-al-events-raska-lukwiya
+---
+
+The Office of the Prosecutor made public an arrest warrant for Lukwiya on 13 October 2005. Following his death Pre-Trial Chamber II decided on 11 July 2007 to [terminate](https://www.icc-cpi.int/iccdocs/doc/doc297945.pdf) the proceedings against Raska Lukwiya, the warrant of arrest is rendered without effect therefore the name of Raska Lukwiya has been removed from the case.
+
+@@@
+title: "Kony et al. - Raska Lukwiya - Arrest Warrant"
+published: true
+date: 2005-10-13
+event: Arrest Warrant
+case: the-prosecutor-v-kony-et-al
+accused: raska-lukwiya
+slug: kony-et-al-events-raska-lukwiya-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc97193.pdf)
+
+@@@
+title: "Kony et al. - Raska Lukwiya - Death of Accused"
+published: true
+date: 2006-08-12
+event: Death of Accused
+case: the-prosecutor-v-kony-et-al
+accused: raska-lukwiya
+slug: kony-et-al-events-raska-lukwiya-death-of accused
+---
+@@@
+title: "Kony et al. - Raska Lukwiya - Terminated "
+published: true
+date: 2007-07-11
+event: Terminated
+case: the-prosecutor-v-kony-et-al
+accused: raska-lukwiya
+slug: kony-et-al-events-raska-lukwiya-terminated-
+---
+
+[Decision to terminate the proceedings](http://www.icc-cpi.int/iccdocs/doc/doc297945.pdf)
+
+@@@
+title: "Paul Gicheru and Philip Kipkoech Bett - Philip Kipkoech Bett"
+published: true
+date:
+event:
+case: the-prosecutor-v-paul-gicheru-and-philip-kipkoech-bett
+accused: philip-kipkoech-bett
+slug: paul-gicheru-and-philip-kipkoech-bett-events-philip-kipkoech-bett
+---
+
+On 9 February 2015 the Prosecutor requested a warrant of arrest. It was [issued](https://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200109/related%20cases/ICC-01_09-01_15/court-records/chambers/ptcII/Pages/1.aspx) under seal on 10 March 2015 <span class="redactor-invisible-space">and [unsealed](https://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200109/related%20cases/ICC-01_09-01_15/court-records/chambers/ptcII/Pages/11.aspx) on 10 September 2015.</span>
+
+@@@
+title: "Paul Gicheru and Philip Kipkoech Bett - Philip Kipkoech Bett - Arrest Warrant"
+published: true
+date: 2015-09-10
+event: Arrest Warrant
+case: the-prosecutor-v-paul-gicheru-and-philip-kipkoech-bett
+accused: philip-kipkoech-bett
+slug: paul-gicheru-and-philip-kipkoech-bett-events-philip-kipkoech-bett-arrest-warrant
+---
+
+[Made public](https://www.icc-cpi.int/iccdocs/doc/doc2056890.pdf)
+
+@@@
+title: "Paul Gicheru and Philip Kipkoech Bett - Paul Gicheru"
+published: true
+date:
+event:
+case: the-prosecutor-v-paul-gicheru-and-philip-kipkoech-bett
+accused: paul-gicheru
+slug: paul-gicheru-and-philip-kipkoech-bett-events-paul-gicheru
+---
+
+On 9 February 2015 the Prosecutor requested a warrant of arrest. It was [issued](https://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200109/related%20cases/ICC-01_09-01_15/court-records/chambers/ptcII/Pages/1.aspx) under seal on 10 March 2015 and [unsealed](https://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200109/related%20cases/ICC-01_09-01_15/court-records/chambers/ptcII/Pages/11.aspx) on 10 September 2015.<span class="redactor-invisible-space"></span>
+
+@@@
+title: "Paul Gicheru and Philip Kipkoech Bett - Paul Gicheru - Arrest Warrant"
+published: true
+date: 2015-09-10
+event: Arrest Warrant
+case: the-prosecutor-v-paul-gicheru-and-philip-kipkoech-bett
+accused: paul-gicheru
+slug: paul-gicheru-and-philip-kipkoech-bett-events-paul-gicheru-arrest-warrant
+---
+
+[Made public](https://www.icc-cpi.int/iccdocs/doc/doc2056890.pdf)
+
+@@@
+title: "Al Bashir - Omar Hassan Ahmad Al Bashir"
+published: true
+date:
+event:
+case: the-prosecutor-v-al-bashir
+accused: omar-hassan-ahmad-al-bashir
+slug: al-bashir-events-omar-hassan-ahmad-al-bashir
+---
+
+The Office of the Prosecutor made public an arrest warrant for Al Bashir on 4 March 2009. The Office of the Prosecutor made public a second arrest warrant on 12 July 2010. Accused remains [at-large](http://www.theguardian.com/world/2015/apr/27/sudan-bashir-elected-majority-vote).
+
+@@@
+title: "Al Bashir - Omar Hassan Ahmad Al Bashir - First Arrest Warrant "
+published: true
+date: 2009-03-04
+event: First Arrest Warrant
+case: the-prosecutor-v-al-bashir
+accused: omar-hassan-ahmad-al-bashir
+slug: al-bashir-events-omar-hassan-ahmad-al-bashir-first-arrest warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc639078.pdf)
+
+@@@
+title: "Al Bashir - Omar Hassan Ahmad Al Bashir - Second Arrest Warrant "
+published: true
+date: 2010-07-12
+event: Second Arrest Warrant
+case: the-prosecutor-v-al-bashir
+accused: omar-hassan-ahmad-al-bashir
+slug: al-bashir-events-omar-hassan-ahmad-al-bashir-second-arrest warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc907140.pdf)
+
+@@@
+title: "Kony et al. - Okot Odhiambo"
+published: true
+date:
+event:
+case: the-prosecutor-v-kony-et-al
+accused: okot-odhiambo
+slug: kony-et-al-events-okot-odhiambo
+---
+
+The Office of the Prosecutor made public an arrest warrant for Odhiambo on 13 October 2005. On 10 September 2015, Pre-trial Chamber II [terminated](https://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200204/related%20cases/icc%200204%200105/court%20records/chambers/pre%20trial%20chamber%20ii/Pages/431.aspx) proceedings against the alleged Odhiambo following the forensic confirmation of his passing.
+
+@@@
+title: "Kony et al. - Okot Odhiambo - Warrant of Arrest"
+published: true
+date: 2005-10-13
+event: Warrant of Arrest
+case: the-prosecutor-v-kony-et-al
+accused: okot-odhiambo
+slug: kony-et-al-events-okot-odhiambo-warrant-of arrest
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc97197.pdf)
+
+@@@
+title: "Kony et al. - Okot Odhiambo - Death of Accused"
+published: true
+date: 2013-10-27
+event: Death of Accused
+case: the-prosecutor-v-kony-et-al
+accused: okot-odhiambo
+slug: kony-et-al-events-okot-odhiambo-death-of accused
+---
+@@@
+title: "Bemba et al. - Narcisse Arido"
+published: true
+date:
+event:
+case: the-prosecutor-v-bemba-et-al
+accused: narcisse-arido
+slug: bemba-et-al-events-narcisse-arido
+---
+
+The Office of the Prosecutor made public an arrest warrant for Arido on 28 November 2013. He entered ICC custody on 18 March 24. Charges against him were confirmed on 11 November 2014. Trial [opened](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1155.aspx) on 29 Septmeber 2015 before Trial Chamber VII of the International Criminal Court, composed of presiding judge Bertram Schmitt, judge Marc Perrin de Brichambaut and judge Raul Pangalangan.
+
+@@@
+title: "Bemba et al. - Narcisse Arido - Arrest Warrant"
+published: true
+date: 2013-11-28
+event: Arrest Warrant
+case: the-prosecutor-v-bemba-et-al
+accused: narcisse-arido
+slug: bemba-et-al-events-narcisse-arido-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc1694691.pdf)
+
+@@@
+title: "Bemba et al. - Narcisse Arido - Initial Appearance"
+published: true
+date: 2014-03-20
+event: Initial Appearance
+case: the-prosecutor-v-bemba-et-al
+accused: narcisse-arido
+slug: bemba-et-al-events-narcisse-arido-initial-appearance
+---
+@@@
+title: "Bemba et al. - Narcisse Arido - Interim Release from Detention"
+published: true
+date: 2014-10-21
+event: Interim Release from Detention
+case: the-prosecutor-v-bemba-et-al
+accused: narcisse-arido
+slug: bemba-et-al-events-narcisse-arido-interim-release from detention
+---
+
+[Made public](https://www.icc-cpi.int/iccdocs/doc/doc1845009.pdf)
+
+@@@
+title: "Bemba et al. - Narcisse Arido - Confirmation of Charges "
+published: true
+date: 2014-11-11
+event: Confirmation of Charges
+case: the-prosecutor-v-bemba-et-al
+accused: narcisse-arido
+slug: bemba-et-al-events-narcisse-arido-confirmation-of charges
+---
+
+[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1857534.pdf)[](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200105/related%20cases/ICC-0105-0113/court-records/chambers/ptcII/Pages/749.aspx)
+
+@@@
+title: "Bemba et al. - Narcisse Arido - Start of Trial"
+published: true
+date: 2015-09-29
+event: Start of Trial
+case: the-prosecutor-v-bemba-et-al
+accused: narcisse-arido
+slug: bemba-et-al-events-narcisse-arido-start-of trial
+---
+@@@
+title: "The Prosecutor vs. S. Gadaffi and Senussi - Muammar Mohammed Abu Minyar Gaddafi"
+published: true
+date:
+event:
+case: the-prosecutor-vs-s-gadaffi-and-senussi
+accused: muammar-mohammed-abu-minyar-gaddafi
+slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-muammar-mohammed-abu-minyar-gaddafi
+---
+
+The Office of the Prosecutor made public an arrest warrant for Gaddafi on 27 June 2011. The case against him was terminated on 22 November 2011 following his death.
+
+@@@
+title: "The Prosecutor vs. S. Gadaffi and Senussi - Muammar Mohammed Abu Minyar Gaddafi - Arrest Warrant "
+published: true
+date: 2011-06-27
+event: Arrest Warrant
+case: the-prosecutor-vs-s-gadaffi-and-senussi
+accused: muammar-mohammed-abu-minyar-gaddafi
+slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-muammar-mohammed-abu-minyar-gaddafi-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc1099321.pdf)
+
+@@@
+title: "The Prosecutor vs. S. Gadaffi and Senussi - Muammar Mohammed Abu Minyar Gaddafi - Termination of the Case Against Him"
+published: true
+date: 2011-11-22
+event: Termination of the Case Against Him
+case: the-prosecutor-vs-s-gadaffi-and-senussi
+accused: muammar-mohammed-abu-minyar-gaddafi
+slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-muammar-mohammed-abu-minyar-gaddafi-termination-of the case against him
+---
+@@@
+title: "Uhuru Muigai Kenyatta - Mohammed Hussein Ali "
+published: true
+date:
+event:
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: mohammed-hussein-ali
+slug: uhuru-muigai-kenyatta-events-mohammed-hussein-ali
+---
+
+The Office of the Prosecutor made public a summonses to appear for on Ali 15 December 2010. Pre-Trial Chamber II declined to confirm the charges on 23 January 2012.
+
+@@@
+title: "Uhuru Muigai Kenyatta - Mohammed Hussein Ali - Summons to Appear"
+published: true
+date: 2010-12-15
+event: Summons to Appear
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: mohammed-hussein-ali
+slug: uhuru-muigai-kenyatta-events-mohammed-hussein-ali-summons-to appear
+---
+
+[Summonses to appear](http://www.icc-cpi.int/iccdocs/doc/doc1037052.pdf)
+
+@@@
+title: "Uhuru Muigai Kenyatta - Mohammed Hussein Ali - Initial Appearance"
+published: true
+date: 2009-04-08
+event: Initial Appearance
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: mohammed-hussein-ali
+slug: uhuru-muigai-kenyatta-events-mohammed-hussein-ali-initial-appearance
+---
+@@@
+title: "Uhuru Muigai Kenyatta - Mohammed Hussein Ali - Confirmation of Charges"
+published: true
+date: 2012-12-23
+event: Confirmation of Charges
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: mohammed-hussein-ali
+slug: uhuru-muigai-kenyatta-events-mohammed-hussein-ali-confirmation-of charges
+---
+@@@
+title: "Chui - Mathieu Ngudjolo Chui"
+published: true
+date:
+event:
+case: the-prosecutor-v-chui
+accused: mathieu-ngudjolo-chui
+slug: chui-events-mathieu-ngudjolo-chui
+---
+
+Chui was arrested on 6 February 2008. Charges were confirmed against him on 26 September 2008. The Appeals Chamber confirmed Trial Chamber II's decision of 18 December 2012 acquitting Chui of charges of crimes against humanity on 27 February 2015.
+
+@@@
+title: "Chui - Mathieu Ngudjolo Chui - Arrest Warrant "
+published: true
+date: 2008-02-07
+event: Arrest Warrant
+case: the-prosecutor-v-chui
+accused: mathieu-ngudjolo-chui
+slug: chui-events-mathieu-ngudjolo-chui-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc453054.PDF)
+
+@@@
+title: "Chui - Mathieu Ngudjolo Chui - Initial Appearance "
+published: true
+date: 2008-02-11
+event: Initial Appearance
+case: the-prosecutor-v-chui
+accused: mathieu-ngudjolo-chui
+slug: chui-events-mathieu-ngudjolo-chui-initial-appearance
+---
+@@@
+title: "Chui - Mathieu Ngudjolo Chui - Confirmation of Charges"
+published: true
+date: 2008-09-26
+event: Confirmation of Charges
+case: the-prosecutor-v-chui
+accused: mathieu-ngudjolo-chui
+slug: chui-events-mathieu-ngudjolo-chui-confirmation-of charges
+---
+
+[Decision on confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc571253.pdf)
+
+@@@
+title: "Chui - Mathieu Ngudjolo Chui - Start of Trial "
+published: true
+date: 2009-11-24
+event: Start of Trial
+case: the-prosecutor-v-chui
+accused: mathieu-ngudjolo-chui
+slug: chui-events-mathieu-ngudjolo-chui-start-of trial
+---
+@@@
+title: "Chui - Mathieu Ngudjolo Chui - End of Trial "
+published: true
+date: 2012-05-23
+event: End of Trial
+case: the-prosecutor-v-chui
+accused: mathieu-ngudjolo-chui
+slug: chui-events-mathieu-ngudjolo-chui-end-of trial
+---
+@@@
+title: "Chui - Mathieu Ngudjolo Chui - Trial Judgement "
+published: true
+date: 2012-12-18
+event: Trial Judgement
+case: the-prosecutor-v-chui
+accused: mathieu-ngudjolo-chui
+slug: chui-events-mathieu-ngudjolo-chui-trial-judgement
+---
+
+[Verdict](http://www.icc-cpi.int/iccdocs/doc/doc1579080.pdf)
+
+@@@
+title: "Chui - Mathieu Ngudjolo Chui - Appeal Judgement "
+published: true
+date: 2015-02-27
+event: Appeal Judgement
+case: the-prosecutor-v-chui
+accused: mathieu-ngudjolo-chui
+slug: chui-events-mathieu-ngudjolo-chui-appeal-judgement
+---
+
+[Judgement on appeal against acquittal](http://www.icc-cpi.int/iccdocs/doc/doc1957802.pdf)
+
+@@@
+title: "Gbagbo and Blé Goudé - Laurent Gbagbo"
+published: true
+date:
+event:
+case: the-prosecutor-v-gbagbo-and-blé-goudé
+accused: laurent-gbagbo
+slug: gbagbo-and-blé-goudé-events-laurent-gbagbo
+---
+
+Gbagbo entered ICC custody on 30 November 2011. Charges were confirmed against him on 12 June 2014. His case was joined with Charles Blé Goudé on 11 March 2015. On 28 October 2015, Trial Chamber I of the International Criminal Court (ICC) rescheduled the trial's opening statements, initially scheduled on 10 November 2015, to 28 January 2016.
+
+@@@
+title: "Gbagbo and Blé Goudé - Laurent Gbagbo - Arrest Warrant"
+published: true
+date: 2011-11-30
+event: Arrest Warrant
+case: the-prosecutor-v-gbagbo-and-blé-goudé
+accused: laurent-gbagbo
+slug: gbagbo-and-blé-goudé-events-laurent-gbagbo-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc1276751.pdf)
+
+@@@
+title: "Gbagbo and Blé Goudé - Laurent Gbagbo - Initial Appearance"
+published: true
+date: 2011-12-05
+event: Initial Appearance
+case: the-prosecutor-v-gbagbo-and-blé-goudé
+accused: laurent-gbagbo
+slug: gbagbo-and-blé-goudé-events-laurent-gbagbo-initial-appearance
+---
+@@@
+title: "Gbagbo and Blé Goudé - Laurent Gbagbo - Confirmation of Charges"
+published: true
+date: 2014-06-12
+event: Confirmation of Charges
+case: the-prosecutor-v-gbagbo-and-blé-goudé
+accused: laurent-gbagbo
+slug: gbagbo-and-blé-goudé-events-laurent-gbagbo-confirmation-of charges
+---
+
+[Decision on confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1783399.pdf)
+
+@@@
+title: "Gbagbo and Blé Goudé - Laurent Gbagbo - Decision to Join the Gbagbo and Blé Goudé Cases"
+published: true
+date: 2015-03-11
+event: Decision to Join the Gbagbo and Blé Goudé Cases
+case: the-prosecutor-v-gbagbo-and-blé-goudé
+accused: laurent-gbagbo
+slug: gbagbo-and-blé-goudé-events-laurent-gbagbo-decision-to join the gbagbo and blé goudé cases
+---
+@@@
+title: "Gbagbo and Blé Goudé - Laurent Gbagbo - Start of Trial"
+published: true
+date: 2016-01-28
+event: Start of Trial
+case: the-prosecutor-v-gbagbo-and-blé-goudé
+accused: laurent-gbagbo
+slug: gbagbo-and-blé-goudé-events-laurent-gbagbo-start-of trial
+---
+
+[Scheduled](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1163.aspx) on 28 January 2016
+
+[Press release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1184.aspx) of the court proceeding.
+
+@@@
+title: "Ruto and Sang - Joshua Arap Sang"
+published: true
+date:
+event:
+case: the-prosecutor-v-ruto-and-sang
+accused: joshua-arap-sang
+slug: ruto-and-sang-events-joshua-arap-sang
+---
+
+Charges against Sang were confirmed on 23 January 2012. The trial began on 10 September 2013.
+
+@@@
+title: "Ruto and Sang - Joshua Arap Sang - Summonses to Appear"
+published: true
+date: 2011-03-08
+event: Summonses to Appear
+case: the-prosecutor-v-ruto-and-sang
+accused: joshua-arap-sang
+slug: ruto-and-sang-events-joshua-arap-sang-summonses-to appear
+---
+
+[Summonses to appear](http://www.icc-cpi.int/iccdocs/doc/doc1037044.pdf)
+
+@@@
+title: "Ruto and Sang - Joshua Arap Sang - Initial Appearance"
+published: true
+date: 2011-04-07
+event: Initial Appearance
+case: the-prosecutor-v-ruto-and-sang
+accused: joshua-arap-sang
+slug: ruto-and-sang-events-joshua-arap-sang-initial-appearance
+---
+@@@
+title: "Ruto and Sang - Joshua Arap Sang - Confirmation of Charges "
+published: true
+date: 2012-01-23
+event: Confirmation of Charges
+case: the-prosecutor-v-ruto-and-sang
+accused: joshua-arap-sang
+slug: ruto-and-sang-events-joshua-arap-sang-confirmation-of charges
+---
+
+[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1314535.pdf)
+
+@@@
+title: "Ruto and Sang - Joshua Arap Sang - Start of Trial"
+published: true
+date: 2013-09-10
+event: Start of Trial
+case: the-prosecutor-v-ruto-and-sang
+accused: joshua-arap-sang
+slug: ruto-and-sang-events-joshua-arap-sang-start-of trial
+---
+@@@
+title: "Kony et al. - Joseph Kony"
+published: true
+date:
+event:
+case: the-prosecutor-v-kony-et-al
+accused: joseph-kony
+slug: kony-et-al-events-joseph-kony
+---
+
+The Office of the Prosecutor made public an arrest warrant for Kony on 13 October 2005. Accused remains [at-larg](http://www.theguardian.com/world/2014/nov/06/joseph-kony-hiding-sudan-border-report-lra)e.
+
+@@@
+title: "Kony et al. - Joseph Kony - Warrant of Arrest"
+published: true
+date: 2005-10-13
+event: Warrant of Arrest
+case: the-prosecutor-v-kony-et-al
+accused: joseph-kony
+slug: kony-et-al-events-joseph-kony-warrant-of arrest
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc97185.pdf)
+
+@@@
+title: "Bemba - Jean-Pierre Bemba Gombo"
+published: true
+date:
+event:
+case: the-prosecutor-v-bemba
+accused: jean-pierre-bemba-gombo
+slug: bemba-events-jean-pierre-bemba-gombo
+---
+
+Bemba was arrested by Belgian authorities on 24 May 2008 and transferred to ICC custody thereafter. Charges were confirmed against him on 15 June 2009 by Pre-Trial Chamber II. His trial ended on 13 November 2014, and a trial judgment is forthcoming.
+
+@@@
+title: "Bemba et al. - Jean-Pierre Bemba Gombo"
+published: true
+date:
+event:
+case: the-prosecutor-v-bemba-et-al
+accused: jean-pierre-bemba-gombo
+slug: bemba-et-al-events-jean-pierre-bemba-gombo
+---
+
+The Office of the Prosecutor made public an arrest warrant for Bemba on 28 November 2013. Charges were confirmed against him on 11 November 2014. Trial [opened](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1155.aspx) on 29 Septmeber 2015 before Trial Chamber VII of the International Criminal Court, composed of presiding judge Bertram Schmitt, judge Marc Perrin de Brichambaut and judge Raul Pangalangan.
+
+@@@
+title: "Bemba - Jean-Pierre Bemba Gombo - Arrest Warrant"
+published: true
+date: 2008-05-04
+event: Arrest Warrant
+case: the-prosecutor-v-bemba
+accused: jean-pierre-bemba-gombo
+slug: bemba-events-jean-pierre-bemba-gombo-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc1694691.pdf)
+
+@@@
+title: "Bemba et al. - Jean-Pierre Bemba Gombo - Arrest Warrant"
+published: true
+date: 2013-11-28
+event: Arrest Warrant
+case: the-prosecutor-v-bemba-et-al
+accused: jean-pierre-bemba-gombo
+slug: bemba-et-al-events-jean-pierre-bemba-gombo-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc504390.PDF)
+
+@@@
+title: "Bemba et al. - Jean-Pierre Bemba Gombo - Initial appearance"
+published: true
+date: 2013-11-27
+event: Initial appearance
+case: the-prosecutor-v-bemba-et-al
+accused: jean-pierre-bemba-gombo
+slug: bemba-et-al-events-jean-pierre-bemba-gombo-initial-appearance
+---
+@@@
+title: "Bemba - Jean-Pierre Bemba Gombo - Initial Appearance"
+published: true
+date: 2008-07-04
+event: Initial Appearance
+case: the-prosecutor-v-bemba
+accused: jean-pierre-bemba-gombo
+slug: bemba-events-jean-pierre-bemba-gombo-initial-appearance
+---
+
+Initial Appearance Before Pre-Trial Chamber III
+
+@@@
+title: "Bemba et al. - Jean-Pierre Bemba Gombo - Confirmation of Charges"
+published: true
+date: 2014-11-11
+event: Confirmation of Charges
+case: the-prosecutor-v-bemba-et-al
+accused: jean-pierre-bemba-gombo
+slug: bemba-et-al-events-jean-pierre-bemba-gombo-confirmation-of charges
+---
+
+[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1857534.pdf)[](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200105/related%20cases/ICC-0105-0113/court-records/chambers/ptcII/Pages/749.aspx)
+
+@@@
+title: "Bemba - Jean-Pierre Bemba Gombo - Arrest Warrant Replaced"
+published: true
+date: 2008-06-10
+event: Arrest Warrant Replaced
+case: the-prosecutor-v-bemba
+accused: jean-pierre-bemba-gombo
+slug: bemba-events-jean-pierre-bemba-gombo-arrest-warrant replaced
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc535163.pdf)
+
+@@@
+title: "Bemba - Jean-Pierre Bemba Gombo - Confirmation of Charges"
+published: true
+date: 2009-06-15
+event: Confirmation of Charges
+case: the-prosecutor-v-bemba
+accused: jean-pierre-bemba-gombo
+slug: bemba-events-jean-pierre-bemba-gombo-confirmation-of charges
+---
+
+[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc699541.pdf)
+
+@@@
+title: "Bemba - Jean-Pierre Bemba Gombo - Start of Trial "
+published: true
+date: 2010-11-22
+event: Start of Trial
+case: the-prosecutor-v-bemba
+accused: jean-pierre-bemba-gombo
+slug: bemba-events-jean-pierre-bemba-gombo-start-of trial
+---
+@@@
+title: "Bemba - Jean-Pierre Bemba Gombo - End of Trial "
+published: true
+date: 2014-11-13
+event: End of Trial
+case: the-prosecutor-v-bemba
+accused: jean-pierre-bemba-gombo
+slug: bemba-events-jean-pierre-bemba-gombo-end-of trial
+---
+@@@
+title: "Bemba et al. - Jean-Pierre Bemba Gombo - Start of Trial"
+published: true
+date: 2015-09-29
+event: Start of Trial
+case: the-prosecutor-v-bemba-et-al
+accused: jean-pierre-bemba-gombo
+slug: bemba-et-al-events-jean-pierre-bemba-gombo-start-of trial
+---
+@@@
+title: "Bemba et al. - Jean-Jacques Magenda Kabongo"
+published: true
+date:
+event:
+case: the-prosecutor-v-bemba-et-al
+accused: jean-jacques-magenda-kabongo
+slug: bemba-et-al-events-jean-jacques-magenda-kabongo
+---
+
+The Office of the Prosecutor made public an arrest warrant for Magenda on 28 November 2013. He entered ICC custody on 4 December 2013. Charges were confirmed against him on 11 November 2014. Trial [opened](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1155.aspx) on 29 Septmeber 2015 before Trial Chamber VII of the International Criminal Court, composed of presiding judge Bertram Schmitt, judge Marc Perrin de Brichambaut and judge Raul Pangalangan.
+
+@@@
+title: "Bemba et al. - Jean-Jacques Magenda Kabongo - Arrest Warrant "
+published: true
+date: 2013-11-28
+event: Arrest Warrant
+case: the-prosecutor-v-bemba-et-al
+accused: jean-jacques-magenda-kabongo
+slug: bemba-et-al-events-jean-jacques-magenda-kabongo-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc1694691.pdf)
+
+@@@
+title: "Bemba et al. - Jean-Jacques Magenda Kabongo - Initial Appearance"
+published: true
+date: 2013-12-05
+event: Initial Appearance
+case: the-prosecutor-v-bemba-et-al
+accused: jean-jacques-magenda-kabongo
+slug: bemba-et-al-events-jean-jacques-magenda-kabongo-initial-appearance
+---
+@@@
+title: "Bemba et al. - Jean-Jacques Magenda Kabongo - Interim Release from Detention"
+published: true
+date: 2014-10-21
+event: Interim Release from Detention
+case: the-prosecutor-v-bemba-et-al
+accused: jean-jacques-magenda-kabongo
+slug: bemba-et-al-events-jean-jacques-magenda-kabongo-interim-release from detention
+---
+
+[Made public](https://www.icc-cpi.int/iccdocs/doc/doc1845009.pdf)
+
+@@@
+title: "Bemba et al. - Jean-Jacques Magenda Kabongo - Confirmation of Charges"
+published: true
+date: 2014-11-11
+event: Confirmation of Charges
+case: the-prosecutor-v-bemba-et-al
+accused: jean-jacques-magenda-kabongo
+slug: bemba-et-al-events-jean-jacques-magenda-kabongo-confirmation-of charges
+---
+
+[Decision on the Confirmation of Charges](http://www.icc-cpi.int/iccdocs/doc/doc1857534.pdf)[](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200105/related%20cases/ICC-0105-0113/court-records/chambers/ptcII/Pages/749.aspx)
+
+@@@
+title: "Bemba et al. - Jean-Jacques Magenda Kabongo - Start of Trial"
+published: true
+date: 2015-09-29
+event: Start of Trial
+case: the-prosecutor-v-bemba-et-al
+accused: jean-jacques-magenda-kabongo
+slug: bemba-et-al-events-jean-jacques-magenda-kabongo-start-of trial
+---
+@@@
+title: "Ruto and Sang - Henry Kiprono Kosgey"
+published: true
+date:
+event:
+case: the-prosecutor-v-ruto-and-sang
+accused: henry-kiprono-kosgey
+slug: ruto-and-sang-events-henry-kiprono-kosgey
+---
+
+The Office of the Prosecutor made public a summonses to appear for Kosgey on 15 December 2010. Charges were not confirmed by Pre-Trial Chamber II.
+
+@@@
+title: "Ruto and Sang - Henry Kiprono Kosgey - Summons to Appear"
+published: true
+date: 2011-03-15
+event: Summons to Appear
+case: the-prosecutor-v-ruto-and-sang
+accused: henry-kiprono-kosgey
+slug: ruto-and-sang-events-henry-kiprono-kosgey-summons-to appear
+---
+@@@
+title: "Ruto and Sang - Henry Kiprono Kosgey - Initial Appearance "
+published: true
+date: 2011-04-07
+event: Initial Appearance
+case: the-prosecutor-v-ruto-and-sang
+accused: henry-kiprono-kosgey
+slug: ruto-and-sang-events-henry-kiprono-kosgey-initial-appearance
+---
+@@@
+title: "Ruto and Sang - Henry Kiprono Kosgey - Confirmation of Charges"
+published: true
+date: 2012-01-23
+event: Confirmation of Charges
+case: the-prosecutor-v-ruto-and-sang
+accused: henry-kiprono-kosgey
+slug: ruto-and-sang-events-henry-kiprono-kosgey-confirmation-of charges
+---
+
+[Decision not to confirm charges](https://www.icc-cpi.int/iccdocs/doc/doc1314535.pdf)
+
+@@@
+title: "Katanga - Germain Katanga"
+published: true
+date:
+event:
+case: the-prosecutor-v-katanga
+accused: germain-katanga
+slug: katanga-events-germain-katanga
+---
+
+Katanga entered ICC custody on 17 October 2007. Charges were confirmed against him on 26 September 2008. He was sentenced, on 23 May 2014, to 12 years in prison from which his time in custody was deducted.
+
+@@@
+title: "Katanga - Germain Katanga - Arrest Warrant "
+published: true
+date: 2007-10-18
+event: Arrest Warrant
+case: the-prosecutor-v-katanga
+accused: germain-katanga
+slug: katanga-events-germain-katanga-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc349648.PDF)
+
+@@@
+title: "Katanga - Germain Katanga - Initial appearance "
+published: true
+date: 2007-10-22
+event: Initial appearance
+case: the-prosecutor-v-katanga
+accused: germain-katanga
+slug: katanga-events-germain-katanga-initial-appearance
+---
+@@@
+title: "Katanga - Germain Katanga - Confirmation of Charges"
+published: true
+date: 2008-09-26
+event: Confirmation of Charges
+case: the-prosecutor-v-katanga
+accused: germain-katanga
+slug: katanga-events-germain-katanga-confirmation-of charges
+---
+
+[Decision on confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc571253.pdf)
+
+@@@
+title: "Katanga - Germain Katanga - Start of Trial "
+published: true
+date: 2009-11-24
+event: Start of Trial
+case: the-prosecutor-v-katanga
+accused: germain-katanga
+slug: katanga-events-germain-katanga-start-of trial
+---
+@@@
+title: "Katanga - Germain Katanga - End of Trial "
+published: true
+date: 2012-05-23
+event: End of Trial
+case: the-prosecutor-v-katanga
+accused: germain-katanga
+slug: katanga-events-germain-katanga-end-of trial
+---
+@@@
+title: "Katanga - Germain Katanga - Severing of the charges against Germain Katanga and Mathieu Ngudjolo Chui"
+published: true
+date: 2012-11-21
+event: Severing of the charges against Germain Katanga and Mathieu Ngudjolo Chui
+case: the-prosecutor-v-katanga
+accused: germain-katanga
+slug: katanga-events-germain-katanga-severing-of the charges against germain katanga and mathieu ngudjolo chui
+---
+@@@
+title: "Katanga - Germain Katanga - Trial Judgement "
+published: true
+date: 2014-03-07
+event: Trial Judgement
+case: the-prosecutor-v-katanga
+accused: germain-katanga
+slug: katanga-events-germain-katanga-trial-judgement
+---
+@@@
+title: "Katanga - Germain Katanga - Sentencing "
+published: true
+date: 2014-05-23
+event: Sentencing
+case: the-prosecutor-v-katanga
+accused: germain-katanga
+slug: katanga-events-germain-katanga-sentencing-
+---
+@@@
+title: "Uhuru Muigai Kenyatta - Francis Kirimi Muthaura"
+published: true
+date:
+event:
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: francis-kirimi-muthaura
+slug: uhuru-muigai-kenyatta-events-francis-kirimi-muthaura
+---
+
+The Office of the Prosecutor made public a summonses to appear for Muthaura on 15 December 2010. Charges were confirmed by Pre-Trial Chamber II on 23 January 2012. However, the Office of the Prosecutor [withdrew](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/OTP-statement-11-03-2013.aspx) charges against Muthaura on 11 March 2013.
+
+@@@
+title: "Uhuru Muigai Kenyatta - Francis Kirimi Muthaura - Summonses to Appear"
+published: true
+date: 2011-03-08
+event: Summonses to Appear
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: francis-kirimi-muthaura
+slug: uhuru-muigai-kenyatta-events-francis-kirimi-muthaura-summonses-to appear
+---
+@@@
+title: "Uhuru Muigai Kenyatta - Francis Kirimi Muthaura - Confirmation of Charges"
+published: true
+date: 2012-01-23
+event: Confirmation of Charges
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: francis-kirimi-muthaura
+slug: uhuru-muigai-kenyatta-events-francis-kirimi-muthaura-confirmation-of charges
+---
+
+[Decision on the confirmation of charges](https://www.icc-cpi.int/iccdocs/doc/doc1314543.pdf)
+
+@@@
+title: "Uhuru Muigai Kenyatta - Francis Kirimi Muthaura - Withdrawal of Charges"
+published: true
+date: 2013-03-11
+event: Withdrawal of Charges
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: francis-kirimi-muthaura
+slug: uhuru-muigai-kenyatta-events-francis-kirimi-muthaura-withdrawal-of charges
+---
+
+[Made public](https://www.icc-cpi.int/iccdocs/doc/ICC-01-09-02-11-687.pdf)
+
+@@@
+title: "Bemba et al. - Fidèle Babala Wandu"
+published: true
+date:
+event:
+case: the-prosecutor-v-bemba-et-al
+accused: fidèle-babala-wandu
+slug: bemba-et-al-events-fidèle-babala-wandu
+---
+
+The Office of the Prosecutor made public an arrest warrant for Babala on 28 November 2013. He entered ICC custody on 25 November 2013. Charges against him were confirmed on 11 November 2014. Trial [opened](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1155.aspx) on 29 Septmeber 2015 before Trial Chamber VII of the International Criminal Court, composed of presiding judge Bertram Schmitt, judge Marc Perrin de Brichambaut and judge Raul Pangalangan.
+
+@@@
+title: "Bemba et al. - Fidèle Babala Wandu - Arrest Warrant"
+published: true
+date: 2013-11-28
+event: Arrest Warrant
+case: the-prosecutor-v-bemba-et-al
+accused: fidèle-babala-wandu
+slug: bemba-et-al-events-fidèle-babala-wandu-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc1694691.pdf)
+
+@@@
+title: "Bemba et al. - Fidèle Babala Wandu - Initial Appearance"
+published: true
+date: 2013-11-27
+event: Initial Appearance
+case: the-prosecutor-v-bemba-et-al
+accused: fidèle-babala-wandu
+slug: bemba-et-al-events-fidèle-babala-wandu-initial-appearance
+---
+@@@
+title: "Bemba et al. - Fidèle Babala Wandu - Interim Release from Detention"
+published: true
+date: 2014-10-21
+event: Interim Release from Detention
+case: the-prosecutor-v-bemba-et-al
+accused: fidèle-babala-wandu
+slug: bemba-et-al-events-fidèle-babala-wandu-interim-release from detention
+---
+
+[Made public](https://www.icc-cpi.int/iccdocs/doc/doc1845009.pdf)
+
+@@@
+title: "Bemba et al. - Fidèle Babala Wandu - Confirmation of Charges"
+published: true
+date: 2014-11-11
+event: Confirmation of Charges
+case: the-prosecutor-v-bemba-et-al
+accused: fidèle-babala-wandu
+slug: bemba-et-al-events-fidèle-babala-wandu-confirmation-of charges
+---
+
+[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1857534.pdf)[](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200105/related%20cases/ICC-0105-0113/court-records/chambers/ptcII/Pages/749.aspx)
+
+@@@
+title: "Bemba et al. - Fidèle Babala Wandu - Start of Trial"
+published: true
+date: 2015-09-29
+event: Start of Trial
+case: the-prosecutor-v-bemba-et-al
+accused: fidèle-babala-wandu
+slug: bemba-et-al-events-fidèle-babala-wandu-start-of trial
+---
+@@@
+title: "Ongwen - Dominic Ongwen"
+published: true
+date:
+event:
+case: the-prosecutor-v-ongwen
+accused: dominic-ongwen
+slug: ongwen-events-dominic-ongwen
+---
+
+The Office of the Prosecutor made public an arrest warrant for Ongwen on 13 October 2005. He entered ICC custody on 16 January 2015. Confirmation of charges hearing is scheduled for 21 January 2016 at the seat of the ICC.
+
+@@@
+title: "Ongwen - Dominic Ongwen - Warrant of Arrest"
+published: true
+date: 2005-10-13
+event: Warrant of Arrest
+case: the-prosecutor-v-ongwen
+accused: dominic-ongwen
+slug: ongwen-events-dominic-ongwen-warrant-of arrest
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc97201.pdf)
+
+@@@
+title: "Ongwen - Dominic Ongwen - Surrender to ICC Custody"
+published: true
+date: 2015-01-16
+event: Surrender to ICC Custody
+case: the-prosecutor-v-ongwen
+accused: dominic-ongwen
+slug: ongwen-events-dominic-ongwen-surrender-to icc custody
+---
+@@@
+title: "Ongwen - Dominic Ongwen - Transfer to ICC Detention Centre"
+published: true
+date: 2015-01-21
+event: Transfer to ICC Detention Centre
+case: the-prosecutor-v-ongwen
+accused: dominic-ongwen
+slug: ongwen-events-dominic-ongwen-transfer-to icc detention centre
+---
+@@@
+title: "Ongwen - Dominic Ongwen - Initial Appearance"
+published: true
+date: 2015-01-26
+event: Initial Appearance
+case: the-prosecutor-v-ongwen
+accused: dominic-ongwen
+slug: ongwen-events-dominic-ongwen-initial-appearance
+---
+
+[Initial Appearance of Dominic Ongwen before the ICC](https://www.youtube.com/watch?v=ZOWFFW70XNM&feature=youtu.be).
+
+@@@
+title: "Ongwen - Dominic Ongwen - Decision of Seperation"
+published: true
+date: 2015-02-06
+event: Decision of Seperation
+case: the-prosecutor-v-ongwen
+accused: dominic-ongwen
+slug: ongwen-events-dominic-ongwen-decision-of seperation
+---
+
+Decision to [seperate](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1088.aspx) the Dominic Ongwen case from the case of The Prosecutor v. Joseph Kony, Vincent Otti, Okot Odhiambo and Dominic Ongwen.
+
+@@@
+title: "Ongwen - Dominic Ongwen - Opening of the Confirmation of Charges Hearing"
+published: true
+date: 2016-01-21
+event: Opening of the Confirmation of Charges Hearing
+case: the-prosecutor-v-ongwen
+accused: dominic-ongwen
+slug: ongwen-events-dominic-ongwen-opening-of the confirmation of charges hearing
+---
+
+[Confirmation of Charges Hearing](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/ma192.aspx)
+
+@@@
+title: "Gbagbo and Blé Goudé - Charles Blé Goudé"
+published: true
+date:
+event:
+case: the-prosecutor-v-gbagbo-and-blé-goudé
+accused: charles-blé-goudé
+slug: gbagbo-and-blé-goudé-events-charles-blé-goudé
+---
+
+Blé Goudé entered ICC custody on 22 March 2014. Charges were confirmed against him on 11 December 2014. His case was joined with Laurent Gbagbo on 11 March 2015. On 28 October 2015, Trial Chamber I of the International Criminal Court (ICC) [rescheduled](https://www.icc-cpi.int/iccdocs/doc/doc2130650.pdf) the trial's opening statements, initially scheduled on 10 November 2015, to 28 January 2016.
+
+@@@
+title: "Gbagbo and Blé Goudé - Charles Blé Goudé - Arrest Warrant"
+published: true
+date: 2013-09-30
+event: Arrest Warrant
+case: the-prosecutor-v-gbagbo-and-blé-goudé
+accused: charles-blé-goudé
+slug: gbagbo-and-blé-goudé-events-charles-blé-goudé-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc1292069.pdf)
+
+@@@
+title: "Gbagbo and Blé Goudé - Charles Blé Goudé - Initial Appearance"
+published: true
+date: 2014-03-27
+event: Initial Appearance
+case: the-prosecutor-v-gbagbo-and-blé-goudé
+accused: charles-blé-goudé
+slug: gbagbo-and-blé-goudé-events-charles-blé-goudé-initial-appearance
+---
+
+[Press release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/ma155.aspx) of the Initial Appearance.
+
+@@@
+title: "Gbagbo and Blé Goudé - Charles Blé Goudé - Confirmation of Charges"
+published: true
+date: 2014-12-11
+event: Confirmation of Charges
+case: the-prosecutor-v-gbagbo-and-blé-goudé
+accused: charles-blé-goudé
+slug: gbagbo-and-blé-goudé-events-charles-blé-goudé-confirmation-of charges
+---
+
+[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1783399.pdf)
+
+[Press release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1076.aspx) of the hearing
+
+@@@
+title: "Gbagbo and Blé Goudé - Charles Blé Goudé - Decision to Join the Gbagbo and Blé Goudé Cases"
+published: true
+date: 2015-03-11
+event: Decision to Join the Gbagbo and Blé Goudé Cases
+case: the-prosecutor-v-gbagbo-and-blé-goudé
+accused: charles-blé-goudé
+slug: gbagbo-and-blé-goudé-events-charles-blé-goudé-decision-to join the gbagbo and blé goudé cases
+---
+
+[Press release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1097.aspx) of the decision
+
+@@@
+title: "Gbagbo and Blé Goudé - Charles Blé Goudé - Start of Trial"
+published: true
+date:
+event: Start of Trial
+case: the-prosecutor-v-gbagbo-and-blé-goudé
+accused: charles-blé-goudé
+slug: gbagbo-and-blé-goudé-events-charles-blé-goudé-start-of trial
+---
+
+[Scheduled](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1163.aspx) on 28 January 2016
+
+[Press release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1184.aspx) of the first hearing
+
+@@@
+title: "Mbarushimana - Callixte Mbarushimana"
+published: true
+date:
+event:
+case: the-prosecutor-v-mbarushimana
+accused: callixte-mbarushimana
+slug: mbarushimana-events-callixte-mbarushimana
+---
+
+Mbarushimana entered ICC custody on 25 January 2011. Pre Trial Chamber I declined to confirm charges against him on 16 December 2011. He was released from ICC custody on 23 December 2011.
+
+@@@
+title: "Mbarushimana - Callixte Mbarushimana - Arrest Warrant "
+published: true
+date: 2010-10-11
+event: Arrest Warrant
+case: the-prosecutor-v-mbarushimana
+accused: callixte-mbarushimana
+slug: mbarushimana-events-callixte-mbarushimana-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc954979.pdf)
+
+@@@
+title: "Mbarushimana - Callixte Mbarushimana - Initial appearance"
+published: true
+date: 2011-01-28
+event: Initial appearance
+case: the-prosecutor-v-mbarushimana
+accused: callixte-mbarushimana
+slug: mbarushimana-events-callixte-mbarushimana-initial-appearance
+---
+@@@
+title: "Mbarushimana - Callixte Mbarushimana - Confirmation of Charges "
+published: true
+date: 2011-12-16
+event: Confirmation of Charges
+case: the-prosecutor-v-mbarushimana
+accused: callixte-mbarushimana
+slug: mbarushimana-events-callixte-mbarushimana-confirmation-of charges
+---
+
+[Decision not to confirm the charges](http://www.icc-cpi.int/iccdocs/doc/doc1286409.pdf)[](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200104/related%20cases/icc01040110/court%20records/chambers/pre%20trial%20chamber%20i/Pages/465.aspx)
+
+@@@
+title: "Ntaganda - Bosco Ntaganda"
+published: true
+date:
+event:
+case: the-prosecutor-v-ntaganda
+accused: bosco-ntaganda
+slug: ntaganda-events-bosco-ntaganda
+---
+
+Ntaganda entered ICC custody on 22 March 2013. Charges were confirmed against him on 9 June 2014. The trial in this case opened on 2 September 2015 before Trial Chamber VI.
+
+@@@
+title: "Ntaganda - Bosco Ntaganda - First Arrest Warrant (issued by Pre-Trial Chamber I)"
+published: true
+date: 2008-04-28
+event: First Arrest Warrant (issued by Pre-Trial Chamber I)
+case: the-prosecutor-v-ntaganda
+accused: bosco-ntaganda
+slug: ntaganda-events-bosco-ntaganda-first-arrest warrant (issued by pre-trial chamber i)
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc305330.PDF)
+
+@@@
+title: "Ntaganda - Bosco Ntaganda - Second Arrest Warrant (issued by Pre-Trial Chamber II)"
+published: true
+date: 2012-07-13
+event: Second Arrest Warrant (issued by Pre-Trial Chamber II)
+case: the-prosecutor-v-ntaganda
+accused: bosco-ntaganda
+slug: ntaganda-events-bosco-ntaganda-second-arrest warrant (issued by pre-trial chamber ii)
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc1441449.pdf)
+
+@@@
+title: "Ntaganda - Bosco Ntaganda - Voluntary Surrender to the ICC'#39;s Custody"
+published: true
+date: 2013-03-22
+event: Voluntary Surrender to the ICC's Custody
+case: the-prosecutor-v-ntaganda
+accused: bosco-ntaganda
+slug: ntaganda-events-bosco-ntaganda-voluntary-surrender to the icc's custody
+---
+@@@
+title: "Ntaganda - Bosco Ntaganda - Confirmation of Charges"
+published: true
+date: 2014-06-09
+event: Confirmation of Charges
+case: the-prosecutor-v-ntaganda
+accused: bosco-ntaganda
+slug: ntaganda-events-bosco-ntaganda-confirmation-of charges
+---
+
+[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1783301.pdf)
+
+@@@
+title: "Ntaganda - Bosco Ntaganda - Start of Trial"
+published: true
+date: 2015-09-02
+event: Start of Trial
+case: the-prosecutor-v-ntaganda
+accused: bosco-ntaganda
+slug: ntaganda-events-bosco-ntaganda-start-of trial
+---
+
+[Presentation of evidence](https://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200104/related%20cases/icc%200104%200206/Pages/ntaganda-trial-info.aspx)
+
+@@@
+title: "Abu Garda - Bahr Idriss Abu Garda"
+published: true
+date:
+event:
+case: the-prosecutor-v-abu-garda
+accused: bahr-idriss-abu-garda
+slug: abu-garda-events-bahr-idriss-abu-garda
+---
+
+The Office of the Prosecutor made public a summonses to appear for Abu Garda on 17 May 2009. His confirmation hearing was 19-29 October 2009, the charges against him were not confirmed.
+
+@@@
+title: "Abu Garda - Bahr Idriss Abu Garda - Summons to Appear"
+published: true
+date: 2009-05-07
+event: Summons to Appear
+case: the-prosecutor-v-abu-garda
+accused: bahr-idriss-abu-garda
+slug: abu-garda-events-bahr-idriss-abu-garda-summons-to appear
+---
+@@@
+title: "Abu Garda - Bahr Idriss Abu Garda - Initial Appearance "
+published: true
+date: 2009-05-18
+event: Initial Appearance
+case: the-prosecutor-v-abu-garda
+accused: bahr-idriss-abu-garda
+slug: abu-garda-events-bahr-idriss-abu-garda-initial-appearance
+---
+@@@
+title: "Harun and Kushayb - Ali Muhammad Ali Abd-Al-Rahman"
+published: true
+date:
+event:
+case: the-prosecutor-v-harun-and-kushayb
+accused: ali-muhammad-ali-abd-al-rahman
+slug: harun-and-kushayb-events-ali-muhammad-ali-abd-al-rahman
+---
+
+The Office of the Prosecutor made public an arrest warrant for Ali Kushayb on 27 April 2007. Accused remains at-large.
+
+@@@
+title: "Harun and Kushayb - Ali Muhammad Ali Abd-Al-Rahman - Arrest Warrant"
+published: true
+date: 2007-04-27
+event: Arrest Warrant
+case: the-prosecutor-v-harun-and-kushayb
+accused: ali-muhammad-ali-abd-al-rahman
+slug: harun-and-kushayb-events-ali-muhammad-ali-abd-al-rahman-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc279813.pdf)
+
+@@@
+title: "Bemba et al. - Aimé Kilolo Musamba"
+published: true
+date:
+event:
+case: the-prosecutor-v-bemba-et-al
+accused: aimé-kilolo-musamba
+slug: bemba-et-al-events-aimé-kilolo-musamba
+---
+
+The Office of the Prosecutor made public an arrest warrant for Kilolo on 28 November 2013. He entered ICC custody on 25 November 2013. Charges were confirmed against him on 11 November 2014. Trial [opened](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1155.aspx) on 29 Septmeber 2015 before Trial Chamber VII of the International Criminal Court, composed of presiding judge Bertram Schmitt, judge Marc Perrin de Brichambaut and judge Raul Pangalangan.
+
+@@@
+title: "Bemba et al. - Aimé Kilolo Musamba - Arrest Warrant "
+published: true
+date: 2013-11-28
+event: Arrest Warrant
+case: the-prosecutor-v-bemba-et-al
+accused: aimé-kilolo-musamba
+slug: bemba-et-al-events-aimé-kilolo-musamba-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc1694691.pdf)
+
+@@@
+title: "Bemba et al. - Aimé Kilolo Musamba - Initial Appearance"
+published: true
+date: 2013-11-27
+event: Initial Appearance
+case: the-prosecutor-v-bemba-et-al
+accused: aimé-kilolo-musamba
+slug: bemba-et-al-events-aimé-kilolo-musamba-initial-appearance
+---
+@@@
+title: "Bemba et al. - Aimé Kilolo Musamba - Interim Release from Detention"
+published: true
+date: 2014-10-21
+event: Interim Release from Detention
+case: the-prosecutor-v-bemba-et-al
+accused: aimé-kilolo-musamba
+slug: bemba-et-al-events-aimé-kilolo-musamba-interim-release from detention
+---
+
+[Made public](https://www.icc-cpi.int/iccdocs/doc/doc1845009.pdf)
+
+@@@
+title: "Bemba et al. - Aimé Kilolo Musamba - Confirmation of Charges"
+published: true
+date: 2014-11-11
+event: Confirmation of Charges
+case: the-prosecutor-v-bemba-et-al
+accused: aimé-kilolo-musamba
+slug: bemba-et-al-events-aimé-kilolo-musamba-confirmation-of charges
+---
+
+[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1857534.pdf)[](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200105/related%20cases/ICC-0105-0113/court-records/chambers/ptcII/Pages/749.aspx)
+
+@@@
+title: "Bemba et al. - Aimé Kilolo Musamba - Start of Trial"
+published: true
+date: 2015-09-29
+event: Start of Trial
+case: the-prosecutor-v-bemba-et-al
+accused: aimé-kilolo-musamba
+slug: bemba-et-al-events-aimé-kilolo-musamba-start-of trial
+---
+@@@
+title: "Harun and Kushayb - Ahmad Muhammad Harun"
+published: true
+date:
+event:
+case: the-prosecutor-v-harun-and-kushayb
+accused: ahmad-muhammad-harun
+slug: harun-and-kushayb-events-ahmad-muhammad-harun
+---
+
+The Office of the Prosecutor made public an arrest warrant for Harun on 27 April 2007. Accused remains at-large.
+
+@@@
+title: "Harun and Kushayb - Ahmad Muhammad Harun - Arrest Warrant "
+published: true
+date: 2007-04-27
+event: Arrest Warrant
+case: the-prosecutor-v-harun-and-kushayb
+accused: ahmad-muhammad-harun
+slug: harun-and-kushayb-events-ahmad-muhammad-harun-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc279813.pdf)
+
+@@@
+title: "The Prosecutor vs. S. Gadaffi and Senussi - Abdullah Al-Senussi"
+published: true
+date:
+event:
+case: the-prosecutor-vs-s-gadaffi-and-senussi
+accused: abdullah-al-senussi
+slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-abdullah-al-senussi
+---
+
+The Office of the Prosecutor made public an arrest warrant for Al-Senussi on 27 June 2011. On 24 July 2014 the Appeals Chamber [confirmed](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1034.aspx) Pre-Trial Chamber I's decision declaring the case against him inadmissible before the ICC.
+
+@@@
+title: "The Prosecutor vs. S. Gadaffi and Senussi - Abdullah Al-Senussi - Arrest Warrant "
+published: true
+date: 2011-06-27
+event: Arrest Warrant
+case: the-prosecutor-vs-s-gadaffi-and-senussi
+accused: abdullah-al-senussi
+slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-abdullah-al-senussi-arrest-warrant
+---
+@@@
+title: "The Prosecutor vs. S. Gadaffi and Senussi - Abdullah Al-Senussi - Confirmation of Inadmissability"
+published: true
+date: 2014-07-24
+event: Confirmation of Inadmissability
+case: the-prosecutor-vs-s-gadaffi-and-senussi
+accused: abdullah-al-senussi
+slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-abdullah-al-senussi-confirmation-of inadmissability
+---
+
+[Confirmation of inadmissability before ICC](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1034.aspx)
+
+@@@
+title: "Hussein - Abdel Raheem Muhammad Hussein"
+published: true
+date:
+event:
+case: the-prosecutor-v-hussein
+accused: abdel-raheem-muhammad-hussein
+slug: hussein-events-abdel-raheem-muhammad-hussein
+---
+
+The Office of the Prosecutor made public an arrest warrant for Hussein on 1 March 2012. Accused remains [at-large](http://www.nytimes.com/2014/07/17/opinion/in-sudan-the-janjaweed-rides-again.html?_r=0).
+
+@@@
+title: "Hussein - Abdel Raheem Muhammad Hussein - Arrest Warrant"
+published: true
+date: 2012-03-01
+event: Arrest Warrant
+case: the-prosecutor-v-hussein
+accused: abdel-raheem-muhammad-hussein
+slug: hussein-events-abdel-raheem-muhammad-hussein-arrest-warrant
+---
+@@@
+title: "Banda - Abdallah Banda Abakaer Nourain"
+published: true
+date:
+event:
+case: the-prosecutor-v-banda
+accused: abdallah-banda-abakaer-nourain
+slug: banda-events-abdallah-banda-abakaer-nourain
+---
+
+The Office of the Prosecutor made public the summons to appear for Banda on 15 June 2010. The charges against him were confirmed on 7 March 2011. The trial was vacated on 4 October 2013 after evidence was presented of his death.
+
+@@@
+title: "Banda - Abdallah Banda Abakaer Nourain - Summons to Appear"
+published: true
+date: 2010-06-15
+event: Summons to Appear
+case: the-prosecutor-v-banda
+accused: abdallah-banda-abakaer-nourain
+slug: banda-events-abdallah-banda-abakaer-nourain-summons-to appear
+---
+@@@
+title: "Banda - Abdallah Banda Abakaer Nourain - Confirmation of Charges "
+published: true
+date: 2011-03-07
+event: Confirmation of Charges
+case: the-prosecutor-v-banda
+accused: abdallah-banda-abakaer-nourain
+slug: banda-events-abdallah-banda-abakaer-nourain-confirmation-of charges
+---
+@@@
+title: "Banda - Abdallah Banda Abakaer Nourain - Termination of Trial"
+published: true
+date: 2013-10-04
+event: Termination of Trial
+case: the-prosecutor-v-banda
+accused: abdallah-banda-abakaer-nourain
+slug: banda-events-abdallah-banda-abakaer-nourain-termination-of trial
+---
+@@@
+title: "Al Faqi Al Mahdi - Ahmad Al Faqi Al Mahdi"
+published: true
+date:
+event:
+case: the-prosecutor-v-al-faqi-al-mahdi
+accused: ahmad-al-faqi-al-mahdi
+slug: al-faqi-al-mahdi-events-ahmad-al-faqi-al-mahdi
+---
+
+Al Faqi entered ICC custody on 18 September 2015. He was transferred to The Hague on 26 September 2015. Confirmation of charges hearing occurred on March 1, 2016.
+
+@@@
+title: "Al Faqi Al Mahdi - Ahmad Al Faqi Al Mahdi - Arrest Warrant"
+published: true
+date: 2015-09-18
+event: Arrest Warrant
+case: the-prosecutor-v-al-faqi-al-mahdi
+accused: ahmad-al-faqi-al-mahdi
+slug: al-faqi-al-mahdi-events-ahmad-al-faqi-al-mahdi-arrest-warrant
+---
+
+[Made public](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/icc0112/related-cases/ICC-01_12-01_15/court-records/chambers/ptcI/Pages/1.aspx)
+
+@@@
+title: "Al Faqi Al Mahdi - Ahmad Al Faqi Al Mahdi - First Appearance"
+published: true
+date: 2015-09-30
+event: First Appearance
+case: the-prosecutor-v-al-faqi-al-mahdi
+accused: ahmad-al-faqi-al-mahdi
+slug: al-faqi-al-mahdi-events-ahmad-al-faqi-al-mahdi-first-appearance
+---
+@@@
+title: "Al Faqi Al Mahdi - Ahmad Al Faqi Al Mahdi - Confirmation of Charges Hearing"
+published: true
+date: 2016-03-01
+event: Confirmation of Charges Hearing
+case: the-prosecutor-v-al-faqi-al-mahdi
+accused: ahmad-al-faqi-al-mahdi
+slug: al-faqi-al-mahdi-events-ahmad-al-faqi-al-mahdi-confirmation-of charges hearing
+---
+
+[Confirmation of charges hearing](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1195.aspx)

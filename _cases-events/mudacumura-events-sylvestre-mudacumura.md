@@ -1,0 +1,12 @@
+---
+title: "Mudacumura - Sylvestre Mudacumura"
+published: true
+date:
+event:
+case: the-prosecutor-v-mudacumura
+accused: sylvestre-mudacumura
+slug: mudacumura-events-sylvestre-mudacumura
+---
+
+The Office of the Prosecutor made public an arrest warrant for Mudacumura on 13 July 2012. Accused remains [at-large](http://allafrica.com/stories/201504151814.html).
+
