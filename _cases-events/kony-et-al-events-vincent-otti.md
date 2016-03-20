@@ -2,7 +2,7 @@
 title: "Kony et al. - Vincent Otti"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-kony-et-al
 accused: vincent-otti
 slug: kony-et-al-events-vincent-otti

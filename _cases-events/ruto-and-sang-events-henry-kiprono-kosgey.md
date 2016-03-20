@@ -2,7 +2,7 @@
 title: "Ruto and Sang - Henry Kiprono Kosgey"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-ruto-and-sang
 accused: henry-kiprono-kosgey
 slug: ruto-and-sang-events-henry-kiprono-kosgey

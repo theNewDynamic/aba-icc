@@ -2,7 +2,7 @@
 title: "Simone Gbagbo - Simone Gbagbo - Arrest Warrant "
 published: true
 event_date: 2012-11-22
-event: Arrest Warrant
+action: Arrest Warrant
 case: the-prosecutor-v-simone-gbagbo
 accused: simone-gbagbo
 slug: simone-gbagbo-events-simone-gbagbo-arrest-warrant

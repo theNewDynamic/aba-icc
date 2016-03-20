@@ -2,7 +2,7 @@
 title: "Bemba et al. - Jean-Jacques Magenda Kabongo - Confirmation of Charges"
 published: true
 event_date: 2014-11-11
-event: Confirmation of Charges
+action: Confirmation of Charges
 case: the-prosecutor-v-bemba-et-al
 accused: jean-jacques-magenda-kabongo
 slug: bemba-et-al-events-jean-jacques-magenda-kabongo-confirmation-of charges

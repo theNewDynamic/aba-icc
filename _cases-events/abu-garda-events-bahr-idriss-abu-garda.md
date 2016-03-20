@@ -2,7 +2,7 @@
 title: "Abu Garda - Bahr Idriss Abu Garda"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-abu-garda
 accused: bahr-idriss-abu-garda
 slug: abu-garda-events-bahr-idriss-abu-garda

@@ -2,7 +2,7 @@
 title: "Bemba - Jean-Pierre Bemba Gombo"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-bemba
 accused: jean-pierre-bemba-gombo
 slug: bemba-events-jean-pierre-bemba-gombo

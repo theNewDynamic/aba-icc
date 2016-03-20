@@ -2,7 +2,7 @@
 title: "Ntaganda - Bosco Ntaganda"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda
 slug: ntaganda-events-bosco-ntaganda

@@ -2,7 +2,7 @@
 title: "Gbagbo and Blé Goudé - Charles Blé Goudé - Decision to Join the Gbagbo and Blé Goudé Cases"
 published: true
 event_date: 2015-03-11
-event: Decision to Join the Gbagbo and Blé Goudé Cases
+action: Decision to Join the Gbagbo and Blé Goudé Cases
 case: the-prosecutor-v-gbagbo-and-blé-goudé
 accused: charles-blé-goudé
 slug: gbagbo-and-blé-goudé-events-charles-blé-goudé-decision-to join the gbagbo and blé goudé cases

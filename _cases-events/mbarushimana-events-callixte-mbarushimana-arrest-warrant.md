@@ -2,7 +2,7 @@
 title: "Mbarushimana - Callixte Mbarushimana - Arrest Warrant "
 published: true
 event_date: 2010-10-11
-event: Arrest Warrant
+action: Arrest Warrant
 case: the-prosecutor-v-mbarushimana
 accused: callixte-mbarushimana
 slug: mbarushimana-events-callixte-mbarushimana-arrest-warrant

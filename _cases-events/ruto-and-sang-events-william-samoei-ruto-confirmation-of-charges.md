@@ -2,7 +2,7 @@
 title: "Ruto and Sang - William Samoei Ruto - Confirmation of Charges"
 published: true
 event_date: 2012-01-23
-event: Confirmation of Charges
+action: Confirmation of Charges
 case: the-prosecutor-v-ruto-and-sang
 accused: william-samoei-ruto
 slug: ruto-and-sang-events-william-samoei-ruto-confirmation-of charges

@@ -2,7 +2,7 @@
 title: "Uhuru Muigai Kenyatta - Uhuru Muigai Kenyatta"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: uhuru-muigai-kenyatta
 slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta

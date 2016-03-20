@@ -2,7 +2,7 @@
 title: "Ruto and Sang - Joshua Arap Sang"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-ruto-and-sang
 accused: joshua-arap-sang
 slug: ruto-and-sang-events-joshua-arap-sang

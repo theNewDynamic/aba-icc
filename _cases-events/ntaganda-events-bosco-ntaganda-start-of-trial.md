@@ -2,7 +2,7 @@
 title: "Ntaganda - Bosco Ntaganda - Start of Trial"
 published: true
 event_date: 2015-09-02
-event: Start of Trial
+action: Start of Trial
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda
 slug: ntaganda-events-bosco-ntaganda-start-of trial

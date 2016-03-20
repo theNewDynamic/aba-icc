@@ -2,7 +2,7 @@
 title: "Walter Osapiri Barasa - Walter Osapiri Barasa - Arrest Warrant "
 published: true
 event_date: 2013-10-02
-event: Arrest Warrant
+action: Arrest Warrant
 case: the-prosecutor-v-walter-osapiri-barasa
 accused: walter-osapiri-barasa
 slug: walter-osapiri-barasa-events-walter-osapiri-barasa-arrest-warrant

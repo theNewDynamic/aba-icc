@@ -2,7 +2,7 @@
 title: "Ongwen - Dominic Ongwen - Transfer to ICC Detention Centre"
 published: true
 event_date: 2015-01-21
-event: Transfer to ICC Detention Centre
+action: Transfer to ICC Detention Centre
 case: the-prosecutor-v-ongwen
 accused: dominic-ongwen
 slug: ongwen-events-dominic-ongwen-transfer-to icc detention centre

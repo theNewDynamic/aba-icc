@@ -2,7 +2,7 @@
 title: "Harun and Kushayb - Ahmad Muhammad Harun - Arrest Warrant "
 published: true
 event_date: 2007-04-27
-event: Arrest Warrant
+action: Arrest Warrant
 case: the-prosecutor-v-harun-and-kushayb
 accused: ahmad-muhammad-harun
 slug: harun-and-kushayb-events-ahmad-muhammad-harun-arrest-warrant

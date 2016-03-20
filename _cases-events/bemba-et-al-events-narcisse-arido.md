@@ -2,7 +2,7 @@
 title: "Bemba et al. - Narcisse Arido"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-bemba-et-al
 accused: narcisse-arido
 slug: bemba-et-al-events-narcisse-arido

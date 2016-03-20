@@ -2,7 +2,7 @@
 title: "Gbagbo and Blé Goudé - Laurent Gbagbo"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-gbagbo-and-blé-goudé
 accused: laurent-gbagbo
 slug: gbagbo-and-blé-goudé-events-laurent-gbagbo

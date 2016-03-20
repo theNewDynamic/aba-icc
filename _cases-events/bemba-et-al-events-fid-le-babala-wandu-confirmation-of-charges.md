@@ -2,7 +2,7 @@
 title: "Bemba et al. - Fidèle Babala Wandu - Confirmation of Charges"
 published: true
 event_date: 2014-11-11
-event: Confirmation of Charges
+action: Confirmation of Charges
 case: the-prosecutor-v-bemba-et-al
 accused: fidèle-babala-wandu
 slug: bemba-et-al-events-fidèle-babala-wandu-confirmation-of charges

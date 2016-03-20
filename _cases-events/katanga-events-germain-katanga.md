@@ -2,7 +2,7 @@
 title: "Katanga - Germain Katanga"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-katanga
 accused: germain-katanga
 slug: katanga-events-germain-katanga

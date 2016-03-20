@@ -2,7 +2,7 @@
 title: "Harun and Kushayb - Ahmad Muhammad Harun"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-harun-and-kushayb
 accused: ahmad-muhammad-harun
 slug: harun-and-kushayb-events-ahmad-muhammad-harun

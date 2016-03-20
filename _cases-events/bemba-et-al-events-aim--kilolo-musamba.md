@@ -2,7 +2,7 @@
 title: "Bemba et al. - Aimé Kilolo Musamba"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-bemba-et-al
 accused: aimé-kilolo-musamba
 slug: bemba-et-al-events-aimé-kilolo-musamba

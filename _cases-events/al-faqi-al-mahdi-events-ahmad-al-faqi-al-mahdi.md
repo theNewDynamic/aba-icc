@@ -2,7 +2,7 @@
 title: "Al Faqi Al Mahdi - Ahmad Al Faqi Al Mahdi"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-al-faqi-al-mahdi
 accused: ahmad-al-faqi-al-mahdi
 slug: al-faqi-al-mahdi-events-ahmad-al-faqi-al-mahdi

@@ -2,7 +2,7 @@
 title: "Kony et al. - Okot Odhiambo"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-kony-et-al
 accused: okot-odhiambo
 slug: kony-et-al-events-okot-odhiambo

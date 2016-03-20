@@ -2,7 +2,7 @@
 title: "The Prosecutor vs. S. Gadaffi and Senussi - Muammar Mohammed Abu Minyar Gaddafi"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: muammar-mohammed-abu-minyar-gaddafi
 slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-muammar-mohammed-abu-minyar-gaddafi

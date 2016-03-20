@@ -2,7 +2,7 @@
 title: "Simone Gbagbo - Simone Gbagbo"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-simone-gbagbo
 accused: simone-gbagbo
 slug: simone-gbagbo-events-simone-gbagbo

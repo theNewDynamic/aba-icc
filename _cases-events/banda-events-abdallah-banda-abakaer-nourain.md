@@ -2,7 +2,7 @@
 title: "Banda - Abdallah Banda Abakaer Nourain"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-banda
 accused: abdallah-banda-abakaer-nourain
 slug: banda-events-abdallah-banda-abakaer-nourain

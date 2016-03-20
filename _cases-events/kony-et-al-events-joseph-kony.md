@@ -2,7 +2,7 @@
 title: "Kony et al. - Joseph Kony"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-kony-et-al
 accused: joseph-kony
 slug: kony-et-al-events-joseph-kony

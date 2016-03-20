@@ -2,7 +2,7 @@
 title: "Al Bashir - Omar Hassan Ahmad Al Bashir"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-al-bashir
 accused: omar-hassan-ahmad-al-bashir
 slug: al-bashir-events-omar-hassan-ahmad-al-bashir

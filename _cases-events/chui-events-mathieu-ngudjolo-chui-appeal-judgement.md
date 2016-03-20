@@ -2,7 +2,7 @@
 title: "Chui - Mathieu Ngudjolo Chui - Appeal Judgement "
 published: true
 event_date: 2015-02-27
-event: Appeal Judgement
+action: Appeal Judgement
 case: the-prosecutor-v-chui
 accused: mathieu-ngudjolo-chui
 slug: chui-events-mathieu-ngudjolo-chui-appeal-judgement

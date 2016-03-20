@@ -2,7 +2,7 @@
 title: "Ruto and Sang - William Samoei Ruto"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-ruto-and-sang
 accused: william-samoei-ruto
 slug: ruto-and-sang-events-william-samoei-ruto

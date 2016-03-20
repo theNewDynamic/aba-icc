@@ -2,7 +2,7 @@
 title: "Paul Gicheru and Philip Kipkoech Bett - Paul Gicheru"
 published: true
 event_date:
-event:
+action:
 case: the-prosecutor-v-paul-gicheru-and-philip-kipkoech-bett
 accused: paul-gicheru
 slug: paul-gicheru-and-philip-kipkoech-bett-events-paul-gicheru

@@ -2,7 +2,7 @@
 title: "Bemba et al. - Narcisse Arido - Confirmation of Charges "
 published: true
 event_date: 2014-11-11
-event: Confirmation of Charges
+action: Confirmation of Charges
 case: the-prosecutor-v-bemba-et-al
 accused: narcisse-arido
 slug: bemba-et-al-events-narcisse-arido-confirmation-of charges
