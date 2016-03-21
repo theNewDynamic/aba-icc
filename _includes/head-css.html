@@ -1,0 +1,16 @@
+{% assign background_image = page.featured_image_path %}
+
+
+{% if background_image %}
+<style type="text/css">
+
+  .parallax-background {
+    background: url("{{ background_image }}") no-repeat;
+    background-position: top;
+    background-size: cover;
+  }
+
+  @media screen and (min-width: 37.5em) {}
+
+  </style>
+{% endif %}

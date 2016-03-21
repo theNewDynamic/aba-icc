@@ -86,7 +86,7 @@ collections:
     output: false
     permalink: '/:collection/:path/'
   staff:
-    output: false
+    output: true
     permalink: '/:collection/:path/'
   structure-of-the-icc:
     output: true
@@ -101,6 +101,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
+
   -
     scope:
       path: "" # an empty string here means all files in the project
@@ -108,6 +109,7 @@ defaults:
     values:
       layout: "page"
       collectionName: "About the ICC"
+      menu: 'about-the-icc'
   -
     scope:
       path: "" # an empty string here means all files in the project

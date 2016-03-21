@@ -2,9 +2,9 @@
  <!-- assign section = site.documents | where: 'collection', page.collection | sort: 'order', 'last'  -->
  using these conditionals is faster than looping through all the collections
  {% endcomment %}
-{% if page.collection == 'about-the-icc' %}
+{% if page.menu == 'about-the-icc' %}
   {% assign section = site.documents | where: 'collection', 'about-the-icc' | sort: 'order', 'last' %}
-{% elsif page.collection == 'the-aba-icc-project' %}
+{% else %}
   {% assign section = site.documents | where: 'collection', 'the-aba-icc-project' | sort: 'order', 'last' %}
 {% endif %}
 <nav>

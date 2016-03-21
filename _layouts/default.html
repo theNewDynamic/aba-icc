@@ -35,12 +35,16 @@ layout: compress
     <!--[if lte IE 7]>
       <link rel="stylesheet" media="all" href="http://universal-ie6-css.googlecode.com/files/ie6.0.3.css">
     <![endif]-->
-    
+
+    {% include head-css.html %}
+
 </head>
   <body id="container" class="{{ page.style }}{% if page.body_class %} {{ page.body_class }}{% endif %} {{page.url | replace: '/', '' }} {{ jekyll.environment }}">
     <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
     {% include global/nav-topbar.html %}
+
     <main id="start-of-content" class="content">
+      {% include hero.html %}
       {{content}}
     </main>
     {% include sidebar-right.html %}

@@ -6,13 +6,13 @@ header.navigation {
   $base-accent-color: #477DCA !default;
   $dark-gray: #333 !default;
   $large-screen: em(860) !default;
-  
+
   a {
     text-decoration: none;
   }
   //////////////////////////////////////////////////////////////////////////////////
 
-  
+
 
   background-color: $navigation-background;
   border-bottom:none;// 1px solid darken($navigation-background, 10);
@@ -118,7 +118,8 @@ header.navigation {
     @include media ($horizontal-bar-mode) {
       background: transparent;
       display: inline;
-      line-height: $navigation-height * 1.1;
+      //  this was borking the hero -> line-height: $navigation-height * 1.1;
+      line-height: $navigation-height;
       text-decoration: none;
       width: auto;
     }
@@ -341,7 +342,7 @@ header.navigation {
       }
     }
 
-    
+
 
     @include media($horizontal-bar-mode) {
       display: inline-block;
