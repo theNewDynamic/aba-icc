@@ -1,4 +1,4 @@
-- menu:
+- menu-project:
   - the-aba-icc-project:
     - aba-policy-on-the-icc
     - about-the-project
@@ -8,7 +8,7 @@
     - events
     - follow
     - international-criminal-justice-today
-- menu:
+- menu-icc:
   - about-the-icc:
     - about-the-icc
     - evolution-of-international-criminal-justice
