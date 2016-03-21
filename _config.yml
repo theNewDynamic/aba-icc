@@ -1,5 +1,5 @@
 url: http://www.aba-icc.org
-sitename: 'The ABA-ICC Project'
+title: "The ABA's ICC Project"
 description: "American Bar Association's International Criminal Court Project"
 
 case_statuses:
@@ -67,10 +67,10 @@ collections:
     output: true
     permalink: '/:collection/:path/'
   cases-charges:
-    output: true
+    output: false
     permalink: '/:collection/:path/'
   cases-events:
-    output: true
+    output: false
     permalink: '/:collection/:path/'
   countries:
     output: true
@@ -82,10 +82,10 @@ collections:
     output: true
     permalink: '/:collection/:path/'
   situations:
-    output: true
+    output: false
     permalink: '/:collection/:path/'
   staff:
-    output: true
+    output: false
     permalink: '/:collection/:path/'
   structure-of-the-icc:
     output: true
@@ -93,6 +93,7 @@ collections:
   the-aba-icc-project:
     output: true
     permalink: '/:collection/:path/'
+    name: "The ABA's ICC Project"
 
 defaults:
   -
@@ -100,3 +101,8 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
+
+compress_html:
+  ignore:
+    envs: [development]
+  profile: false

@@ -1,0 +1,25 @@
+<header class="navigation" role="banner">
+  <div class="navigation-wrapper">
+    <a href="/" class="logo">
+      <img src="/assets/images/logo-aba-icc_144xb.png" alt="" style="display:block;">
+    </a>
+    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
+    <nav role="navigation">
+      <ul id="js-navigation-menu" class="navigation-menu show">
+      {% for link in site.data.links-menu-top %}
+          <li tabindex="{{ forloop.index }}" class="nav-link{% if page.url == link.link %} active{% endif %}" data-ga-click="nav, go to explore, text:{{ link.name }}">
+            <a href="{{ link.link }}">
+              {{ link.name }}
+            </a>
+          </li>
+
+      {% endfor %}
+      </ul>
+    </nav>
+    <div class="navigation-tools">
+      <div class="search-bar">
+      {% include forms/search.html %}
+      </div>
+    </div>
+  </div>
+</header>

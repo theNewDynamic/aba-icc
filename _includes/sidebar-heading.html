@@ -1,0 +1,21 @@
+<section>
+  <header>
+    {% if page.collection %}
+      <h2>
+        <small>
+          {{ pageCollection.name }}
+        </small>
+      </h2>
+    {% endif %}
+    {% if page.title %}
+      <h2>
+        {{ page.title }}
+      </h2>
+    {% endif %}
+    {% if page.description %}
+      <p>
+        {{ page.description }}
+      </p>
+    {% endif %}
+  </header>
+</section>
