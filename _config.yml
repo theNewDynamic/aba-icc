@@ -94,7 +94,6 @@ collections:
   the-aba-icc-project:
     output: true
     permalink: '/:collection/:path/'
-    name: "The ABA's ICC Project"
 
 defaults:
   -
@@ -102,6 +101,20 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: 'about-the-icc'
+    values:
+      layout: "page"
+      collectionName: "About the ICC"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: 'the-aba-icc-project'
+    values:
+      layout: "page"
+      collectionName: "The ABA's ICC Project"
 
 compress_html:
   ignore:
