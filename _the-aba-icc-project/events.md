@@ -6,5 +6,6 @@ featured_image_position: center
 description:
 order: 30
 timeline:
+permalink: '/events/'
 # slug: events
 ---

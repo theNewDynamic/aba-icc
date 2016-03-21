@@ -1,6 +1,6 @@
 ---
 title: "Follow"
-published: true
+published: false
 featured_image_path:
 featured_image_position: bottom
 description: "Keep up-to-date with the ABA-ICC Project."
