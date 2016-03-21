@@ -5,6 +5,6 @@ featured_image_path:
 featured_image_position:
 description:
 order: 5
-timeline:
+include: board.html
 # slug: board-of-advisors
 ---

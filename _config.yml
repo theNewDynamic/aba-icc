@@ -21,7 +21,7 @@ phases:
 ## DO NOT EDIT BELOW THIS LINE
 version: 3.0.3
 # full_rebuild: true
-image_url: https://URL.imgix.net
+image_url: https://aba-icc.imgix.net
 future: false
 incremental: false
 timezone: Etc/Zulu

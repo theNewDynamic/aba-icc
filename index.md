@@ -2,7 +2,7 @@
 layout: page
 title: "American Bar Association's International Criminal Court Project"
 #sidebar_include: "snippets/article-latest.html"
-include: "grids/grid-items-home.html"
+include: "grid-items-home.html"
 sharing: false
 published: true
 category: home
