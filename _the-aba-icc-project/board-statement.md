@@ -4,6 +4,7 @@ published: true
 featured_image_path:
 featured_image_position: bottom
 description:
+order: 10
 timeline:
 # slug: board-statement
 ---

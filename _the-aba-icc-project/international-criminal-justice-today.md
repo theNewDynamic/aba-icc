@@ -4,6 +4,7 @@ published: true
 featured_image_path: /uploads/1424289344517_ictj-overlay-1400x1271.jpg
 featured_image_position: top
 description: "International Criminal Justice Today (ICJT) is an online periodical dedicated to news, opinion, and other current events about international criminal justice"
+order: 20
 timeline:
 # slug: international-criminal-justice-today
 ---
@@ -27,4 +28,3 @@ ICJT has many features that we hope you find enjoyable as well as informative.
 * * *
 
 Please click the following link to access the separate website of [](http://bit.ly/ictj_page)_[International Criminal Justice Today](http://bit.ly/ictj_page)[](http://www.international-criminal-justice-today.org)_.
-

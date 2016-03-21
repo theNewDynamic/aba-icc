@@ -1,0 +1,30 @@
+{% assign section = site.documents | where: 'collection', page.collection %}
+{% assign section = section | sort: 'order', 'last' %}
+
+<nav>
+
+{% comment %}PRIMARY MENU DETERMINED BY SECION - every template should define which global menu to use {% endcomment %}
+
+
+
+
+
+{% if section %}
+
+    <ul class="nav-sidebar">
+      {% for link in section %}
+
+
+
+
+        {% include _nav-menu-item.html %}
+      {% endfor %}
+    </ul>
+
+
+{% endif %}
+
+
+
+
+</nav>

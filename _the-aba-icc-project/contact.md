@@ -4,6 +4,7 @@ published: true
 featured_image_path:
 featured_image_position: bottom
 description:
+order: 35
 timeline:
 # slug: contact
 ---
@@ -79,4 +80,3 @@ If interested in applying for an internship at the ABA-ICC Project, please email
 *   **Diversity.** The ABA commits itself to building a multifaceted and diverse workforce, and thus strongly encourages applicants of any gender, sexual orientation, ethnic, religious, or other self-identified background.
 
 If you have any additional question in regards to the ABA-ICC Project or its internship program, please feel free to contact the Director of the ABA-ICC Project, [Christopher “Kip" Hale](http://www.aba-icc.org/the-aba-icc-project/project-staff/).
-

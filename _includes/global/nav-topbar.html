@@ -7,7 +7,7 @@
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
       {% for link in site.data.links-menu-top %}
-          <li tabindex="{{ forloop.index }}" class="nav-link{% if page.url == link.link %} active{% endif %}" data-ga-click="nav, go to explore, text:{{ link.name }}">
+          <li tabindex="{{ forloop.index | plus: 2 }}" class="nav-link{% if page.url == link.link %} active{% endif %}" data-ga-click="nav, go to explore, text:{{ link.name }}">
             <a href="{{ link.link }}">
               {{ link.name }}
             </a>

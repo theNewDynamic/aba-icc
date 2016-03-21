@@ -57,6 +57,7 @@ collections:
   about-the-icc:
     output: true
     permalink: '/:collection/:path/'
+    name: "About the ICC"
   accused:
     output: true
     permalink: '/:collection/:path/'

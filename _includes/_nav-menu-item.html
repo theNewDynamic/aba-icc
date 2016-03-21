@@ -1,0 +1,5 @@
+<li class="nav-sidebar-item" tabindex="{{ forloop.index | plus: 7 }}" data-ga-click="nav, go to explore, text:{{ link.page.name }}">
+  <a href="{{ link.url }}" class="menu-item{% if link.url == page.url %} active{% endif %}">
+    {{ link.title }}
+  </a>
+</li>
