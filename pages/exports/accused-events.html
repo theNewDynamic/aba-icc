@@ -1,0 +1,30 @@
+{% set items = cms.accused |sort('name', true) %}
+{% for accused in items %}
+
+{% if accused.events %}
+
+{% for object in accused.events  %}
+@@@<br />
+title: "{{ object.related_case.name | replace('The Prosecutor v. ', '') }} - {{ accused.name }}{% if object.event %} - {{ object.event }}{% endif %}"<br />
+published: {% if object.isDraft == false %}true{% else %}false{% endif %}<br />
+event_date: {% if object.event_date %}{{ object.event_date | date('Y-m-d') }}{% endif %}<br />
+
+action: {% if object.event %}{{ object.event }}{% endif %}<br />
+
+case: {% if object.related_case %}{{ object.related_case.slug | replace('cases/case/', '') }}{% endif %}<br />
+accused:<br />
+$$- {{ accused.slug | replace('accused/', '') }}<br />
+
+
+
+
+slug: {{ object.related_case.slug | replace('the-prosecutor-v-', '') | replace('cases/case/', '') }}-events-{{ accused.slug | replace('accused/', '') }}{% if object.event %}-{{ object.event | lower | replace(' ', '-') }}{% endif %}<br />
+---<br />
+{% if object.description %}
+  {{ object.description | safe }}<br />
+{% endif %}
+
+{% endfor %}
+{% endif %}
+{% endfor %}
+<br />

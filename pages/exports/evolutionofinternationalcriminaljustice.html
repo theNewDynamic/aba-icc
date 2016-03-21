@@ -1,0 +1,30 @@
+{% set items = cms.evolutionofinternationalcriminaljustice |sort('name', true) %}
+{% for object in items %}
+@@@<br />
+title: "{{ object.name | addslashes }}"<br />
+published: {% if object.isDraft == false %}true{% else %}false{% endif %}<br />
+{% if object.publish_date %}date: {{ object.publish_date | date('c') }}<br />{% endif %}
+{% if object.featured_image %}featured_image_path: {{ object.featured_image.url | replace('webhook-uploads', 'uploads') }}<br />{% endif %}
+{% if object.featured_image_position %}featured_image_position: {{ object.featured_image_position }}<br />{% endif %}
+{% if object.meta_description %}description: "{{ object.meta_description | safe | replace('\"', '*', 'g') }}"<br />{% endif %}
+slug: {{ object.slug | replace('evolution-of-international-criminal-justice/', '') }}<br />
+---<br />
+
+{% for event in object.event %}
+  {{ event.copy|safe }}
+  {% if event.source %}
+    <h5>Source</h5>
+    {{ event.source|safe }}
+    {% if event.link %}
+      <a href="{{ event.link }}">Link</a>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+
+
+
+
+
+{% endfor %}
+<br />

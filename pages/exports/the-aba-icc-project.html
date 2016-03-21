@@ -1,0 +1,20 @@
+{% set items = cms.theabaiccproject |sort('publish_date', true) %}
+{% for object in items %}
+@@@<br />
+title: "{{ object.name | safe }}"<br />
+published: {% if object.isDraft == false %}true{% else %}false{% endif %}<br />
+
+
+featured_image_path: {% if object.featured_image %}{{ object.featured_image.url | replace('webhook-uploads', 'uploads') }}{% endif %}<br />
+featured_image_position: {% if object.featured_image_position %}{{ object.featured_image_position }}{% endif %}<br />
+
+description: {% if object.meta_description %}"{{ object.meta_description | safe | replace('\"', '*', 'g') }}"{% endif %}<br />
+
+timeline: {% if object.timeline %}"{{ object.timeline }}"{% endif %}<br />
+
+slug: {{ object.slug | replace('the-aba-icc-project/', '') }}<br />
+---<br />
+
+{{ object.copy | safe }}
+{% endfor %}
+<br />

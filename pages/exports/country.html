@@ -1,0 +1,58 @@
+{% set items = cms.country |sort('name', true) %}
+{% for object in items %}
+@@@<br />
+title: "{{ object.name | safe }}"<br />
+published: {% if object.isDraft == false %}true{% else %}false{% endif %}<br />
+
+featured_image_path: {% if object.featured_image %}{{ object.featured_image.url | replace('webhook-uploads', 'uploads') }}{% endif %}<br />
+
+featured_image_attribution: {% if object.featured_image_attribution %}"{{ object.featured_image_attribution }}"{% endif %}<br />
+
+geocode: {% if object.geocode %}{{ object.geocode }}{% endif %}<br />
+iso_code: {% if object.iso_code %}{{ object.iso_code }}{% endif %}<br />
+
+
+territory: {{ object.territory }}<br />
+
+state_party: {{ object.state_party }}<br />
+
+signed_but_not_ratified: {{ object.signed_but_not_ratified }}<br />
+
+signed_date: {% if object.date_signed %}{{ object.date_signed | date('Y-m-d') }}{% endif %}<br />
+
+ratified_or_acceded_date: {% if date_ratified_or_acceded %}{{ object.date_ratified_or_acceded | date('Y-m-d') }}{% endif %}<br />
+
+entry_into_force_date: {% if object.date_entry_into_force %}{{ object.date_entry_into_force | date('Y-m-d') }}{% endif %}<br />
+
+ratified_apic_date: {% if object.date_ratified_apic %}{{ object.date_ratified_apic | date('Y-m-d') }}{% endif %}<br />
+
+
+
+
+
+genocide: {% if object.genocide %}"{{ object.genocide }}"{% endif %}<br />
+
+
+crimes_against_humanity: {% if object.crimes_against_humanity %}"{{ object.crimes_against_humanity }}"{% endif %}<br />
+
+
+aggression: {% if object.aggression %}"{{ object.aggression }}"{% endif %}<br />
+
+
+war_crimes: {% if object.war_crimes %}"{{ object.war_crimes }}"{% endif %}<br />
+
+
+note: {% if object.note %}"{{ object.note }}"{% endif %}<br />
+
+
+
+
+
+slug: {{ object.slug | replace('country/', '') }}<br />
+---<br />
+{% if object.internal_note %}note: {{ object.internal_note }}<br />{% endif %}
+{{ object.copy | safe }}
+
+
+{% endfor %}
+<br />

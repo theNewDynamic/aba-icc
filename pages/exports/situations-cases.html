@@ -1,0 +1,29 @@
+{% set items = cms.country |sort('name', true) %}
+{% for object in items %}
+{% if object.situations %}
+
+{% for situation in object.situations %}
+@@@<br />
+title: "{{ object.name }}{% if loop.index == 2 %} Situation II{% endif %}"<br />
+country: {{ object.slug | replace('country/', '') }}<br />
+
+published: {% if object.isDraft == false %}true{% else %}false{% endif %}<br />
+{% if object.publish_date %}date: {{ object.publish_date | date('c') }}<br />{% endif %}
+
+phase: {% if situation.phase  %}{{ situation.phase |safe | replace(':', ',') }}{% endif %}<br />
+link_to_more_information: {% if situation.link_to_more_information  %}"{{ situation.link_to_more_information }}"{% endif %}<br />
+
+description: {% if situation.brief_summary  %}"{{ situation.brief_summary | safe }}"{% endif %}<br />
+
+slug: {{ object.slug | replace('country/', '') }}{% if loop.index == 2 %}_2{% endif %}<br />
+---<br />
+
+{{ situation.overview | safe }}
+
+
+
+
+{% endfor %}
+{% endif %}
+{% endfor %}
+<br />
