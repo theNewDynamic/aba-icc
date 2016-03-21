@@ -7,16 +7,41 @@
 {% else %}
   {% assign section = site.documents | where: 'collection', 'the-aba-icc-project' | sort: 'order', 'last' %}
 {% endif %}
+
+{% if page.collection == 'board-of-advisors' %}
+{% assign local_menu = site.documents | where: 'collection', 'board-of-advisors' | sort: 'last_name', 'last' %}
+{% endif %}
 <nav>
 
 {% comment %}PRIMARY MENU DETERMINED BY SECION - every template should define which global menu to use {% endcomment %}
-
-{% if section %}
+{% if local_menu %}
+  <ul class="nav-sidebar accordion">
+    <li class="nav-sidebar-item">
+      <a href="javascript:void(0)" class="js-accordion-trigger menu-item{% if getCurrentUrl() == url(page) %} active{% endif %}">
+        {{ page.collectionName }} +
+      </a>
+      <ul class="submenu">
+        {% for link in local_menu %}
+          {% include _nav-menu-item.html %}
+        {% endfor %}
+      </ul>
+    </li>
+    <li class="nav-sidebar-item">
+      <a href="javascript:void(0)" class="js-accordion-trigger menu-item{% if getCurrentUrl() == url(page) %} active{% endif %}">
+       Main Menu +
+      </a>
+      <ul class="submenu">
+        {% for link in section %}
+          {% include _nav-menu-item.html %}
+        {% endfor %}
+      </ul>
+    </li>
+  </ul>
+{% elsif section %}
   <ul class="nav-sidebar">
     {% for link in section %}
       {% include _nav-menu-item.html %}
     {% endfor %}
   </ul>
 {% endif %}
-
 </nav>

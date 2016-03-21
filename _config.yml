@@ -101,7 +101,6 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
-
   -
     scope:
       path: "" # an empty string here means all files in the project
@@ -110,6 +109,13 @@ defaults:
       layout: "page"
       collectionName: "About the ICC"
       menu: 'about-the-icc'
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: 'board-of-advisors'
+    values:
+      layout: "page"
+      collectionName: "Board of Advisors"
   -
     scope:
       path: "" # an empty string here means all files in the project
