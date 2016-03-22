@@ -1,1 +1,69 @@
-situations-and-cases-overview yes
+{% assign situations = site.situations | sort: 'title', 'last' %}
+{% assign preliminary_examinations_color = 'green' %}
+{% assign trials_color = 'black' %}
+
+  {% for object in situations|sort('name') %}
+    {% assign country = site.countries | where: 'slug', object.country %}
+    {% comment %}{% assign situation = object.situations|first %} {% endcomment %}
+    <div class="full-width-bar" id="{{ url(object)|replace('/country/', '')|replace('/', '') }}">
+      <div class="grid">
+
+        <div class="left-side-wide">
+
+
+          <h2>
+            <a href="{{ url(object) }}">
+              {{ country[0].title }}
+            </a>
+          </h2>
+
+
+          {% for situation in object.situations %}
+          {% if loop.index == 2 %}<h6>Situation II</h6>{% endif %}{% if loop.index == 3 %}<h6>Situation III</h6>{% endif %}
+            <small>
+              {{ situation.phase }}
+            </small>
+          {% endfor %}
+
+          <hr />
+
+
+          {% if object.cases_country %}
+            {% for cases in object.cases_country %}
+            {% assign case_id = cases._id %}
+              <ul>
+                <li>
+                  <strong><a href="{{ url(cases) }}">{{ cases.name }}</a></strong>
+                  {% if cases.case_status %}
+                    <br /><small>{{ cases.case_status }}</small>
+                  {% endif %}
+                  <ul>
+                    {% for accused in cms.accused %}
+                      {% for charge in accused.charges %}
+                        {% if charge.related_case._id == case_id %}
+                          <li><a href="{{ url(accused) }}">{{ accused.name }}</a></li>
+                        {% endif %}
+                      {% endfor %}
+                    {% endfor %}
+                  </ul>
+                </li>
+              </ul>
+            {% endfor %}
+          {% endif %}
+        </div>
+
+
+
+
+        <div class="right-side-narrow" style="padding-top:.5em;">
+          {% assign accordion = false %} {% comment %}so we can use the same overview code without the accordion hiding action {% endcomment %}
+
+            {% comment %} {% for situation in object.situations %}
+            {% if loop.index == 2 %}<h5>Situation II</h5>{% endif %}{% if loop.index == 3 %}<h5>Situation III</h5>{% endif %}
+            {% if situation.brief_summary %}{{ situation.brief_summary }}{% endif %}
+            include "templates/partials/format-situation-overview.html" with accordion
+            {% endfor %} {% endcomment %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
