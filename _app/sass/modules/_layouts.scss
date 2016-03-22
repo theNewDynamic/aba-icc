@@ -28,18 +28,18 @@
     @include outer-container;
     @include media($large-screen) {
     .left-side {
-      @include span-columns(3 of 12); 
+      @include span-columns(3 of 12);
     }
     .right-side {
       @include span-columns(9 of 12);
-      
+
     }
     .left-side-wide {
-      @include span-columns(4 of 12); 
+      @include span-columns(4 of 12);
     }
     .right-side-narrow {
       @include span-columns(8 of 12);
-      
+
     }
   }
   li {
@@ -77,7 +77,7 @@
 
 .box { //similar to full-width-bar, but less padding
   width:100%;
-  background-color: $white;  
+  background-color: $white;
   background-color: rgba(255,255,255,0.7);
   padding: 1em;
   margin-bottom: 1em;
@@ -100,7 +100,7 @@
     margin-left: 2.5em;
   }
 
-.timeline, .flex-box {  
+.timeline, .flex-box {
 
   .button {
     border-color: $light-gray;
@@ -108,7 +108,7 @@
     border-width: 1px;
     padding: .125em .25em;
   }
-  
+
   .submenu {
     display: none;
     h5 {
@@ -123,6 +123,10 @@
     display: block;
     padding-bottom: 0;
   }
+}
+
+.text-align-left p {
+  text-align: left;
 }
 
 // .content {
@@ -156,9 +160,9 @@
 //     @include outer-container;
 //     //max-width:95%;
 
-//     aside { 
-//       @include span-columns(12); 
-//       margin-top:1em; 
+//     aside {
+//       @include span-columns(12);
+//       margin-top:1em;
 //       padding:1em;
 //       background-color:#e8e8e8; }
 //     section { @include span-columns(12); padding:inherit; margin-top:inherit;}

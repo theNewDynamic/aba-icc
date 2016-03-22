@@ -22,6 +22,8 @@ phases:
 version: 3.0.3
 # full_rebuild: true
 image_url: https://aba-icc.imgix.net
+kramdown:
+  input: GFM
 future: false
 incremental: false
 timezone: Etc/Zulu
