@@ -68,7 +68,7 @@ collections:
     permalink: '/:collection/:path/'
   cases:
     output: true
-    permalink: '/:collection/:path/'
+    permalink: '/:collection/case/:path/'
   cases-charges:
     output: false
     permalink: '/:collection/:path/'
