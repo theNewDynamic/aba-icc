@@ -81,8 +81,8 @@ collections:
   events:
     output: true
     permalink: '/:collection/:path/'
-  #evolution-of-international-criminal-justice:
-    output: true
+  evolution-of-international-criminal-justice:
+    output: false
     permalink: '/:collection/:path/'
   situations:
     output: false

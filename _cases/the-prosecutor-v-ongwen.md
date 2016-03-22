@@ -8,6 +8,6 @@ long_name: "The Prosecutor v. Dominic Ongwen"
 accused:
   - dominic-ongwen
 
-# slug: the-prosecutor-v-ongwen
+slug: the-prosecutor-v-ongwen
 ---
 

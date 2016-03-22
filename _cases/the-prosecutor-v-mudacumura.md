@@ -8,6 +8,6 @@ long_name: "The Prosecutor v. Sylvestre Mudacumura"
 accused:
   - sylvestre-mudacumura
 
-# slug: the-prosecutor-v-mudacumura
+slug: the-prosecutor-v-mudacumura
 ---
 
