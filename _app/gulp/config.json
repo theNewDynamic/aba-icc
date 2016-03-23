@@ -15,6 +15,7 @@
   "imgDist":"./../assets/images",
 
   "filesSrc":[
+    "./js/dist/maps.min.js",
     "./node_modules/html5shiv/dist/html5shiv.min.js",
     "./node_modules/respond.js/dest/respond.min.js"
     ],
@@ -26,4 +27,3 @@
 
 
 }
-

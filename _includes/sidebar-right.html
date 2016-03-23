@@ -1,4 +1,7 @@
 <aside id="menu" class="sidebar-right">
    {% include sidebar-heading.html %}
    {% include sidebar-menu.html  %}
+   {% if page.slug contains 'situations-cases' %}
+      {% include map/legend-situations-and-cases.html %}
+    {% endif %}
 </aside>

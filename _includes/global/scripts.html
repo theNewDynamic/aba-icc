@@ -29,3 +29,7 @@
    //opens non-local links in new window
 
 </script>
+{% if layout.section == 'map' %}
+  <script type="text/javascript" src="/assets/js/maps.min.js"></script>
+  {% include map/script-situations-and-cases.html %}
+{% endif %}

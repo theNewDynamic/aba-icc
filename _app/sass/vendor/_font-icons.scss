@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'fontello';
-  src: url('/static/font/fontello.eot?14560529');
-  src: url('/static/font/fontello.eot?14560529#iefix') format('embedded-opentype'),
-       url('/static/font/fontello.woff?14560529') format('woff'),
-       url('/static/font/fontello.ttf?14560529') format('truetype'),
-       url('/static/font/fontello.svg?14560529#fontello') format('svg');
+  src: url('/assets/font/fontello.eot?14560529');
+  src: url('/assets/font/fontello.eot?14560529#iefix') format('embedded-opentype'),
+       url('/assets/font/fontello.woff?14560529') format('woff'),
+       url('/assets/font/fontello.ttf?14560529') format('truetype'),
+       url('/assets/font/fontello.svg?14560529#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -18,38 +18,38 @@
   }
 }
 */
- 
+
  [class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "fontello";
   font-style: normal;
   font-weight: normal;
   speak: none;
- 
+
   display: inline-block;
   text-decoration: inherit;
   width: 1em;
   margin-right: .2em;
   text-align: center;
   /* opacity: .8; */
- 
+
   /* For safety - reset parent styles, that can break glyph codes*/
   font-variant: normal;
   text-transform: none;
-     
+
   /* fix buttons height, for twitter bootstrap */
   line-height: 1em;
- 
+
   /* Animation center compensation - margins should be symmetric */
   /* remove if not needed */
   margin-left: .2em;
- 
+
   /* you can be more comfortable with increased icons size */
   /* font-size: 120%; */
- 
+
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
- 
+
 .icon-ion-link:before { content: '\e800'; } /* '' */
 .icon-link-ext:before { content: '\e801'; } /* '' */
 .icon-ion-ios-arrow-forward:before { content: '\e802'; } /* '' */

@@ -5,73 +5,72 @@
 {% for country in countries %}
   {% assign situations = country.items %}
   {% assign situationCountry = site.countries | where: 'slug', country.name %}
-  {% assign cases = site.cases | where: 'country', country.name %}
+  {% assign cases = site.cases | where: 'country', country.name | sort: 'trial_opening_date', 'first' | reverse %}
 
   <div class="full-width-bar" id="{{ url(object)|replace('/country/', '')|replace('/', '') }}">
     {% for object in situations %}
       <div class="grid">
-
         <div class="left-side-wide">
-
+          {% comment %} get the situation title and link to the situation country. {% endcomment %}
           {% if situationCountry %}
-          <h2>
-            <a href="{{ situationCountry[0].url }}">
-              {{ object.title }}
-            </a>
-          </h2>
+            {% comment %} ONLY if it's the first situation for that country {% endcomment %}
+            {% if forloop.index == 1 %}
+              <h2>
+                <a href="{{ situationCountry[0].url }}">
+                  {{ object.title }}
+                </a>
+              </h2>
+            {% else %}
+              <h3 style="font-size:1.125rem">
+                <a href="{{ situationCountry[0].url }}">
+                  {{ object.title }}
+                </a>
+              </h3>
+            {% endif %}
           {% endif %}
-
+          {% comment %} get the current phase of the case {% endcomment %}
           <small>
             {{ object.phase }}
           </small>
 
           <hr />
-
-          {% for case in cases | sort: 'trial_opening_date', 'last' | reverse %}
-
-          <ul>
-            <li>
-              <strong>
-                <a href="{{ case.url }}">
-                  {{ case.title }}
-                </a>
-              </strong>
-
-              {% if case.case_status %}
-                <br />
-                <small>
-                  {{ case.case_status }}
-                </small>
-              {% endif %}
-
-
+          {% if forloop.index == 1 %}{% comment %} GET THE CASES FOR A GIVEN COUNTRY  - ONLY if it's the first situation for that country {% endcomment %}
+            {% for case in cases   %}
               <ul>
-
-                {% for accused in case.accused %}
-                  {% assign theAccused = site.accused | where: 'slug', accused %}
-
-
-                      <li><a href="{{ theAccused[0].url }}">{{ theAccused[0].title }}</a></li>
-
-
-
-
-                {% endfor %}
+                <li>
+                  <strong>
+                    <a href="{{ case.url }}">
+                      {{ case.title }}
+                    </a>
+                  </strong>
+                  {% if case.case_status %}
+                    <br />
+                    <small>
+                      {{ case.case_status }}
+                    </small>
+                  {% endif %}
+                  <ul>
+                    {% comment %} list the accused  for each case {% endcomment %}
+                    {% for accused in case.accused %}
+                      {% assign theAccused = site.accused | where: 'slug', accused %}
+                      <li>
+                        <a href="{{ theAccused[0].url }}">
+                          {{ theAccused[0].title }}
+                        </a>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                </li>
               </ul>
-            </li>
-          </ul>
-          {% endfor %}
-
+            {% endfor %}
+      {% endif %}
         </div> {% comment %} END /left-side-wide {% endcomment %}
-
         <div class="right-side-narrow" style="padding-top:.5em;">
           {% if object.content %}
             {{ object.content | markdownify }}
           {% endif %}
         </div>
-
       </div>
-
     {% endfor %}
   </div>
 {% endfor %}
