@@ -17,5 +17,5 @@ crimes_against_humanity: "[Law N°33 BIS/2003 - Chapter 2 - Articles 5-7](https:
 aggression:
 war_crimes: "[Law N°33 BIS/2003 - Chapter 4 - Articles 8; Chapter 5 - Articles 14-16](https://iccdb.hrlc.net/data/doc/592/keyword/145/)"
 note:
-# slug: rwanda
+slug: rwanda
 ---

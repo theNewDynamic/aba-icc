@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression:
 war_crimes:
 note: "(see United Kingdom)"
-# slug: isle-of-man
+slug: isle-of-man
 ---

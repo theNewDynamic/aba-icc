@@ -9,13 +9,13 @@ territory: false
 state_party: true
 signed_but_not_ratified: false
 signed_date:
-ratified_or_acceded_date:
+ratified_or_acceded_date: 2000-06-07T00:00:00.000Z
 entry_into_force_date:
-ratified_apic_date: 2003-07-16
+ratified_apic_date: 2003-07-16T00:00:00.000Z
 genocide:
 crimes_against_humanity:
 aggression:
 war_crimes: "[Venezuela - Constitution - Title III - Chapter I - Article 29](https://iccdb.hrlc.net/data/doc/840/keyword/145/)"
 note:
-# slug: venezuela
+slug: venezuela
 ---

@@ -8,14 +8,14 @@ iso_code: PE
 territory: false
 state_party: true
 signed_but_not_ratified: false
-signed_date: 2000-12-06
-ratified_or_acceded_date:
-entry_into_force_date: 2002-07-01
-ratified_apic_date: 2002-09-10
+signed_date: 2000-12-06T00:00:00.000Z
+ratified_or_acceded_date: 2001-11-09T00:00:00.000Z
+entry_into_force_date: 2002-07-01T00:00:00.000Z
+ratified_apic_date: 2002-09-10T00:00:00.000Z
 genocide: "[Peru Criminal Code - Title XIV - Chapter 1 - Article 319](https://iccdb.hrlc.net/data/doc/364/)"
 crimes_against_humanity: "[Peru Criminal Code - Title XIV - Articles 319-324](https://iccdb.hrlc.net/data/doc/364/)"
 aggression:
 war_crimes:
 note:
-# slug: peru
+slug: peru
 ---

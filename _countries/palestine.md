@@ -8,14 +8,14 @@ iso_code: PS
 territory: false
 state_party: true
 signed_but_not_ratified: false
-signed_date: 2015-01-02
-ratified_or_acceded_date:
-entry_into_force_date: 2015-04-01
+signed_date: 2015-01-02T00:00:00.000Z
+ratified_or_acceded_date: 2015-01-02T00:00:00.000Z
+entry_into_force_date: 2015-04-01T00:00:00.000Z
 ratified_apic_date:
 genocide:
 crimes_against_humanity:
 aggression:
 war_crimes:
 note:
-# slug: palestine
+slug: palestine
 ---

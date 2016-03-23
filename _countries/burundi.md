@@ -8,14 +8,14 @@ iso_code: BI
 territory:
 state_party: true
 signed_but_not_ratified: false
-signed_date: 1999-01-12
-ratified_or_acceded_date:
-entry_into_force_date: 2004-11-30
+signed_date: 1999-01-12T00:00:00.000Z
+ratified_or_acceded_date: 2004-09-21T00:00:00.000Z
+entry_into_force_date: 2004-11-30T00:00:00.000Z
 ratified_apic_date:
 genocide: "[Burundian Criminal Code No. 1/05 of 22 April 2009, starting Article 195](https://www.icrc.org/customary-ihl/eng/docs/v2_cou_bi_rule158)"
 crimes_against_humanity: "[Burundian Criminal Code No. 1/05 of 22 April 2009, starting Article 195](https://www.icrc.org/customary-ihl/eng/docs/v2_cou_bi_rule158)"
 aggression:
 war_crimes:
 note:
-# slug: burundi
+slug: burundi
 ---

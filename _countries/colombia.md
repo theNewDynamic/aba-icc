@@ -8,14 +8,14 @@ iso_code: CO
 territory: false
 state_party: true
 signed_but_not_ratified: false
-signed_date: 1998-12-09
-ratified_or_acceded_date:
-entry_into_force_date: 2002-11-01
-ratified_apic_date: 2009-04-15
+signed_date: 1998-12-09T00:00:00.000Z
+ratified_or_acceded_date: 2002-08-05T00:00:00.000Z
+entry_into_force_date: 2002-11-01T00:00:00.000Z
+ratified_apic_date: 2009-04-15T00:00:00.000Z
 genocide: "[Colombian Penal Code, Article 101 & 102](http://www.preventgenocide.org/es/derecho/codigos/colombia.htm)"
 crimes_against_humanity:
 aggression:
 war_crimes:
 note:
-# slug: colombia
+slug: colombia
 ---

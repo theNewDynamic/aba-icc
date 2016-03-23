@@ -23,7 +23,11 @@
 
    "jekyllPath": ["./index.html", "./_posts/*", "./_layouts/*", "./_includes/*" , "./assets/*", "./assets/**/*"],
    "browserList":"> 1%', 'last 2 versions', 'Firefox ESR', 'Opera 12.1",
-   "tasksPath":"./gulp/tasks"
+   "tasksPath":"./gulp/tasks",
 
-
+   "mapsSrc":[
+     "./js/maps/ammap.js",
+     "./js/maps/worldLow.js"
+   ],
+   "mapsDest":"./../assets/maps"
 }

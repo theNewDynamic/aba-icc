@@ -8,14 +8,14 @@ iso_code: KR
 territory: false
 state_party: true
 signed_but_not_ratified: false
-signed_date: 2000-03-07
-ratified_or_acceded_date:
-entry_into_force_date: 2003-01-31
-ratified_apic_date: 2006-10-18
+signed_date: 2000-03-07T00:00:00.000Z
+ratified_or_acceded_date: 2002-11-12T00:00:00.000Z
+entry_into_force_date: 2003-01-31T00:00:00.000Z
+ratified_apic_date: 2006-10-18T00:00:00.000Z
 genocide: "[Korea - ICC Crimes Act - Chapter 2 - Article 8](https://iccdb.hrlc.net/data/doc/206/keyword/46/)"
 crimes_against_humanity: "[Korea - ICC Crimes Act - Chapter 2 - Article 9](https://iccdb.hrlc.net/data/doc/206/keyword/13/)"
 aggression:
 war_crimes: "[Korea - ICC Crimes Act - Chapter 2 - Articles 10-15](https://iccdb.hrlc.net/data/doc/206/keyword/145/)"
 note:
-# slug: south-korea
+slug: south-korea
 ---

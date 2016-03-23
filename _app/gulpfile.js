@@ -7,6 +7,8 @@ require(config.tasksPath + '/js-uglify')(gulp, plugins, config);
 
 require(config.tasksPath + '/js-hint')(gulp, plugins, config);
 
+require(config.tasksPath + '/maps')(gulp, plugins, config);
+
 // COPY vendor files from NPM to public directory
 require(config.tasksPath + '/file-copy')(gulp, plugins, config);
 

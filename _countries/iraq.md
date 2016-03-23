@@ -17,5 +17,5 @@ crimes_against_humanity: "[Statute of the Iraqi Special Tribunal - Section 2 - P
 aggression:
 war_crimes: "[Statute of the Iraqi Special Tribunal - Section 2 - Part 4 - Article 13](http://preventgenocide.org/law/domestic/iraqispecialtribunal.htm)"
 note:
-# slug: iraq
+slug: iraq
 ---

@@ -8,7 +8,7 @@ iso_code: SB
 territory: false
 state_party: false
 signed_but_not_ratified: true
-signed_date: 1998-12-02
+signed_date: 1998-12-02T00:00:00.000Z
 ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date:
@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression:
 war_crimes:
 note:
-# slug: solomon-islands
+slug: solomon-islands
 ---

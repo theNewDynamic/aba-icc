@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression: "[Kazakhstan Criminal Code - Chapter 4 - Article 156](https://iccdb.hrlc.net/data/doc/305/keyword/1/)"
 war_crimes:
 note:
-# slug: kazakhstan
+slug: kazakhstan
 ---

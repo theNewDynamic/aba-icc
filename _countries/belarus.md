@@ -17,5 +17,5 @@ crimes_against_humanity: "[Belarus Criminal Code, Article 128](https://iccdb.hrl
 aggression: "[Belarus Criminal Code, Article 122](https://iccdb.hrlc.net/data/doc/572/)"
 war_crimes:
 note:
-# slug: belarus
+slug: belarus
 ---

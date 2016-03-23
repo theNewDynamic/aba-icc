@@ -17,5 +17,5 @@ crimes_against_humanity:
 aggression:
 war_crimes:
 note:
-# slug: sri-lanka
+slug: sri-lanka
 ---

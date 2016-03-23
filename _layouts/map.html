@@ -8,47 +8,15 @@ section: map
   <input class="search" placeholder="Search" style="display:inline-block;font-size:1.5em;"  />
 </div>
 
-{% assign countries = site.situations | group_by: 'country' | sort: 'name' %}
-{% assign preliminary_examinations_color = 'green' %}{% assign trials_color = 'black' %}
+{% if page.url == '/about-the-icc/situations-cases/' %}
+  {% include situations-and-cases-grid.html %}
+  <script type="text/javascript" src="/assets/maps/maps.min.js"></script>
+  <script type="text/javascript" src="/api/map-data-situations-and-cases.js"></script>
+{% endif %}
 
-<div class="flex-boxes list-filter">
-  {% for country in countries %}
-    {% assign situations = country.items %}
-    {% assign situationCountry = site.countries | where: 'slug', country.name %}
 
-    {% for object in situations %}
-      {% comment %} slugify the phase to use as a class name to color the boxes {% endcomment %}
-      <div class="flex-box {{ object.phase | replace: ':','' | replace: ' ','-' | replace: '&','' | replace: ',',''  | downcase }}">
-        <h1 class="flex-title name" style="position:relative;">
-          {% if situationCountry %}
-            <a href="{{ situationCountry[0].url }}">
-              {{ object.title}} <i class="icon-ion-link small" style="color:#c6c6c6;position:absolute;right:3;"></i>
-            </a>
-          {% else %}
-            {{ object.title}} <i class="icon-ion-link small" style="color:#c6c6c6;position:absolute;right:3;"></i>
-          {% endif %}
-        </h1>
-        <small>
-          {{ object.phase }}
-        </small>
-        {% if object.content %}
-          <ul class="accordion">
-            <li>
-              <a href="javascript:void(0)" class="js-accordion-trigger flex-title">
-                <h6>
-                  Overview <i class="icon-down-open" style="position:absolute;right:3;bottom:3;"></i>
-                </h6>
-              </a>
-              <ul class="submenu">
-                <li {% if forloop.index > 1 %}class="list"{% endif %}>
-                  {{ object.content | markdownify }}
-                </li>
-              </ul>
-            </li>
-          </ul>
-        {% endif %}
-        <style type="text/css">h6 {font-size:.75em;}</style>
-      </div>
-    {% endfor %}
-  {% endfor %}
-</div>
+{% if page.url == '/about-the-icc/states-parties-to-the-icc/' %}
+  {% include state-parties-grid.html %}
+  <script type="text/javascript" src="/assets/maps/maps.min.js"></script>
+  <script type="text/javascript" src="/api/map-data-state-parties.js"></script>
+{% endif %}

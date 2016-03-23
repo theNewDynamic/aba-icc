@@ -8,7 +8,7 @@ iso_code: AM
 territory: false
 state_party: false
 signed_but_not_ratified: true
-signed_date: 1999-10-01
+signed_date: 1999-10-01T00:00:00.000Z
 ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date:
@@ -17,5 +17,5 @@ crimes_against_humanity: "[Armenian Criminal Code, Chapter 33](https://iccdb.hrl
 aggression: "[Armenian Criminal Code, Chapter 33, Article 384](https://iccdb.hrlc.net/data/doc/169/keyword/1/)"
 war_crimes: "[Armenian Criminal Code, Chapter 33](https://iccdb.hrlc.net/data/doc/169/keyword/145/)"
 note:
-# slug: armenia
+slug: armenia
 ---

@@ -17,5 +17,5 @@ crimes_against_humanity: "[Azerbaijan Criminal Code, Chapter 16](https://iccdb.h
 aggression: "[Azerbaijan Criminal Code, Chapter 16, Articles 100 & 101](https://iccdb.hrlc.net/data/doc/224/keyword/1/)"
 war_crimes: "[Azerbaijan Criminal Code, Chapter 17](https://iccdb.hrlc.net/data/doc/224/keyword/145/)"
 note:
-# slug: azerbaijan
+slug: azerbaijan
 ---

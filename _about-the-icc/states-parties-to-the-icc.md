@@ -4,6 +4,6 @@ published: true
 featured_image_path:
 description:
 order: 10
-include: map-state-parties.html
+layout: map
 # slug: states-parties-to-the-icc
 ---

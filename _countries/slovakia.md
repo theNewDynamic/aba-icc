@@ -8,14 +8,14 @@ iso_code: SK
 territory: false
 state_party: true
 signed_but_not_ratified: false
-signed_date: 1998-12-22
-ratified_or_acceded_date:
-entry_into_force_date: 2002-07-01
-ratified_apic_date: 2004-05-26
+signed_date: 1998-12-22T00:00:00.000Z
+ratified_or_acceded_date: 2002-04-11T00:00:00.000Z
+entry_into_force_date: 2002-07-01T00:00:00.000Z
+ratified_apic_date: 2004-05-26T00:00:00.000Z
 genocide: "[Slovakia Criminal Code - Part II - Chapter 12 - Title 1 - Section 418](https://iccdb.hrlc.net/data/doc/458/keyword/46/)"
 crimes_against_humanity: "[Slovakia Criminal Code - Part II - Chapter 12 - Title 2 - Section 432](https://iccdb.hrlc.net/data/doc/458/keyword/13/)"
 aggression: "[Slovakia Criminal Code - Part II - Chapter 12 - Title 1 - Section 417](https://iccdb.hrlc.net/data/doc/458/keyword/1/)"
 war_crimes: "[Slovakia Criminal Code - Part II - Chapter 12 - Title 2 - Sections 426-428, 431-435](https://iccdb.hrlc.net/data/doc/458/keyword/145/)"
 note:
-# slug: slovakia
+slug: slovakia
 ---
