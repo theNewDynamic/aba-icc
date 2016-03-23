@@ -4,7 +4,7 @@ published: true
 featured_image_path:
 description: "The ICC is an international judicial body that was formed by a multilateral treaty called the Rome Statute. The ICC, which is independent of the United Nations, is based in The Hague, the Netherlands, although it may sit elsewhere."
 order: 15
-include: sections.html
+# include: sections.html
 # slug: structure-of-the-icc
 ---
 
