@@ -5,7 +5,7 @@ responsibilities:
   - Support victims and their families through reparations and assistance.
 footnotes:
 images:
-slug: trust-fund for victims
+order: 25
 ---
 
 [The Trust Fund](http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/defence/Pages/defence.aspx)'s (TFV) dual mandate serves victims of crimes that fall within the Court's jurisdiction through the provision of 1) general assistance including physical rehabilitation, psychological rehabilitation, and/or material support and 2) implementation of reparations awards ordered by the Court against a convicted person.

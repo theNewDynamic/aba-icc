@@ -18,7 +18,7 @@ images:
     image_path: /uploads/1433343547093_Michel_de_Smedt.jpg
   - name: " Fabricio Guariglia, Director of the Prosecutions Division (Argentina)."
     image_path: /uploads/1440087485915_Fabricio_Guariglia.jpg
-slug: office-of the prosecutor
+order: 10
 ---
 
 [The Office of the Prosecutor](http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/office%20of%20the%20prosecutor/Pages/office%20of%20the%20prosecutor.aspx) (OTP) is responsible for receiving referrals and any substantiated information on crimes within the jurisdiction of the Court. OTP examines these referrals and information, conducts investigations, and conducts prosecutions before the Court.
@@ -30,4 +30,3 @@ OTP is composed of three Divisions. The Prosecutor, [Fatou Bensouda](http://icc-
 #### Responsibility
 
 First, OTP performs preliminary analysis on the referrals and information on crimes that it receives to determine if they meet the jurisdictional requirements to merit an investigation. If OTP determines that the situation meets jurisdictional requirements, then it conducts an investigation into the situation. Should the investigation yield enough evidence to merit the issuing of arrest warrants, OTP applies to the Pre-Trial Chamber for the issuance of a warrant or a summons to appear. After the accused has been arrested or summoned to court voluntarily, OTP presents its charges and its evidence to the Pre-Trial Chamber and the Pre-Trial Chamber determines whether to confirm the charges. After charges are confirmed, OTP conducts the entirety of the prosecution at trial.
-

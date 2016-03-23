@@ -39,7 +39,7 @@ images:
     image_path: /uploads/1432161396323_16777532022_ef3ecf90f0_m.jpg
   - name: "Judge Kuniko Ozaki, Trial Division (Japan)"
     image_path: /uploads/1432161418079_15769974281_f69c4819df_m.jpg
-slug: chambers
+order: 05
 ---
 
 The Chambers consist of eighteen judges organized into the [Pre-Trial Division](http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/chambers/pre%20trial%20division/Pages/pre%20trial%20division.aspx), the [Trial Division](http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/chambers/trial%20division/Pages/trial%20division.aspx), and the [Appeals Division](http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/chambers/appeals%20division/Pages/appeals%20division.aspx). The judges of each Division are then divided into Chambers which are responsible for conducting the proceedings of the Court on specific cases and situations at different stages of the judicial procedure.
@@ -51,4 +51,3 @@ The judiciary of the Court is composed of three Divisions: The Appeals Division,
 #### Responsibility
 
 The Pre-Trial Chamber plays an important role in the first phase of judicial proceedings and makes the decision whether to confirm the charges against the potential accused. After charges are confirmed, the Trial Chamber determines the innocence or guilt of the accused, imposes a sentence on a convicted person, and may order a convicted person to pay money for compensation, restitution, or rehabilitation for victims. If either the Prosecutor or the convicted person appeal the decision of the Trial Chamber, the Appeals Chamber may decide to reverse or amend the decision or sentence or order a new trial before a different Trial Chamber.
-

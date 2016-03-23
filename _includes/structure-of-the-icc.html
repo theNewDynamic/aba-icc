@@ -1,4 +1,4 @@
-{% assign sections = site.structure-of-the-icc %}
+{% assign sections = site.structure-of-the-icc | sort: 'order', 'last' %}
 <div class="timeline">
   {% for section in sections %}
     <div class="full-width-bar">

@@ -13,7 +13,7 @@ images:
     image_path: /uploads/1432160866161_15769974281_f69c4819df_m.jpg
   - name: "Judge Joyce Aluoch, Vice-President (Kenya)"
     image_path: /uploads/1432160931694_aluoch.jpg
-slug: presidency
+order: 01
 ---
 
 [The Presidency](http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/presidency/Pages/the%20presidency.aspx) is responsible for the overall administration of the Court, with the exception of the Office of the Prosecutor, and for specific functions assigned to the Presidency in accordance with the Statute.
@@ -25,4 +25,3 @@ The Presidency is one of the four Organs of the Court. It is composed of the Pre
 #### Responsibility
 
 The Presidency has three main areas of responsibility: judicial/legal functions, administration, and external relations. In the exercise of its judicial/legal functions, the Presidency constitutes and assigns cases to Chambers, conducts judicial review of certain decisions of the Registrar and concludes Court-wide cooperation agreements with States. In the exercise of administration, with the exception of the Office of the Prosecutor, the Presidency is responsible for the proper administration of the Court and oversees the work of the Registry. The Presidency also coordinates with and seeks the concurrence of the Prosecutor on all matters of mutual concern. In the exercise of external relations, the Presidency maintains relations with States and other entities and promotes public awareness and understanding of the Court.
-
