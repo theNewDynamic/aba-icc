@@ -1,0 +1,64 @@
+---
+layout: default
+section: page
+---
+{% assign country = site.countries | where: 'slug', page.country %}
+{% assign cases = site.cases | where: 'country', page.slug %}
+
+{% include hero.html %}
+
+<div class="has-layout" id="start-of-content">
+
+  {% comment %} case status {% endcomment %}
+  <div class="has-layout row row-first small">
+    <ul class="inline-block" style="margin:0;padding:0;">
+        {% if page.country %}
+          <li>
+            <strong>Country: </strong>
+            <a href="{{ country[0].url }}">{{ country[0].title }}</a>
+          </li>
+      {% endif %}
+
+      {% if page.case_status %}
+        <li>
+          <strong>Case Status: </strong>
+          {{ page.case_status }}
+        </li>
+      {% endif %}
+      {% if page.trial_opening %}
+      <li>
+        <strong>Trial Opening: </strong>
+
+        {{ page.trial_opening | date: '%B %e, %Y' }}
+      </li>
+      {% endif %}
+
+      {% if page.note %}
+        <li class="small">
+          (<em>{{ page.note }}</em>)
+        </li>
+      {% endif %}
+
+    </ul>
+  </div>
+
+  {% comment %} Situation & Cases {% endcomment %}
+
+  {% if situations %}
+   <div class="has-layout row row-bottom-next small">
+     <ul class="inline-block" style="margin:0;padding:0;">
+       <li>
+         <strong>Phase:</strong> {{ situations[0].phase }}{% if situations[1].phase %}, {{ situations[1].phase }}{% endif %}
+       </li>
+     </ul>
+   </div>
+ {% endif %}
+
+
+
+
+ {% comment %} Main Body {% endcomment %}
+  <article class="hentry">
+    {% include _article.html %}
+  </article>
+</div>

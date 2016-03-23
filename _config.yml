@@ -121,6 +121,14 @@ defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
+      type: 'cases'
+    values:
+      layout: "case"
+      collectionName: "Cases"
+      menu: 'about-the-icc'
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
       type: 'countries'
     values:
       layout: "country"

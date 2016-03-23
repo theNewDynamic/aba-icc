@@ -14,8 +14,21 @@
 
 {% if page.collection == 'countries' %}
   {% assign country_menu = site.situations | sort: 'title', 'last' %}
+  {% assign heading = 'Situations & Preliminary Examinations' %}
   {% assign cases = site.cases | where: 'country', page.slug %}
+  {% assign country = page.title %}
+
 {% endif %}
+
+{% if page.collection == 'cases' %}
+  {% assign country_menu = site.cases | sort: 'title', 'last' %}
+  {% assign heading = 'Cases' %}
+  {% assign cases = site.cases | where: 'country', page.country %}
+  {% assign countries = site.countries | where: 'slug', page.country %}
+  {% assign country = countries[0].title %}
+
+{% endif %}
+
 
 <nav>
 
@@ -62,12 +75,13 @@
 
     <li class="nav-sidebar-item">
       <a href="javascript:void(0)" class="js-accordion-trigger menu-item">
-        Situations & Preliminary Examinations +
+        {{ heading }} +
       </a>
       <ul class="submenu">
         {% for link in country_menu %}
+          {% assign country_link = link.country %}
         <li class="nav-sidebar-item" tabindex="{{ forloop.index | plus: 7 }}" data-ga-click="nav, go to explore, text:{{ link.title }}">
-          <a href="/country/{{ link.country }}" class="menu-item{% if link.url == page.url %} active{% endif %}">
+          <a href="{% if country_link %}/country/{{ country_link }}{% else %}{{ link.url }}{% endif %}" class="menu-item{% if link.url == page.url %} active{% endif %}">
             {{ link.title }}
           </a>
         </li>
@@ -89,7 +103,7 @@
       <li class="nav-sidebar-item">
         <strong>
           <a href="{{ page.link }}" class="menu-item">
-            Cases in {{ page.title }}
+            Cases in {{ country }}
           </a>
         </strong>
       </li>
