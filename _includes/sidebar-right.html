@@ -1,7 +1,10 @@
 <aside id="menu" class="sidebar-right">
-   {% include sidebar-heading.html %}
-   {% include sidebar-menu.html  %}
-   {% if page.slug contains 'situations-cases' %}
-      {% include map/legend-situations-and-cases.html %}
-    {% endif %}
+ {% include sidebar-heading.html %}
+ {% include sidebar-menu.html  %}
+ {% if page.url contains 'situations-cases' %}
+    {% include map/legend-situations-and-cases.html %}
+  {% endif %}
+  {% if page.url contains '/states-parties-to-the-icc/' %}
+     {% include map/legend-state-parties.html %}
+  {% endif %}
 </aside>

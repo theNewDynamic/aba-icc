@@ -47,11 +47,11 @@ jQuery(this).parent().toggleClass('is-expanded');
 e.preventDefault();
 });
 
-
-$('#tipue_search_input').tipuesearch({
-highlightEveryTerm: true,
-descriptiveWords: 100
-});
+//
+// $('#tipue_search_input').tipuesearch({
+// highlightEveryTerm: true,
+// descriptiveWords: 100
+// });
  $('a:not([href^="http://www.aba-icc.org/"]):not([href^="#"]):not([href^="/"])').attr("target","_blank");
 
 
