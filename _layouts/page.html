@@ -5,31 +5,7 @@ section: page
 {% include hero.html %}
 <div class="has-layout" id="start-of-content">
   <article class="hentry">
-    {% if page.title %}
-      <header>
-        <div class="heading">
-          <h1>
-            {{ page.title }}
-          </h1>
-        </div>
-      </header>
-    {% endif %}
-      {% if page.position %}
-        <h2>
-          {{ page.position }}
-        </h2>
-      {% endif %}
-      {% if page.board_chair %}
-        <strong>
-          Board Chair
-        </strong>
-      {% endif %}
-      {% if page.image_path %}
-        <img src="{{ page.image_path }}" style="max-height300px;float:left;margin:10px 18px 4px 0;" />
-      {% endif %}
-      <div class="prose">
-        {{ content }}
-      </div>
+    {% include _article.html %}
   </article>
 {% if page.timeline %}
   {% include timeline.html %}

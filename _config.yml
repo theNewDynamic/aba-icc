@@ -121,6 +121,14 @@ defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
+      type: 'countries'
+    values:
+      layout: "country"
+      collectionName: "Country"
+      menu: 'about-the-icc'
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
       type: 'the-aba-icc-project'
     values:
       layout: "page"

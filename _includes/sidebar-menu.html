@@ -9,16 +9,23 @@
 {% endif %}
 
 {% if page.collection == 'board-of-advisors' %}
-{% assign local_menu = site.documents | where: 'collection', 'board-of-advisors' | sort: 'last_name', 'last' %}
+  {% assign local_menu = site.documents | where: 'collection', 'board-of-advisors' | sort: 'last_name', 'last' %}
 {% endif %}
+
+{% if page.collection == 'countries' %}
+  {% assign country_menu = site.situations | sort: 'title', 'last' %}
+  {% assign cases = site.cases | where: 'country', page.slug %}
+{% endif %}
+
 <nav>
 
 {% comment %}PRIMARY MENU DETERMINED BY SECION - every template should define which global menu to use {% endcomment %}
 {% if local_menu %}
+
   <ul class="nav-sidebar accordion">
     <li class="nav-sidebar-item">
-      <a href="javascript:void(0)" class="js-accordion-trigger menu-item{% if getCurrentUrl() == url(page) %} active{% endif %}">
-        {{ page.collectionName }} +
+      <a href="javascript:void(0)" class="js-accordion-trigger menu-item">
+        Situations & Preliminary Examinations +
       </a>
       <ul class="submenu">
         {% for link in local_menu %}
@@ -27,7 +34,7 @@
       </ul>
     </li>
     <li class="nav-sidebar-item">
-      <a href="javascript:void(0)" class="js-accordion-trigger menu-item{% if getCurrentUrl() == url(page) %} active{% endif %}">
+      <a href="javascript:void(0)" class="js-accordion-trigger menu-item">
        Main Menu +
       </a>
       <ul class="submenu">
@@ -37,6 +44,65 @@
       </ul>
     </li>
   </ul>
+
+{% elsif country_menu %}
+  <ul class="nav-sidebar accordion">
+
+    <li class="nav-sidebar-item">
+      <a href="javascript:void(0)" class="js-accordion-trigger menu-item">
+       Main Menu +
+      </a>
+      <ul class="submenu">
+        {% for link in section %}
+          {% include _nav-menu-item.html %}
+        {% endfor %}
+      </ul>
+    </li>
+
+
+    <li class="nav-sidebar-item">
+      <a href="javascript:void(0)" class="js-accordion-trigger menu-item">
+        Situations & Preliminary Examinations +
+      </a>
+      <ul class="submenu">
+        {% for link in country_menu %}
+        <li class="nav-sidebar-item" tabindex="{{ forloop.index | plus: 7 }}" data-ga-click="nav, go to explore, text:{{ link.title }}">
+          <a href="/country/{{ link.country }}" class="menu-item{% if link.url == page.url %} active{% endif %}">
+            {{ link.title }}
+          </a>
+        </li>
+
+        {% endfor %}
+      </ul>
+    </li>
+
+    <li class="nav-sidebar-item" data-ga-click="nav, go to explore, text:Situation & Cases Map">
+      <a href="/about-the-icc/situations-cases/" class="menu-item">
+        Situation & Cases Map
+      </a>
+    </li>
+
+</ul>
+
+  {% if cases.size > 0 %}
+    <ul class="nav-sidebar" style="margin-top:2em;">
+      <li class="nav-sidebar-item">
+        <strong>
+          <a href="{{ page.link }}" class="menu-item">
+            Cases in {{ page.title }}
+          </a>
+        </strong>
+      </li>
+      {% for object in cases %}
+        <li class="nav-sidebar-item">
+          <a href="{{ object.url }}"  class="menu-item">
+            {{ object.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
 {% elsif section %}
   <ul class="nav-sidebar">
     {% for link in section %}
