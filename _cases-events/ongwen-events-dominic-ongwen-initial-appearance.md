@@ -2,10 +2,9 @@
 title: "Ongwen - Dominic Ongwen - Initial Appearance"
 published: true
 event_date: 2015-01-26
-action: Initial Appearance
+action: "Initial Appearance"
 case: the-prosecutor-v-ongwen
-accused:
-  - dominic-ongwen
+accused: dominic-ongwen
 slug: ongwen-events-dominic-ongwen-initial-appearance
 ---
 

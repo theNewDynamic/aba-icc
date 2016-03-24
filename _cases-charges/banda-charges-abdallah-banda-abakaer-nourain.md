@@ -3,15 +3,14 @@ title: "Banda charges - Abdallah Banda Abakaer Nourain"
 published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-banda
-accused:
-  - abdallah-banda-abakaer-nourain
+accused: abdallah-banda-abakaer-nourain
 slug: banda-charges-abdallah-banda-abakaer-nourain
 ---
 
 ### Factual Allegations
 
 Abdallah Banda Abakaer Nourain (Banda) is the alleged Commander-in-Chief of the Justice and Equality Movement (JEM) Collective Leadership, a component of the larger United
-Resistance Front, a coalition of several groups fighting against forces supporting the Government of the Republic of Sudan in Darfur. The Office of the Prosecutor (OTP) alleges that splinter forces of JEM along with troops from the Sudan Liberation Army-Unity (SLA-Unity) and the Sudan Liberation Army Abdul-Shafie (SLA-Abdul Shafie) attacked the African Union Peacekeeping Mission in Sudan (AMIS) at the Haskanita Military Group Site (MGS Haskanita) in Darfur on 29 September 2007. The attack allegedly resulted in the death of 12 and the wounding of 8 AMIS soldiers, along with the destruction of communications, vehicles, computers, fuel, and ammunition, among other property of AMIS. OTP alleges that Banda commanded the attackers from the JEM splinter group who committed the attack jointly with other armed groups, including those commanded by Saleh Mohammed Jerbo Jamus (Jerbo). OTP also alleges that Banda and other commanders participated in meetings establishing a common plan to attack the MGS Haskanita and committed the attack pursuant to this plan. Banda and Jerbo both allegedly made an essential contribution to the attack by designing and planning it, and by ordering the involved troops and personally participating in the attack and, afterwards, looting MGS Haskanita property.
+Resistance Front, a coalition of several groups fighting against forces supporting the Government of the Republic of Sudan in Darfur. The Office of the Prosecutor (OTP) alleges that splinter forces of JEM along with troops from the Sudan Liberation Army-Unity (SLA-Unity) and the Sudan Liberation Army Abdul-Shafie (SLA-Abdul Shafie) attacked the African Union Peacekeeping Mission in Sudan (AMIS) at the Haskanita Military Group Site (MGS Haskanita) in Darfur on September 29, 2007. The attack allegedly resulted in the death of 12 and the wounding of 8 AMIS soldiers, along with the destruction of communications, vehicles, computers, fuel, and ammunition, among other property of AMIS. OTP alleges that Banda commanded the attackers from the JEM splinter group who committed the attack jointly with other armed groups, including those commanded by Saleh Mohammed Jerbo Jamus (Jerbo). OTP also alleges that Banda and other commanders participated in meetings establishing a common plan to attack the MGS Haskanita and committed the attack pursuant to this plan. Banda and Jerbo both allegedly made an essential contribution to the attack by designing and planning it, and by ordering the involved troops and personally participating in the attack and, afterwards, looting MGS Haskanita property.
 
 <figure data-type="video">
 

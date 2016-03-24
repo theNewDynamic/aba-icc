@@ -20,15 +20,21 @@
 
 {% endif %}
 
-{% if page.collection == 'cases' %}
+{% if page.collection == 'cases'  %}
   {% assign country_menu = site.cases | sort: 'title', 'last' %}
   {% assign heading = 'Cases' %}
   {% assign cases = site.cases | where: 'country', page.country %}
   {% assign countries = site.countries | where: 'slug', page.country %}
   {% assign country = countries[0].title %}
-
 {% endif %}
 
+{% if page.collection == 'accused' %}
+  {% assign country_menu = site.accused | sort: 'title', 'last' %}
+  {% assign heading = 'Accused' %}
+  {% assign cases = site.cases | where: 'country', page.country %}
+  {% assign countries = site.countries | where: 'slug', page.country %}
+  {% assign country = countries[0].title %}
+{% endif %}
 
 <nav>
 
@@ -80,8 +86,9 @@
       <ul class="submenu">
         {% for link in country_menu %}
           {% assign country_link = link.country %}
+          {% comment %} Note the hack to make country URLs not go to situations, which don't have pages. probably better than adding separate logic {% endcomment %}
         <li class="nav-sidebar-item" tabindex="{{ forloop.index | plus: 7 }}" data-ga-click="nav, go to explore, text:{{ link.title }}">
-          <a href="{% if country_link %}/country/{{ country_link }}{% else %}{{ link.url }}{% endif %}" class="menu-item{% if link.url == page.url %} active{% endif %}">
+          <a href="{% if page.url contains '/country/' %}/country/{{ country_link }}{% else %}{{ link.url }}{% endif %}" class="menu-item{% if link.url == page.url %} active{% endif %}">
             {{ link.title }}
           </a>
         </li>

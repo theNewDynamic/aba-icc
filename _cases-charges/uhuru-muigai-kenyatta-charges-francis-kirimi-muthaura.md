@@ -3,8 +3,7 @@ title: "Uhuru Muigai Kenyatta charges - Francis Kirimi Muthaura"
 published: true
 charges_status: "Closed: Charges Withdrawn"
 case: the-prosecutor-v-uhuru-muigai-kenyatta
-accused:
-  - francis-kirimi-muthaura
+accused: francis-kirimi-muthaura
 slug: uhuru-muigai-kenyatta-charges-francis-kirimi-muthaura
 ---
 
@@ -12,7 +11,7 @@ slug: uhuru-muigai-kenyatta-charges-francis-kirimi-muthaura
 
 Kenyatta and members of the Mungiki (a criminal organization) allegedly developed and executed a common plan to attack perceived ODM supporters in order to keep the Party of National Unity (PNU) in power in the 2007-2008 elections. In executing the common plan, Muthuara allegedly facilitated meetings with Kenyatta and members of the Mungiki in order to prepare widespread attacks against civilians perceived to support ODM, and to instruct Kenyan Police Forces not to interfere with the movement of pro-PNU and Mungiki members. Muthuara allegedly helped to facilitate post-election attacks by providing transportation, funding, weapons, and logistical support to the direct perpetrators. As Chairman of the National Security Committee, and with support from Ali (former Police Commissioner and member of the National Security Committee), Muthuara allegedly further ensured the attackers' safe travel across Kenya, ensured that police did not interfere with their travel, and ensured that attackers were not punished after the attacks.
 
-Pre-Trial Chamber II confirmed the charges against Muthaura on 23 January 2012. However, the Office of the Prosecutor [withdrew](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/OTP-statement-11-03-2013.aspx) charges against Muthaura on 11 March 2013 after removing a key witness from the case. The witness had recanted a significant part of his testimony against Muthaura and admitted accepting bribes from individuals claiming to be representatives of Muthaura and Kenyatta. Trial Chamber V then terminated proceedings against Muthaura, leaving Kenyatta as the sole defendant in the case.
+Pre-Trial Chamber II confirmed the charges against Muthaura on January 23, 2012. However, the Office of the Prosecutor [withdrew](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/OTP-statement-11-03-2013.aspx) charges against Muthaura on March 11, 2013 after removing a key witness from the case. The witness had recanted a significant part of his testimony against Muthaura and admitted accepting bribes from individuals claiming to be representatives of Muthaura and Kenyatta. Trial Chamber V then terminated proceedings against Muthaura, leaving Kenyatta as the sole defendant in the case.
 
 ### Charges
 

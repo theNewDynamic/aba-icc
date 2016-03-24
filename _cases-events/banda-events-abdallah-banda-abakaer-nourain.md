@@ -4,10 +4,9 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-banda
-accused:
-  - abdallah-banda-abakaer-nourain
+accused: abdallah-banda-abakaer-nourain
 slug: banda-events-abdallah-banda-abakaer-nourain
 ---
 
-The Office of the Prosecutor made public the summons to appear for Banda on 15 June 2010. The charges against him were confirmed on 7 March 2011. The trial was vacated on 4 October 2013 after evidence was presented of his death.
+The Office of the Prosecutor made public the summons to appear for Banda on June 15, 2010. The charges against him were confirmed on March 7, 2011. The trial was vacated on October 4, 2013 after evidence was presented of his death.
 

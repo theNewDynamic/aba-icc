@@ -2,11 +2,10 @@
 title: "Kony et al. - Joseph Kony - Warrant of Arrest"
 published: true
 event_date: 2005-10-13
-action: Warrant of Arrest
+action: "Warrant of Arrest"
 case: the-prosecutor-v-kony-et-al
-accused:
-  - joseph-kony
-slug: kony-et-al-events-joseph-kony-warrant-of arrest
+accused: joseph-kony
+slug: kony-et-al-events-joseph-kony-warrant-of-arrest
 ---
 
 [Made public](http://www.icc-cpi.int/iccdocs/doc/doc97185.pdf)

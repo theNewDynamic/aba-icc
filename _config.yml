@@ -7,8 +7,8 @@ case_statuses:
  - "Trial Ongoing"
  - "Case Terminated"
  - "Trial Adjourned"
- - "Trial Complete, Acquitted"
- - "Trial Complete, Sentenced"
+ - "Trial Complete: Acquitted"
+ - "Trial Complete: Sentenced"
 
 phases:
   - "Preliminary Examinations, Initial Assessment"
@@ -110,6 +110,14 @@ defaults:
     values:
       layout: "page"
       collectionName: "About the ICC"
+      menu: 'about-the-icc'
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: 'accused'
+    values:
+      layout: "accused"
+      collectionName: "Accused"
       menu: 'about-the-icc'
   -
     scope:

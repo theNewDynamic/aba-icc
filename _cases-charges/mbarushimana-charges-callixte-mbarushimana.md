@@ -3,8 +3,7 @@ title: "Mbarushimana charges - Callixte Mbarushimana"
 published: true
 charges_status: "Closed: Charges Not Confirmed"
 case: the-prosecutor-v-mbarushimana
-accused:
-  - callixte-mbarushimana
+accused: callixte-mbarushimana
 slug: mbarushimana-charges-callixte-mbarushimana
 ---
 
@@ -12,7 +11,7 @@ slug: mbarushimana-charges-callixte-mbarushimana
 
 Callixte Mbarushimana is allegedly the Executive Secretary of the Forces Démocratiques pour la Libération du Rwanda (Democratic Forces for the Liberation of Rwanda) (FDLR) and its armed wing, the FDLR-FCA. The FDLR is an armed group formed after the 1994 Rwandan Genocide that has been operating in the Democratic Republic of the Congo throughout and in the aftermath of the first and second Congo wars. The Office of the Prosecutor (OTP) alleged that Mbarushimana assumed his position as Executive Secretary of the FDLR in 2007. In this role, Mbarushimana allegedly agreed to conduct an international campaign to extort political power from the Democratic Republic of the Congo, the Republic of Rwanda and the international community by committing atrocities against civilians. OTP alleges that as a leader of the FDLR, Mbarushimana agreed to conduct a campaign attacking civilian populations in order to create a human catastrophe which could strengthen their bargaining position. In implementing this plan, the FDLR allegedly repeatedly attacked civilian populations from the end of 2008 through 2009 in North and South Kivu, killing hundreds and forcibly displacing over 370,000 individuals.
 
-Pretrial Chamber I declined to [confirm](http://www.icc-cpi.int/iccdocs/doc/doc1286409.pdf) charges against Mbarushimana on 16 December 2011, deciding that the Prosecution had not presented enough reliable evidence to establish substantial grounds to believe that the attacks were part of a course of conduct to attack civilians in furtherance of an organizational policy. Mbarushimana was [released](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200104/related%20cases/icc01040110/press%20releases/Pages/pr760.aspx) from ICC custody on 23 December 2011.
+Pretrial Chamber I declined to [confirm](http://www.icc-cpi.int/iccdocs/doc/doc1286409.pdf) charges against Mbarushimana on December 16, 2011, deciding that the Prosecution had not presented enough reliable evidence to establish substantial grounds to believe that the attacks were part of a course of conduct to attack civilians in furtherance of an organizational policy. Mbarushimana was [released](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200104/related%20cases/icc01040110/press%20releases/Pages/pr760.aspx) from ICC custody on December 23, 2011.
 
 For more information on the Prosecutor v. Mbarushimana please visit the Court's [website](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200104/related%20cases/icc01040110/Pages/icc01040110.aspx).
 

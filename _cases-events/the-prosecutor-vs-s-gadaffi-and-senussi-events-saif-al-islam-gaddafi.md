@@ -4,8 +4,7 @@ published: true
 event_date:
 action:
 case: the-prosecutor-vs-s-gadaffi-and-senussi
-accused:
-  - saif-al-islam-gaddafi
+accused: saif-al-islam-gaddafi
 slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-saif-al-islam-gaddafi
 ---
 

@@ -4,8 +4,7 @@ published: true
 event_date:
 action:
 case: the-prosecutor-v-uhuru-muigai-kenyatta
-accused:
-  - uhuru-muigai-kenyatta
+accused: uhuru-muigai-kenyatta
 slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta
 ---
 

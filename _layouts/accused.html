@@ -1,0 +1,64 @@
+---
+layout: default
+section: page
+---
+{% assign country = site.countries | where: 'slug', page.country %}
+{% assign cases = site.cases | where: 'country', page.country %}
+{% assign accused = page.accused  %}
+
+{% include hero.html %}
+
+<div class="has-layout" id="start-of-content">
+
+  {% comment %} case status {% endcomment %}
+  <div class="has-layout row row-first small">
+    <ul class="inline-block" style="margin:0;padding:0;">
+        {% if page.country %}
+          <li>
+            <strong>Country: </strong>
+            <a href="{{ country[0].url }}">{{ country[0].title }}</a>
+          </li>
+      {% endif %}
+
+      {% if cases %}
+        <li>
+          <strong>Cases: </strong>
+          {% for object in cases %}
+            {% if object.accused contains page.slug %}
+              <a href="{{ object.url }}">{{ object.title}}</a>&nbsp;&nbsp;&nbsp;
+            {% endif %}
+          {% endfor %}
+        </li>
+      {% endif %}
+    </ul>
+  </div>
+
+ {% comment %} Trial Name {% endcomment %}
+
+ <header class="has-layout row small">
+    <h1>
+      {% if page.title %}
+        {{ page.title }}
+      {% endif %}
+    </h1>
+    {% if page.description %}
+      {{ page.description | markdownify }}
+    {% endif %}
+  </header>
+
+
+ {% comment %} Main Body {% endcomment %}
+  <article class="hentry">
+    <div class="prose">
+      {{ content }}
+    </div>
+    {% if cases %}
+      <h3>Cases</h3>
+      {% for object in cases %}
+        {% if object.accused contains page.slug %}
+          {% include _case-listing.html %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </article>
+</div>

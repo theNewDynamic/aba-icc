@@ -4,6 +4,7 @@ section: page
 ---
 {% assign country = site.countries | where: 'slug', page.country %}
 {% assign cases = site.cases | where: 'country', page.slug %}
+{% assign accused = page.accused  %}
 
 {% include hero.html %}
 
@@ -25,11 +26,11 @@ section: page
           {{ page.case_status }}
         </li>
       {% endif %}
-      {% if page.trial_opening %}
+      {% if page.trial_opening_date %}
       <li>
         <strong>Trial Opening: </strong>
 
-        {{ page.trial_opening | date: '%B %e, %Y' }}
+        {{ page.trial_opening_date | date: '%B %e, %Y' }}
       </li>
       {% endif %}
 
@@ -41,7 +42,6 @@ section: page
 
     </ul>
   </div>
-
   {% comment %} Situation & Cases {% endcomment %}
 
   {% if situations %}
@@ -54,11 +54,30 @@ section: page
    </div>
  {% endif %}
 
+ {% comment %} Trial Name {% endcomment %}
 
+ <header class="has-layout row small">
+    <h1>
+      {% if page.long_name %}
+        {{ page.long_name }}
+      {% else %}
+        {{ page.title }}
+      {% endif %}
+    </h1>
+  </header>
 
 
  {% comment %} Main Body {% endcomment %}
-  <article class="hentry">
-    {% include _article.html %}
+  <article>
+    <div class="prose">
+      {{ content }}
+    </div>
+    {% comment %} Accused Details {% endcomment %}
+    {% for theAccused in page.accused %}
+      {% assign accused = site.accused | where: 'slug', theAccused %}
+      {% for object in accused %}
+        {% include _case-listing-accused.html %}
+      {% endfor %}
+    {% endfor %}
   </article>
 </div>

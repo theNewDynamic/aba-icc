@@ -3,8 +3,7 @@ title: "Walter Osapiri Barasa charges - Walter Osapiri Barasa"
 published: true
 charges_status: "Pre-trial: Suspect Remains at Large"
 case: the-prosecutor-v-walter-osapiri-barasa
-accused:
-  - walter-osapiri-barasa
+accused: walter-osapiri-barasa
 slug: walter-osapiri-barasa-charges-walter-osapiri-barasa
 ---
 

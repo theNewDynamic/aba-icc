@@ -3,8 +3,7 @@ title: "Hussein charges - Abdel Raheem Muhammad Hussein"
 published: true
 charges_status: "Pre-trial: Suspect Remains at Large"
 case: the-prosecutor-v-hussein
-accused:
-  - abdel-raheem-muhammad-hussein
+accused: abdel-raheem-muhammad-hussein
 slug: hussein-charges-abdel-raheem-muhammad-hussein
 ---
 

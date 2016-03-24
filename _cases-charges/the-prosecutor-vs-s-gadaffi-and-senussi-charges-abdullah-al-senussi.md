@@ -3,8 +3,7 @@ title: "The Prosecutor vs. S. Gadaffi and Senussi charges - Abdullah Al-Senussi"
 published: true
 charges_status: "Pre-trial: Deemed inadmissible, suspect currently held in Libya."
 case: the-prosecutor-vs-s-gadaffi-and-senussi
-accused:
-  - abdullah-al-senussi
+accused: abdullah-al-senussi
 slug: the-prosecutor-vs-s-gadaffi-and-senussi-charges-abdullah-al-senussi
 ---
 
@@ -12,7 +11,7 @@ slug: the-prosecutor-vs-s-gadaffi-and-senussi-charges-abdullah-al-senussi
 
 Abdullah Al-Senussi is the brother-in-law of Muammar Gaddafi, ruler of Libya from 1969- 2011. As a member of Gaddafi's inner circle, the Office of the Prosecutor alleges that Al-Senussi played a key role in implementing Gaddafi's pan to suppress the February 2011 protests through any means necessary, including through lethal force. Al-Senussi allegedly met with Al-Islam and Gaddafi before the February 2011 protests to construct this plan, and conduct initial measures such as mobilizing Security Forces and recruiting foreign mercenaries. The Office of the Prosecutor alleges that Senussi commanded Security Forces during the uprising, and that Al-Senussi functioned as Gaddafi's "executioner." Senussi allegedly directed the Security Forces' attack on civilian protestors in Benghazi and ordered Security Forces to shoot civilians.
 
-Al-Senussi was arrested in Mauritania on 17 March 2012 and extradited to Libya on 5 September. The Pre-Trial Chamber ruled that the case against Al-Senussi was currently inadmissible on 11 October 2013. He remains in custody in Libya.
+Al-Senussi was arrested in Mauritania on March 17, 2012 and extradited to Libya on September 5. The Pre-Trial Chamber ruled that the case against Al-Senussi was currently inadmissible on October 11, 2013. He remains in custody in Libya.
 
 For more information on the Prosecutor v. Senussi please visit the Court's [website](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/icc0111/related%20cases/icc01110111/Pages/icc01110111.aspx).
 

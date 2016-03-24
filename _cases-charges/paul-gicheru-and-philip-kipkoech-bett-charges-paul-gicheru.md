@@ -3,8 +3,7 @@ title: "Paul Gicheru and Philip Kipkoech Bett charges - Paul Gicheru"
 published: true
 charges_status: "Pre-Trial"
 case: the-prosecutor-v-paul-gicheru-and-philip-kipkoech-bett
-accused:
-  - paul-gicheru
+accused: paul-gicheru
 slug: paul-gicheru-and-philip-kipkoech-bett-charges-paul-gicheru
 ---
 

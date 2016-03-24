@@ -3,16 +3,15 @@ title: "Abu Garda charges - Bahr Idriss Abu Garda"
 published: true
 charges_status: "Pretrial: Charges Not Confirmed "
 case: the-prosecutor-v-abu-garda
-accused:
-  - bahr-idriss-abu-garda
+accused: bahr-idriss-abu-garda
 slug: abu-garda-charges-bahr-idriss-abu-garda
 ---
 
 ### Factual Allegations
 
-Bahr Idriss Abu Garda (Abu Garda) is the Chairman and General Coordinator of Military Operations of the United Resistance Front (URF), a coalition of several groups fighting against forces supporting the Government of the Republic of Sudan in Darfur. Abu Garda is allegedly a former top ranking official of the Justice and Equality Movement (JEM) and participated in forming the Justice and Equality Movement Collective Leadership (JEM-CL). The Office of the Prosecutor alleges that splinter forces of JEM attacked the African Union Peacekeeping Mission in Sudan (AMIS) at the Haskanita Military Group Site (MGS Haskanita) in Darfur on 29 September 2007. The attack allegedly resulted in the death of 12 and the wounding of 8 AMIS soldiers, along with the destruction of communications, vehicles, computers, fuel, and ammunition, among other property of AMIS. The Office of the Prosecutor alleges that the attackers consisted of JEM troops commanded by Abu Garda and troops commanded jointly by other armed groups, and that the Abu Garda and other commanders committed the attack pursuant to a common plan to do so.
+Bahr Idriss Abu Garda (Abu Garda) is the Chairman and General Coordinator of Military Operations of the United Resistance Front (URF), a coalition of several groups fighting against forces supporting the Government of the Republic of Sudan in Darfur. Abu Garda is allegedly a former top ranking official of the Justice and Equality Movement (JEM) and participated in forming the Justice and Equality Movement Collective Leadership (JEM-CL). The Office of the Prosecutor alleges that splinter forces of JEM attacked the African Union Peacekeeping Mission in Sudan (AMIS) at the Haskanita Military Group Site (MGS Haskanita) in Darfur on September 29, 2007. The attack allegedly resulted in the death of 12 and the wounding of 8 AMIS soldiers, along with the destruction of communications, vehicles, computers, fuel, and ammunition, among other property of AMIS. The Office of the Prosecutor alleges that the attackers consisted of JEM troops commanded by Abu Garda and troops commanded jointly by other armed groups, and that the Abu Garda and other commanders committed the attack pursuant to a common plan to do so.
 
-Pretrial Chamber I decided on 8 February 2010 not to confirm the charges against Abu Garda, deciding that the Prosecution had not presented enough reliable evidence to establish substantial grounds to believe that Abu Garda was a part of meetings discussing the common plan to attack the MGS Haskanita, or that his participation in the attack itself or in establishing the common plan could be inferred. Abu Garda appeared voluntarily throughout the proceedings and is not in ICC custody.
+Pretrial Chamber I decided on February 8, 2010 not to confirm the charges against Abu Garda, deciding that the Prosecution had not presented enough reliable evidence to establish substantial grounds to believe that Abu Garda was a part of meetings discussing the common plan to attack the MGS Haskanita, or that his participation in the attack itself or in establishing the common plan could be inferred. Abu Garda appeared voluntarily throughout the proceedings and is not in ICC custody.
 
 <figure data-type="video">
 

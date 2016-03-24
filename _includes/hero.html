@@ -3,6 +3,9 @@
     {% if page.title %}
     <h1>{{ page.title }}</h1>
     {% endif %}
+    {% if page.image_path %}
+    <img src="{{ page.image_path }}" alt="" class="featured" style="max-width:300px;" />
+    {% endif %}
   </div>
   <div id="js-parallax-background" class="parallax-background"></div>
 </div>
