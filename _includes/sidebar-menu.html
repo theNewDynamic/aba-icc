@@ -4,6 +4,8 @@
  {% endcomment %}
 {% if page.menu == 'about-the-icc' %}
   {% assign section = site.documents | where: 'collection', 'about-the-icc' | sort: 'order', 'last' %}
+{% elsif page.menu == 'links-home-page' %}
+  {% assign section = site.data.links-home-page %}
 {% else %}
   {% assign section = site.documents | where: 'collection', 'the-aba-icc-project' | sort: 'order', 'last' %}
 {% endif %}
@@ -131,4 +133,5 @@
     {% endfor %}
   </ul>
 {% endif %}
+
 </nav>

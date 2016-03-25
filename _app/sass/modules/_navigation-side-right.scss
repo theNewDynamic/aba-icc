@@ -38,7 +38,7 @@ $sidebar-right-color: $light-gray !default;
         line-height: 1.1;
         margin-bottom: 0; //probably should use a class name for this, huh
       }
-      // Styles      
+      // Styles
       section {
           padding:1.5em 0;
           header {
@@ -61,6 +61,12 @@ $sidebar-right-color: $light-gray !default;
         -webkit-overflow-scrolling: touch;
       }
     }
+body.home .sidebar-right {
+  background-image: url('/assets/images/logo-kingdom-of-the-netherlands-x19.png');
+  background-position: 10% 97%;
+  background-repeat: no-repeat;
+}
+
   }
 
 // IF WE'RE CALLING THE FILE BUT NOT USING RIGHT SIDEBAR MAKE SURE IT DOESN'T MESS UP FRONT-END

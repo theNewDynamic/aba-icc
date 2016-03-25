@@ -30,7 +30,7 @@
     @include flex-wrap(wrap);
     clear: both;
     text-align: center;
-
+    margin: .0625em;
   .box {
     @include transition (all 0.2s ease-in-out);
     @include flex(2 2 15em);
@@ -57,7 +57,7 @@
 
         &:focus,
         &:hover {
-          background-color: transparentize($color-from-list, 0.4);
+          background-color:$black;// transparentize($color-from-list, 0.4);
         }
       }
     }
