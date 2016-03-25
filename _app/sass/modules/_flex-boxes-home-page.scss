@@ -18,13 +18,15 @@
   #0c3351,
 #153254,
 
-  #0e487a,
+#0C62AA,
 
-  #0f79d3,
+  #0e487a,
+#0e5aa4
+#0a1e34,
   #1a9ff9,
 
-#0a1e34,
 
+#0f79d3,
 #3c5a79,
 #0e5aa4,
 #4c8db6,
@@ -68,7 +70,7 @@
     min-height: 7em;
     background-position: center top;
     @include media($large-screen) {
-      min-height: 12em;
+      min-height: 14em;
       background-position: center center;
     }
 
@@ -84,6 +86,8 @@
       }
     }
 
+
+
     img {
       display: block;
       height: 3em;
@@ -93,8 +97,18 @@
 
     .flex-title {
       color: $flex-box-color;
-      font-size: 1.2em;
+      font-size: 1.25em;
       margin-bottom: 0.5em;
+
+    }
+
+    .heading-over-image {
+      opacity: 0;
+    }
+    &:hover .heading-over-image, &:focus .heading-over-image{
+      //@include transition (opacity 1s ease-out 2s);
+      @include transition(all 0.5s ease-in-out);
+      opacity: 1;
     }
 
     p {

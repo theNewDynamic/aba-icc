@@ -25,6 +25,8 @@ image_url: https://aba-icc.imgix.net
 kramdown:
   input: GFM
 future: false
+gems:
+  - jekyll-lunr-js-search
 incremental: false
 timezone: Etc/Zulu
 port: 4049

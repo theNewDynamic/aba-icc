@@ -22,12 +22,16 @@ body_class: home
         color:{{ object.color}};
       {% endif %}
     "
-
     >
-    <!-- <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_logo_2_dark.png" alt=""> -->
     {% if object.heading %}
       <h1 class="flex-title">
-        {{ object.heading }}
+        {% if object.featured_image_path %}
+          <span class="heading-over-image">
+            {{ object.heading }}
+          </span>
+        {% else %}
+          {{ object.heading }}
+        {% endif %}
       </h1>
     {% endif %}
     {% if object.description %}
@@ -36,4 +40,18 @@ body_class: home
   </a>
   {% endfor %}
 
+</div>
+
+{% assign data = site.posts | sort: 'date', 'last' | reverse %}
+<section class="news">
+  {% for object in data limit: 3 %}
+    {% include _news-item.html %}
+  {% endfor %}
+</section>
+<div class="heading">
+  <h2>
+    <a href="/news/">
+      more news
+    </a>
+  </h2>
 </div>

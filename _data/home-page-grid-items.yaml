@@ -15,31 +15,35 @@
   url: "/events/"
 
 -
+  heading: Events
   featured_image_path: /uploads/1425185330578_international-humanitarian-law-dialogues-1496.jpg
   description:
   url: "/news/"
 
 -
-  heading: "About the International Criminal Court"
+  heading: "Situations & Cases Before the Court"
   class: text-right
-  url: /about-the-icc/about-the-icc/
+  url: /about-the-icc/situations-cases/
 
 -
+  heading: About the International Criminal Court
   featured_image_path: /uploads/1425163924517_bensouda-getty.jpg
   url: /about-the-icc/about-the-icc/
 
 -
-  heading: "Evolution of International Criminal Justice"
+  heading: State Parties to the ICC
   class: text-right
-  url: /about-the-icc/evolution-of-international-criminal-justice/
+  url: /about-the-icc/states-parties-to-the-icc/
 
 -
+  heading: Evolution of International Criminal Justice
   featured_image_path: /uploads/1425164011893_jackson-nuremberg-dark.jpg
   description: "Of one thing we may be sure. The future will never have to ask, with misgiving, what could the Nazis have said in their favor. History will know that whatever could be said, they were allowed to say. They have been given the kind of a Trial which they, in the days of their pomp and power, never gave to any man…<br /><small>— Justice Jackson, from his closing statement at Nuremberg</small>"
   class: "big"
   url: /about-the-icc/evolution-of-international-criminal-justice/
 
 -
+  heading: "International Criminal Justice Today"
   featured_image_path: /uploads/1425164118616_icjt-grid-image_desat.jpg
   class: "grid-item-medium grid-item-image grid-image"
   url: /the-aba-icc-project/international-criminal-justice-today/
