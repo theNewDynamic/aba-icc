@@ -5,7 +5,7 @@ country: uganda
 trial_opening_date:
 case_status: "Pre-trial"
 long_name: "The Prosecutor v. Joseph Kony, Vincent Otti, Okot Odhiambo"
-accused:
+accuseds:
   - joseph-kony
   - vincent-otti
   - okot-odhiambo

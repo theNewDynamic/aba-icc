@@ -5,7 +5,7 @@ country: kenya
 trial_opening_date:
 case_status: "Pre-trial"
 long_name:
-accused:
+accuseds:
   - walter-osapiri-barasa
 
 slug: the-prosecutor-v-walter-osapiri-barasa

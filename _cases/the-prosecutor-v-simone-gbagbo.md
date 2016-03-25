@@ -5,7 +5,7 @@ country: cote-divoire
 trial_opening_date:
 case_status: "Pre-trial"
 long_name:
-accused:
+accuseds:
   - simone-gbagbo
 
 slug: the-prosecutor-v-simone-gbagbo

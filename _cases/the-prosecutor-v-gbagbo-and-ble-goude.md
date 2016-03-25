@@ -5,7 +5,7 @@ country: cote-divoire
 trial_opening_date: 2016-01-28T00:00:00.000Z
 case_status: "Trial Ongoing"
 long_name: "The Prosecutor v. Laurent Gbagbo and Charles Blé Goudé"
-accused:
+accuseds:
   - laurent-gbagbo
   - charles-blé-goudé
 

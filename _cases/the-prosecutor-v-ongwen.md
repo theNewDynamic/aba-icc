@@ -5,7 +5,7 @@ country: uganda
 trial_opening_date:
 case_status: "Pre-trial"
 long_name: "The Prosecutor v. Dominic Ongwen"
-accused:
+accuseds:
   - dominic-ongwen
 
 slug: the-prosecutor-v-ongwen

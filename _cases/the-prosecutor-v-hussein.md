@@ -5,7 +5,7 @@ country: sudan
 trial_opening_date:
 case_status: "Pre-trial"
 long_name: "The Prosecutor v. Abdel Raheem Muhammad Hussein"
-accused:
+accuseds:
   - abdel-raheem-muhammad-hussein
 
 slug: the-prosecutor-v-hussein

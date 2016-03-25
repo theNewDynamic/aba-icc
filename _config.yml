@@ -60,7 +60,7 @@ collections:
     output: true
     permalink: '/:collection/:path/'
     name: "About the ICC"
-  accused:
+  accuseds:
     output: true
     permalink: '/:collection/:path/'
   board-of-advisors:
