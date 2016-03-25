@@ -11,31 +11,19 @@
   $flex-box-width: 18em;
   $flex-box-color: $white;//transparentize($base-font-color, 0.3);
   $flex-box-top-colors:
-  #0C3C5B
-
-#051825,
-
-  #0c3351,
-#153254,
-
-#0C62AA,
-
-  #0e487a,
-#0e5aa4
-#0a1e34,
-  #1a9ff9,
-
-
-#0f79d3,
-#3c5a79,
-#0e5aa4,
-#4c8db6,
-
-
-
-
-
-
+    #0C3C5B
+    #051825,
+    #0c3351,
+    #153254,
+    #0C62AA,
+    #0e487a,
+    #0e5aa4
+    #0a1e34,
+    #1a9ff9,
+    #0f79d3,
+    #3c5a79,
+    #0e5aa4,
+    #4c8db6,
     #08273b,
     #082a40,
     #0c3c5b,
@@ -67,7 +55,7 @@
     margin: $flex-box-gutter;
     padding: 2em 2em 3em 2em;
     text-decoration: none;
-    min-height: 7em;
+    min-height: 8em;
     background-position: center top;
     @include media($large-screen) {
       min-height: 14em;
