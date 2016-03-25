@@ -11,7 +11,29 @@
   $flex-box-width: 18em;
   $flex-box-color: $white;//transparentize($base-font-color, 0.3);
   $flex-box-top-colors:
-    #051825,
+  #0C3C5B
+
+#051825,
+
+  #0c3351,
+#153254,
+
+  #0e487a,
+
+  #0f79d3,
+  #1a9ff9,
+
+#0a1e34,
+
+#3c5a79,
+#0e5aa4,
+#4c8db6,
+
+
+
+
+
+
     #08273b,
     #082a40,
     #0c3c5b,
@@ -57,7 +79,7 @@
 
         &:focus,
         &:hover {
-          background-color:$black;// transparentize($color-from-list, 0.4);
+          background-color:$blue-dark;// transparentize($color-from-list, 0.4);
         }
       }
     }
