@@ -3,19 +3,19 @@ layout: default
 section: page
 ---
 <!-- flex-box-big -->
-{% assign pages = site.data.grid-items  %}
+{% assign pages = site.data.home-page-grid-items  %}
 <div class="flex-boxes-home">
 
 {% for object in pages %}
   <a href="{{ object.url }}" class="box{% if object.class %} {{object.class}}{% endif %}"
       style="
       {% if object.featured_image_path %}
-        background:url( {{ object.featured_image_path }} );
+        background-image:url( {{ object.featured_image_path }} );
         background-size:cover;
         background-repeat:no-repeat;
       {% endif %}
-      {% if object.background_color %}
-        background-color:{{ object.background_color }};
+      {% if object.background-color %}
+        background-color: {{ object.background-color }};
       {% endif %}
       {% if object.color %}
         color:{{ object.color}};

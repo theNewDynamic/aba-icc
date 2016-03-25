@@ -1,8 +1,7 @@
 -
   description: "The American Bar Association's International Criminal Court Project is an independent initiative to support the International Criminal Court & US-ICC relations through advocacy, education, and practical legal assistance."
   class: "big"
-  background_color: "#051825"
-  url: /about-the-icc/about-the-icc/
+  url: /the-aba-icc-project/about-the-project/
 
 -
   heading: "Board of Advisors"
@@ -13,70 +12,40 @@
   heading: "Events"
   description:
   class: text-right
-  url: "/the-aba-icc-project/news/"
+  url: "/events/"
 
 -
-  # heading: "Events"
-  featured_image_path: 14669850384_f1c1df7be9_o.jpg
+  featured_image_path: /uploads/1425185330578_international-humanitarian-law-dialogues-1496.jpg
   description:
-  url: "/the-aba-icc-project/news/"
-  class: grid-image
-
+  url: "/news/"
 
 -
   heading: "About the International Criminal Court"
-# background_image: placeholder-stock-photo-2148589-survey.jpg
-  #description: Expert Debate
   class: text-right
-  url: "/about-the-icc/"
-  bg_position: "top center"
+  url: /about-the-icc/about-the-icc/
 
 -
-  background_image: "bensouda-getty.jpg"
-  description:
-  class: grid-image
-  url: "/about-the-icc/"
-# bg_position: "top center"
+  featured_image_path: /uploads/1425163924517_bensouda-getty.jpg
+  url: /about-the-icc/about-the-icc/
 
 -
   heading: "Evolution of International Criminal Justice"
-#background_image: Nuremberg_Trials.jpg
-  description:
   class: text-right
-  url: "/evolution-of-international-criminal-justice/01-introduction/"
+  url: /about-the-icc/evolution-of-international-criminal-justice/
 
 -
   featured_image_path: /uploads/1425164011893_jackson-nuremberg-dark.jpg
   description: "Of one thing we may be sure. The future will never have to ask, with misgiving, what could the Nazis have said in their favor. History will know that whatever could be said, they were allowed to say. They have been given the kind of a Trial which they, they were allowed to say. They have been given the kind of a Trial which they, i in the days of their pomp and power, never gave to any man… <br /><small>— Justice Jackson, from his closing statement at Nuremberg</small>"
-  url: "/evolution-of-international-criminal-justice/"
   class: "big"
-  url: "/evolution-of-international-criminal-justice/"
+  url: /about-the-icc/evolution-of-international-criminal-justice/
 
-
-
-
-
-# -
-  #  # heading: "Board of Advisors"
-#  background_image: "aba-icc-board-banner.jpg"
-  #  description:
-  #  url: "/the-aba-icc-project/board-of-advisors/"
-  #  class: "grid-item-big grid-item-imageTK grid-image"
 -
-  #heading: "Public Opinion Polls"
-# background_image: ipsos-800x290.png
-  background_image: icjt-grid-image_desat.jpg
+  featured_image_path: /uploads/1425164118616_icjt-grid-image_desat.jpg
   class: "grid-item-medium grid-item-image grid-image"
   url: /the-aba-icc-project/international-criminal-justice-today/
   background_size: cover
-  bg_position: "center center"
 
 -
   heading: "International Criminal Justice Today"
   url: /the-aba-icc-project/international-criminal-justice-today/
   class: text-left
-
--
-  heading: "Public Opinion Polling"
-  url: /the-aba-icc-project/international-criminal-justice-today/
-  class: text-right
