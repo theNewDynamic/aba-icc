@@ -64,7 +64,7 @@ collections:
     name: "About the ICC"
   accuseds:
     output: true
-    permalink: '/:collection/:path/'
+    permalink: '/accused/:path/'
   board-of-advisors:
     output: true
     permalink: '/:collection/:path/'
@@ -115,7 +115,7 @@ defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
-      type: 'accused'
+      type: 'accuseds'
     values:
       layout: "accused"
       collectionName: "Accused"

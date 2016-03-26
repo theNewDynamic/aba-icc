@@ -4,7 +4,7 @@ section: page
 ---
 {% assign country = site.countries | where: 'slug', page.country %}
 {% assign cases = site.cases | where: 'country', page.slug %}
-{% assign accused = page.accused  %}
+{% assign accused = page.accuseds  %}
 
 {% include hero.html %}
 
@@ -73,8 +73,8 @@ section: page
       {{ content }}
     </div>
     {% comment %} Accused Details {% endcomment %}
-    {% for theAccused in page.accused %}
-      {% assign accused = site.accused | where: 'slug', theAccused %}
+    {% for theAccused in accused %}
+      {% assign accused = site.accuseds | where: 'slug', theAccused %}
       {% for object in accused %}
         {% include _case-listing-accused.html %}
       {% endfor %}

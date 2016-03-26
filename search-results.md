@@ -3,8 +3,9 @@ layout: page
 title: "Search Results"
 permalink: /search-results/
 ---
+{% include forms/search.html %}
 <section id="search-results" style="display: none;">
-  <p>Search results</p>
+  <h3>Search results</h3>
   <div class="entries">
   </div>
 </section>

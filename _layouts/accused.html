@@ -55,7 +55,7 @@ section: page
     {% if cases %}
       <h3>Cases</h3>
       {% for object in cases %}
-        {% if object.accused contains page.slug %}
+        {% if object.accuseds contains page.slug %}
           {% include _case-listing.html %}
         {% endif %}
       {% endfor %}
