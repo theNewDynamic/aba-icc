@@ -3,7 +3,7 @@ title: "Blé Goudé charges - Charles Blé Goudé"
 published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-ble-goude
-accused: charles-blé-goudé
+accused: charles-ble-goude
 slug: ble-goude-charges-charles-ble-goude
 ---
 

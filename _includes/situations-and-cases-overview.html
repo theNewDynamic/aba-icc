@@ -51,8 +51,8 @@
                   {% endif %}
                   <ul>
                     {% comment %} list the accused  for each case {% endcomment %}
-                    {% for accused in case.accused %}
-                      {% assign theAccused = site.accused | where: 'slug', accused %}
+                    {% for accused in case.accuseds %}
+                      {% assign theAccused = site.accuseds | where: 'slug', accused %}
                       <li>
                         <a href="{{ theAccused[0].url }}">
                           {{ theAccused[0].title }}

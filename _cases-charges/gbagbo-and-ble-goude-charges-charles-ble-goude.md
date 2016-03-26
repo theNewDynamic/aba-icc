@@ -3,7 +3,7 @@ title: "Gbagbo and Blé Goudé charges - Charles Blé Goudé"
 published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-gbagbo-and-ble-goude
-accused: charles-blé-goudé
+accused: charles-ble-goude
 slug: gbagbo-and-ble-goude-charges-charles-ble-goude
 ---
 

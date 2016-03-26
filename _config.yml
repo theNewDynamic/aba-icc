@@ -27,7 +27,7 @@ kramdown:
 future: false
 gems:
   - jekyll-lunr-js-search
-incremental: false
+incremental: true
 timezone: Etc/Zulu
 port: 4049
 exclude:
@@ -86,7 +86,7 @@ collections:
   evolution-of-international-criminal-justice:
     output: false
   situations:
-    output: false
+    output: true
     permalink: '/:collection/:path/'
   staff:
     output: true
@@ -154,6 +154,20 @@ defaults:
     values:
       layout: "country"
       collectionName: "Country"
+      menu: 'about-the-icc'
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: 'evolution-of-international-criminal-justice'
+    values:
+      exclude_from_search: true
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: 'situations'
+    values:
+      layout: "page"
+      collectionName: "Situation & Cases"
       menu: 'about-the-icc'
   -
     scope:

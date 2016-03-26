@@ -6,6 +6,8 @@ trial_opening_date:
 case_status: "Pre-trial"
 long_name: "The Prosecutor v. Charles Blé Goudé"
 accuseds:
-  - charles-blé-goudé
+  - charles-ble-goude
 
+slug: the-prosecutor-v-ble-goude
 ---
+

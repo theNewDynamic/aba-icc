@@ -7,8 +7,8 @@ case_status: "Trial Ongoing"
 long_name: "The Prosecutor v. Laurent Gbagbo and Charles Blé Goudé"
 accuseds:
   - laurent-gbagbo
-  - charles-blé-goudé
+  - charles-ble-goude
 
-slug: the-prosecutor-v-gbagbo-and-blé-goudé
+slug: the-prosecutor-v-gbagbo-and-ble-goude
 ---
 

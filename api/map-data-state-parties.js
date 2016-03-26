@@ -142,7 +142,7 @@ AmCharts.makeChart( "map-output", {
             {% if country.war_crimes %}
               <strong>War Crimes</strong><br />{{ country.war_crimes | markdownify | strip_newlines | replace: '"', "'"}}
             {% endif %}
-
+              <br /><a href='{{ country.url }}'>(country page)</a>
           {% endif %}"
           {% endcapture %}
           {{ description | strip | strip_newlines }}
@@ -232,7 +232,7 @@ AmCharts.makeChart( "map-output", {
               {% if country.war_crimes %}
                 <strong>War Crimes</strong><br />{{ country.war_crimes | markdownify | strip_newlines | replace: '"', "'"}}
               {% endif %}
-
+                <br /><a href='{{ country.url }}'>(country page)</a>
             {% endif %}"
             {% endcapture %}
             {{ description | strip | strip_newlines }}
