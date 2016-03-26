@@ -28,7 +28,7 @@ future: false
 gems:
   - jekyll-lunr-js-search
   - jekyll-seo-tag
-incremental: true
+incremental: false
 timezone: Etc/Zulu
 port: 4049
 exclude:
