@@ -1,4 +1,19 @@
-<script src="/assets/js/scripts.min.js" async></script>
+{% if page.url contains '/search-results/'  %}
+    <script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript">
+      $(function() {
+        $('#search-query').lunrSearch({
+          indexUrl: '/js/index.json',   // Url for the .json file containing search index data
+          results : '#search-results',  // selector for containing search results element
+          entries : '.entries',         // selector for search entries containing element (contained within results above)
+          template: '#search-results-template'  // selector for Mustache.js template
+        });
+      });
+    </script>
+
+  {% else %}
+    <script src="/assets/js/scripts.min.js" async></script>
+{% endif %}
 
 <script type="text/javascript">
   function downloadJSAtOnload() {

@@ -138,6 +138,18 @@ defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
+      type: 'cases-charges'
+    values:
+      exclude_from_search: true
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: 'cases-events'
+    values:
+      exclude_from_search: true
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
       type: 'countries'
     values:
       layout: "country"
