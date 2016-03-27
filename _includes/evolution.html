@@ -11,16 +11,9 @@
       {% endif %}
 
       {% if period.content %}
-          <div class="accordion-" style="margin-bottom:2.5em;">
+
             {{ period.content | markdownify }}
-            <a href="javascript:void(0)" class="js-accordion-trigger" style="padding:.125em .25em;border:1px solid #c9c9c9;border-radius:2px;margin-bottom:3em;font-size:.85em;">Source</a>
-            {% if event.source %}
-            <div class="submenu" style="margin:2em;background-color:#f9f9f9;padding:2em;border:1px solid #ddd;">
-              {{ event.source|safe }}
-              {% if event.link %}<a href="{{ event.link }}">Link</a>{% endif %}
-            </div>
-          {% endif %}
-        </div>
+        
       {% endif %}
     </div>
   {% endfor %}

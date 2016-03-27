@@ -7,8 +7,6 @@ date: 2015-02-04T13:53:00.000Z
 
 Gustav Moynier, one of the founders of the International Committee of the Red Cross, proposed a permanent international court in response to the devastation of the Franco-Prussian War.[^source1]
 
-[^source1]: ##### Source
-
-Christopher Keith Hall, The first proposal for an international criminal court, Int'l Rev. of the Red Cross No. 332 (March 31, 1998)
+[^source1]: Christopher Keith Hall, The first proposal for an international criminal court, Int'l Rev. of the Red Cross No. 332 (March 31, 1998)
 
 [Link](http://www.icrc.org/eng/resources/documents/misc/57jp4m.htm)
