@@ -6,7 +6,7 @@
   {% for object in countries %}
     <div class="flex-box{% if object.state_party %} partyToTheRomeStatute{% elsif object.signed_but_not_ratified %} signedbutNotRatified{% else %} notASignatory{% endif %}">
       <h1 class="flex-title" style="position:relative;">
-        <a href="{{ url(object) }}" class="name">
+        <a href="{{ object.url }}" class="name">
           {{ object.title }} <i class="icon-ion-link small" style="color:#c6c6c6;position:absolute;right:3;"></i>
         </a>
       </h1>
