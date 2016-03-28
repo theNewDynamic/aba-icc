@@ -20,6 +20,7 @@ Following World War II, the Allies set up the [Nuremberg](http://www.loc.gov/rr/
 [^Source2]: Trial of the Major War Criminals, International Military Tribunal (Nuremburg, 1947), [http://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-I.pdf](http://www.loc.gov/rr/frd/Military_Law/pdf/NT_Vol-I.pdf), also [http://www.legal-tools.org/uploads/tx_ltpdb/Charter_of_International_Military_Tribunal_1945_02.pdf](http://www.legal-tools.org/uploads/tx_ltpdb/Charter_of_International_Military_Tribunal_1945_02.pdf); Charter of the International Military Tribunal for the Far East, http://www.legal-tools.org/uploads/tx_ltpdb/CHARTER_OF_THE_INTERNATIONAL_MILITARY_TRIBUNAL_FOR_THE_FAR_EAST.pdf.
 
 
+
 ##### 1948
 
 December 9, 1948: The United Nations General Assembly adopted the [Convention on the Prevention and Punishment of the Crime of Genocide](http://legal.un.org/avl/ha/cppcg/cppcg.html), which called for perpetrators of genocide to be tried before international penal tribunals. Following the adoption of the Convention, the General Assembly invited the International Law Commission to explore the possibility of establishing an international judicial organ to try those charged with genocide. The Commission concluded that such a judicial organ was both possible and desirable, and a subsequent committee drafted statutes in 1951 and 1954\. Despite these early efforts, the General Assembly postponed considering the question, and the Cold War prevented further development of international criminal law for several decades.[^Source3]
@@ -27,6 +28,7 @@ December 9, 1948: The United Nations General Assembly adopted the [Convention on
 
 
 [^Source3]: Questions of International Criminal Jurisdiction, International Law Commission, [http://legal.un.org/ilc/summaries/7_2.htm](http://legal.un.org/ilc/summaries/7_2.htm); see also, Draft Code of Crimes against the Peace and Security of Mankind: report of the Working Group established by the Commission pursuant to the request from the General Assembly in paragraph 1 of its resolution 44/39, Yearbook of the International Law Commission 1990, vol. II(2) ¶¶ 103-09, [http://legal.un.org/ilc/documentation/english/a_cn4_l454.pdf](http://legal.un.org/ilc/documentation/english/a_cn4_l454.pdf); U.N. Doc. A/RES/898(IX), 14 Dec. 1954, http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/898%28IX%29&Lang=E&Area=RESOLUTION.
+
 
 
 ##### 1949

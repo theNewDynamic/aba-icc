@@ -13,8 +13,15 @@
       {% if period.content %}
 
             {{ period.content | markdownify }}
-        
+            <a href="javascript:void(0)" class="js-accordion-trigger-footnotes">Source</a>
+
+
       {% endif %}
     </div>
   {% endfor %}
 </div>
+<style media="screen">
+  .footnotes {
+    display: none;
+  }
+</style>
