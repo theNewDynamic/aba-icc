@@ -1,27 +1,23 @@
 {% assign timeline = site.evolution-of-international-criminal-justice | sort: 'title', 'last' %}
-
 <div class="timeline text-align-left">
   {% for period in timeline  %}
-
     <div class="full-width-bar">
       {% if period.title %}
         <h2>
           {{ period.title }}
         </h2>
       {% endif %}
-
       {% if period.content %}
-
-            {{ period.content | markdownify }}
-            <a href="javascript:void(0)" class="js-accordion-trigger-footnotes">Source</a>
-
-
+        {{ period.content | markdownify }}
+        {% if period.content contains '[' %}
+          <a href="javascript:void(0)" class="js-accordion-trigger-footnotes">Source</a>
+        {% endif %}
       {% endif %}
     </div>
   {% endfor %}
 </div>
 <style media="screen">
-  .footnotes {
-    display: none;
-  }
+.footnotes {
+display: none;
+}
 </style>

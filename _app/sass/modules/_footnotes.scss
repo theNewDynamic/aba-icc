@@ -11,6 +11,17 @@ a.js-accordion-trigger-footnotes {
   margin-bottom: 1em;
 }
 
+a.footnote {
+  cursor: default;
+  text-decoration: none;
+  color: $base-font-color;
+
+
+}
+.full-width-bar p a.footnote {
+  border-bottom:1px solid white;
+}
+
 .full-width-bar .is-expanded {
   padding-bottom: 5em;
 }

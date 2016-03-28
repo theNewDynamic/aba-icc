@@ -7,11 +7,11 @@ date: 2015-02-04T14:53:00.000Z
 
 ##### April 11, 2002
 
-The [60th country ratified the Rome Statute](http://www.un.org/apps/news/story.asp?NewsID=3360&Cr=icc&Cr1=#.UvvNf_ZkJJk), paving the way for its entry into force on July 1, 2002.[^source2002]
+The [60th country ratified the Rome Statute](http://www.un.org/apps/news/story.asp?NewsID=3360&Cr=icc&Cr1=#.UvvNf_ZkJJk), paving the way for its entry into force on July 1, 2002.[^source2002apr]
 
 [Link](http://www.icc-cpi.int/NR/rdonlyres/ADD16852-AEE9-4757-ABE7-9CDC7CF02886/283503/RomeStatutEng1.pdf)
 
-[^source2002]: Ratification Ceremony for UN paves way for International Criminal Court, April 11, 2002
+[^source2002apr]: Ratification Ceremony for UN paves way for International Criminal Court, April 11, 2002
 
 
 
@@ -19,9 +19,9 @@ The [60th country ratified the Rome Statute](http://www.un.org/apps/news/story.a
 
 ##### July 1, 2002
 
-The [Rome Statute](http://www.icc-cpi.int/NR/rdonlyres/ADD16852-AEE9-4757-ABE7-9CDC7CF02886/283503/RomeStatutEng1.pdf) legally entered into force, making the ICC the world's first and only permanent international criminal court for the investigation and prosecutions of genocide, crimes against humanity and war crimes committed after July 1, 2002 and within its jurisdiction.[^source2002]
+The [Rome Statute](http://www.icc-cpi.int/NR/rdonlyres/ADD16852-AEE9-4757-ABE7-9CDC7CF02886/283503/RomeStatutEng1.pdf) legally entered into force, making the ICC the world's first and only permanent international criminal court for the investigation and prosecutions of genocide, crimes against humanity and war crimes committed after July 1, 2002 and within its jurisdiction.[^source2002jul]
 
-[^source2002]: Rome Statute of the International Criminal Court
+[^source2002jul]: Rome Statute of the International Criminal Court
 
 
 

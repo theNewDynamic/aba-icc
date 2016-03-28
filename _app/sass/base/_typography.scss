@@ -25,7 +25,7 @@ h1, .h1 {
 
 h1 small {
     font-size: 1rem; // 16 * 2.25 = 36px
-  } 
+  }
 
 h2, .h2 {
   font-size: $base-font-size * 1.9; // 16 * 2 = 32px
@@ -59,7 +59,7 @@ h6, .h6{
 
 .has-layout h1, .has-layout h2, .has-layout h3 {
   color: $blue-dark;
-} 
+}
 
 p {
   margin: 0 0 $small-spacing;
