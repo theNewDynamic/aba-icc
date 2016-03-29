@@ -1,8 +1,0 @@
-{% extends "templates/theabaiccproject/base.html" %}
-
-{% block content %}
-<div class="heading"><h1>{{ item.name }}</h1></div>
-  {% set bios = cms.boardofadvisors %}
-  {% set data = bios|sort('last_name') %}
-  {% include "templates/partials/format-cards-board-of-advisors.html" %}
-{% endblock %}

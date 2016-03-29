@@ -1,7 +1,0 @@
-{% set stateParties = cms.country|where('state_party', true) %}
-{% set signedButNotRatified = cms.country|where('signed_but_not_ratified', true) %}
-<ul class="legend-map">
-  <li class="stateParties"><small>{{ stateParties|size }} State Parties to the Rome Statute</small></li>
-  <li class="signedButNotRatified"><small>{{ signedButNotRatified|size }} Signed but not Ratified</small></li>
-  <li class="notASignatory"><small>Not a Signatory</small></li>
-</ul>

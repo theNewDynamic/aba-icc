@@ -1,8 +1,0 @@
-{% extends "templates/partials/base.html" %}
-{# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
-{# {% set content_type = cms.theabaiccproject %}     #}
-
-{% block sideMenu %}
-  {% set global_menu = global.abaicc_project_menu %}
-  {% parent %}
-{% endblock %}

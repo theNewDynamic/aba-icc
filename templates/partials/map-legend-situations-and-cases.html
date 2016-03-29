@@ -1,9 +1,0 @@
-{% set stateParties = cms.country|where('state_party', true) %}
-{% set signedButNotRatified = cms.country|where('signed_but_not_ratified', true) %}
-<ul class="legend-map">
-  <li class="preliminaryexaminationsInitialAssessment"><small>Preliminary Examinations: Initial Assessment</small></li>
-  <li class="preliminaryexaminationsAdmissibilityAssessment"><small>Preliminary Examinations: Admissibility Assessment</small></li>
-  <li class="preliminaryexaminationsSubjectMatterJurisdictionAssessement"><small>Preliminary Examinations: Subject Matter Jurisdiction Assessement</small></li>
-  <li class="preliminaryexaminationsClosedDecisionNottoProceed"><small>Preliminary Examinations: Closed - Decision Not to Proceed</small></li>
-  <li class="situationscases"><small>Situation & Cases</small></li>
-</ul>
