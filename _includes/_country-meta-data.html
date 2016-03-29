@@ -2,6 +2,7 @@
 <div class="has-layout row row-first small">
   <ul class="inline-block" style="margin:0;padding:0;">
       {% if page.country %}
+        {% assign country = site.countries | where: 'slug', page.country %}
         <li>
           <strong>Country: </strong>
           <a href="{{ country[0].url }}">{{ country[0].title }}</a>

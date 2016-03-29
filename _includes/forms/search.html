@@ -1,8 +1,11 @@
 <div id="search">
-  <form action="/search-results/" method="get" data-search-index="false" role="search" autocomplete="off" class="hidden-jsTK" tabindex="2">
-    <input type="search" name="q" placeholder="Search" id="search-query" autocomplete="off" />
+  <form action="get" id="site_search" data-search-index="false" role="search" autocomplete="off" class="hidden-jsTK" tabindex="2">
+    <input type="search" name="search" placeholder="Search"  id="search_box" autocomplete="off" />
     <button type="submit">
       <img src="/assets/images/search-icon.png" alt="Search Icon">
     </button>
   </form>
-</div>
+  <ul id="search_results">
+    <li>Start Typing Your Search Term</li>
+  </div>
+</ul>

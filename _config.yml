@@ -26,7 +26,6 @@ kramdown:
   input: GFM
 future: false
 gems:
-  - jekyll-lunr-js-search
   - jekyll-seo-tag
 incremental: false
 timezone: Etc/Zulu
@@ -105,6 +104,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
+      collectionName: "Updates"
   -
     scope:
       path: "" # an empty string here means all files in the project
@@ -170,6 +170,13 @@ defaults:
       layout: "page"
       collectionName: "Situation & Cases"
       menu: 'about-the-icc'
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "staff"
+    values:
+      layout: "page"
+      collectionName: "Staff"
   -
     scope:
       path: "" # an empty string here means all files in the project

@@ -15,7 +15,7 @@
   {% assign heading = 'Board Members' %}
 {% endif %}
 
-{% if page.collection == 'countries' %}
+{% if page.collection == 'countries' or page.collection == 'situations' %}
   {% assign country_menu = site.situations | sort: 'title', 'last' %}
   {% assign heading = 'Situations & Preliminary Examinations' %}
   {% assign cases = site.cases | where: 'country', page.slug %}
