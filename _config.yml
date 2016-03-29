@@ -48,8 +48,8 @@ exclude:
 images: /assets/img/
 # dev options (true/false)
 # if site is in production, 'production: true'
-production: false
-bust_css_cache: true
+production: true
+bust_css_cache: false
 
 # options (data)
 google_analytics_id: UA-51919693-2
