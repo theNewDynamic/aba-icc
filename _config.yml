@@ -92,8 +92,8 @@ collections:
     output: true
     permalink: '/:collection/:path/'
   structure-of-the-icc:
-    output: true
-    permalink: '/:collection/:path/'
+    output: false
+    permalink: 'about-the-icc/structure-of-the-icc/#:slug'
   the-aba-icc-project:
     output: true
     permalink: '/:collection/:path/'

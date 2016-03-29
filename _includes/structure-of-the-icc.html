@@ -2,7 +2,7 @@
 <div class="timeline">
   {% for section in sections %}
     <div class="full-width-bar">
-      <h1>{{ section.title }}</h1>
+      <h1 id="{{ section.title | slugify }}">{{ section.title }}</h1>
 
 
       {% if section.responsibilities  %}{% comment %} //responsibilities {% endcomment %}

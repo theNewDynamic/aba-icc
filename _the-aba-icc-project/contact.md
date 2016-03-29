@@ -11,9 +11,9 @@ timeline:
 
 ##### **American Bar Association's International Criminal Court Project**
 
-1050 Connecticut Ave NW Suite 400
-Washington, D.C. 20036
-(202) 662-1584
+1050 Connecticut Ave NW Suite 400  
+Washington, D.C. 20036  
+(202) 662-1584  
 [aba-iccproject@americanbar.org](mailto:aba-iccproject@americanbar.org)
 
 * * *
