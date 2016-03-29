@@ -4,17 +4,14 @@ section: page
 ---
 {% include hero.html %}
 {% include _country-meta-data.html %}
-
 <div class="has-layout" id="start-of-content">
-
-  <article class="hentry">
+  <article class="hentry" role="article">
     {% include _article.html %}
   </article>
-{% if page.timeline %}
-  {% include timeline.html %}
-{% endif %}
-
-{% if page.include %}
-  {% include {{ page.include }} %}
-{% endif %}
+  {% if page.timeline %}
+    {% include timeline.html %}
+  {% endif %}
+  {% if page.include %}
+    {% include {{ page.include }} %}
+  {% endif %}
 </div>
