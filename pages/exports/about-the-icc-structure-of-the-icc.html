@@ -1,0 +1,37 @@
+{% set items = cms.abouttheicc |sort('name', true) %}
+{% for object in items %}
+{% if object.sections %}
+
+{% for section in object.sections %}
+{% set gallery = section.gallery %}
+@@@<br />
+title: "{{ section.heading }}"<br />
+published: {% if object.isDraft == false %}true{% else %}false{% endif %}<br />
+
+
+responsibilities:<br />{% for row in section.tabular_data %}
+$$- {{row}}<br />{% endfor %}
+
+
+
+
+
+footnotes: {% if section.footnotes %}"{{ section.footnotes | safe | replace('<p>', '') | replace('</p>', '') }}"{% endif %}<br />
+
+
+images:<br />
+{% for item in gallery %}
+$$- name: "{{ item.caption }}"<br />
+$$$$image_path: {{ item.url | replace('webhook-uploads', 'uploads')}}<br />{% endfor %}
+
+
+
+slug: {{ section.heading | lower | replace(' ', '-') }}<br />
+---<br />
+
+{{ object.sections.copy | safe }}
+
+{% endfor %}
+{% endif %}
+{% endfor %}
+<br />

@@ -1,0 +1,33 @@
+<article class="hentry" style="margin-top:-80px;">
+  {% if item.recap_link %}
+    <h3><a href="{{ item.recap_link }}" target="_blank"><strong><small>&raquo; See a Recap of this Event</small></strong></a></h3>
+  {% endif %}
+    <ul>
+    {% if item.venue %}
+      <li>
+        <strong>{{ item.venue }}</strong>
+      </li>
+    {% endif %}
+    {% if item.address.street1 || item.address.city || item.address.state || item.address.country %}
+      <li>        
+        <address>
+          {% if item.address.street1 %}{{ item.address.street1 }}<br />{% endif %}
+          {% if item.address.street2 %}{{ item.address.street2 }}<br/>{% endif %}
+          {{ item.address.city }}{% if item.address.state %}, {{ item.address.state }}{% endif %} {{ item.address.country }} {{ item.address.zip }}
+        </address>
+      </li>
+    {% endif %}
+    {% if item.website %}
+      <li><br />
+        <span class="metadata"><a href="{{ item.website }}" target="_blank"><strong>Website <i class="icon-ion-link"></i></strong></a></span>
+      </li>
+    {% endif %}
+  </ul>
+</article>
+  {% if item.address.city %}
+    <hr />
+    <div class="embed-container" style="margin-top:2em;">
+      <iframe width="500" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/search?q={% if item.venue %}{{ item.venue|url_encode }}{% endif %}{% if item.address.street1 %}{{ item.address.street1|url_encode }}{% endif %}{% if item.address.street2 %}{{ item.address.street2|url_encode }}{% endif %}{% if item.address.city %}{{ item.address.city|url_encode }}{% endif %}{% if item.address.state %}{{ item.address.state|url_encode }}{% endif %}{% if item.address.country %}{{ item.address.country|url_encode }}{% endif %}{% if item.address.zip %}{{ item.address.zip|url_encode }}{% endif %}&key=AIzaSyDI4bKp_ORdhCo8e9lrtDJnxPaPm2c3svg"></iframe>          
+    </div>
+  {% endif %}
+<hr />

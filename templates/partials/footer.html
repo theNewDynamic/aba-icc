@@ -1,0 +1,10 @@
+<div class="push bg"></div>
+<footer class="footer" id="content-info">
+&copy; {{ now|date('Y', '-4') }} {% for page in global.footer_links %}<a href="{{ url(page.page) }}">{{ page.text|safe }}</a>{% if not loop.last %} &bull; {% endif %}{% endfor %}  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;site by <a href="http://sonnetmedia.net">sonnet media</a>
+</footer>
+<a href="http://www.americanbar.org/" style="no-print">
+  <img src="/static/images/logo-aba.png" style="max-width:55px;position:fixed;bottom: 10px;left:35px;">
+</a>
+
+
+      

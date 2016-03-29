@@ -1,0 +1,62 @@
+{# ------------------------------------------------------- #}
+{# ONE OFF VIEW global #}
+{# This page can use any data from http:localhost:2000/cms/#/form/global/ #}
+{# Webhook uses the SWIG.js (like Djagno/Twig) templating system. Their documentation is here: #}
+{# http://paularmstrong.github.io/swig/docs/tags/ #}
+{# Learn about calling data into Webhook pages here: #}
+{# http://www.webhook.com/docs/template-rules-and-filters/ #}
+{# ------------------------------------------------------- #}
+{# Confused what extends and blocks do? Watch a primer: #}
+{# http://www.webhook.com/docs/template-inheritance-blocks/ #}
+{% extends "templates/partials/base.html" %}
+{# This sets our page <title>. It will append this global's name to the site title defined in base.html #}
+{% block title %}{% parent %} - {{ cms.global.name }}{% endblock %}
+{% block content %}
+  <h1>{{ cms.global.name }}</h1>
+  <ul>
+      <li>
+        <strong>Name: </strong>
+        {{ cms.global.name }}
+      </li>
+      <li>
+        <strong>Create Date: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ cms.global.create_date|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Last Updated: </strong>
+        {# Format the date. You can use PHP's date function to format as needed. http://php.net/manual/en/function.date.php #}
+        {{ cms.global.last_updated|date('F d Y') }}
+      </li>
+      <li>
+        <strong>Menu: </strong>
+        {# Loop of your Repeatable Form items. Remember, you can sort the order in your CMS if you need. #}
+        <ul>
+        {% for row in cms.global.menu %}
+            <li>
+              <strong>Menu Text: </strong>
+              {{ row.menu_text }}
+            </li>
+            <li>
+              <strong>Link: </strong>
+              {{ row.link }}
+            </li>
+            <li>
+              <strong>Page: </strong>
+              {# Relationship. Note that use the label you set for the relation, not the content-type name. #}
+                {# You can ouput more than just the name. Feel free to output more fields from the CMS. #}
+                <a href="{{ url(row.page) }}">{{ row.page.name }}</a>
+            </li>
+        {% endfor %}
+        </ul>
+      </li>
+      <li>
+        <strong>Preview URL: </strong>
+        {{ cms.global.preview_url }}
+      </li>
+      <li>
+        <strong>Slug: </strong>
+        {{ cms.global.slug }}
+      </li>
+  </ul>
+{% endblock %}

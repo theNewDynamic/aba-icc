@@ -1,0 +1,23 @@
+{% set items = cms.abouttheicc |sort('name', true) %}
+{% for object in items %}
+@@@<br />
+title: "{{ object.name | addslashes }}"<br />
+published: {% if object.isDraft == false %}true{% else %}false{% endif %}<br />
+
+
+featured_image_path: {% if object.featured_image %}{{ object.featured_image.url | replace('webhook-uploads', 'uploads') }}{% endif %}<br />
+
+
+description: {% if object.meta_description %}"{{ object.meta_description | safe | replace('\"', '*', 'g') }}"{% endif %}<br />
+
+{% if object.timeline %}timeline: "{{ object.timeline }}"<br />{% endif %}
+
+{% if object.layout %}include: {{ object.layout }}<br />{% endif %}
+
+
+slug: {{ object.slug | replace('about-the-icc/', '') }}<br />
+---<br />
+
+{{ object.copy | safe }}
+{% endfor %}
+<br />

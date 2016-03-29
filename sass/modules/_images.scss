@@ -1,0 +1,19 @@
+figcaption {
+  font-size: .8em;
+}
+
+.wy-figure-left {
+  float: left;
+  margin:.25em 1.125em .25em 0;  
+  @include media($large-screen) {
+    max-width: 50%;  
+  }
+}
+
+.wy-figure-right {
+  float: right;
+  margin:.25em  0 .25em 1.125em;
+  @include media($large-screen) {
+    max-width: 50%;  
+  }
+}

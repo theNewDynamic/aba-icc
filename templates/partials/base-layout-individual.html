@@ -1,0 +1,18 @@
+{% extends "templates/partials/base.html" %}
+{# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+
+
+{% block content %}
+  <div class="has-layout">
+    {% include "templates/partials/format-article.html" %}
+    {% if item.timeline %}
+      {% include "templates/partials/timeline.html" %}
+    {% endif %}
+    {% block prev-next %}
+      {% set prev = prevItem(item, 'publish_date') %}
+      {% set next = nextItem(item, 'publish_date') %}
+    {% include "templates/partials/prev-next.html" %}
+    {% endblock %}
+  </div> 
+{% endblock %}{# //END CONTENT #}

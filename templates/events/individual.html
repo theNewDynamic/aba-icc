@@ -1,0 +1,9 @@
+{% extends "templates/theabaiccproject/base.html" %}
+
+{% block content %}
+  {% parent %}
+  {% include "templates/partials/format-event-detail.html" %}
+  {% set prev = prevItem(item, 'start_date') %}
+  {% set next = nextItem(item, 'start_date') %}
+
+{% endblock %}

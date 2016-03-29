@@ -1,0 +1,17 @@
+{% extends "templates/abouttheicc/base.html" %}
+
+{% block sideMenu %}
+  {% set local_menu_dropdown = cms.country|where('situations')|sort('name') %}
+  {% set local_menu_dropdown_label = 'Situation & Preliminary Examinations Countries' %}
+  {% parent %}
+{% endblock %}
+
+{% block content %}
+  <div class="has-layout">
+    <article>
+    {% include "templates/partials/situations-and-cases-overview.html" %}
+    </article>
+  </div>
+{% endblock %}
+
+

@@ -1,0 +1,60 @@
+{% extends "templates/abouttheicc/base.html" %}
+{# This sets our page <title>. It will append this accused's name to the site title defined in base.html #}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+
+{% block sideMenu %}
+  {% set local_menu_dropdown = cms.country|where('situations')|sort('name') %}
+  {% set local_menu_dropdown_label = 'Situation & Preliminary Examinations Countries' %}
+  {% set country = item.country  %}
+  {% set local_menu = cms.cases|where('country', country) %}
+  {% parent %}
+{% endblock %}
+{% block content %}
+  
+  <div class="has-layout row row-bottom-next small">
+    <ul class="inline-block">
+    {% if item.country %}
+      <li><strong>Country: </strong><a href="{{ url(item.country) }}">{{ item.country.name }}</a></li>
+    {% endif %}
+      {% if item.cases_accused %}
+        <li>
+          <strong>Case{% if item.cases_accused.length > 1 %}s{% endif %}: </strong>
+          {% for relation in item.cases_accused %}
+            <a href="{{ url(relation) }}">{{ relation.name }}</a>{% if not loop.last %},{% endif %}
+          {% endfor %}
+        </li>
+      {% endif %}
+    </ul>
+  </div>
+{# // END TOP ROW #}
+
+  <div class="has-layout">
+    <article>
+      {% for charge in item.charges %}      
+        <div class="full-width-bar">
+          <h2 class="h3 m0">
+            <a href="{{ url(charge.related_case) }}">{{ charge.related_case.name }}</a>
+          </h2>
+          <h6>{# Status of Case:  #}
+            <span class="red">
+              {% include "templates/partials/format-accused-charges-status.html" %}
+            </span>
+          </h6>
+          {% include "templates/partials/format-accused-charges.html" %}
+          {% include "templates/partials/format-accused-events.html" %}
+        </div>            
+      {% endfor %}      
+    </article>
+  </div>
+
+  <div class="has-layout row row-bottom small">
+    <ul class="inline-block">
+      {% if item.image_credit  %}
+        <li>
+          <strong>image credit: </strong>
+          {{ item.image_credit }}
+        </li>
+      {% endif %}
+    </ul>
+  </div>
+{% endblock %}

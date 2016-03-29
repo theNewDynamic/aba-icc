@@ -1,0 +1,47 @@
+{% for object in objects %}
+  {% set featured_image_object = object.featured_image.url %}  
+{% endfor %}
+{% set base_url = getSetting('site_url') %}
+{% set featured_image = item.featured_image.url %}  
+{% if featured_image %}
+  {% set background_image = base_url + featured_image %}
+{% elseif featured_image_object %}
+  {% set background_image = base_url + featured_image_object %}
+{% else %}
+  {% set background_image = base_url + cms.global.featured_image.url %}
+{% endif %} 
+{% if background_image %}
+<style type="text/css">
+  .featured_image {
+    background-image: url({{ background_image }});
+    background-position: {% if item.featured_image_position %}{{ item.featured_image_position }}{% else %}center{% endif %} center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+    min-height: 260px;
+    margin-top:0; 
+      {% if item.featured_image.height %}height: {{ item.featured_image.height }};{% endif %}
+      background-color: white;
+    }
+  
+  .featured_image:hover {
+    opacity: 0.98;
+    -webkit-transition:opacity 0s ease-in 0s;
+    -moz-transition:opacity 0s ease-in 0s;
+    transition:opacity 0s ease-in 0s
+  }
+  
+  @media screen and (min-width: 37.5em) {
+
+    .featured_image {
+      margin-top: 0;
+    }
+    .hero {
+      {% if item.featured_image %}
+        height: 400px;
+      {% else %}
+        height: 210px;    
+      {% endif %}   
+    }
+</style>
+{% endif %}

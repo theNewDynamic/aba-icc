@@ -1,0 +1,24 @@
+{% extends "templates/abouttheicc/base.html" %}
+{# This sets our page <title>. It will append this theabaiccproject's name to the site title defined in base.html #}
+{% block title %}{% parent %} - {{ item.name }}{% endblock %}
+
+{% block hero %}{# keep blank for map #}{% endblock %}
+
+{% block sideContent %}
+{# can be used for a legend, see the state parties map for example #}
+{% endblock %}
+
+{% block content %}
+    {# <div class="has-layout" style="background:transparent;">
+        <div class="heading"><h1>{{ item.name }}</h1></div>
+    </div> #}
+    <div id="map-output"></div>
+    <div class="has-layout" style="background:transparent;padding:1em .75em;">
+        {# <div class="heading"><h1>{{ item.name }}</h1></div> #}
+        <input class="search" placeholder="Search" style="display:inline-block;font-size:1.5em;"  />
+    </div>
+{% endblock %}
+
+{% block scripts_extra %}
+ <script type="text/javascript" src="/static/javascript/dist/maps.min.js"></script>
+{% endblock %}

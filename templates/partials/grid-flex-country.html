@@ -1,0 +1,9 @@
+<div class="flex-boxes">
+  {% for object in data %}
+    <a href="{{ url(item) }}" class="flex-box">
+      <img src="{{ object.image|imageCrop(200) }}" alt="">
+      <h1 class="flex-title">{{ object.name }}</h1>
+      <p>{{ object.position }}</p>
+    </a>  
+  {% endfor %} 
+</div>
