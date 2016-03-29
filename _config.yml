@@ -1,6 +1,8 @@
-url: http://www.aba-icc.org
+url: https://www.aba-icc.org
 title: "The ABA's ICC Project"
 description: "American Bar Association's International Criminal Court Project"
+twitter:
+  username: ABAICCProject
 
 case_statuses:
  - "Pre-trial"
