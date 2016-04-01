@@ -1,5 +1,5 @@
 ---
-title: Al Faqi Al Mahdi- Ahmad Al Faqi Al Mahdi
+title: Al Faqi Al Mahdi- Ahmad Al Faqi Al Mahdi- Opening Trial
 published: true
 event_date: 2016-03-24T00:00:00.000Z
 action: Confirmation of charges and committing to trial
