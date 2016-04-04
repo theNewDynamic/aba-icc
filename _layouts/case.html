@@ -74,15 +74,3 @@ section: page
     {% endfor %}
   </article>
 </div>
-
-{% comment %}
-////////////////////////////////
-{% for object in cases %}
-  {% assign charges = site.cases-charges | where: 'case', object.slug | where: 'accused', page.slug %}
-  {% assign events = site.cases-events | where: 'case', object.slug | where: 'accused', page.slug | sort: 'event_date', 'last' %}
-  {% if object.accuseds contains accused %}
-    {% include _case-listing.html %}
-  {% endif %}
-{% endfor %}
-{% endif %}
- {% endcomment %}
