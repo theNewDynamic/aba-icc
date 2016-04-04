@@ -59,10 +59,14 @@ section: page
       {{ content }}
     </div>
     {% comment %} Accused Details {% endcomment %}
-    {% assign accused = page.accuseds %}
-    {% for theAccused in accused %}
+
+    {% comment %} loop through the array of accused on this case, page.accuseds{% endcomment %}
+    {% for theAccused in page.accuseds %}
+      {% comment %} find from the accused collection those who are listed {% endcomment %}
       {% assign accused = site.accuseds | where: 'slug', theAccused %}
+      ,{% comment %} and loop through them {% endcomment %}
       {% for object in accused %}
+        {% comment %} find charges and events that match both the case and the accused we are looping through {% endcomment %}
         {% assign charges = site.cases-charges | where: 'case', page.slug | where: 'accused', object.slug  %}
         {% assign events = site.cases-events | where: 'case', page.slug | where: 'accused', object.slug | sort: 'event_date', 'last'  %}
         {% include _case-listing.html %}

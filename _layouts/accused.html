@@ -3,7 +3,9 @@ layout: default
 section: page
 ---
 {% assign country = site.countries | where: 'slug', page.country %}
-{% assign cases = site.cases %}
+{% if page.slug %}
+  {% assign cases = site.cases %}
+{% endif %}
 {% assign accused = page.slug  %}
 
 {% include hero.html %}
@@ -41,6 +43,17 @@ section: page
     <div class="prose">
       {{ content }}
     </div>
-    
+    {% if cases %}
+      <h3>Cases</h3>
+      {% for object in cases %}
+        {% if object.slug %}
+        {% assign charges = site.cases-charges | where: 'case', object.slug | where: 'accused', page.slug %}
+        {% assign events = site.cases-events | where: 'case', object.slug | where: 'accused', page.slug | sort: 'event_date', 'last' %}
+        {% if object.accuseds contains accused %}
+          {% include _case-listing.html %}
+        {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
   </article>
 </div>
