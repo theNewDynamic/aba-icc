@@ -1,7 +1,7 @@
 ---
 title: Al Faqi Al Mahdi charges - Ahmad Al Faqi Al Mahdi
 published: true
-charges_status: Confirmed
+charges_status: Trial ongoing
 case: the-prosecutor-v-al-faqi-al-mahdi
 accused: ahmad-al-faqi-al-mahdi
 slug: al-faqi-al-mahdi-charges-ahmad-al-faqi-al-mahdi
