@@ -1,59 +1,24 @@
 {% assign charges = site.cases-charges | where: 'accused', page.slug  %}
 {% assign events = site.cases-events | where: 'accused', page.slug  %}
 {% assign events = events | sort: 'event_date', 'last' %}
-{% assign slug = object.slug %}
-
+{% assign object_slug = object.slug %}
 <div class="full-width-bar" id="{{ charge.name|lower|replace(' ', '-') }}">
   <div class="grid">
-
       <h2 class="h3 m0">
         <a href="{{ object.url }}">{{ object.title }}</a>
       </h2>
       {% if object.description %}
         <p class="m0">{{ object.description }}</p>
       {% endif %}
-
-
       {% comment %} charges {% endcomment %}
-      {% for charge in charges %}
-        {% if charge.case == object.slug %}
-        {% if charge.charges_status %}
-          <h6>
-            <span class="red">
-              {{charge.charges_status}}
-            </span>
-          </h6>
-        {% endif %}
-        {% if charge.content %}
-          <ul class="accordion">
-            <li>
-              <a href="javascript:void(0)" class="js-accordion-trigger flex-title"><h6>Allegations & Charges <i class="icon-down-open" style="position:absolute;right:3;bottom:3;"></i></h6></a>
-              <ul class="submenu">
-              {% if charge.content %}
-                  {{ charge.content | markdownify }}
-                {% endif %}
-              </ul>
-            </li>
-          </ul>
-        {% endif %}
-        {% endif %}
-      {% endfor %}
-
-
-{% comment %} EVENTS {% endcomment %}
+      {% if charges %}
+        {% include _case-charges.html %}
+      {% endif %}
+      {% comment %} EVENTS {% endcomment %}
       {% comment %} {% assign case_id = charge.related_case._id %} {% endcomment %}
-
-
-{% if events %}
-  {% include _case-events.html %}
-{% endif %}
-
-
-{% comment %} END Events {% endcomment %}
-
-
-
-
-
+      {% if events %}
+        {% include _case-events.html %}
+      {% endif %}
+      {% comment %} END Events {% endcomment %}
   </div>
 </div>
