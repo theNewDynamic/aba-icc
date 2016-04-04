@@ -1,6 +1,5 @@
 {% assign charges = site.cases-charges | where: 'accused', object.slug  %}
-{% assign events = site.cases-events | where: 'accused', object.slug  %}
-{% assign events = events | sort: 'event_date', 'last' %}
+{% assign events = site.cases-events | where: 'accused', object.slug | sort: 'event_date', 'last' %}
 {% capture object_slug %}{{ page.slug }}{% endcapture %}
 
 <div class="full-width-bar" id="{{ charge.name|lower|replace(' ', '-') }}">
