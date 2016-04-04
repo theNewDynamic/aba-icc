@@ -12,4 +12,4 @@ From August 31st to September 1, 2015, international prosecutors and legal schol
 
 This year’s conference was titled “The Wrongs We Seek” in commemoration of the anniversary of the Srebrenica Massacre in Bosnia (1995) and the opening of the International Military Tribunal at Nuremberg (1945).
 
-Hosted by the Robert H. Jackson Center in Jamestown, New York, the Dialogues are one of the few annual gatherings of the leading prosecutors from the various International Criminal Tribunals, including the International Criminal Court, International Criminal Tribunal for the former Yugoslavia.
+Hosted by the Robert H. Jackson Center in Jamestown, New York, the Dialogues are one of the few annual gatherings of the leading prosecutors from the various International Criminal Tribunals, including the International Criminal Court and International Criminal Tribunal for the former Yugoslavia.
