@@ -4,7 +4,7 @@ published: true
 date: 2015-05-12T12:00:00.000Z
 start_at: 2016-01-01T12:00:00.000Z
 featured_image_path:
-recap_link:
+recap_link: 'http://www.international-criminal-justice-today.org/events/a-step-towards-justice-current-accountability-options-for-crimes-under-international-law-committed-in-syria/'
 ---
 
 
