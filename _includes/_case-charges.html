@@ -1,5 +1,5 @@
 {% for charge in charges %}
-  {% if charge.case == object_slug %}
+  {% if charge.case == {{object_slug}} %}
   {% if charge.charges_status %}
     <h6>
       <span class="red">
