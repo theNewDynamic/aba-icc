@@ -17,7 +17,7 @@
       {% endif %}
       {% if charges %}
 
-      {% for charge in charges | sort: 'event_date', 'last' %}
+      {% for charge in charges  %}
 
         {% if charge.charges_status %}
           <h6>
