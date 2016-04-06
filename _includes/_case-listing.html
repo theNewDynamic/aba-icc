@@ -49,7 +49,8 @@
           <li>
             <a href="javascript:void(0)" class="js-accordion-trigger flex-title"><h6>Key Events <i class="icon-down-open" style="position:absolute;right:3;bottom:3;"></i></h6></a>
               <ul class="submenu">
-              {% for event in events  | sort: 'event_date', 'last' %}
+                  {% assign events = events | sort: 'event_date', 'first' %}
+              {% for event in events %}
                   <li {% if forloop.index > 1 %}class="list"{% endif %}>
                     {% if event.content %}
                       {{ event.content | markdownify }}
