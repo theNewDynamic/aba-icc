@@ -11,6 +11,8 @@ case_statuses:
  - "Trial Adjourned"
  - "Trial Complete: Acquitted"
  - "Trial Complete: Sentenced"
+ - "Guilty Plea"
+ - "Guilty Plea: Sentenced"
 
 phases:
   - "Preliminary Examinations, Initial Assessment"
