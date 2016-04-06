@@ -1,5 +1,5 @@
 ---
-title: "Ongwen - Dominic Ongwen"
+title: Ongwen - Dominic Ongwen
 published: true
 event_date:
 action:
@@ -8,5 +8,5 @@ accused: dominic-ongwen
 slug: ongwen-events-dominic-ongwen
 ---
 
-The Office of the Prosecutor made public an arrest warrant for Ongwen on October 13, 2005. He entered ICC custody on January 16, 2015. Confirmation of charges hearing is scheduled for January 21, 2016 at the seat of the ICC.
 
+The Office of the Prosecutor made public an arrest warrant for Ongwen on October 13, 2005. He entered ICC custody on January 16, 2015. The charges were confirmed on March 24, 2016.
