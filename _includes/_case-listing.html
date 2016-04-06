@@ -19,6 +19,7 @@
       {% endif %}
       {% if charges %}
       {% for charge in charges  %}
+        {% comment %}  REMOVING FOR NOW BECAUSE IT's CONFUSING TO HAVE CASE STATUS AND CHARGES STATUS
         {% if charge.charges_status %}
           <h6>
             <span class="red">
@@ -26,6 +27,7 @@
             </span>
           </h6>
         {% endif %}
+         {% endcomment %}
         {% if charge.content %}
           <ul class="accordion">
             <li>
@@ -49,15 +51,15 @@
               <ul class="submenu">
               {% for event in events  | sort: 'event_date', 'last' %}
                   <li {% if forloop.index > 1 %}class="list"{% endif %}>
+                    {% if event.content %}
+                      {{ event.content | markdownify }}
+                    {% endif %}
                     <strong>
                       {% if event.action %}
                         {{ event.action }}
                       {% endif %}
                       {% if event.event_date %}: {{ event.event_date |date: '%B %e, %Y' }}{% endif %}
                     </strong>
-                  {% if event.content %}
-                    {{ event.content | markdownify }}
-                  {% endif %}
                   </li>
               {% endfor %}
             </ul>
