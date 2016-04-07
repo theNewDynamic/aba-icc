@@ -2,20 +2,22 @@
 layout: null
 permalink: robots.txt
 ---
-{% assign noindexPages = site.pages | where: 'noindex', true %}
-{% assign noindexDocuments = site.documents | where: 'noindex', true %}
+# filter pages and documents for the noindex key
+{% assign noindexPages = site.pages | where: 'sitemap', false %}
+{% assign noindexDocuments = site.documents | where: 'sitemap', false %}
 User-agent: *
+# robotstxt.org - if _config production variable is false robots will be disallowed.
 {% if site.production != true %}
-Disallow: /
+  Disallow: /
 {% else %}
-{% if noindexDocuments or noindexPages %}
-{% for node in noindexPages %}
-Disallow: {{ node.url }}
-{% endfor %}
-{% for node in noindexDocuments %}
-Disallow: {{ node.url }}
-{% endfor %}
-{% else %}
-Disallow:
-{% endif %}
+  {% if noindexDocuments or noindexPages %}
+    {% for node in noindexPages %}
+      Disallow: {{ node.url }}
+    {% endfor %}
+    {% for node in noindexDocuments %}
+      Disallow: {{ node.url }}
+    {% endfor %}
+  {% else %}
+    Disallow:
+  {% endif %}
 {% endif %}
