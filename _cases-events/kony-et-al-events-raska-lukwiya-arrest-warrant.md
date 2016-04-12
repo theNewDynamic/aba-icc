@@ -1,7 +1,7 @@
 ---
 title: "Kony et al. - Raska Lukwiya - Arrest Warrant"
 published: true
-event_date: 2005-10-13
+event_date: 2005-10-13T00:00:00.000Z
 action: "Arrest Warrant"
 case: the-prosecutor-v-kony-et-al
 accused: raska-lukwiya

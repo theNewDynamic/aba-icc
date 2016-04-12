@@ -1,7 +1,7 @@
 ---
 title: " - Jean-Pierre Bemba Gombo - End of Trial: Sentenced for war crimes and crimes against humanity"
 published: true
-event_date: 2016-03-21
+event_date: 2016-03-21T00:00:00.000Z
 action: "End of Trial: Sentenced for war crimes and crimes against humanity"
 case:
 accused: jean-pierre-bemba-gombo

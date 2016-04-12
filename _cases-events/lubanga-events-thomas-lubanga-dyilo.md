@@ -1,7 +1,7 @@
 ---
 title: "Lubanga - Thomas Lubanga Dyilo"
 published: true
-event_date:
+#event_date:
 action:
 case: the-prosecutor-v-lubanga
 accused: thomas-lubanga-dyilo

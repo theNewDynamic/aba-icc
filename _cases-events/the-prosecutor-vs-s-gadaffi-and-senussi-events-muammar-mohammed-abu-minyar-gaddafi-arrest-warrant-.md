@@ -1,7 +1,7 @@
 ---
 title: "The Prosecutor vs. S. Gadaffi and Senussi - Muammar Mohammed Abu Minyar Gaddafi - Arrest Warrant "
 published: true
-event_date: 2011-06-27
+event_date: 2011-06-27T00:00:00.000Z
 action: "Arrest Warrant "
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: muammar-mohammed-abu-minyar-gaddafi

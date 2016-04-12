@@ -1,7 +1,7 @@
 ---
 title: "Ntaganda - Bosco Ntaganda - Second Arrest Warrant (issued by Pre-Trial Chamber II)"
 published: true
-event_date: 2012-07-13
+event_date: 2012-07-13T00:00:00.000Z
 action: "Second Arrest Warrant (issued by Pre-Trial Chamber II)"
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda

@@ -1,7 +1,7 @@
 ---
 title: "Ongwen - Dominic Ongwen - Surrender to ICC Custody"
 published: true
-event_date: 2015-01-16
+event_date: 2015-01-16T00:00:00.000Z
 action: "Surrender to ICC Custody"
 case: the-prosecutor-v-ongwen
 accused: dominic-ongwen

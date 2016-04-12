@@ -1,7 +1,7 @@
 ---
 title: "Kony et al. - Joseph Kony - Warrant of Arrest"
 published: true
-event_date: 2005-10-13
+event_date: 2005-10-13T00:00:00.000Z
 action: "Warrant of Arrest"
 case: the-prosecutor-v-kony-et-al
 accused: joseph-kony

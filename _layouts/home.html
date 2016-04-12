@@ -55,3 +55,10 @@ body_class: home
     </a>
   </h2>
 </div>
+
+{% assign cases-events = site.cases-events | where: 'event_date', '' %}
+{% for object in cases-events %}
+  {{ object.slug }}<br />
+
+
+{% endfor %}

@@ -1,7 +1,7 @@
 ---
 title: "Uhuru Muigai Kenyatta - Uhuru Muigai Kenyatta - Summonses to Appear"
 published: true
-event_date: 2011-03-08
+event_date: 2011-03-08T00:00:00.000Z
 action: "Summonses to Appear"
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: uhuru-muigai-kenyatta

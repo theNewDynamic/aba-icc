@@ -1,7 +1,7 @@
 ---
 title: "Bemba et al. - Fidèle Babala Wandu - Start of Trial"
 published: true
-event_date: 2015-09-29
+event_date: 2015-09-29T00:00:00.000Z
 action: "Start of Trial"
 case: the-prosecutor-v-bemba-et-al
 accused: fidèle-babala-wandu

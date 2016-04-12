@@ -1,7 +1,7 @@
 ---
 title: "The Prosecutor vs. S. Gadaffi and Senussi - Abdullah Al-Senussi - Confirmation of Inadmissability"
 published: true
-event_date: 2014-07-24
+event_date: 2014-07-24T00:00:00.000Z
 action: "Confirmation of Inadmissability"
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: abdullah-al-senussi

@@ -1,7 +1,7 @@
 export.txt ---
 title: "Ruto and Sang - William Samoei Ruto"
 published: true
-event_date:
+#event_date:
 action:
 case: the-prosecutor-v-ruto-and-sang
 accused: william-samoei-ruto

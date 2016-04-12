@@ -1,7 +1,7 @@
 ---
 title: "Ongwen - Dominic Ongwen - Opening of the Confirmation of Charges Hearing"
 published: true
-event_date: 2016-01-21
+event_date: 2016-01-21T00:00:00.000Z
 action: "Opening of the Confirmation of Charges Hearing"
 case: the-prosecutor-v-ongwen
 accused: dominic-ongwen

@@ -1,7 +1,7 @@
 ---
 title: "Paul Gicheru and Philip Kipkoech Bett - Philip Kipkoech Bett - Arrest Warrant"
 published: true
-event_date: 2015-09-10
+event_date: 2015-09-10T00:00:00.000Z
 action: "Arrest Warrant"
 case: the-prosecutor-v-paul-gicheru-and-philip-kipkoech-bett
 accused: philip-kipkoech-bett

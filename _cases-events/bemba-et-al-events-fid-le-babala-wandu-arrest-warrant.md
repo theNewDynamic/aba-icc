@@ -1,7 +1,7 @@
 ---
 title: "Bemba et al. - Fidèle Babala Wandu - Arrest Warrant"
 published: true
-event_date: 2013-11-28
+event_date: 2013-11-28T00:00:00.000Z
 action: "Arrest Warrant"
 case: the-prosecutor-v-bemba-et-al
 accused: fidèle-babala-wandu

@@ -1,7 +1,7 @@
 ---
 title: "Ongwen - Dominic Ongwen - Initial Appearance"
 published: true
-event_date: 2015-01-26
+event_date: 2015-01-26T00:00:00.000Z
 action: "Initial Appearance"
 case: the-prosecutor-v-ongwen
 accused: dominic-ongwen

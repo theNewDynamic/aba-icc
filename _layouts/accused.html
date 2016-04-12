@@ -45,7 +45,7 @@ section: page
       <h3>Cases</h3>
       {% for object in cases %}
         {% assign charges = site.cases-charges | where: 'case', object.slug | where: 'accused', page.slug %}
-        {% assign events = site.cases-events | where: 'case', object.slug | where: 'accused', page.slug | sort: 'title', 'first'%}
+        {% assign events = site.cases-events | where: 'case', object.slug | where: 'accused', page.slug | sort: 'event_date', 'first'%}
         {% if object.accuseds contains accused %}
           {% include _case-listing.html %}
         {% endif %}

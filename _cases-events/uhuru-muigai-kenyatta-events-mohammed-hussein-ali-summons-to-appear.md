@@ -1,7 +1,7 @@
 ---
 title: "Uhuru Muigai Kenyatta - Mohammed Hussein Ali - Summons to Appear"
 published: true
-event_date: 2010-12-15
+event_date: 2010-12-15T00:00:00.000Z
 action: "Summons to Appear"
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: mohammed-hussein-ali

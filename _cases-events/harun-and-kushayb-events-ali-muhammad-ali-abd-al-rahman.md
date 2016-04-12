@@ -1,7 +1,7 @@
 ---
 title: "Harun and Kushayb - Ali Muhammad Ali Abd-Al-Rahman"
 published: true
-event_date:
+event_date: 2007-04-27T00:00:00.000Z
 action:
 case: the-prosecutor-v-harun-and-kushayb
 accused: ali-muhammad-ali-abd-al-rahman
@@ -9,4 +9,3 @@ slug: harun-and-kushayb-events-ali-muhammad-ali-abd-al-rahman
 ---
 
 The Office of the Prosecutor made public an arrest warrant for Ali Kushayb on April 27, 2007. Accused remains at-large.
-

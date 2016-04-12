@@ -1,7 +1,7 @@
 ---
 title: "Uhuru Muigai Kenyatta - Mohammed Hussein Ali - Initial Appearance"
 published: true
-event_date: 2009-04-08
+event_date: 2009-04-08T00:00:00.000Z
 action: "Initial Appearance"
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: mohammed-hussein-ali

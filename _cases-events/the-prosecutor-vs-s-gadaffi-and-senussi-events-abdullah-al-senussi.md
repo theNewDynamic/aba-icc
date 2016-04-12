@@ -1,7 +1,7 @@
 ---
 title: "The Prosecutor vs. S. Gadaffi and Senussi - Abdullah Al-Senussi"
 published: true
-event_date:
+#event_date:
 action:
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: abdullah-al-senussi
