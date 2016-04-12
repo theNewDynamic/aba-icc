@@ -12,7 +12,7 @@ long_name: "{{ object.long_name }}"<br>
 accuseds:<br>{% for accused in object.accuseds  %}
 $$- {{ accused }}<br />{% endfor %}
 key_events:<br /> {% for event in key_events %}
-$$event:<br />
+$$- event_{{ forloop.index }}:<br />
 $$$$event_date: {{ event.event_date | date: '%F' }}<br />
 $$$$action: {% if event.action %}"{{ event.action }}"{% endif %}<br />
 $$$$accused: {{ event.accused }}<br />

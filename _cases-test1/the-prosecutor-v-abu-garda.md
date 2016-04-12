@@ -8,17 +8,17 @@ long_name: "The Prosecutor v. Bahr Idriss Abu Garda"
 accuseds:
   - bahr-idriss-abu-garda
 key_events:
-  event:
+  - event_1:
     event_date:
     action:
     accused: bahr-idriss-abu-garda
     description: "The Office of the Prosecutor made public a summonses to appear for Abu Garda on May 17, 2009. His confirmation hearing was October 19-29, 2009, the charges against him were not confirmed."
-  event:
+  - event_2:
     event_date: 2009-05-07
     action: "Summons to Appear"
     accused: bahr-idriss-abu-garda
     description: ""
-  event:
+  - event_3:
     event_date: 2009-05-18
     action: "Initial Appearance "
     accused: bahr-idriss-abu-garda

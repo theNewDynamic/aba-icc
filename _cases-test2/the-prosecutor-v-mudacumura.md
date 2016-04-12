@@ -8,12 +8,12 @@ long_name: "The Prosecutor v. Sylvestre Mudacumura"
 accuseds:
   - sylvestre-mudacumura
 key_events:
-  event:
+  - event Sylvestre Mudacumura:
     event_date:
     action:
     accused: sylvestre-mudacumura
     description: "The Office of the Prosecutor made public an arrest warrant for Mudacumura on July 13, 2012. Accused remains [at-large](http://allafrica.com/stories/201504151814.html)."
-  Arrest Warrant :
+  - Arrest Warrant Sylvestre Mudacumura:
     event_date: 2012-07-13
     action: "Arrest Warrant "
     accused: sylvestre-mudacumura
