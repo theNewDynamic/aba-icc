@@ -14,7 +14,7 @@ key_events:
     action:
     accused: ahmad-al-faqi-al-mahdi
     description: "Al Faqi entered ICC custody on September 18, 2015. He was transferred to The Hague on September 26, 2015. Confirmation of charges hearing occurred on March 1, 2016."
-  event:
+  event_2:
     Arrest Warrant Ahmad Al Faqi Al Mahdi:
     event_date: 2015-09-18
     action: "Arrest Warrant"
