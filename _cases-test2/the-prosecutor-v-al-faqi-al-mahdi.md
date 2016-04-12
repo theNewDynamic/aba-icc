@@ -7,7 +7,6 @@ case_status: "Trial Ongoing"
 long_name: "The Prosecutor v. Ahmad Al Faqi Al Mahdi"
 accuseds:
   - ahmad-al-faqi-al-mahdi
-key_events:
  -  event:
     event Ahmad Al Faqi Al Mahdi:
     event_date: 2015-09-18
