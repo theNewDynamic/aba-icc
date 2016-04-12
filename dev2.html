@@ -12,7 +12,7 @@ long_name: "{{ object.long_name }}"<br>
 accuseds:<br>{% for accused in object.accuseds  %}
 $$- {{ accused }}<br />{% endfor %}
 key_events:<br /> {% for event in key_events %}{% assign accused_name = site.accuseds | where: 'slug', event.accused %}
-$$- {% if event.action %}{{ event.action }}{% else %}event{% endif %}{% if accused_name %} {{ accused_name[0].title }}{% endif %}:<br />
+$${% if event.action %}{{ event.action }}{% else %}event{% endif %}{% if accused_name %} {{ accused_name[0].title }}{% endif %}:<br />
 $$$$event_date: {{ event.event_date | date: '%F' }}<br />
 $$$$action: {% if event.action %}"{{ event.action }}"{% endif %}<br />
 $$$$accused: {{ event.accused }}<br />

@@ -8,12 +8,12 @@ long_name: "The Prosecutor v. Abdel Raheem Muhammad Hussein"
 accuseds:
   - abdel-raheem-muhammad-hussein
 key_events:
-  - Arrest Warrant Abdel Raheem Muhammad Hussein:
+  Arrest Warrant Abdel Raheem Muhammad Hussein:
     event_date: 2012-03-01
     action: "Arrest Warrant"
     accused: abdel-raheem-muhammad-hussein
     description: ""
-  - event Abdel Raheem Muhammad Hussein:
+  event Abdel Raheem Muhammad Hussein:
     event_date: 2012-03-01
     action:
     accused: abdel-raheem-muhammad-hussein

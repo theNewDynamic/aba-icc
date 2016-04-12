@@ -8,12 +8,12 @@ long_name: ""
 accuseds:
   - simone-gbagbo
 key_events:
-  - event_1:
+  event_1:
     event_date:
     action:
     accused: simone-gbagbo
     description: "The Office of the Prosecutor made public an arrest warrant for Gbagbo on November 22, 2012. She was [tried](http://www.france24.com/en/20150310-simone-gbagbo-wife-first-lady-ivory-coast-jailed-20-years-election-violence-court-sentence/) for election violence in Côte d’Ivoire but has not been extradited to the ICC."
-  - event_2:
+  event_2:
     event_date: 2012-11-22
     action: "Arrest Warrant "
     accused: simone-gbagbo

@@ -9,47 +9,47 @@ accuseds:
   - abdallah-banda-abakaer-nourain
   - saleh-mohammed-jerbo-jamus
 key_events:
-  - event_1:
+  event_1:
     event_date:
     action:
     accused: abdallah-banda-abakaer-nourain
     description: "The Office of the Prosecutor made public the summons to appear for Banda on June 15, 2010. The charges against him were confirmed on March 7, 2011. The trial was vacated on October 4, 2013 after evidence was presented of his death."
-  - event_2:
+  event_2:
     event_date: 2009-08-27
     action: "Summonses"
     accused: saleh-mohammed-jerbo-jamus
     description: ""
-  - event_3:
+  event_3:
     event_date: 2010-06-15
     action: "Summons to Appear"
     accused: abdallah-banda-abakaer-nourain
     description: ""
-  - event_4:
+  event_4:
     event_date: 2010-06-17
     action: "Initial Appearance"
     accused: saleh-mohammed-jerbo-jamus
     description: ""
-  - event_5:
+  event_5:
     event_date: 2011-03-07
     action: "Confirmation of Charges "
     accused: abdallah-banda-abakaer-nourain
     description: ""
-  - event_6:
+  event_6:
     event_date: 2011-03-07
     action: "Confirmation of Charges"
     accused: saleh-mohammed-jerbo-jamus
     description: ""
-  - event_7:
+  event_7:
     event_date: 2011-03-11
     action:
     accused: saleh-mohammed-jerbo-jamus
     description: "Charges were confirmed against Jerbo on March 7, 2011. Trial Chamber IV terminated proceedings against him on October 4, 2013 after receiving evidence of his death on April 19, 2013."
-  - event_8:
+  event_8:
     event_date: 2013-10-04
     action: "Termination of Proceedings "
     accused: saleh-mohammed-jerbo-jamus
     description: ""
-  - event_9:
+  event_9:
     event_date: 2013-10-04
     action: "Termination of Trial"
     accused: abdallah-banda-abakaer-nourain

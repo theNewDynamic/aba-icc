@@ -9,72 +9,72 @@ accuseds:
   - uhuru-muigai-kenyatta
   - mohammed-hussein-ali
 key_events:
-  - event_1:
+  event_1:
     event_date:
     action:
     accused: uhuru-muigai-kenyatta
     description: "Charges against Kenyatta were confirmed on 23 January 2012. The notice to withdraw charges was made public on 5 December 2014. Charges against him were withdrawn on 13 March 2015. The Trial Chamber terminated the proceedings on 13 March 2015."
-  - event_2:
+  event_2:
     event_date:
     action:
     accused: francis-kirimi-muthaura
     description: "The Office of the Prosecutor made public a summonses to appear for Muthaura on December 15, 2010. Charges were confirmed by Pre-Trial Chamber II on January 23, 2012. However, the Office of the Prosecutor [withdrew](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/OTP-statement-11-03-2013.aspx) charges against Muthaura on March 11, 2013."
-  - event_3:
+  event_3:
     event_date:
     action:
     accused: mohammed-hussein-ali
     description: "The Office of the Prosecutor made public a summonses to appear for on Ali 15 December 2010. Pre-Trial Chamber II declined to confirm the charges on January 23, 2012."
-  - event_4:
+  event_4:
     event_date: 2009-04-08
     action: "Initial Appearance"
     accused: mohammed-hussein-ali
     description: ""
-  - event_5:
+  event_5:
     event_date: 2010-12-15
     action: "Summons to Appear"
     accused: mohammed-hussein-ali
     description: "[Summonses to appear](http://www.icc-cpi.int/iccdocs/doc/doc1037052.pdf)"
-  - event_6:
+  event_6:
     event_date: 2011-03-08
     action: "Summonses to Appear"
     accused: uhuru-muigai-kenyatta
     description: "[Summonses to appear](http://www.icc-cpi.int/iccdocs/doc/doc1037052.pdf)"
-  - event_7:
+  event_7:
     event_date: 2011-03-08
     action: "Summonses to Appear"
     accused: francis-kirimi-muthaura
     description: ""
-  - event_8:
+  event_8:
     event_date: 2011-04-08
     action: "Initial Appearance"
     accused: uhuru-muigai-kenyatta
     description: ""
-  - event_9:
+  event_9:
     event_date: 2012-01-23
     action: "Confirmation of Charges"
     accused: francis-kirimi-muthaura
     description: "[Decision on the confirmation of charges](https://www.icc-cpi.int/iccdocs/doc/doc1314543.pdf)"
-  - event_10:
+  event_10:
     event_date: 2012-01-23
     action: "Confirmation of Charges"
     accused: uhuru-muigai-kenyatta
     description: "[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1314543.pdf)"
-  - event_11:
+  event_11:
     event_date: 2012-12-23
     action: "Confirmation of Charges"
     accused: mohammed-hussein-ali
     description: ""
-  - event_12:
+  event_12:
     event_date: 2013-03-11
     action: "Withdrawal of Charges"
     accused: francis-kirimi-muthaura
     description: "[Made public](https://www.icc-cpi.int/iccdocs/doc/ICC-01-09-02-11-687.pdf)"
-  - event_13:
+  event_13:
     event_date: 2015-03-13
     action: "Termination of Proceedings"
     accused: uhuru-muigai-kenyatta
     description: ""
-  - event_14:
+  event_14:
     event_date: 2015-03-13
     action: "Withdrawal of Charges "
     accused: uhuru-muigai-kenyatta

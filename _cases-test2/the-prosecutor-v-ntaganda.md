@@ -8,32 +8,32 @@ long_name: "The Prosecutor v. Bosco Ntaganda"
 accuseds:
   - bosco-ntaganda
 key_events:
-  - event Bosco Ntaganda:
+  event Bosco Ntaganda:
     event_date:
     action:
     accused: bosco-ntaganda
     description: "Ntaganda entered ICC custody on March 22, 2013. Charges were confirmed against him on June 9, 2014. The trial in this case opened on 2 September 2015 before Trial Chamber VI."
-  - First Arrest Warrant (issued by Pre-Trial Chamber I) Bosco Ntaganda:
+  First Arrest Warrant (issued by Pre-Trial Chamber I) Bosco Ntaganda:
     event_date: 2008-04-28
     action: "First Arrest Warrant (issued by Pre-Trial Chamber I)"
     accused: bosco-ntaganda
     description: "[Made public](http://www.icc-cpi.int/iccdocs/doc/doc305330.PDF)"
-  - Second Arrest Warrant (issued by Pre-Trial Chamber II) Bosco Ntaganda:
+  Second Arrest Warrant (issued by Pre-Trial Chamber II) Bosco Ntaganda:
     event_date: 2012-07-13
     action: "Second Arrest Warrant (issued by Pre-Trial Chamber II)"
     accused: bosco-ntaganda
     description: "[Made public](http://www.icc-cpi.int/iccdocs/doc/doc1441449.pdf)"
-  - Voluntary Surrender to the ICC's Custody Bosco Ntaganda:
+  Voluntary Surrender to the ICC's Custody Bosco Ntaganda:
     event_date: 2013-03-22
     action: "Voluntary Surrender to the ICC's Custody"
     accused: bosco-ntaganda
     description: ""
-  - Confirmation of Charges Bosco Ntaganda:
+  Confirmation of Charges Bosco Ntaganda:
     event_date: 2014-06-09
     action: "Confirmation of Charges"
     accused: bosco-ntaganda
     description: "[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1783301.pdf)"
-  - Start of Trial Bosco Ntaganda:
+  Start of Trial Bosco Ntaganda:
     event_date: 2015-09-02
     action: "Start of Trial"
     accused: bosco-ntaganda
