@@ -15,11 +15,11 @@ The evidence indicates that said scheme has been run in an organised manner and 
 
 There is also information that those witnesses who were successfully corrupted were enticed to make contact with other witnesses, for the purpose of their corruption.
 
-<span class="redactor-invisible-space"></span>
+
 
 ### Charges
 
 **[Offences against the administration of justice](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243)** **(six counts):** corruptly influencing witnesses ([Article 70(1)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243) of the Rome Statute)
 
-The Accused is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute);<span class="redactor-invisible-space"></span> or alternatively alleged to have contributed to the commission of these crimes through a group of persons acting with a common purpose, and his intentional contribution was made with the aim of furthering the criminal activity or purpose of the group ([Article 25(3)(d)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute); alleged to have contributed to the commission of these crimes through a group of persons acting with a common purpose, and his intentional contribution was made with knowledge of the intention of the group to commit these crimes ([Article 25(3)(d)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Staute).<span class="redactor-invisible-space"></span>
+The Accused is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute); or alternatively alleged to have contributed to the commission of these crimes through a group of persons acting with a common purpose, and his intentional contribution was made with the aim of furthering the criminal activity or purpose of the group ([Article 25(3)(d)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute); alleged to have contributed to the commission of these crimes through a group of persons acting with a common purpose, and his intentional contribution was made with knowledge of the intention of the group to commit these crimes ([Article 25(3)(d)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Staute).
 

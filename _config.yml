@@ -103,6 +103,10 @@ collections:
   the-aba-icc-project:
     output: true
     permalink: '/:collection/:path/'
+  cases-test1:
+    output: false
+  cases-test2:
+    output: false
 
 defaults:
   -

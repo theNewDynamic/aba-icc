@@ -1,0 +1,23 @@
+---
+layout: null
+---
+{% for object in site.cases  %}{% assign key_events = site.cases-events | where: 'case', object.slug | sort: 'event_date', 'first' %}
+@@@<br />
+title: "{{ object.title }}"<br>
+published: {{ object.published }}<br>
+country: {{ object.country }}<br>
+trial_opening_date: {{ object.trial_opening_date | date: '%F' }}{% if object.trial_opening_date %}T00:00:00.000Z{% endif %}<br>
+case_status: "{{ object.case_status }}"<br>
+long_name: "{{ object.long_name }}"<br>
+accuseds:<br>{% for accused in object.accuseds  %}
+$$- {{ accused }}<br />{% endfor %}
+key_events:<br /> {% for event in key_events %}
+$$event:<br />
+$$$$event_date: {{ event.event_date | date: '%F' }}<br />
+$$$$action: {% if event.action %}"{{ event.action }}"{% endif %}<br />
+$$$$accused: {{ event.accused }}<br />
+$$$$description: {% if event.content %}"{{ event.content | remove: '<p>' | remove: '</p>' | strip }}"{% endif %}<br />{% endfor %}
+slug: {{ object.slug }}<br />
+---<br />
+{{ object.content | markdownify }}
+{% endfor %}

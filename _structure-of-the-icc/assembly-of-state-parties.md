@@ -20,7 +20,7 @@ order: 20
 
 **Composition**
 
-<span class="redactor-invisible-space">The ASP is composed of representatives of the States that have ratified and acceded to the Rome Statute. In addition, the ASP has a Bureau that consists of a President, two Vice-Presidents and 18 members elected by the Assembly for three-year terms that supports the work of the ASP. It is not an organ of the Court but rather its oversight body.<span class="redactor-invisible-space"></span></span>
+<span class="redactor-invisible-space">The ASP is composed of representatives of the States that have ratified and acceded to the Rome Statute. In addition, the ASP has a Bureau that consists of a President, two Vice-Presidents and 18 members elected by the Assembly for three-year terms that supports the work of the ASP. It is not an organ of the Court but rather its oversight body.</span>
 
 <span class="redactor-invisible-space"><span class="redactor-invisible-space">**Responsibility**</span></span>
 
