@@ -8,17 +8,17 @@ long_name: "The Prosecutor v. Ahmad Al Faqi Al Mahdi"
 accuseds:
   - ahmad-al-faqi-al-mahdi
 key_events:
-  event Ahmad Al Faqi Al Mahdi:
+  - event Ahmad Al Faqi Al Mahdi:
     event_date: 2015-09-18
     action:
     accused: ahmad-al-faqi-al-mahdi
     description: "Al Faqi entered ICC custody on September 18, 2015. He was transferred to The Hague on September 26, 2015. Confirmation of charges hearing occurred on March 1, 2016."
-  Arrest Warrant Ahmad Al Faqi Al Mahdi:
+  - Arrest Warrant Ahmad Al Faqi Al Mahdi:
     event_date: 2015-09-18
     action: "Arrest Warrant"
     accused: ahmad-al-faqi-al-mahdi
     description: "[Made public](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/icc0112/related-cases/ICC-01_12-01_15/court-records/chambers/ptcI/Pages/1.aspx)"
-  First Appearance Ahmad Al Faqi Al Mahdi:
+  - First Appearance Ahmad Al Faqi Al Mahdi:
     event_date: 2015-09-30
     action: "First Appearance"
     accused: ahmad-al-faqi-al-mahdi
@@ -27,12 +27,12 @@ key_events:
 * * *
 
 "
-  Confirmation of Charges Hearing Ahmad Al Faqi Al Mahdi:
+  - Confirmation of Charges Hearing Ahmad Al Faqi Al Mahdi:
     event_date: 2016-03-01
     action: "Confirmation of Charges Hearing"
     accused: ahmad-al-faqi-al-mahdi
     description: "[Confirmation of charges hearing](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1195.aspx)"
-  Confirmation of charges and committing to trial Ahmad Al Faqi Al Mahdi:
+  - Confirmation of charges and committing to trial Ahmad Al Faqi Al Mahdi:
     event_date: 2016-03-24
     action: "Confirmation of charges and committing to trial"
     accused: ahmad-al-faqi-al-mahdi
