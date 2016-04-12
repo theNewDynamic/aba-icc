@@ -8,6 +8,7 @@ long_name: ""
 accuseds:
   - simone-gbagbo
 
+key_events:
 -  event Simone Gbagbo:
      event_date:
      action:
