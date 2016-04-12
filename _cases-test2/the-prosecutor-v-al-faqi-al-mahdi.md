@@ -7,17 +7,18 @@ case_status: "Trial Ongoing"
 long_name: "The Prosecutor v. Ahmad Al Faqi Al Mahdi"
 accuseds:
   - ahmad-al-faqi-al-mahdi
- -  event:
-    event Ahmad Al Faqi Al Mahdi:
-    event_date: 2015-09-18
-    action:
-    accused: ahmad-al-faqi-al-mahdi
-    description: "Al Faqi entered ICC custody on September 18, 2015. He was transferred to The Hague on September 26, 2015. Confirmation of charges hearing occurred on March 1, 2016."
+key_events: 
+  -  event:
+      event Ahmad Al Faqi Al Mahdi:
+      event_date: 2015-09-18
+      action:
+      accused: ahmad-al-faqi-al-mahdi
+      description: "Al Faqi entered ICC custody on September 18, 2015. He was transferred to The Hague on September 26, 2015. Confirmation of charges hearing occurred on March 1, 2016."
   - event:
-    Arrest Warrant Ahmad Al Faqi Al Mahdi:
-    event_date: 2015-09-18
-    action: "Arrest Warrant"
-    accused: ahmad-al-faqi-al-mahdi
-    description: "[Made public](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/icc0112/related-cases/ICC-01_12-01_15/court-records/chambers/ptcI/Pages/1.aspx)"
+      Arrest Warrant Ahmad Al Faqi Al Mahdi:
+      event_date: 2015-09-18
+      action: "Arrest Warrant"
+      accused: ahmad-al-faqi-al-mahdi
+      description: "[Made public](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/icc0112/related-cases/ICC-01_12-01_15/court-records/chambers/ptcI/Pages/1.aspx)"
 slug: the-prosecutor-v-al-faqi-al-mahdi
 ---
