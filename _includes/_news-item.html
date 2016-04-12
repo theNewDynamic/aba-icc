@@ -2,9 +2,7 @@
   <strong>{% include _date-format.html %}</strong>
   {% if object.title %}
     <h3>
-      <a href="{{ url(object) }}">
-        {{ object.title }}
-      </a>
+      {{ object.title }}
     </h3>
   {% endif %}
   {% if object.featured_image_path %}
