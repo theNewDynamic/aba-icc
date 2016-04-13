@@ -1,5 +1,6 @@
 ---
 layout: null
+sitemap: false
 ---
 {% for object in site.cases  %}{% assign key_events = site.cases-events | where: 'case', object.slug | sort: 'event_date', 'first' %}
 @@@<br />
