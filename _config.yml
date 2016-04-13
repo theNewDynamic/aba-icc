@@ -196,6 +196,4 @@ defaults:
       collectionName: "The ABA's ICC Project"
 
 compress_html:
-  ignore:
-    envs: [development]
   profile: false
