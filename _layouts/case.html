@@ -72,7 +72,7 @@ section: page
       {% for object in accused %}
         {% comment %} find charges and events that match both the case and the accused we are looping through {% endcomment %}
         {% assign charges = site.cases-charges | where: 'case', page.slug | where: 'accused', object.slug  %}
-        {% assign events = site.cases-events | where: 'case', page.slug | where: 'accused', object.slug  | sort: 'event_date', 'first' %}
+        {% assign events = site.cases-events | where: 'case', page.slug | where: 'accused', object.slug   %}
         {% include _case-listing.html %}
       {% endfor %}
     {% endfor %}
