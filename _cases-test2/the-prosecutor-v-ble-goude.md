@@ -7,6 +7,6 @@ case_status: "Pre-trial"
 long_name: "The Prosecutor v. Charles BlÃ© GoudÃ©"
 accuseds:
   - charles-ble-goude
-key_actions:
+key_events:
 slug: the-prosecutor-v-ble-goude
 ---

@@ -8,23 +8,23 @@ long_name: "The Prosecutor v. Ahmad Muhammad Harun Ahmad Harun and Ali Muhammad 
 accuseds:
   - ahmad-muhammad-harun
   - ali-muhammad-ali-abd-al-rahman
-key_actions:
-  - event:
+key_events:
+  - event (2007-04-27):
       event_date: 2007-04-27
       action: "Arrest Warrant "
       accused: ahmad-muhammad-harun
       description: "[Made public](http://www.icc-cpi.int/iccdocs/doc/doc279813.pdf)"
-  - event:
+  - event (2007-04-27):
       event_date: 2007-04-27
       action:
       accused: ahmad-muhammad-harun
       description: "The Office of the Prosecutor made public an arrest warrant for Harun on April 27, 2007. Accused remains at-large."
-  - event:
+  - event (2007-04-27):
       event_date: 2007-04-27
       action: "Arrest Warrant"
       accused: ali-muhammad-ali-abd-al-rahman
       description: "[Made public](http://www.icc-cpi.int/iccdocs/doc/doc279813.pdf)"
-  - event:
+  - event (2007-04-27):
       event_date: 2007-04-27
       action:
       accused: ali-muhammad-ali-abd-al-rahman

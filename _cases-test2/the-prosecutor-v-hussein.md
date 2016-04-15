@@ -7,13 +7,13 @@ case_status: "Pre-trial"
 long_name: "The Prosecutor v. Abdel Raheem Muhammad Hussein"
 accuseds:
   - abdel-raheem-muhammad-hussein
-key_actions:
-  - event:
+key_events:
+  - event (2012-03-01):
       event_date: 2012-03-01
       action: "Arrest Warrant"
       accused: abdel-raheem-muhammad-hussein
       description: ""
-  - event:
+  - event (2012-03-01):
       event_date: 2012-03-01
       action:
       accused: abdel-raheem-muhammad-hussein
