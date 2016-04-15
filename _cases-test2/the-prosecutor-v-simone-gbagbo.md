@@ -7,7 +7,7 @@ case_status: "Pre-trial"
 long_name: ""
 accuseds:
   - simone-gbagbo
-key_events:
+key_actions:
   - event:
       event_date:
       action:

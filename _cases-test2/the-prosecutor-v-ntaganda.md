@@ -7,7 +7,7 @@ case_status: "Trial Ongoing"
 long_name: "The Prosecutor v. Bosco Ntaganda"
 accuseds:
   - bosco-ntaganda
-key_events:
+key_actions:
   - event:
       event_date:
       action:

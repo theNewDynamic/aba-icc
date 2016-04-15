@@ -9,7 +9,7 @@ accuseds:
   - henry-kiprono-kosgey
   - joshua-arap-sang
   - william-samoei-ruto
-key_events:
+key_actions:
   - event:
       event_date:
       action:

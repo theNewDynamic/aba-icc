@@ -9,7 +9,7 @@ accuseds:
   - joseph-kony
   - vincent-otti
   - okot-odhiambo
-key_events:
+key_actions:
   - event:
       event_date:
       action:

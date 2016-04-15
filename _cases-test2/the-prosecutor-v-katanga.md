@@ -7,7 +7,7 @@ case_status: "Trial Complete: Sentenced"
 long_name: "The Prosecutor v. Germain Katanga"
 accuseds:
   - germain-katanga
-key_events:
+key_actions:
   - event:
       event_date: 2007-10-17
       action:

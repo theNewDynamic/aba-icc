@@ -7,7 +7,7 @@ case_status: "Case Terminated"
 long_name: "The Prosecutor v. Callixte Mbarushimana"
 accuseds:
   - callixte-mbarushimana
-key_events:
+key_actions:
   - event:
       event_date:
       action:
