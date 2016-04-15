@@ -8,7 +8,7 @@ long_name: "The Prosecutor v. Laurent Gbagbo and Charles BlÃ© GoudÃ©"
 accuseds:
   - laurent-gbagbo
   - charles-ble-goude
-key_events:
+key_actions:
   - event (2011-11-30):
       event_date: 2011-11-30
       action:

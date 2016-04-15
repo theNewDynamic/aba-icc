@@ -8,7 +8,7 @@ long_name: ""
 accuseds:
   - uhuru-muigai-kenyatta
   - mohammed-hussein-ali
-key_events:
+key_actions:
   - event :
       event_date:
       action:

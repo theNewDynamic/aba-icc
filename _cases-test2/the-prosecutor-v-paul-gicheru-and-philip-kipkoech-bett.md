@@ -8,7 +8,7 @@ long_name: "The Prosecutor v. Paul Gicheru and Philip Kipkoech Bett"
 accuseds:
   - paul-gicheru
   - philip-kipkoech-bett
-key_events:
+key_actions:
   - event :
       event_date:
       action:

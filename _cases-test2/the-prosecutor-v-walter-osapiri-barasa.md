@@ -7,7 +7,7 @@ case_status: "Pre-trial"
 long_name: ""
 accuseds:
   - walter-osapiri-barasa
-key_events:
+key_actions:
   - event :
       event_date:
       action:

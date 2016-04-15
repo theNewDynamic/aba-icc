@@ -7,7 +7,7 @@ case_status: "Trial Ongoing"
 long_name: "The Prosecutor v. Dominic Ongwen"
 accuseds:
   - dominic-ongwen
-key_events:
+key_actions:
   - event :
       event_date:
       action:

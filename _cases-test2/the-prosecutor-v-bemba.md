@@ -7,7 +7,7 @@ case_status: "Trial Complete: Sentenced"
 long_name: "The Prosecutor v. Jean-Pierre Bemba Gombo"
 accuseds:
   - jean-pierre-bemba-gombo
-key_events:
+key_actions:
   - event (2008-05-04):
       event_date: 2008-05-04
       action: "Arrest Warrant"

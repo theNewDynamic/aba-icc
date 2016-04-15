@@ -7,7 +7,7 @@ case_status: "Pre-trial"
 long_name: "The Prosecutor v. Sylvestre Mudacumura"
 accuseds:
   - sylvestre-mudacumura
-key_events:
+key_actions:
   - event :
       event_date:
       action:

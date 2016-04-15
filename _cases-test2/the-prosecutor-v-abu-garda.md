@@ -7,7 +7,7 @@ case_status: "Pre-trial"
 long_name: "The Prosecutor v. Bahr Idriss Abu Garda"
 accuseds:
   - bahr-idriss-abu-garda
-key_events:
+key_actions:
   - event :
       event_date:
       action:

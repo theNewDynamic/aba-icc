@@ -8,7 +8,7 @@ long_name: "The Prosecutor v. Abdallah Banda Abakaer Nourain"
 accuseds:
   - abdallah-banda-abakaer-nourain
   - saleh-mohammed-jerbo-jamus
-key_events:
+key_actions:
   - event :
       event_date:
       action:

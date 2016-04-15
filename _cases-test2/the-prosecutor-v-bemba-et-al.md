@@ -10,7 +10,7 @@ accuseds:
   - aime-kilolo-musamba
   - jean-jacques-magenda-kabongo
   - narcisse-arido
-key_events:
+key_actions:
   - event :
       event_date:
       action:

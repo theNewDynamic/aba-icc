@@ -7,7 +7,7 @@ case_status: "Pre-trial"
 long_name: "The Prosecutor v. Omar Hassan Ahmad Al Bashir"
 accuseds:
   - omar-hassan-ahmad-al-bashir
-key_events:
+key_actions:
   - event :
       event_date:
       action:

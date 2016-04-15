@@ -8,7 +8,7 @@ long_name: "The Prosecutor v. Saif Al-Islam Gaddafi and Abdullah Al-Senussi"
 accuseds:
   - saif-al-islam-gaddafi
   - abdullah-al-senussi
-key_events:
+key_actions:
   - event :
       event_date:
       action:

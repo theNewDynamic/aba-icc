@@ -8,7 +8,7 @@ long_name: "The Prosecutor v. Ahmad Muhammad Harun Ahmad Harun and Ali Muhammad 
 accuseds:
   - ahmad-muhammad-harun
   - ali-muhammad-ali-abd-al-rahman
-key_events:
+key_actions:
   - event (2007-04-27):
       event_date: 2007-04-27
       action: "Arrest Warrant "

@@ -7,7 +7,7 @@ case_status: "Trial Complete: Sentenced"
 long_name: "The Prosecutor v. Thomas Lubanga Dyilo"
 accuseds:
   - thomas-lubanga-dyilo
-key_events:
+key_actions:
   - event :
       event_date:
       action:
