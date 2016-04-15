@@ -1,10 +1,10 @@
 ---
-title: "The Prosecutor v. Gbagbo and BlÃ© GoudÃ©"
+title: "The Prosecutor v. Gbagbo and Blé Goudé"
 published: true
 country: cote-divoire
 trial_opening_date: 2016-01-28T00:00:00.000Z
 case_status: "Trial Ongoing"
-long_name: "The Prosecutor v. Laurent Gbagbo and Charles BlÃ© GoudÃ©"
+long_name: "The Prosecutor v. Laurent Gbagbo and Charles Blé Goudé"
 accuseds:
   - laurent-gbagbo
   - charles-ble-goude
@@ -13,7 +13,7 @@ key_actions:
       event_date: 2011-11-30
       action:
       accused: laurent-gbagbo
-      description: "Gbagbo entered ICC custody on November 30, 2011. Charges were confirmed against him on 12 June 12, 2014. His case was joined with Charles BlÃ© GoudÃ© on March 11, 2015. On October 28, 2015, Trial Chamber I of the International Criminal Court (ICC) rescheduled the trialâ€™s opening statements, initially scheduled on November 10, 2015, to January 28, 2016."
+      description: "Gbagbo entered ICC custody on November 30, 2011. Charges were confirmed against him on 12 June 12, 2014. His case was joined with Charles Blé Goudé on March 11, 2015. On October 28, 2015, Trial Chamber I of the International Criminal Court (ICC) rescheduled the trial’s opening statements, initially scheduled on November 10, 2015, to January 28, 2016."
   - event (2011-11-30):
       event_date: 2011-11-30
       action: "Arrest Warrant"
@@ -33,7 +33,7 @@ key_actions:
       event_date: 2014-03-22
       action:
       accused: charles-ble-goude
-      description: "BlÃ© GoudÃ© entered ICC custody on 22 March 2014. Charges were confirmed against him on December 11, 2014. His case was joined with Laurent Gbagbo on March 11, 2015. On October 28, 2015, Trial Chamber I of the International Criminal Court (ICC) [rescheduled](https://www.icc-cpi.int/iccdocs/doc/doc2130650.pdf) the trialâ€™s opening statements, initially scheduled on November 10, 2015, to January 28, 2016."
+      description: "Blé Goudé entered ICC custody on 22 March 2014. Charges were confirmed against him on December 11, 2014. His case was joined with Laurent Gbagbo on March 11, 2015. On October 28, 2015, Trial Chamber I of the International Criminal Court (ICC) [rescheduled](https://www.icc-cpi.int/iccdocs/doc/doc2130650.pdf) the trial’s opening statements, initially scheduled on November 10, 2015, to January 28, 2016."
   - event (2014-03-27):
       event_date: 2014-03-27
       action: "Initial Appearance"
@@ -51,12 +51,12 @@ key_actions:
       description: "[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1783399.pdf) [Press release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1076.aspx) of the hearing"
   - event (2015-03-11):
       event_date: 2015-03-11
-      action: "Decision to Join the Gbagbo and BlÃ© GoudÃ© Cases"
+      action: "Decision to Join the Gbagbo and Blé Goudé Cases"
       accused: laurent-gbagbo
       description: ""
   - event (2015-03-11):
       event_date: 2015-03-11
-      action: "Decision to Join the Gbagbo and BlÃ© GoudÃ© Cases"
+      action: "Decision to Join the Gbagbo and Blé Goudé Cases"
       accused: charles-ble-goude
       description: "[Press release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1097.aspx) of the decision"
   - event (2016-01-28):

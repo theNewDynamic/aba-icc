@@ -23,7 +23,7 @@ key_actions:
       event_date:
       action:
       accused: abdullah-al-senussi
-      description: "The Office of the Prosecutor made public an arrest warrant for Al-Senussi on June 27, 2011. On July 24, 2014 the Appeals Chamber [confirmed](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1034.aspx) Pre-Trial Chamber Iâ€™s decision declaring the case against him inadmissible before the ICC."
+      description: "The Office of the Prosecutor made public an arrest warrant for Al-Senussi on June 27, 2011. On July 24, 2014 the Appeals Chamber [confirmed](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1034.aspx) Pre-Trial Chamber I’s decision declaring the case against him inadmissible before the ICC."
   - event (2011-06-27):
       event_date: 2011-06-27
       action: "Arrest Warrant "

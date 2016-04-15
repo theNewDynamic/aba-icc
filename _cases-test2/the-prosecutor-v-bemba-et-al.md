@@ -4,7 +4,7 @@ published: true
 country: central-african-republic
 trial_opening_date:
 case_status: "Trial Ongoing"
-long_name: "The Prosecutor v. Jean-Pierre Bemba Gombo, AimÃ© Kilolo Musamba, Jean-Jacques Mangenda Kabongo, FidÃ¨le Babala Wandu and Narcisse Arido"
+long_name: "The Prosecutor v. Jean-Pierre Bemba Gombo, Aimé Kilolo Musamba, Jean-Jacques Mangenda Kabongo, Fidèle Babala Wandu and Narcisse Arido"
 accuseds:
   - jean-pierre-bemba-gombo
   - aime-kilolo-musamba
@@ -34,7 +34,7 @@ key_actions:
   - event :
       event_date:
       action:
-      accused: fidÃ¨le-babala-wandu
+      accused: fidèle-babala-wandu
       description: "The Office of the Prosecutor made public an arrest warrant for Babala on November 28, 2013. He entered ICC custody on November 25, 2013. Charges against him were confirmed on November 11, 2014. Trial [opened](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1155.aspx) on September 29, 2015 before Trial Chamber VII of the International Criminal Court, composed of presiding judge Bertram Schmitt, judge Marc Perrin de Brichambaut and judge Raul Pangalangan."
   - event (2013-11-27):
       event_date: 2013-11-27
@@ -49,7 +49,7 @@ key_actions:
   - event (2013-11-27):
       event_date: 2013-11-27
       action: "Initial Appearance"
-      accused: fidÃ¨le-babala-wandu
+      accused: fidèle-babala-wandu
       description: ""
   - event (2013-11-28):
       event_date: 2013-11-28
@@ -69,7 +69,7 @@ key_actions:
   - event (2013-11-28):
       event_date: 2013-11-28
       action: "Arrest Warrant"
-      accused: fidÃ¨le-babala-wandu
+      accused: fidèle-babala-wandu
       description: "[Made public](http://www.icc-cpi.int/iccdocs/doc/doc1694691.pdf)"
   - event (2013-11-28):
       event_date: 2013-11-28
@@ -99,7 +99,7 @@ key_actions:
   - event (2014-10-21):
       event_date: 2014-10-21
       action: "Interim Release from Detention"
-      accused: fidÃ¨le-babala-wandu
+      accused: fidèle-babala-wandu
       description: "[Made public](https://www.icc-cpi.int/iccdocs/doc/doc1845009.pdf)"
   - event (2014-10-21):
       event_date: 2014-10-21
@@ -124,7 +124,7 @@ key_actions:
   - event (2014-11-11):
       event_date: 2014-11-11
       action: "Confirmation of Charges"
-      accused: fidÃ¨le-babala-wandu
+      accused: fidèle-babala-wandu
       description: "[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1857534.pdf)[](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200105/related%20cases/ICC-0105-0113/court-records/chambers/ptcII/Pages/749.aspx)"
   - event (2014-11-11):
       event_date: 2014-11-11
@@ -144,7 +144,7 @@ key_actions:
   - event (2015-09-29):
       event_date: 2015-09-29
       action: "Start of Trial"
-      accused: fidÃ¨le-babala-wandu
+      accused: fidèle-babala-wandu
       description: ""
   - event (2015-09-29):
       event_date: 2015-09-29

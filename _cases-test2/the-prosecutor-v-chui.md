@@ -4,7 +4,7 @@ published: true
 country: democratic-republic-of-the-congo
 trial_opening_date: 2009-11-24T00:00:00.000Z
 case_status: "Trial Complete: Acquitted"
-long_name: "The Prosecutor v. Mathieu Ngudjolo Chuiâ€‹"
+long_name: "The Prosecutor v. Mathieu Ngudjolo Chui​"
 accuseds:
   - mathieu-ngudjolo-chui
 key_actions:
@@ -12,7 +12,7 @@ key_actions:
       event_date: 2008-02-06
       action:
       accused: mathieu-ngudjolo-chui
-      description: "Chui was arrested on 6 February 2008. Charges were confirmed against him on September 26, 2008. The Appeals Chamber confirmed Trial Chamber IIâ€™s decision of December 18, 2012 acquitting Chui of charges of crimes against humanity on February 27, 2015."
+      description: "Chui was arrested on 6 February 2008. Charges were confirmed against him on September 26, 2008. The Appeals Chamber confirmed Trial Chamber II’s decision of December 18, 2012 acquitting Chui of charges of crimes against humanity on February 27, 2015."
   - event (2008-02-07):
       event_date: 2008-02-07
       action: "Arrest Warrant "
