@@ -11,17 +11,17 @@ accuseds:
   - jean-jacques-magenda-kabongo
   - narcisse-arido
 key_actions:
-  - event:
+  - event_1:
       event_date:
       action:
       accused: narcisse-arido
       description: "The Office of the Prosecutor made public an arrest warrant for Arido on November 28, 2013. He entered ICC custody on March 18, 2014. Charges against him were confirmed on November 11, 2014. Trial [opened](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1155.aspx) on September 29, 2015 before Trial Chamber VII of the International Criminal Court, composed of presiding judge Bertram Schmitt, judge Marc Perrin de Brichambaut and judge Raul Pangalangan."
-  - event:
+  - event_2:
       event_date:
       action:
       accused: jean-jacques-magenda-kabongo
       description: "The Office of the Prosecutor made public an arrest warrant for Magenda on November 28, 2013. He entered ICC custody on December 4, 2013. Charges were confirmed against him on November 11, 2014. Trial [opened](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1155.aspx) on September 29, 2015 before Trial Chamber VII of the International Criminal Court, composed of presiding judge Bertram Schmitt, judge Marc Perrin de Brichambaut and judge Raul Pangalangan."
-  - event:
+  - event_3:
       event_date:
       action:
       accused: aime-kilolo-musamba
