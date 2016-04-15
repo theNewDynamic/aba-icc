@@ -14,10 +14,10 @@ accuseds:<br>{% for accused in object.accuseds  %}
 $$- {{ accused }}<br />{% endfor %}
 key_events:<br /> {% for event in key_events %}
 $$- event:<br />
-$$$$event_date: {{ event.event_date | date: '%F' }}<br />
-$$$$action: {% if event.action %}"{{ event.action }}"{% endif %}<br />
-$$$$accused: {{ event.accused }}<br />
-$$$$description: {% if event.content %}"{{ event.content | remove: '<p>' | remove: '</p>' | strip }}"{% endif %}<br />{% endfor %}
+$$$$$$event_date: {{ event.event_date | date: '%F' }}<br />
+$$$$$$action: {% if event.action %}"{{ event.action }}"{% endif %}<br />
+$$$$$$accused: {{ event.accused }}<br />
+$$$$$$description: {% if event.content %}"{{ event.content | remove: '<p>' | remove: '</p>' | strip }}"{% endif %}<br />{% endfor %}
 slug: {{ object.slug }}<br />
 ---<br />
 {{ object.content | markdownify }}
