@@ -5,7 +5,7 @@ section: page
 {% assign country = site.countries | where: 'slug', page.country %}
 {% assign cases = site.cases %}
 {% assign accused = page.slug  %}
-
+<main class="content" role="main">
 {% include hero.html %}
 
 <div class="has-layout" id="start-of-content">
@@ -53,3 +53,5 @@ section: page
     {% endif %}
   </article>
 </div>
+</main>
+{% include sidebar-right.html %}

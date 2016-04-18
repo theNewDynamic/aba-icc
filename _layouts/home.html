@@ -3,6 +3,7 @@ layout: default
 section: page
 body_class: home
 ---
+<main class="content" role="main">
 <!-- flex-box-big -->
 {% assign pages = site.data.home-page-grid-items  %}
 <div class="flex-boxes-home">
@@ -55,3 +56,5 @@ body_class: home
     </a>
   </h2>
 </div>
+</main>
+{% include sidebar-right.html %}

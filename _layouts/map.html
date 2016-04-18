@@ -2,6 +2,7 @@
 layout: default
 section: map
 ---
+<main class="content" role="main">
 <div id="map-output"></div>
 <div id="container-filter">
   <div class="has-layout" style="background:transparent;padding:1em .75em;">
@@ -23,3 +24,5 @@ section: map
   {% if page.url == '/about-the-icc/states-parties-to-the-icc/' %}
     <script type="text/javascript" src="/api/map-data-state-parties.js"></script>
   {% endif %}
+</main>
+{% include sidebar-right.html %}

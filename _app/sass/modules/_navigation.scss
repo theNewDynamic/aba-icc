@@ -45,9 +45,9 @@ header.navigation {
 
   // Mobile view
 
-  .navigation-menu-button {
+  .navigation-menu-button, .navigation-menu-button-mobile {
     color: $navigation-color;
-    display: block;
+
     float: right;
     font-weight: 700;
     line-height: $navigation-height;
@@ -56,13 +56,26 @@ header.navigation {
     text-transform: uppercase;
 
     @include media ($horizontal-bar-mode) {
-      display: none;
+    //  display: none;
     }
 
     &:focus,
     &:hover {
       color: $navigation-color-hover;
     }
+  }
+  .navigation-menu-button {
+    display: none;
+    @include media ($horizontal-bar-mode) {
+      display: block;
+    }
+  }
+  .navigation-menu-button-mobile {
+    display: block;
+    @include media ($horizontal-bar-mode) {
+      display: none;
+    }
+
   }
 
   // Nav menu
@@ -301,7 +314,7 @@ header.navigation {
     $search-bar-background: lighten($search-bar-border-color, 10%);
 
     float: left;
-    padding: 0.85em 0.6em 0.7em 0.6em;
+    padding: 1.25em 0.6em 0.7em 0.6em;
     width: 100%;
 
     form {

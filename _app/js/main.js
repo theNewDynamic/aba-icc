@@ -41,6 +41,22 @@ menuToggle.on('click', function(e) {
   });
 });
 
+
+var sidebarToggle = $('#js-mobile-menu-sidebar').unbind();
+$('#js-navigation-menu').removeClass("show");
+
+menuToggle.on('click', function(e) {
+  e.preventDefault();
+  $('#js-navigation-menu-sidebar').slideToggle(function(){
+    if($('#js-navigation-menu-sidebar').is(':hidden')) {
+      $('#js-navigation-menu-sidebar').removeAttr('style');
+    }
+  });
+});
+
+
+
+
 $('.js-accordion-trigger').bind('click', function(e){
 jQuery(this).parent().find('.submenu').slideToggle('fast');  // apply the toggle to the ul
 jQuery(this).parent().toggleClass('is-expanded');
