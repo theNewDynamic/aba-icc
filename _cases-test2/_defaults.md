@@ -12,5 +12,4 @@ key_actions:
       action:
       accused:
       description:
-slug: the-prosecutor-v-abu-garda
 ---
