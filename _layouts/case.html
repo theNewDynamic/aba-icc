@@ -3,8 +3,8 @@ layout: default
 section: page
 ---
 {% assign country = site.countries | where: 'slug', page.country %}
-{% include hero.html %}
 <main class="content" role="main">
+  {% include hero.html %}
 <div class="has-layout" id="start-of-content">
 
   {% comment %} case status {% endcomment %}
