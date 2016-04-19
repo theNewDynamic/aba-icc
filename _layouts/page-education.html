@@ -4,17 +4,16 @@ section: page
 ---
 <main class="contentTK" role="main">
 {% include hero.html %}
-{% include _country-meta-data.html %}
+{% include _nav-special.html %}
+
 <div class="has-layout" id="start-of-content">
   <article class="hentry" role="article">
     {% include _article.html %}
   </article>
-  {% if page.timeline %}
-    {% include timeline.html %}
-  {% endif %}
-  {% if page.include %}
-    {% include {{ page.include }} %}
-  {% endif %}
+  
 </div>
 </main>
+
+
+
 {% comment %} {% include sidebar-right.html %} {% endcomment %}

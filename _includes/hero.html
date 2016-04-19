@@ -6,6 +6,9 @@
     {% if page.image_path %}
     <img src="{{ page.image_path }}" alt="" class="featured" style="max-width:300px;" />
     {% endif %}
+    {% if page.description %}
+      {{ page.description | markdownify }}
+    {% endif %}
   </div>
   <div id="js-parallax-background" class="parallax-background"></div>
 </div>

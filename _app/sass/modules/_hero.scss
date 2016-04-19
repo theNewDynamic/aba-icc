@@ -1,81 +1,123 @@
-.hero {  
-  background-position: center center;
+.hero-large {
+  $hero-background: $blue;
+  $hero-background-top: darken($hero-background, 1%);//white;//darken($gray, 25);
+  $hero-background-bottom: darken($hero-background, 10%);//adjust-hue($hero-background-top, 70);
+  $hero-color: $medium-gray;
+  $gradient-angle: 10deg;
+  //$hero-image: '/assets/images/island.jpg';
+  //$hero-image: 'http://lh4.ggpht.com/AIJ5GM0fkUgOnsUzskfu_W1qDA0NTdESMYxu5VRhAalw2NpxqqKKgepPmFpdhSSWXBvFPectUnpxJRI33PiNqbFxgMAOW6P2wg';
+//$hero-image: 'https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png';
+//  $hero-image: '/assets/images/night-2.png';
+$hero-image: '/assets/images/icc-permanent_45op.png';
+//$hero-image: '/assets/images/laatnightcomp.png';
+background-color:#000;
+
+@include
+background(url($hero-image),
+linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll
+  );
+  //@include background(url($hero-image)));
+
+//background-image: url($hero-image);
+
   background-repeat: no-repeat;
-  background-size: cover;
+  background-position: left top;
+  @include media($x-large-screen-up) {
+    height: 70vh;
+    background-size: cover;
+  }
   padding-bottom: 3em;
-  height: auto;
-  //background-attachment: fixed;
-  margin-top: $navigation-height;
-  @include media($large-screen) {         
-    margin-top: 0;
-    .images figure {
-      .tilted {
-        @include transform(rotate(3deg));
-      }
-      margin-bottom: 2em;
-      display: inline-block;
-      height: 200px;
-      //box-shadow: 0 13px 50px rgba(0,0,0,0.3);
-      border-radius:1px;
-      width:160px;
-      height:160px;
-      margin:0;
-      figcaption {
-        color: $blue-dark;
-      }
-    }
-  }
+  background-attachment: fixed;
+
+
   .hero-logo img {
-    height: 4em;
-    margin-bottom: 1em;
+    height: 3em;
+    margin-bottom: 2.5em;
   }
+
   .hero-inner {
     @include outer-container;
     @include clearfix;
-    color: $hero-color;
+    padding: 2em 3em 3em 2em;
     margin: auto;
-    padding: 3.5em 1.5em;
     text-align: center;
-    height: auto;
-      .hero-copy {
-        text-align: center;      
-      h1 {
-        //font-size: 1.6em;
-        float: left;
-        padding: .375em;
-        margin-bottom: 0.5em;
-        background-color: rgba(0,0,0,0.4);
-        text-align: left;
-        @include media($large-screen) {
-          font-size: 1.8em;
-        }
+    color: $hero-color;
+    li {
+        //font-family: $brand-font-family;
+        font-size: 1.2em;
+        margin-bottom: 1em;
       }
-      p {
-        font-weight: 200;
-        line-height: 1.4em;
-        margin: 0 auto 3em auto; 
-
-        @include media($large-screen) {
-          font-size: 1.1em;
-          max-width: 40%;
-          margin-top: 0;
-        }
-      }
-    }
 
     button {
-      @include button(flat, $base-accent-color);
-      padding: 0.7em 1em;
+      @include button(simple, $base-background-color);
+      font-size: $base-font-size;
+      outline: none;
+    }
+
+    .hero-copy {
+      text-align: left;
+
+      h1 {
+        font-size: 1.6em;
+        margin-bottom: .5em;
+        color: white;// $red;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        line-height: 1.1;
+        //font-family: $brand-font-family;
+        @include media($large-screen) {
+          font-size: 6em;
+        }
+      }
+
+      a {
+        //color: darken($light-gray, 95%);
+        //color: $hero-color;
+        color: $red;
+        color: $hero-color;
+        //border-bottom: 1px dashed $hero-color;
+      }
+
+      blockquote {
+        //background-color: #000;
+        //background-color: rgba(0,0,0,0.95);
+        //padding: 1em;
+        color: white;
+
+        margin:0;
+        @include media($medium-screen) {
+          font-size: 1.75em;
+        }
+      }
+      li {
+      font-size: .75em;
+       a{
+        color: #ccc;
+        &:hover {
+          color: #999;
+        }
+
+      }
+      &:not(:last-child){
+    a:after {
+        content: " |";
     }
   }
-}
-.image{
-  min-height: 300px;
-}
-.images {
-  min-height: 400px;
-}
-.image-single {
-  @include transform(rotate(-3deg));
-  box-shadow: 0 13px 50px rgba(0,0,0,0.3);
+
+    }
+
+      // p {
+      //   font-family: $serif;
+      //   margin: auto;
+      //   margin-bottom: 3em;
+      //   font-weight: 200;
+      //   line-height: 1.4em;
+
+      //   @include media($large-screen) {
+      //     font-size: 1.1em;
+      //     max-width: 40%;
+      //   }
+      // }
+    }
+  }
 }
