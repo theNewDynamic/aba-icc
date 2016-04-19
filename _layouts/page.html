@@ -2,6 +2,7 @@
 layout: default
 section: page
 ---
+<main class="content" role="main">
 {% include hero.html %}
 {% include _country-meta-data.html %}
 <div class="has-layout" id="start-of-content">
@@ -15,3 +16,5 @@ section: page
     {% include {{ page.include }} %}
   {% endif %}
 </div>
+</main>
+{% include sidebar-right.html %}

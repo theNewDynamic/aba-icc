@@ -194,6 +194,12 @@ defaults:
     values:
       layout: "page"
       collectionName: "The ABA's ICC Project"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: 'cases-test2'
+    values:
+      exclude_from_search: true
 
 compress_html:
   ignore:
