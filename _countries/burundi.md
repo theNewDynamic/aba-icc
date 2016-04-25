@@ -31,4 +31,4 @@ Burundi is a State Party to the Rome Statute, and as such, the ICC has jurisdict
 
 &nbsp;
 
-For more information on the Central African Republic II situation, please visit the ICC page.
+For more information on the Central African Republic II situation, please visit the [ICC page](https://www.icc-cpi.int/en_menus/asp/states%20parties/african%20states/Pages/burundi.aspx).
