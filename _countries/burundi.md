@@ -1,14 +1,14 @@
 ---
 title: Burundi
 published: true
-featured_image_path:
-featured_image_attribution:
+featured_image_path: /burundian_drummers_bujumbura_2008.jpg
+featured_image_attribution: 'Photo courtesy: From Wikimedia Commons, the free media repository.'
 geocode: BDI
 iso_code: BI
 territory:
 state_party: true
 signed_but_not_ratified: false
-signed_date: 1999-01-12T00:00:00.000Z
+signed_date: 1999-01-13T00:00:00.000Z
 ratified_or_acceded_date: 2004-09-21T00:00:00.000Z
 entry_into_force_date: 2004-11-30T00:00:00.000Z
 ratified_apic_date:
