@@ -15,8 +15,8 @@ ratified_apic_date: 2003-12-16T00:00:00.000Z
 genocide:
 crimes_against_humanity: '[Austrian Criminal Code, Section 321](https://iccdb.hrlc.net/data/doc/112/)'
 aggression: '[Austrian Criminal Code, Section 242](https://iccdb.hrlc.net/data/doc/112/)'
-war_crimes: '[Austria](https://iccdb.hrlc.net/data/country/10/)'
-note: '[Austria](https://iccdb.hrlc.net/data/country/10/)'
+war_crimes: '[Austrian Criminal Code, Section 320](https://iccdb.hrlc.net/data/doc/112/)'
+note:
 slug: austria
 ---
 
