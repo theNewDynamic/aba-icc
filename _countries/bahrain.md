@@ -1,5 +1,5 @@
 ---
-title: "Bahrain"
+title: Bahrain
 published: true
 featured_image_path:
 featured_image_attribution:
@@ -12,10 +12,12 @@ signed_date: 2000-12-11T00:00:00.000Z
 ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date:
-genocide: "[Decree No. 4 of 1990](http://preventgenocide.org/law/domestic/)"
-crimes_against_humanity:
+genocide:
+crimes_against_humanity: '[Bahrain Penal Code, Article 361](https://www.unodc.org/res/cld/document/bhr/1976/bahrain_penal_code_html/Bahrain_Penal_Code_1976.pdf)'
 aggression:
 war_crimes:
 note:
 slug: bahrain
 ---
+
+
