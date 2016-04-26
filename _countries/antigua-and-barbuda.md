@@ -14,7 +14,7 @@ entry_into_force_date: 2002-07-01T00:00:00.000Z
 ratified_apic_date:
 genocide: |-
   [Antiguan Genocide Act Laws Vol. 4, Chapter 191, Article 3]
-  https://iccdb.hrlc.net/data/doc/512/keyword/46/
+  (https://iccdb.hrlc.net/data/doc/512/keyword/46/)
 crimes_against_humanity:
 aggression:
 war_crimes:
