@@ -13,7 +13,7 @@ ratified_or_acceded_date: 2001-06-18T00:00:00.000Z
 entry_into_force_date: 2002-07-01T00:00:00.000Z
 ratified_apic_date:
 genocide: '[Antiguan Genocide Act Laws Vol. 4, Chapter 191, Article 3](https://iccdb.hrlc.net/data/doc/512/keyword/46/)'
-crimes_against_humanity: '[Albanian Criminal Code, Chapter 1, Article 74](https://iccdb.hrlc.net/data/doc/215/keyword/13/)'
+crimes_against_humanity:
 aggression:
 war_crimes:
 note:
