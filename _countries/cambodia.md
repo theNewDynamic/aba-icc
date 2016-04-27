@@ -25,7 +25,12 @@ crimes_against_humanity: >-
 
   Article 5](https://iccdb.hrlc.net/data/span/10011/)
 aggression:
-war_crimes: '[Cambodian Criminal Code, Articles 1893-98](http://www.unodc.org/res/cld/document/khm/criminal_code_of_the_kingdom_of_cambodia_html/Cambodia_Criminal-Code-of-the-Kingdom-of-Cambodia-30-Nov-2009-Eng.pdf)'
+war_crimes: >-
+  [Law on the Establishment of Extraordinary Chambers in the Courts of Cambodia
+  for the Prosecution of Crimes Committed during the Period of Democratic
+  Kampuchea,
+
+  Article 32](https://iccdb.hrlc.net/data/span/10067/)
 note:
 slug: cambodia
 ---
