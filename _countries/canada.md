@@ -1,5 +1,5 @@
 ---
-title: "Canada"
+title: Canada
 published: true
 featured_image_path:
 featured_image_attribution:
@@ -12,10 +12,12 @@ signed_date: 1998-12-18T00:00:00.000Z
 ratified_or_acceded_date: 2000-07-07T00:00:00.000Z
 entry_into_force_date: 2002-07-01T00:00:00.000Z
 ratified_apic_date: 2004-06-22T00:00:00.000Z
-genocide: "[Crimes Against Humanity and War Crimes Act](http://laws-lois.justice.gc.ca/eng/acts/C-45.9/page-1.html)"
-crimes_against_humanity: "[Crimes Against Humanity and War Crimes Act](http://laws-lois.justice.gc.ca/eng/acts/C-45.9/page-1.html)"
+genocide: '[Crimes Against Humanity and War Crimes Act, Article 3](https://iccdb.hrlc.net/data/doc/60/keyword/46/)'
+crimes_against_humanity: '[Crimes Against Humanity and War Crimes Act, Article 4](https://iccdb.hrlc.net/data/doc/60/keyword/13/)'
 aggression:
-war_crimes: "[Crimes Against Humanity and War Crimes Act](http://laws-lois.justice.gc.ca/eng/acts/C-45.9/page-1.html)"
+war_crimes: '[Crimes Against Humanity and War Crimes Act, Article 6](https://iccdb.hrlc.net/data/doc/60/keyword/145/l)'
 note:
 slug: canada
 ---
+
+
