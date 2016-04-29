@@ -56,6 +56,15 @@ menuToggle.on('click', function(e) {
 
 
 
+  $('.sliding-panel-button').on('click touchstart',function (e) {
+    $('.sliding-panel-content, .content, .open, .close').toggleClass('is-visible');
+    e.preventDefault();
+    console.log('working');
+  });
+
+
+
+
 
 $('.js-accordion-trigger').bind('click', function(e){
 jQuery(this).parent().find('.submenu').slideToggle('fast');  // apply the toggle to the ul
