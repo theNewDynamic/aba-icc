@@ -8,10 +8,14 @@ $sidebar-right-color: $light-gray !default;
 @if $include-sidebar-right != false {
   .content
    {
+     @include transition(all 0.25s linear);
     //clear: both;
     width:100%;
     @include media($sidebar-right-breakpoint) {
       width: 100% - $sidebar-right-width;
+      &.is-visible {
+        width: 100%;
+      }
     }
   }
 
@@ -87,5 +91,37 @@ body.home .sidebar-right {
   }
   figcaption {
     font-size: .8em;
+  }
+}
+/// TO control menu sliding-panel-close
+
+
+
+.sliding-panel-content {
+  $sliding-panel-width: -100%;
+
+  //@include position(fixed, 0 auto 0 0);
+  //@include size($sliding-panel-width 100%);
+
+  @include transition(all 0.25s linear);
+    //z-index: 999999;
+@include transform(translateX(0));
+  &.is-visible {
+  @include transform(translateX(- $sliding-panel-width));
+  }
+}
+.open {
+  display: none;
+  @include transition(all 0.25s linear);
+  &.is-visible {
+  display: inline-block;
+  }
+}
+
+.close {
+  display: inline-block;
+  @include transition(all 0.25s linear);
+  &.is-visible {
+    display: none;
   }
 }
