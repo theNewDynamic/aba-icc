@@ -119,7 +119,7 @@ AmCharts.makeChart( "map-output", {
           </p>
           {% endif %}
 
-          {% if country.genocide || country.crimes_against_humanity || country.aggression || country.war_crimes %}
+          {% if country.genocide != '' || country.crimes_against_humanity != '' || country.aggression != '' || country.war_crimes != '' %}
 
             <h5>Domestic Atrocity Crime Legislation</h5>
 
