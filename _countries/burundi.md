@@ -2,7 +2,7 @@
 title: Burundi
 published: true
 featured_image_path:
-featured_image_attribution: 'Photo courtesy: From Wikimedia Commons, the free media repository.'
+featured_image_attribution:
 geocode: BDI
 iso_code: BI
 territory:
