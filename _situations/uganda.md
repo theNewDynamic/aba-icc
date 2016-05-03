@@ -10,7 +10,7 @@ slug: uganda
 ---
 
 
-The Situation in the Republic of Uganda involves a protracted conflict between the government of the Republic of Uganda and armed rebel groups, primarily the Lord's Resistance Army (LRA). The LRA has waged an ongoing insurgent attack against the Ugandan government, the Ugandan Army, and local defense units since 1987. In carrying out their insurgency, the LRA has consistently targeted and directed attacks against civilians, including those civilians which the Ugandan Army has placed in internal displacement camps to better protect them against the LRA.
+The Situation in the Republic of Uganda involves a protracted conflict between the government of the Republic of Uganda and armed rebel groups, primarily the Lord's Resistance Army (LRA). The LRA has waged an ongoing insurgency against the Ugandan government, the Ugandan Army, and local defense units since 1987. In carrying out their insurgency, the LRA has consistently targeted and directed attacks against civilians, including those civilians which the Ugandan Army has placed in internal displacement camps to better protect them against the LRA.
 
 As part of these attacks, the LRA used a variety of tactics to brutalize the civilian population, including mass murder, mutilation, and forcefully abducting children to be child soldiers, servants, and sex slaves. The LRA's insurgency has caused tens of thousands of deaths and abductions, and has displaced up to two million civilians throughout the region. Although the Lord's Resistance Army has been inactive in northern Uganda since 2006, it still operates in the border region between the Democratic Republic of the Congo, the Central African Republic, and South Sudan.
 
