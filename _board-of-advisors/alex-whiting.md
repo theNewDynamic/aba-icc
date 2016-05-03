@@ -1,5 +1,5 @@
 ---
-title: Alex Whiting
+title: Prof. Alex Whiting
 published: true
 board_chair:
 last_name: Whiting
