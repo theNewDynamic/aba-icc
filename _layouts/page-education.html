@@ -2,7 +2,7 @@
 layout: default
 section: page
 ---
-<main class="contentTK" role="main">
+<main class="content is-visible" role="main">
 {% include hero.html %}
 {% include _nav-special.html %}
 
@@ -10,10 +10,10 @@ section: page
   <article class="hentry" role="article">
     {% include _article.html %}
   </article>
-  
+
 </div>
 </main>
 
 
-
+{% include sidebar-right.html class="is-visible" %}
 {% comment %} {% include sidebar-right.html %} {% endcomment %}
