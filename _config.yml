@@ -114,6 +114,9 @@ collections:
     output: false
   cases-test2:
     output: false
+  how-the-court-works:
+    output: true
+    permalink: '/:collection/:path/'  
 
 defaults:
   -
