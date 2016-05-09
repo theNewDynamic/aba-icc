@@ -9,6 +9,21 @@ section: page
 <div class="has-layout" id="start-of-content">
   <article class="hentry" role="article">
     {% include _article.html %}
+
+
+{% assign data = site.how-the-court-works | sort: 'title' %}
+
+{% for object in data %}
+  <h2>{{ object.title }} {{}}</h2>
+  {{ object.content | markdownify }}
+
+  <hr />
+{% endfor %}
+
+
+
+
+
   </article>
 
 </div>
