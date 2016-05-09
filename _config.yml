@@ -22,7 +22,14 @@ phases:
   - "Situations & Cases"
 
 
+
 ## DO NOT EDIT BELOW THIS LINE
+
+jekyll_get:
+  data: news
+  json: 'https://www.international-criminal-justice-today.org/api/icjt-news.json'
+
+
 version: 3.0.3
 # full_rebuild: true
 image_url: https://aba-icc.imgix.net

@@ -7,5 +7,6 @@ gem 'github-pages'
 group :jekyll_plugins do
   # gem "html-proofer"
   gem 'jekyll-seo-tag'
+  gem 'hash-joiner'
   # gem 'jekyll-sitemap'
 end
