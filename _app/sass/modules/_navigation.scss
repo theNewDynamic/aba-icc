@@ -1,11 +1,11 @@
 header.navigation {
   ///////////////////////////////////////////////////////////////////////////////////
-  $horizontal-bar-mode: $large-screen;
+  $horizontal-bar-mode: $x-large-screen;
   $base-border-color: gainsboro !default;
   $base-border-radius: 3px !default;
   $base-accent-color: #477DCA !default;
   $dark-gray: #333 !default;
-  $large-screen: em(860) !default;
+
 
   a {
     text-decoration: none;
@@ -286,7 +286,7 @@ header.navigation {
     padding-bottom: 2em;
     display: none;
 
-    @include media($large-screen) {
+    @include media($horizontal-bar-mode) {
       display: inline-block;
       padding-top: .5em;
       padding-bottom:0;
@@ -332,7 +332,7 @@ header.navigation {
         padding: 0.5em 0.8em;
         width: 100%;
 
-        @include media($large-screen) {
+        @include media($horizontal-bar-mode) {
           width: 100%;
         }
       }
@@ -370,7 +370,7 @@ header.navigation {
       }
     }
 
-    @include media($x-large-screen) {
+    @include media($horizontal-bar-mode) {
       display: inline-block;
       //position: fixed;
       float: left;
