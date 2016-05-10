@@ -39,7 +39,7 @@ future: false
 gems:
   - jekyll-seo-tag
   - jekyll-sitemap
-incremental: false
+incremental: true
 timezone: Etc/Zulu
 port: 4049
 exclude:
@@ -116,7 +116,7 @@ collections:
     output: false
   how-the-court-works:
     output: true
-    permalink: '/:collection/:path/'  
+    permalink: '/:collection/:name/'  
 
 defaults:
   -

@@ -11,11 +11,16 @@ section: page
     {% include _article.html %}
 
 
-{% assign data = site.how-the-court-works | sort: 'title' %}
+{% assign data = site.documents
+  | where_exp:"item", "item.url contains 'referrals-and-communication'"
+%}
 
+6
 {% for object in data %}
-  <h2>{{ object.title }} {{}}</h2>
+  <h2>{{ object.title }}  ({{object.slug }})  </h2>
+  {% if object.content %}
   {{ object.content | markdownify }}
+  {% endif %}
 
   <hr />
 {% endfor %}
