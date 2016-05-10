@@ -28,11 +28,15 @@ Please follow us on [Facebook](http://facebook.com/ABAICCProject) and [Twitter](
 
 For technical issues or questions about the site, contact [Bud Parr at Sonnet Media LLC](mailto:budparr@sonnetmedia.net).
 
+
+## Subscribe to our mailing list
+
+
+
 <style type="text/css">#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; } /* Add your own MailChimp form style overrides in your site stylesheet or in this style block. We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */</style>
 
 <form action="//aba-icc.us8.list-manage.com/subscribe/post?u=4551fd07507bd0f59832cce36&amp;id=eb0c1efd96" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
 
-## Subscribe to our mailing list
 
 <span class="asterisk">*</span> indicates required
 
