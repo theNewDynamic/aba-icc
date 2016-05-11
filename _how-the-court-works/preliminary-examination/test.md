@@ -2,7 +2,7 @@
 title: Test
 published: false
 process: preliminary-examination
-order: gg
+order: '6'
 phase: 'Preliminary Examinations, Initial Assessment'
 ---
 
