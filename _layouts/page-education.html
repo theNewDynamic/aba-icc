@@ -2,6 +2,36 @@
 layout: default
 section: page
 ---
+
+{% assign phase1 = site.documents
+  | where_exp:"item", "item.path contains '_how-the-court-works/referrals-and-communication'"
+%}
+{% assign phase2 = site.documents
+  | where_exp:"item", "item.path contains '_how-the-court-works/preliminary-examination'"
+%}
+{% assign phase3 = site.documents
+  | where_exp:"item", "item.path contains '_how-the-court-works/investigation'"
+%}
+{% assign phase4 = site.documents
+  | where_exp:"item", "item.path contains '_how-the-court-works/arrest-warrant-and-summons'"
+%}
+{% assign phase5 = site.documents
+  | where_exp:"item", "item.path contains '_how-the-court-works/confirmation-of-charges'"
+%}
+{% assign phase6 = site.documents
+  | where_exp:"item", "item.path contains '_how-the-court-works/trial-and-appeal'"
+%}
+{% assign phase7 = site.documents
+  | where_exp:"item", "item.path contains '_how-the-court-works/sentencing-and-reparations'"
+%}
+  
+
+
+
+
+
+
+
 <main class="content is-visible" role="main">
 {% include hero.html %}
 {% include _nav-special.html %}
@@ -11,13 +41,61 @@ section: page
     {% include _article.html %}
 
 
-{% assign data = site.documents
-  | where_exp:"item", "item.url contains 'referrals-and-communication'"
-%}
 
 6
-{% for object in data %}
-  <h2>{{ object.title }}  ({{object.slug }})  </h2>
+{% for object in phase1 %}
+  <h2>{{ object.title }}  ({{object.path }})  </h2>
+  {% if object.content %}
+  {{ object.content | markdownify }}
+  {% endif %}
+
+  <hr />
+{% endfor %}
+
+{% for object in phase2 %}
+  <h2>{{ object.title }}  ({{object.path }})  </h2>
+  {% if object.content %}
+  {{ object.content | markdownify }}
+  {% endif %}
+
+  <hr />
+{% endfor %}
+
+{% for object in phase3 %}
+  <h2>{{ object.title }}  ({{object.path }})  </h2>
+  {% if object.content %}
+  {{ object.content | markdownify }}
+  {% endif %}
+
+  <hr />
+{% endfor %}
+
+{% for object in phase4 %}
+  <h2>{{ object.title }}  ({{object.path }})  </h2>
+  {% if object.content %}
+  {{ object.content | markdownify }}
+  {% endif %}
+
+  <hr />
+{% endfor %}
+{% for object in phase5 %}
+  <h2>{{ object.title }}  ({{object.path }})  </h2>
+  {% if object.content %}
+  {{ object.content | markdownify }}
+  {% endif %}
+
+  <hr />
+{% endfor %}
+{% for object in phase6 %}
+  <h2>{{ object.title }}  ({{object.path }})  </h2>
+  {% if object.content %}
+  {{ object.content | markdownify }}
+  {% endif %}
+
+  <hr />
+{% endfor %}
+{% for object in phase7 %}
+  <h2>{{ object.title }}  ({{object.path }})  </h2>
   {% if object.content %}
   {{ object.content | markdownify }}
   {% endif %}
