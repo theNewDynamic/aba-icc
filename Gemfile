@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
-# gem 'github-pages'
-# gem 'jekyll'
+gem 'github-pages'
+#gem 'jekyll'
 
 #gem "jekyll", :git => "git@github.com:jekyll/jekyll.git", :ref => 'HEAD'
 gem "jekyll", :git => "git@github.com:jekyll/jekyll.git", :ref => 'HEAD'

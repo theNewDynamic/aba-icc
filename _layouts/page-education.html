@@ -8,6 +8,7 @@ section: page
 %}
 {% assign phase2 = site.documents
   | where_exp:"item", "item.path contains '_how-the-court-works/preliminary-examination'"
+  | sort: 'order', 'last'
 %}
 {% assign phase3 = site.documents
   | where_exp:"item", "item.path contains '_how-the-court-works/investigation'"
@@ -51,15 +52,20 @@ section: page
 
   <hr />
 {% endfor %}
-
+<div style="padding: 2em;background-color: steelblue;color: #ddd;">
+Phase 2
 {% for object in phase2 %}
-  <h2>{{ object.title }}  ({{object.path }})  </h2>
+  <h2>{{ object.title }}   </h2>
+   <small>({{object.path }})</small> <br />
+   {{ object.order }}
   {% if object.content %}
   {{ object.content | markdownify }}
   {% endif %}
 
   <hr />
 {% endfor %}
+</div>
+
 
 {% for object in phase3 %}
   <h2>{{ object.title }}  ({{object.path }})  </h2>

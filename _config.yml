@@ -21,6 +21,15 @@ phases:
   - "Preliminary Examinations, Closed - Decision Not to Proceed"
   - "Situations & Cases"
 
+processes:
+  - ''
+  - referrals-and-communication
+  - preliminary-examination
+  - investigation
+  - arrest-warrant-and-summons
+  - confirmation-of-charges
+  - trial-and-appeal
+  - sentencing-and-reparations
 
 
 ## DO NOT EDIT BELOW THIS LINE

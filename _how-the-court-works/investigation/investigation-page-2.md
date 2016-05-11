@@ -1,5 +1,7 @@
 ---
 title: Investigation Second page
+process: investigation
+published: true
 ---
 
 

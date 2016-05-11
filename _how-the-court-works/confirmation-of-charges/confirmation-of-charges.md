@@ -1,5 +1,6 @@
 ---
 title: Confirmation of Charges
-published: false
+process: confirmation-of-charges
+published: true
 phase:
 ---
