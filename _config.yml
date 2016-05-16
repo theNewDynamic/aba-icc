@@ -47,7 +47,7 @@ kramdown:
 future: false
 gems:
   - jekyll-seo-tag
-  - jekyll-sitemap
+  #- jekyll-sitemap
 incremental: true
 timezone: Etc/Zulu
 port: 4049

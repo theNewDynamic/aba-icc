@@ -36,6 +36,7 @@
     "normalize-opentype.css": "^0.2.4",
     "normalize.scss": "^0.1.0",
     "respond.js": "^1.4.2",
-    "spf": "^2.3.1"
+    "spf": "^2.3.1",
+    "waypoints": "^4.0.0"
   }
 }

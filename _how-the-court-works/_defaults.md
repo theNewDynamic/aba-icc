@@ -1,7 +1,6 @@
 ---
 title:
-published: false
+published: true
 process:
 order: 
-phase: 
 ---

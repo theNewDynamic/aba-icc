@@ -1,4 +1,6 @@
 .navigation-special {
+  background-color: white;
+}
 
   .breadcrumb {
       list-style: none;
@@ -10,6 +12,7 @@
       float: left;
       font-size: .875rem;
       line-height: $navigation-height *.5;
+      width: 100%;
       @include media($large-screen) {
         width: auto;
         line-height: $navigation-height;
@@ -71,43 +74,82 @@
     // .breadcrumb li:nth-child(5) a       { background:        hsla(34,85%,75%,1); }
     // .breadcrumb li:nth-child(5) a:after { border-left-color: hsla(34,85%,75%,1); }
 
-    .breadcrumb li.section-1 a       { background:        $blue; }
-    .breadcrumb li.section-1 a:after { border-left-color: $blue; }
+$base-bg: $blue-dark;
 
-    .breadcrumb li.section-2 a       { background:        $blue-dark; }
-    .breadcrumb li.section-2 a:after { border-left-color: $blue-dark; }
-
-    .breadcrumb li.section-3 a       { background:        $blue-aba-logo; }
-    .breadcrumb li.section-3 a:after { border-left-color: $blue-aba-logo; }
-
-    .breadcrumb li.section-4 a       { background:        $blue; }
-    .breadcrumb li.section-4 a:after { border-left-color: $blue; }
-
-
-    .breadcrumb li.section-5 a       { background:        $blue-dark; }
-    .breadcrumb li.section-5 a:after { border-left-color: $blue-dark; }
-
-
-
-
-    .breadcrumb li:last-child a {
-      background: white !important;
-      color: black;
-      pointer-events: none;
-      cursor: default;
+    .breadcrumb li.referrals-and-communication a, #referrals-and-communication { 
+      background:  lighten($base-bg, 0%); 
     }
-    .breadcrumb li:last-child a:after { border: 0; }
+    .breadcrumb li.referrals-and-communication a:after { 
+      border-left-color: lighten($base-bg, 0%); 
+    }
+
+    .breadcrumb li.preliminary-examination a, #preliminary-examination { 
+      background: lighten($base-bg, 10%); 
+    }
+    .breadcrumb li.preliminary-examination a:after { 
+      border-left-color: lighten($base-bg, 10%); 
+    }
+
+    .breadcrumb li.investigation a, #investigation       { 
+      background: lighten($base-bg, 20%); 
+    }
+    .breadcrumb li.investigation a:after { 
+      border-left-color: lighten($base-bg, 20%); 
+    }
+
+    .breadcrumb li.arrest-warrant-and-summons a, #arrest-warrant-and-summons {
+      background: lighten($base-bg, 30%); 
+    }
+    .breadcrumb li.arrest-warrant-and-summons a:after {
+      border-left-color: lighten($base-bg, 30%); 
+    }
+
+    .breadcrumb li.confirmation-of-charges a, #confirmation-of-charges { 
+      background: lighten($base-bg, 40%);
+    }
+    .breadcrumb li.confirmation-of-charges a:after { 
+      border-left-color: lighten($base-bg, 40%); 
+    }
+
+    .breadcrumb li.trial-and-appeal a, #trial-and-appeal { 
+      background: lighten($base-bg, 50%); 
+    }
+    .breadcrumb li.trial-and-appeal a:after { 
+      border-left-color: lighten($base-bg, 50%);
+    }
+
+    .breadcrumb li.sentencing-and-reparations a, #sentencing-and-reparations       { 
+      background: lighten($base-bg, 60%); 
+    }
+    .breadcrumb li.sentencing-and-reparations a:after { 
+    border-left-color: lighten($base-bg, 60%); 
+    }
+
+    
+
+
+    // .breadcrumb li:last-child a {
+    //   background: white !important;
+    //   color: black;
+    //   //pointer-events: none;
+    //   //cursor: default;
+    // }
+    // .breadcrumb li:last-child a:after { border: 0; }
     .breadcrumb li a:hover { background: hsla(34,85%,25%,1); }
-    .breadcrumb li a:hover:after { border-left-color: hsla(34,85%,25%,1) !important; }
+    .breadcrumb li a:hover:after { border-left-color: hsla(34,85%,25%,1); }
 
 
-}
+
 
 
 .stuck {
+  @include media($large-screen) {
   position:fixed;
   top:0;
   z-index: 100000;
+   background-color: white;
+   width: 100%;
+ }
 
       .breadcrumb li {
         float: left;
@@ -118,7 +160,7 @@
         @include media($large-screen) {
           width: auto;
           line-height: $navigation-height *.25;
-          @include transition (all 2s ease-in-out);
+          @include transition (all 1s ease-in-out);
         }
       }
       .breadcrumb li a {
@@ -128,7 +170,7 @@
       }
 
       @include media($large-screen) {
-      .breadcrumb li a:after {
+      .breadcrumbTK li a:after {
 
         border-top: 30px solid transparent;           /* Go big on the size, and let overflow hide */
         border-bottom: 30px solid transparent;
@@ -138,7 +180,7 @@
         left: 100%;
         z-index: 2;
       }
-      .breadcrumb li a:before {
+      .breadcrumbTK li a:before {
 
         border-top: 30px solid transparent;           /* Go big on the size, and let overflow hide */
         border-bottom: 30px solid transparent;
@@ -150,7 +192,7 @@
         left: 100%;
         z-index: 1;
       }
-      .breadcrumb li:first-child a {
+      .breadcrumbTK li:first-child a {
         padding-left: 10px;
       }
 
@@ -164,24 +206,24 @@
       // .breadcrumb li:nth-child(5) a       { background:        hsla(34,85%,75%,1); }
       // .breadcrumb li:nth-child(5) a:after { border-left-color: hsla(34,85%,75%,1); }
 
-      .breadcrumb li.section-1 a       { background:        $blue; }
-      .breadcrumb li.section-1 a:after { border-left-color: $blue; }
+      // .breadcrumb li.section-1 a       { background:        $blue; }
+      // .breadcrumb li.section-1 a:after { border-left-color: $blue; }
 
-      .breadcrumb li.section-2 a       { background:        $blue-dark; }
-      .breadcrumb li.section-2 a:after { border-left-color: $blue-dark; }
+      // .breadcrumb li.section-2 a       { background:        $blue-dark; }
+      // .breadcrumb li.section-2 a:after { border-left-color: $blue-dark; }
 
-      .breadcrumb li.section-3 a       { background:        $blue-aba-logo; }
-      .breadcrumb li.section-3 a:after { border-left-color: $blue-aba-logo; }
+      // .breadcrumb li.section-3 a       { background:        $blue-aba-logo; }
+      // .breadcrumb li.section-3 a:after { border-left-color: $blue-aba-logo; }
 
 
 
-      .breadcrumb li:last-child a {
-        background: white !important;
-        color: black;
-        pointer-events: none;
-        cursor: default;
-      }
-      .breadcrumb li:last-child a:after { border: 0; }
+      // .breadcrumb li:last-child a {
+      //   background: white !important;
+      //   color: black;
+      //   pointer-events: none;
+      //   cursor: default;
+      // }
+      // .breadcrumb li:last-child a:after { border: 0; }
       .breadcrumb li a:hover { background: hsla(34,85%,25%,1); }
       .breadcrumb li a:hover:after { border-left-color: hsla(34,85%,25%,1) !important; }
 
@@ -190,4 +232,36 @@
 
 
 
+}
+
+.timelines {
+  padding-top: 3em;
+
+  h2 {
+      color: white;
+      
+      @include outer-container;
+      clear: both;
+    }
+  .prose {
+    padding: 4em 0;
+    @include outer-container;
+    @include media($large-screen) {
+      -moz-column-count: 2;
+      -moz-column-gap: 2.5em;
+      -webkit-column-count: 2;
+      -webkit-column-gap: 2.5em;
+      column-count: 2;
+      column-gap: 2.5em;
+    }
+  }
+}
+
+.columnsTK {
+  -moz-column-count: 2;
+      -moz-column-gap: 2.5em;
+      -webkit-column-count: 2;
+      -webkit-column-gap: 2.5em;
+      column-count: 2;
+      column-gap: 2.5em;
 }

@@ -8,6 +8,9 @@
    "./node_modules/lunr/lunr.js",
    "./node_modules/list.js/dist/list.js",
    "./node_modules/flickity/dist/flickity.pkgd.js",
+   "./node_modules/waypoints/lib/jquery.waypoints.js",
+   "./node_modules/waypoints/lib/shortcuts/sticky.js",
+   "./node_modules/flickity/dist/flickity.pkgd.js",
    "./js/*.js"
   ],
   "scriptsWatch":"./js",
