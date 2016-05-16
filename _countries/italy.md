@@ -19,7 +19,7 @@ genocide: >-
   [Ratification and implementation of the Statute of the International Criminal
   Court: Article 6](https://iccdb.hrlc.net/data/doc/489/)
 crimes_against_humanity: '[Ratification and implementation of the Statute of the International Criminal Court: Article 7](https://iccdb.hrlc.net/data/doc/489/)'
-aggression:
+aggression: '[Italy’s Law on Genocide of October 9, 1967 No. 962](https://iccdb.hrlc.net/data/doc/449/) [Ratification and implementation of the Statute of the International Criminal Court: Article 5](https://iccdb.hrlc.net/data/doc/489/)'
 war_crimes:
 note:
 slug: italy
