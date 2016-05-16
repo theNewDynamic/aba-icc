@@ -18,9 +18,7 @@ crimes_against_humanity: >-
   9](https://iccdb.hrlc.net/data/doc/293/)
 
   [Law Implementing the Rome Statute of the International Criminal Court
-  (Icelandic)]
-
-  (https://iccdb.hrlc.net/data/doc/295/)
+  (Icelandic)](https://iccdb.hrlc.net/data/doc/295/)
 aggression: '[Law Implementing the Rome Statute of the International Criminal Court (Icelandic)](https://iccdb.hrlc.net/data/doc/295/)'
 war_crimes: '[Law Implementing the Rome Statute of the International Criminal Court (Icelandic)](https://iccdb.hrlc.net/data/doc/295/)'
 note:
