@@ -19,7 +19,7 @@ crimes_against_humanity: >-
   the International Criminal Court (Icelandic)]
 
   (https://iccdb.hrlc.net/data/doc/295/)
-aggression: 'Implementing the Rome Statute of the International Criminal Court (Icelandic)] (https://iccdb.hrlc.net/data/doc/295/)'
+aggression: '[Implementing the Rome Statute of the International Criminal Court (Icelandic)] (https://iccdb.hrlc.net/data/doc/295/)'
 war_crimes: '[Law Implementing the Rome Statute of the International Criminal Court (Icelandic)](https://iccdb.hrlc.net/data/doc/295/)'
 note:
 slug: iceland
