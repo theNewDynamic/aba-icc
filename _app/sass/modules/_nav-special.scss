@@ -235,12 +235,15 @@ $base-bg: $blue-dark;
 }
 
 .timelines {
-  padding-top: 3em;
+  padding: 3em 0 2em 0;      
 
+  .timeline {
+    padding: 3em 3em 3em 4.5em;  
+  }
   h2 {
       color: white;
       
-      @include outer-container;
+      //@include outer-container;
       clear: both;
     }
   .prose {
@@ -255,6 +258,32 @@ $base-bg: $blue-dark;
       column-gap: 2.5em;
     }
   }
+}
+
+.section {
+  color: #ddd;
+
+  @include media($large-screen) {
+    margin-right: 8em;
+    min-height: 90vh;
+    overflow: hidden;
+    width: 66vw;
+    
+    p {
+      font-size: 1.375em;
+    }
+  }
+  img {
+    max-width: 25%;
+    float: left;
+    margin: .125em 1em .125em 0;
+  }
+  h3 {
+    color: white;
+  }
+  a {
+    color: #ddd;
+  }  
 }
 
 .columnsTK {
