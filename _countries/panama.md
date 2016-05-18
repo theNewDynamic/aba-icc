@@ -18,7 +18,7 @@ genocide: >-
 
   [Law No. 14 which the Rome Statute of the International Criminal Court
   Approves, Article 6 ](https://iccdb.hrlc.net/data/doc/358/)
-crimes_against_humanity:
+crimes_against_humanity: '[Panama Criminal Code - Book II - Title 1 - Chapter II](https://iccdb.hrlc.net/data/doc/356/) [Law No. 14 which the Rome Statute of the International Criminal Court Approves, Article 7](https://iccdb.hrlc.net/data/doc/358/)'
 aggression:
 war_crimes:
 note:
