@@ -13,12 +13,7 @@ ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date: 2004-06-30T00:00:00.000Z
 genocide: '[Bahamas - Genocide Act - Chapter 85](https://iccdb.hrlc.net/data/doc/568/keyword/46/)'
-crimes_against_humanity: >-
-  [Bahamas - Genocide Act - Chapter
-  85](https://iccdb.hrlc.net/data/doc/568/keyword/46/)
-
-  [The Constitution of Barbados - Article 15
-  (1)](http://www.oas.org/dil/The_Constitution_of_Barbados.pdf)
+crimes_against_humanity:
 aggression:
 war_crimes:
 note:
