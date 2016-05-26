@@ -12,7 +12,7 @@ signed_date: 1998-07-17T00:00:00.000Z
 ratified_or_acceded_date: 2002-06-27T00:00:00.000Z
 entry_into_force_date: 2002-09-01T00:00:00.000Z
 ratified_apic_date: 2006-01-20T00:00:00.000Z
-genocide: '[Bolivian Penal Code, Article 138](https://www.oas.org/juridico/mla/sp/bol/sp_bol-int-text-cp.html)'
+genocide: '[Bolivian Penal Code, Article 138](https://iccdb.hrlc.net/data/doc/729/)'
 crimes_against_humanity: '[Bolivian Penal Code, Article 1(7)](https://iccdb.hrlc.net/data/doc/729/)'
 aggression:
 war_crimes:
