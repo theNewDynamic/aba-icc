@@ -1,5 +1,5 @@
 ---
-title: "Namibia"
+title: Namibia
 published: true
 featured_image_path:
 featured_image_attribution:
@@ -13,9 +13,11 @@ ratified_or_acceded_date: 2002-06-25T00:00:00.000Z
 entry_into_force_date: 2002-09-01T00:00:00.000Z
 ratified_apic_date: 2004-01-28T00:00:00.000Z
 genocide:
-crimes_against_humanity: "[Constitution of the Republic of Namibia - Chapter 3 - Article 23](https://iccdb.hrlc.net/data/doc/665/keyword/13/)"
+crimes_against_humanity: '[Constitution of the Republic of Namibia, Chapter 3, Article 23](https://iccdb.hrlc.net/data/doc/665/keyword/13/)'
 aggression:
-war_crimes: "[Namibia - Geneva Conventions Act](https://iccdb.hrlc.net/data/doc/784/keyword/145/)"
+war_crimes: '[Namibia Geneva Conventions Act, Article 2](https://iccdb.hrlc.net/data/doc/784/keyword/145/)'
 note:
 slug: namibia
 ---
+
+
