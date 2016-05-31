@@ -12,15 +12,10 @@ signed_date: 1998-07-18T00:00:00.000Z
 ratified_or_acceded_date: 1999-07-26T00:00:00.000Z
 entry_into_force_date: 2002-07-01T00:00:00.000Z
 ratified_apic_date: 2006-11-19T00:00:00.000Z
-genocide: >-
-  [Italy’s Law on Genocide of October 9, 1967 No.
-  962](https://iccdb.hrlc.net/data/doc/449/)
-
-  [Ratification and implementation of the Statute of the International Criminal
-  Court: Article 6](https://iccdb.hrlc.net/data/doc/489/)
+genocide: '[Italy’s Law on Genocide of October 9, 1967 No. 962](https://iccdb.hrlc.net/data/doc/449/)'
 crimes_against_humanity: '[Ratification and implementation of the Statute of the International Criminal Court: Article 7](https://iccdb.hrlc.net/data/doc/489/)'
-aggression: '[Italy’s Law on Genocide of October 9, 1967 No. 962](https://iccdb.hrlc.net/data/doc/449/) [Ratification and implementation of the Statute of the International Criminal Court: Article 5](https://iccdb.hrlc.net/data/doc/489/)'
-war_crimes: '[Italy’s Law on Genocide of October 9, 1967 No. 962](https://iccdb.hrlc.net/data/doc/449/) [Ratification and implementation of the Statute of the International Criminal Court: Article 8](https://iccdb.hrlc.net/data/doc/489/)'
+aggression: '[Ratification and implementation of the Statute of the International Criminal Court: Article 5](https://iccdb.hrlc.net/data/doc/489/)'
+war_crimes: '[Ratification and implementation of the Statute of the International Criminal Court: Article 8](https://iccdb.hrlc.net/data/doc/489/)'
 note:
 slug: italy
 ---
