@@ -1,5 +1,5 @@
 ---
-title: "Kyrgyzstan"
+title: Kyrgyzstan
 published: true
 featured_image_path:
 featured_image_attribution:
@@ -12,10 +12,12 @@ signed_date: 1998-12-07T00:00:00.000Z
 ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date:
-genocide: "[Kyrgyzstan Criminal Code - Section XII - Chapter 34 - Article 373](https://iccdb.hrlc.net/data/doc/584/keyword/46/)"
+genocide: '[Kyrgyzstan Criminal Code, Section 12, Chapter 34, Article 373](https://iccdb.hrlc.net/data/doc/584/keyword/46/)'
 crimes_against_humanity:
 aggression:
 war_crimes:
 note:
 slug: kyrgyzstan
 ---
+
+
