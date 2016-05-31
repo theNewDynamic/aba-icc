@@ -12,10 +12,10 @@ signed_date: 1998-07-17T00:00:00.000Z
 ratified_or_acceded_date: 2002-04-11T00:00:00.000Z
 entry_into_force_date: 2002-07-01T00:00:00.000Z
 ratified_apic_date: 2002-04-11T00:00:00.000Z
-genocide: '[Niger Code Penal, Article 208.1](https://iccdb.hrlc.net/data/doc/352/)'
-crimes_against_humanity: '[Niger Code Penal, Article 208.2](https://iccdb.hrlc.net/data/doc/352/)'
+genocide: '[Niger Criminal Code, Article 208.1](https://iccdb.hrlc.net/data/doc/352/)'
+crimes_against_humanity: '[Niger Criminal Code, Article 208.2](https://iccdb.hrlc.net/data/doc/352/)'
 aggression:
-war_crimes: '[Niger Code Penal, Article 208.3](https://iccdb.hrlc.net/data/doc/352/)'
+war_crimes: '[Niger Criminal Code, Article 208.3](https://iccdb.hrlc.net/data/doc/352/)'
 note:
 slug: niger
 ---
