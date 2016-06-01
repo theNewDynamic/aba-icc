@@ -1,5 +1,5 @@
 ---
-title: "Venezuela"
+title: Venezuela
 published: true
 featured_image_path: /uploads/1427914089304_3024863041_8d8d6d3344_b.jpg
 featured_image_attribution:
@@ -15,7 +15,9 @@ ratified_apic_date: 2003-07-16T00:00:00.000Z
 genocide:
 crimes_against_humanity:
 aggression:
-war_crimes: "[Venezuela - Constitution - Title III - Chapter I - Article 29](https://iccdb.hrlc.net/data/doc/840/keyword/145/)"
+war_crimes: '[Venezuelan Constitution, Title 3, Chapter 1, Article 29](https://iccdb.hrlc.net/data/doc/840/keyword/145/)'
 note:
 slug: venezuela
 ---
+
+
