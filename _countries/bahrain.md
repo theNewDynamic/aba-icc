@@ -13,7 +13,7 @@ ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date:
 genocide:
-crimes_against_humanity: '[Bahrain Penal Code, Article 361](https://www.unodc.org/res/cld/document/bhr/1976/bahrain_penal_code_html/Bahrain_Penal_Code_1976.pdf)'
+crimes_against_humanity: '[Bahrain Criminal Code, Article 361](https://www.unodc.org/res/cld/document/bhr/1976/bahrain_penal_code_html/Bahrain_Penal_Code_1976.pdf)'
 aggression:
 war_crimes:
 note:
