@@ -12,10 +12,10 @@ signed_date: 1999-12-11T00:00:00.000Z
 ratified_or_acceded_date: 2001-10-03T00:00:00.000Z
 entry_into_force_date: 2002-07-01T00:00:00.000Z
 ratified_apic_date: 2006-10-10T00:00:00.000Z
-genocide: '[Central African Criminal Code, Title 4, Chapter 1, Article 152](http://iccdb.webfactional.com/documents/implementations/pdf/Central_African_Republic-Penal_code_AB_04072012.pdf)'
-crimes_against_humanity: '[Central African Criminal Code, Title 4, Chapter 2, Article 153](http://iccdb.webfactional.com/documents/implementations/pdf/Central_African_Republic-Penal_code_AB_04072012.pdf)'
+genocide: '[Central African Criminal Code, Title 4, Chapter 1, Article 152](https://iccdb.hrlc.net/data/doc/429/)'
+crimes_against_humanity: '[Central African Criminal Code, Title 4, Chapter 2, Article 153](https://iccdb.hrlc.net/data/doc/429/)'
 aggression:
-war_crimes: '[Central African Criminal Code, Title 4, Chapter 3, Article 154](http://iccdb.webfactional.com/documents/implementations/pdf/Central_African_Republic-Penal_code_AB_04072012.pdf)'
+war_crimes: '[Central African Criminal Code, Title 4, Chapter 3, Article 154](https://iccdb.hrlc.net/data/doc/429/)'
 note:
 slug: central-african-republic
 ---
