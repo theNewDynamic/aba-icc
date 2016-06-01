@@ -12,8 +12,8 @@ signed_date: 1998-12-09T00:00:00.000Z
 ratified_or_acceded_date: 2002-08-05T00:00:00.000Z
 entry_into_force_date: 2002-11-01T00:00:00.000Z
 ratified_apic_date: 2009-04-15T00:00:00.000Z
-genocide: '[Law No. 589  criminalizes genocide, the forced disappearance, forced displacement and torture;and other provisions, Article 322](https://iccdb.hrlc.net/data/doc/480/)'
-crimes_against_humanity: '[Columbian Code of Criminal Procedure, Article 17, Paragraph 3](https://iccdb.hrlc.net/data/doc/252/)'
+genocide: '[Columbian Criminal Code, Title 1, Chapter 1, Article 101](https://iccdb.hrlc.net/data/doc/252/)'
+crimes_against_humanity:
 aggression:
 war_crimes:
 note:
