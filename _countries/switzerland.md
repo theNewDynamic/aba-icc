@@ -1,5 +1,5 @@
 ---
-title: "Switzerland"
+title: Switzerland
 published: true
 featured_image_path:
 featured_image_attribution:
@@ -12,10 +12,12 @@ signed_date: 1998-07-18T00:00:00.000Z
 ratified_or_acceded_date: 2001-10-12T00:00:00.000Z
 entry_into_force_date: 2002-07-01T00:00:00.000Z
 ratified_apic_date: 2012-09-25T00:00:00.000Z
-genocide: "[Switzerland Penal Code - Book II - Title 12 - Article 264](https://iccdb.hrlc.net/data/doc/166/keyword/46/)"
-crimes_against_humanity: "[Switzerland Penal Code - Book II - Title 12 - Article 264a](https://iccdb.hrlc.net/data/doc/166/keyword/13/)"
+genocide: '[Swiss Criminal Code, Book 2, Title 12, Article 264](https://iccdb.hrlc.net/data/doc/166/keyword/46/)'
+crimes_against_humanity: '[Swiss Criminal Code, Book 2, Title 12, Article 264a](https://iccdb.hrlc.net/data/doc/166/keyword/13/)'
 aggression:
-war_crimes: "[Switzerland Penal Code - Book II - Title 12 - Article 264b-j](https://iccdb.hrlc.net/data/doc/166/keyword/145/)"
+war_crimes: '[Swiss Criminal Code, Book 2, Title 12, Article 264b-j](https://iccdb.hrlc.net/data/doc/166/keyword/145/)'
 note:
 slug: switzerland
 ---
+
+
