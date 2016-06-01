@@ -15,7 +15,7 @@ ratified_apic_date: 2006-10-10T00:00:00.000Z
 genocide: '[Central African Criminal Code, Title 4, Chapter 1, Article 152](http://iccdb.webfactional.com/documents/implementations/pdf/Central_African_Republic-Penal_code_AB_04072012.pdf)'
 crimes_against_humanity: '[Central African Criminal Code, Title 4, Chapter 2, Article 153](http://iccdb.webfactional.com/documents/implementations/pdf/Central_African_Republic-Penal_code_AB_04072012.pdf)'
 aggression:
-war_crimes: '[Central African Criminal Code, Title 4, Chapter 3, Article 154](http://iccdb.webfactional.com/documents/implementations/pdf/Central_African_Republic-Penal_code_AB_04072012.pdf'
+war_crimes: '[Central African Criminal Code, Title 4, Chapter 3, Article 154](http://iccdb.webfactional.com/documents/implementations/pdf/Central_African_Republic-Penal_code_AB_04072012.pdf)'
 note:
 slug: central-african-republic
 ---
