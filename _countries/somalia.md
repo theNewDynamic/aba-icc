@@ -1,5 +1,5 @@
 ---
-title: "Somalia"
+title: Somalia
 published: true
 featured_image_path:
 featured_image_attribution:
@@ -12,10 +12,12 @@ signed_date:
 ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date:
-genocide: "[Constitution of Somalia](https://iccdb.hrlc.net/data/doc/853/keyword/46/)"
+genocide: '[Constitution of Somalia, Article 3.5.4.1](https://iccdb.hrlc.net/data/doc/853/keyword/46/)'
 crimes_against_humanity:
 aggression:
-war_crimes: "[Constitution of Somalia](https://iccdb.hrlc.net/data/doc/853/keyword/145/)"
+war_crimes: '[Constitution of Somalia, Article 3.5.4.1](https://iccdb.hrlc.net/data/doc/853/keyword/145/)'
 note:
 slug: somalia
 ---
+
+
