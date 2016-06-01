@@ -13,7 +13,7 @@ ratified_or_acceded_date: 2001-04-30T00:00:00.000Z
 entry_into_force_date: 2002-07-01T00:00:00.000Z
 ratified_apic_date: 2005-02-10T00:00:00.000Z
 genocide: '[Andorran Criminal Code, Title 14, Chapter 2, Article 456](https://iccdb.hrlc.net/data/doc/473/)'
-crimes_against_humanity: '[Andorran Criminal Code, Title 14, Chapter 3, 459](https://iccdb.hrlc.net/data/doc/473/)'
+crimes_against_humanity: '[Andorran Criminal Code, Title 14, Chapter 3, Article 459](https://iccdb.hrlc.net/data/doc/473/)'
 aggression: '[Andorran Criminal Code, Title 14, Chapter 4](https://iccdb.hrlc.net/data/doc/473/)'
 war_crimes: '[Andorran Criminal Code, Title 14, Chapter 4](https://iccdb.hrlc.net/data/doc/473/)'
 note:
