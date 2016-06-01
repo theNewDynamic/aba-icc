@@ -1,5 +1,5 @@
 ---
-title: "Spain"
+title: Spain
 published: true
 featured_image_path:
 featured_image_attribution:
@@ -12,10 +12,12 @@ signed_date: 1998-07-18T00:00:00.000Z
 ratified_or_acceded_date: 2000-10-24T00:00:00.000Z
 entry_into_force_date: 2002-07-01T00:00:00.000Z
 ratified_apic_date: 2009-09-24T00:00:00.000Z
-genocide: "[Spain Penal Code - Book I - Title XXIV - Chapter II - Article 607](https://iccdb.hrlc.net/data/doc/706/keyword/46/)"
-crimes_against_humanity: "[Spain Penal Code - Book I - Title XXIV - Chapter II Bis - Article 607 bis](https://iccdb.hrlc.net/data/doc/706/keyword/13/)"
+genocide: '[Spanish Criminal Code, Book 1, Title 24, Chapter 2, Article 607](https://iccdb.hrlc.net/data/doc/706/keyword/46/)'
+crimes_against_humanity: '[Spanish Criminal Code, Book 1, Title 24, Chapter 2, Article 607](https://iccdb.hrlc.net/data/doc/706/keyword/13/)'
 aggression:
-war_crimes: "[Spain Penal Code - Book I - Title XXIV - Chapter III - Articles 608-614 bis](https://iccdb.hrlc.net/data/doc/706/keyword/145/)"
+war_crimes: '[Spanish Criminal Code, Book 1, Title 24, Chapter 2, Articles 608-614 bis](https://iccdb.hrlc.net/data/doc/706/keyword/145/)'
 note:
 slug: spain
 ---
+
+
