@@ -14,7 +14,7 @@ entry_into_force_date: 2002-09-01T00:00:00.000Z
 ratified_apic_date: 2011-12-11T00:00:00.000Z
 genocide: '[Law No. 2.889 of 1 October 1956](https://iccdb.hrlc.net/data/doc/522/)'
 crimes_against_humanity: '[Decree No. 4388 of 25 September 2002, Promulgates the Rome Statute of the International Criminal Court, Article 7](http://www.planalto.gov.br/ccivil_03/decreto/2002/D4388.htm)'
-aggression: '[Rome Statute of the International Criminal Court, Article 8](https://www.icc-cpi.int/iccdocs/PIDS/publications/RomeStatutEng.pdf)'
+aggression:
 war_crimes: '[Decree No. 4388 of 25 September 2002, Promulgates the Rome Statute of the International Criminal Court, Article 8](http://www.planalto.gov.br/ccivil_03/decreto/2002/D4388.htm)'
 note:
 slug: brazil
