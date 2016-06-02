@@ -12,10 +12,10 @@ signed_date:
 ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date:
-genocide: '[Constitution of Somalia, Article 3.5.4.1](https://iccdb.hrlc.net/data/doc/853/keyword/46/)'
+genocide:
 crimes_against_humanity:
 aggression:
-war_crimes: '[Constitution of Somalia, Article 3.5.4.1](https://iccdb.hrlc.net/data/doc/853/keyword/145/)'
+war_crimes:
 note:
 slug: somalia
 ---
