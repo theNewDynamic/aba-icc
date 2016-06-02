@@ -12,7 +12,7 @@ signed_date:
 ratified_or_acceded_date: 2011-05-19T00:00:00.000Z
 entry_into_force_date: 2002-08-01T00:00:00.000Z
 ratified_apic_date:
-genocide: '[Grenada Genocide Act](https://iccdb.hrlc.net/data/doc/761/keyword/46/)'
+genocide: '[Grenada Genocide Act, Section 2](https://iccdb.hrlc.net/data/doc/761/keyword/46/)'
 crimes_against_humanity:
 aggression:
 war_crimes:
