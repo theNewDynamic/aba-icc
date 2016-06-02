@@ -1,5 +1,5 @@
 ---
-title: "Monaco"
+title: Monaco
 published: true
 featured_image_path:
 featured_image_attribution:
@@ -15,7 +15,9 @@ ratified_apic_date:
 genocide:
 crimes_against_humanity:
 aggression:
-war_crimes: "[Monaco Criminal Code](http://www.legimonaco.mc/305/legismclois.nsf/ViewSommaire/5C2938D8D46C7348C12574FD004BE402!OpenDocument)"
+war_crimes:
 note:
 slug: monaco
 ---
+
+
