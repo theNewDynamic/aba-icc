@@ -12,10 +12,10 @@ signed_date:
 ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date:
-genocide: '[Nicaraguan Criminal Code, Book 3, Title 14, Article 549](https://iccdb.hrlc.net/data/doc/348/)'
-crimes_against_humanity:
-aggression:
-war_crimes:
+genocide: '[Nicaraguan Criminal Code, Title 12, Chapter 1, Article 484](https://www.oas.org/juridico/mla/sp/nic/sp_nic_Nuevo_Codigo_Penal_%20Nicaragua_2007.pdf)'
+crimes_against_humanity: '[Nicaraguan Criminal Code, Title 12, Chapter 2, Article 486-488](https://www.oas.org/juridico/mla/sp/nic/sp_nic_Nuevo_Codigo_Penal_%20Nicaragua_2007.pdf)'
+aggression: '[Nicaraguan Criminal Code, Title 1, Chapter 1, Article 523-524](https://www.oas.org/juridico/mla/sp/nic/sp_nic_Nuevo_Codigo_Penal_%20Nicaragua_2007.pdf)'
+war_crimes: '[Nicaraguan Criminal Code, Title 12, Chapter 3, Article 486-522](https://www.oas.org/juridico/mla/sp/nic/sp_nic_Nuevo_Codigo_Penal_%20Nicaragua_2007.pdf)'
 note:
 slug: nicaragua
 ---
