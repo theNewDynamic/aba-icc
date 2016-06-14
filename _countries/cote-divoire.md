@@ -15,7 +15,7 @@ ratified_apic_date:
 genocide: '[Cote d’Ivoire Criminal Code, Article 137](https://iccdb.hrlc.net/data/doc/426/)'
 crimes_against_humanity: '[Cote d’Ivoire Criminal Code,  Article 138](https://iccdb.hrlc.net/data/doc/426/)'
 aggression:
-war_crimes:
+war_crimes: '[Cote d’Ivoire Criminal Code,  Article 138](https://iccdb.hrlc.net/data/doc/426/)'
 note:
 slug: cote-divoire
 ---
