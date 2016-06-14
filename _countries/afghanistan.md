@@ -1,8 +1,8 @@
 ---
-title: "Afghanistan"
+title: Afghanistan
 published: true
-featured_image_path: /uploads/1426090958564_featured_image-afghanistan-credit-hadi-zaher.jpg
-featured_image_attribution: "Hadi Zaher"
+featured_image_path: /uploads/afghanistan.jpg
+featured_image_attribution: Hadi Zaher
 geocode: AFG
 iso_code: AF
 territory: false
@@ -19,3 +19,5 @@ war_crimes:
 note:
 slug: afghanistan
 ---
+
+
