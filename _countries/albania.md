@@ -9,7 +9,7 @@ territory: false
 state_party: true
 signed_but_not_ratified: false
 signed_date: 1998-07-18T00:00:00.000Z
-ratified_or_acceded_date: 2003-01-30T00:00:00.000Z
+ratified_or_acceded_date: 2003-01-31T00:00:00.000Z
 entry_into_force_date: 2003-05-01T00:00:00.000Z
 ratified_apic_date: 2006-08-02T00:00:00.000Z
 genocide: '[Albanian Criminal Code, Chapter 1, Article 73](https://iccdb.hrlc.net/data/doc/215/keyword/46/)'
