@@ -1,7 +1,7 @@
 ---
-title: "Algeria"
+title: Algeria
 published: true
-featured_image_path:
+featured_image_path: /uploads/algeria.jpg
 featured_image_attribution:
 geocode: DZA
 iso_code: DZ
@@ -19,3 +19,5 @@ war_crimes:
 note:
 slug: algeria
 ---
+
+
