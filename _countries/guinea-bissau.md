@@ -12,10 +12,10 @@ signed_date: 2000-09-12T00:00:00.000Z
 ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date:
-genocide: '[Guinea-Bissau Criminal Code, Part 5, Division 2, Article 313A](http://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=70707&p_country=PNG&p_classification=01.04)'
-crimes_against_humanity:
+genocide: '[Guinea-Bissau Criminal Code, Article 101](https://www.icrc.org/ihl-nat/0/680FC9B367B474BCC12577A50035BA0D)'
+crimes_against_humanity: '[Guinea-Bissau Criminal Code, Article 102-103](https://www.icrc.org/ihl-nat/0/680FC9B367B474BCC12577A50035BA0D)'
 aggression:
-war_crimes:
+war_crimes: '[Guinea-Bissau Criminal Code, Article 203-204](https://www.icrc.org/ihl-nat/0/680FC9B367B474BCC12577A50035BA0D)'
 note:
 slug: guinea-bissau
 ---
