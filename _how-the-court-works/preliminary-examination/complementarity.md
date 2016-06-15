@@ -1,7 +1,7 @@
 ---
 title: 'Admissibility Assessment: Complementarity'
 published: true
-process:
+process: preliminary-examination
 order:
 ---
 
