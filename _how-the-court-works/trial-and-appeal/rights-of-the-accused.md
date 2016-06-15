@@ -1,8 +1,8 @@
 ---
 title: Rights of the Accused
 published: true
-process:
-order:
+process: trial-and-appeal
+order: '2'
 ---
 
 
