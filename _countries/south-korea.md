@@ -9,7 +9,7 @@ territory: false
 state_party: true
 signed_but_not_ratified: false
 signed_date: 2000-03-07T00:00:00.000Z
-ratified_or_acceded_date: 2002-11-12T00:00:00.000Z
+ratified_or_acceded_date: 2002-11-13T00:00:00.000Z
 entry_into_force_date: 2003-01-31T00:00:00.000Z
 ratified_apic_date: 2006-10-18T00:00:00.000Z
 genocide: '[Korean ICC Crimes Act, Chapter 2, Article 8](https://iccdb.hrlc.net/data/doc/206/keyword/46/)'
