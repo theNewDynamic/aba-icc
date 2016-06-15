@@ -23,6 +23,7 @@ phases:
 
 processes:
   - ''
+  - jurisdictional-triggers
   - referrals-and-communication
   - preliminary-examination
   - investigation
@@ -30,6 +31,7 @@ processes:
   - confirmation-of-charges
   - trial-and-appeal
   - sentencing-and-reparations
+
 
 
 ## DO NOT EDIT BELOW THIS LINE
