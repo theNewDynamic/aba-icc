@@ -8,7 +8,7 @@ iso_code: PH
 territory: false
 state_party: true
 signed_but_not_ratified: false
-signed_date: 2000-12-27T00:00:00.000Z
+signed_date: 2000-12-28T00:00:00.000Z
 ratified_or_acceded_date: 2011-08-30T00:00:00.000Z
 entry_into_force_date: 2011-11-01T00:00:00.000Z
 ratified_apic_date:
