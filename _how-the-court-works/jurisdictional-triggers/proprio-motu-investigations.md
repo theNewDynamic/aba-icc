@@ -2,7 +2,7 @@
 title: Proprio Motu Investigations
 published: true
 process: jurisdictional-triggers
-order:
+order: '4'
 ---
 
 
