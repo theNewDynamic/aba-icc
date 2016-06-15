@@ -1,8 +1,8 @@
 ---
 title: Appeal
 published: true
-process:
-order:
+process: trial-and-appeal
+order: '3'
 ---
 
 
