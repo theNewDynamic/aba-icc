@@ -7,8 +7,8 @@ geocode: LSO
 iso_code: LS
 territory: false
 state_party: true
-signed_but_not_ratified: false
-signed_date: 1998-11-29T00:00:00.000Z
+signed_but_not_ratified: true
+signed_date: 1998-11-30T00:00:00.000Z
 ratified_or_acceded_date: 2000-09-06T00:00:00.000Z
 entry_into_force_date: 2002-07-01T00:00:00.000Z
 ratified_apic_date: 2005-09-16T00:00:00.000Z
