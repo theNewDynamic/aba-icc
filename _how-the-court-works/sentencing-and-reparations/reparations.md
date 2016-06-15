@@ -1,8 +1,8 @@
 ---
 title: Reparations
 published: true
-process:
-order:
+process: sentencing-and-reparations
+order: '2'
 ---
 
 
