@@ -1,7 +1,7 @@
 ---
 title: American Samoa
 published: true
-featured_image_path: /uploads/american samoa.jpg
+featured_image_path:
 featured_image_attribution:
 geocode: ASM
 iso_code: AS
