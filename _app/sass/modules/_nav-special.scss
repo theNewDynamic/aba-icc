@@ -273,13 +273,21 @@ $base-bg: $blue-dark;
 }
 
 .section {
-  color: #ddd;
 
   @include media($large-screen) {
     margin-right: 8em;
     min-height: 90vh;
     overflow: hidden;
     width: 66vw;
+    div {
+      h3  {
+        color: #111;
+      }
+      color: #555;//#ddd;
+    background-color:#f6f6f6;
+    padding: 2em;
+
+    }
     
     p {
       font-size: 1.375em;
