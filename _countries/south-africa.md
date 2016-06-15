@@ -15,7 +15,7 @@ ratified_apic_date:
 genocide: '[Implementation of the ICC Statute, Chapter 5, Schedule 1, Part 1](https://iccdb.hrlc.net/data/doc/43/keyword/46/)'
 crimes_against_humanity: '[Implementation of the ICC Statute, Chapter 5, Schedule 1, Part 2](https://iccdb.hrlc.net/data/doc/43/keyword/13/)'
 aggression:
-war_crimes: '[South African Criminal Code, Title 2, Chapter 1, Articles 282-284](https://www.legal-tools.org/en/go-to-database/national-implementing-legislation-database/) [South Africa: Implementation of the ICC Statute, Chapter 5, Schedule 1, Part 3](https://iccdb.hrlc.net/data/doc/43/keyword/145/)'
+war_crimes: '[South Africa: Implementation of the ICC Statute, Chapter 5, Schedule 1, Part 3](https://iccdb.hrlc.net/data/doc/43/keyword/145/)'
 note:
 slug: south-africa
 ---
