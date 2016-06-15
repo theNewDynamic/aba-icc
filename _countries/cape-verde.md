@@ -5,7 +5,7 @@ featured_image_path:
 featured_image_attribution:
 geocode: CPV
 iso_code: CV
-territory:
+territory: United Kingdom
 state_party: true
 signed_but_not_ratified: false
 signed_date: 2000-12-28T00:00:00.000Z
