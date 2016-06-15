@@ -8,7 +8,7 @@ iso_code: CO
 territory: false
 state_party: true
 signed_but_not_ratified: false
-signed_date: 1998-12-09T00:00:00.000Z
+signed_date: 1998-12-10T00:00:00.000Z
 ratified_or_acceded_date: 2002-08-05T00:00:00.000Z
 entry_into_force_date: 2002-11-01T00:00:00.000Z
 ratified_apic_date: 2009-04-15T00:00:00.000Z
