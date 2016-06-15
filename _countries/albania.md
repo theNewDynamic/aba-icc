@@ -1,7 +1,7 @@
 ---
 title: Albania
 published: true
-featured_image_path: /uploads/albania.jpg
+featured_image_path:
 featured_image_attribution:
 geocode: ALB
 iso_code: AL
