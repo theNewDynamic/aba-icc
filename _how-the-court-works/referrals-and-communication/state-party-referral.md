@@ -1,7 +1,7 @@
 ---
 title: State Party Referral
 published: true
-process: jurisdictional-triggers
+process: referrals-and-communication
 order: '2'
 ---
 

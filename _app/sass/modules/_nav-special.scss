@@ -76,6 +76,18 @@
 
 $base-bg: $blue-dark;
 
+
+    
+    .breadcrumb li.jurisdictional-triggers a, #jurisdictional-triggers       { 
+      background: lighten($base-bg, 60%); 
+    }
+    .breadcrumb li.jurisdictional-triggers a:after { 
+    border-left-color: lighten($base-bg, 60%); 
+    }
+
+
+
+
     .breadcrumb li.referrals-and-communication a, #referrals-and-communication { 
       background:  lighten($base-bg, 0%); 
     }

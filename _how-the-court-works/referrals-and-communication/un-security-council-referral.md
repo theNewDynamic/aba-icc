@@ -1,7 +1,7 @@
 ---
 title: UN Security Council Referral
 published: true
-process: jurisdictional-triggers
+process: referrals-and-communication
 order: '3'
 ---
 

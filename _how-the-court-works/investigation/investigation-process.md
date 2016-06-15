@@ -1,8 +1,8 @@
 ---
 title: Investigation Process
 published: true
-process:
-order:
+process: investigation
+order: 1
 ---
 
 
