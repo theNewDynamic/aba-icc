@@ -14,7 +14,7 @@ entry_into_force_date: 2009-10-01T00:00:00.000Z
 ratified_apic_date: 2011-05-04T00:00:00.000Z
 genocide: '[Czech Criminal Code, Chapter 13, Division 1, Section 400](http://www.ejtn.eu/PageFiles/6533/Criminal%20Code%20of%20the%20Czech%20Republic.pdf)'
 crimes_against_humanity: '[Czech Criminal Code, Chapter 13, Division 1, Section 401](http://www.ejtn.eu/PageFiles/6533/Criminal%20Code%20of%20the%20Czech%20Republic.pdf)'
-aggression:
+aggression: '[Czech Criminal Code, Chapter 13, Division 1, Section 406](http://www.ejtn.eu/PageFiles/6533/Criminal%20Code%20of%20the%20Czech%20Republic.pdf)'
 war_crimes: '[Czech Criminal Code, Chapter 13, Division 2](http://www.ejtn.eu/PageFiles/6533/Criminal%20Code%20of%20the%20Czech%20Republic.pdf)'
 note:
 slug: czech-republic
