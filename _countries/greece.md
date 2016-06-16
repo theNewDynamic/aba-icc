@@ -12,10 +12,10 @@ signed_date: 1998-07-18T00:00:00.000Z
 ratified_or_acceded_date: 2002-05-15T00:00:00.000Z
 entry_into_force_date: 2002-08-01T00:00:00.000Z
 ratified_apic_date: 2007-07-06T00:00:00.000Z
-genocide: '[Alignment of the National Legislation to the Rome Statute provisions, Article 7](https://iccdb.hrlc.net/data/doc/445/)'
-crimes_against_humanity: '[Alignment of the National Legislation to the Rome Statute provisions, Article 8](https://iccdb.hrlc.net/data/doc/445/)'
+genocide: '[Greek Alignment of the National Legislation to the Rome Statute provisions, Article 7](https://iccdb.hrlc.net/data/doc/445/)'
+crimes_against_humanity: '[Greek Alignment of the National Legislation to the Rome Statute provisions, Article 8](https://iccdb.hrlc.net/data/doc/445/)'
 aggression:
-war_crimes: '[Alignment of the National Legislation to the Rome Statute provisions, Article 9-13](https://iccdb.hrlc.net/data/doc/445/)'
+war_crimes: '[Greek Alignment of the National Legislation to the Rome Statute provisions, Article 9-13](https://iccdb.hrlc.net/data/doc/445/)'
 note:
 slug: greece
 ---
