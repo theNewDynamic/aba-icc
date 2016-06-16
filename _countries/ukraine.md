@@ -8,7 +8,7 @@ iso_code: UA
 territory: false
 state_party: false
 signed_but_not_ratified: true
-signed_date: 2000-01-19T00:00:00.000Z
+signed_date: 2000-01-20T00:00:00.000Z
 ratified_or_acceded_date:
 entry_into_force_date:
 ratified_apic_date: 2007-01-28T00:00:00.000Z
