@@ -11,7 +11,7 @@ signed_but_not_ratified: false
 signed_date: 1998-11-30T00:00:00.000Z
 ratified_or_acceded_date: 2001-10-04T00:00:00.000Z
 entry_into_force_date: 2002-07-01T00:00:00.000Z
-ratified_apic_date: 2008-01-24T00:00:00.000Z
+ratified_apic_date: 2008-01-25T00:00:00.000Z
 genocide: '[International Criminal Court Act, Schedule 8, Article 6](https://iccdb.hrlc.net/data/doc/85/keyword/46/)'
 crimes_against_humanity: '[International Criminal Court Act, Schedule 8, Article 7](https://iccdb.hrlc.net/data/doc/85/keyword/13/)'
 aggression:
