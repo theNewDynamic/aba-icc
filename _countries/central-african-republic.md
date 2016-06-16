@@ -11,7 +11,7 @@ signed_but_not_ratified: false
 signed_date: 1999-12-07T00:00:00.000Z
 ratified_or_acceded_date: 2001-10-03T00:00:00.000Z
 entry_into_force_date: 2002-07-01T00:00:00.000Z
-ratified_apic_date: 2006-10-10T00:00:00.000Z
+ratified_apic_date: 2006-10-06T00:00:00.000Z
 genocide: '[Central African Criminal Code, Title 4, Chapter 1, Article 152](https://iccdb.hrlc.net/data/doc/429/)'
 crimes_against_humanity: '[Central African Criminal Code, Title 4, Chapter 2, Article 153](https://iccdb.hrlc.net/data/doc/429/)'
 aggression:
