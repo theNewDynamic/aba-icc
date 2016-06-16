@@ -8,7 +8,7 @@ iso_code: KR
 territory: false
 state_party: true
 signed_but_not_ratified: false
-signed_date: 2000-03-07T00:00:00.000Z
+signed_date: 2000-03-08T00:00:00.000Z
 ratified_or_acceded_date: 2002-11-13T00:00:00.000Z
 entry_into_force_date: 2003-01-31T00:00:00.000Z
 ratified_apic_date: 2006-10-18T00:00:00.000Z
