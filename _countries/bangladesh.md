@@ -12,10 +12,10 @@ signed_date: 1999-09-16T00:00:00.000Z
 ratified_or_acceded_date: 2010-03-23T00:00:00.000Z
 entry_into_force_date: 2010-06-01T00:00:00.000Z
 ratified_apic_date:
-genocide: '[International Crimes (Tribunals) Act of 1973, Article 3](https://iccdb.hrlc.net/data/doc/518/keyword/46/)'
-crimes_against_humanity: '[International Crimes (Tribunals) Act of 1973, Article 3](https://iccdb.hrlc.net/data/doc/518/keyword/13/)'
-aggression:
-war_crimes: '[International Crimes (Tribunals) Act of 1973, Article 3](https://iccdb.hrlc.net/data/doc/518/keyword/145/)'
+genocide: '[Bangladeshi International Crimes (Tribunals) Act of 1973, Article 3](https://iccdb.hrlc.net/data/doc/518/keyword/46/)'
+crimes_against_humanity: '[Bangladeshi International Crimes (Tribunals) Act of 1973, Article 3](https://iccdb.hrlc.net/data/doc/518/keyword/13/)'
+aggression: '[Bangladeshi International Crimes (Tribunals) Act of 1973, Article 3](https://iccdb.hrlc.net/data/doc/518/keyword/145/)'
+war_crimes: '[Bangladeshi International Crimes (Tribunals) Act of 1973, Article 3](https://iccdb.hrlc.net/data/doc/518/keyword/145/)'
 note:
 slug: bangladesh
 ---
