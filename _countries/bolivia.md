@@ -14,7 +14,7 @@ entry_into_force_date: 2002-09-01T00:00:00.000Z
 ratified_apic_date: 2006-01-20T00:00:00.000Z
 genocide: '[Bolivian Criminal Code, Article 138](https://iccdb.hrlc.net/data/doc/729/)'
 crimes_against_humanity:
-aggression:
+aggression: '[Bolivian Constitution, Article 10](https://iccdb.hrlc.net/data/doc/229/)'
 war_crimes:
 note:
 slug: bolivia
