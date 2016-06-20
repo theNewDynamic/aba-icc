@@ -1,5 +1,5 @@
 ---
-title: "Jordan"
+title: Jordan
 published: true
 featured_image_path:
 featured_image_attribution:
@@ -15,7 +15,9 @@ ratified_apic_date:
 genocide:
 crimes_against_humanity:
 aggression:
-war_crimes:
+war_crimes: '[Jordanian Military Criminal Code, Article 41](http://tbinternet.ohchr.org/Treaties/CAT/Shared%20Documents/JOR/INT_CAT_NGO_JOR_44_9256_E.pdf)'
 note:
 slug: jordan
 ---
+
+
