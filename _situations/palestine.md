@@ -5,7 +5,7 @@ published: true
 date: 2015-02-23T18:54:00.000Z
 phase: 'Preliminary Examinations, Subject Matter Jurisdiction Assessement'
 link_to_more_information:
-description: This preliminary examination concerns civilian deaths in the Gaza Strip resulting from Hamas rockets and Israeli air strikes. The preliminary examination is currently in the initial assessment stage.
+description: This preliminary examination concerns civilian deaths in the Gaza Strip resulting from Hamas rockets and Israeli air strikes. The preliminary examination is currently in the subject-matter jurisdiction stage.
 slug: palestine
 ---
 
