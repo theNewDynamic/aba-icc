@@ -5,7 +5,7 @@ published: true
 date: 2015-02-23T18:45:00.000Z
 phase: 'Situations & Cases'
 link_to_more_information:
-description: "The Situation in the Republic of Uganda involves a protracted conflict between the government of the Republic of Uganda and armed rebel groups, primarily the Lord's Resistance Army. Within the Ugandan Situation, there are two ongoing cases against four members of the LRA."
+description: "The Situation in Uganda involves a protracted conflict between the government of Uganda and armed rebel groups, primarily the Lord's Resistance Army. Within the Ugandan Situation, there are two ongoing cases."
 slug: uganda
 ---
 
@@ -16,6 +16,6 @@ The LRA has consistently targeted and directed attacks against civilians. As par
 
 The UDPF has also been [accused](https://www.hrw.org/news/2004/02/04/icc-investigate-all-sides-uganda) of attacks against civilians. Alleged rebel collaborators have been subjected to torture as part of interrogations and have been killed if found outside camps. In the camps, women and girls are victims of sexual abuse and civilians have been killed from beatings. To date, however, the alleged crimes committed by the LRA have been the focus of the conflict.
 
-Uganda ratified the Rome Statute on June 14, 2002. Uganda [referred](https://www.legal-tools.org/uploads/tx_ltpdb/ICCPresident_of_Uganda_01.pdf)&nbsp;itself to the International Criminal Court (ICC) on December 16, 2003. Following a preliminary examination, the Office of the Prosecutor officially [opened](https://www.icc-cpi.int/Pages/item.aspx?name=prosecutor%20of%20the%20international%20criminal%20court%20opens%20an%20investigation%20into%20nothern%20uganda) an investigation on July 28, 2004. Within the Situation in Uganda, there are the following cases: [*The Prosecutor v. Joseph Kony, Vincent Otti, Okot Odhiambo*](https://www.aba-icc.org/cases/case/the-prosecutor-v-kony-et-al/) and [*The Prosecutor v. Dominic Ongwen*](https://www.aba-icc.org/cases/case/the-prosecutor-v-ongwen/).
+Uganda ratified the Rome Statute on June 14, 2002. Uganda [referred](https://www.legal-tools.org/uploads/tx_ltpdb/ICCPresident_of_Uganda_01.pdf) itself to the International Criminal Court (ICC) on December 16, 2003. Following a preliminary examination, the Office of the Prosecutor officially [opened](https://www.icc-cpi.int/Pages/item.aspx?name=prosecutor%20of%20the%20international%20criminal%20court%20opens%20an%20investigation%20into%20nothern%20uganda) an investigation on July 28, 2004. Within the Situation in Uganda, there are the following cases: [*The Prosecutor v. Joseph Kony, Vincent Otti, Okot Odhiambo*](https://www.aba-icc.org/cases/case/the-prosecutor-v-kony-et-al/) and [*The Prosecutor v. Dominic Ongwen*](https://www.aba-icc.org/cases/case/the-prosecutor-v-ongwen/).
 
 For more information on the Situation in Uganda, please visit the [ICC page](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200204/Pages/situation%20index.aspx).
