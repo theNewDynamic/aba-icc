@@ -5,7 +5,7 @@ published: true
 date: 2015-02-23T19:04:00.000Z
 phase: 'Situations & Cases'
 link_to_more_information:
-description: 'The Situation in the Republic of Kenya involves mass violence that occurred after the country’s contested 2007-2008 election. Within the Kenya situation, there are four ongoing cases.'
+description: 'The Situation in the Republic of Kenya involves mass violence that occurred after the country’s contested 2007-2008 election. Within the Kenya Situation, there are four ongoing cases.'
 slug: kenya
 ---
 
