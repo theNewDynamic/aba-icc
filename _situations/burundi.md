@@ -5,7 +5,7 @@ published: true
 date: 2015-02-23T19:22:00.000Z
 phase: 'Preliminary Examinations, Subject Matter Jurisdiction Assessement'
 link_to_more_information: 'https://www.icc-cpi.int/en_menus/asp/states%20parties/african%20states/Pages/burundi.aspx'
-description: 'Following national elections in July 2015, growing violence in Burundi led to mass human rights violations and a breakdown in the rule of law. The preliminary examination is currently in phase 2, the subject-matter jurisdiction stage.'
+description: 'Following national elections in July 2015, growing violence in Burundi led to mass human rights violations and a breakdown in the rule of law. The preliminary examination is in the subject-matter jurisdiction stage.'
 slug: burundi
 ---
 
