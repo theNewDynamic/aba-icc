@@ -1,5 +1,5 @@
 ---
-title: Jean-Pierre Bemba Gombo guilty of war crimes and crimes against humanity
+title: Bemba - Jean-Pierre Bemba Gombo guilty of war crimes and crimes against humanity
 published: true
 event_date: 2016-04-21T00:00:00.000Z
 action: Found Guilty
