@@ -11,7 +11,7 @@ signed_but_not_ratified: false
 signed_date: 1998-10-27T00:00:00.000Z
 ratified_or_acceded_date: 2002-06-25T00:00:00.000Z
 entry_into_force_date: 2002-09-01T00:00:00.000Z
-ratified_apic_date: 2004-01-28T00:00:00.000Z
+ratified_apic_date: 2004-01-29T00:00:00.000Z
 genocide:
 crimes_against_humanity:
 aggression:
