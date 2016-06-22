@@ -9,10 +9,7 @@ slug: banda-events-saleh-mohammed-jerbo-jamus-confirmation-of-charges
 ---
 
 
-&nbsp;
-
 [Press Release](https://www.icc-cpi.int/Pages/item.aspx?name=PR635) of confirmation of charges
 <br>[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/05-03/09-121-Corr-Red) on the confirmation of charges
-<br>&nbsp;
 
 &nbsp;
