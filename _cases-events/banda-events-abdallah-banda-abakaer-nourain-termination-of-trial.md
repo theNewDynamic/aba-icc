@@ -1,9 +1,12 @@
 ---
-title: "Banda - Abdallah Banda Abakaer Nourain - Termination of Trial"
+title: Banda - Abdallah Banda Abakaer Nourain - Arrest Warrant Replaced
 published: true
-event_date: 2013-10-04T00:00:00.000Z
-action: "Termination of Trial"
+event_date: 2014-09-11T00:00:00.000Z
+action: Arrest Warrant Replaced
 case: the-prosecutor-v-banda
 accused: abdallah-banda-abakaer-nourain
-slug: banda-events-abdallah-banda-abakaer-nourain-termination-of-trial
+slug:
 ---
+
+
+[Made public](https://www.icc-cpi.int/Pages/item.aspx?name=PR1039)
