@@ -1,5 +1,5 @@
 ---
-title: Confirmation of Charges
+title: Ongwen - Confirmation of Charges
 published: true
 event_date: 2016-03-24T00:00:00.000Z
 action: Confirmation of Charges
