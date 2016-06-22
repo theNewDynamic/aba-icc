@@ -9,4 +9,4 @@ slug: banda-events-saleh-mohammed-jerbo-jamus
 ---
 
 
-Charges were confirmed against Jerbo on March 7, 2011. Trial Chamber IV terminated proceedings against him on October 4, 2013 after receiving evidence of his death on April 19, 2013.
+The Office of the Prosecutor issued a summons for Jerbo on September 27, 2009. The charges against him were confirmed on March 7, 2011. Trial Chamber IV terminated proceedings against him on October 4, 2013 after receiving evidence of his death on April 19, 2013.
