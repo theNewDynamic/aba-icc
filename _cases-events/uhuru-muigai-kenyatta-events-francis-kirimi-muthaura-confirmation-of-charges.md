@@ -9,5 +9,5 @@ slug: uhuru-muigai-kenyatta-events-francis-kirimi-muthaura-confirmation-of-charg
 ---
 
 
-[Hearing](https://youtu.be/Ov1dSyby-ps)
+[Hearing](https://youtu.be/jnyc7x9a3jI)
 <br>[Decision](https://www.icc-cpi.int/iccdocs/doc/doc1314543.pdf) on the confirmation of charges
