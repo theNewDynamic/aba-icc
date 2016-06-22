@@ -1,12 +1,12 @@
 ---
-title: "Ntaganda - Bosco Ntaganda - Start of Trial"
+title: Ntaganda - Bosco Ntaganda - Start of Trial
 published: true
 event_date: 2015-09-02T00:00:00.000Z
-action: "Start of Trial"
+action: Start of Trial
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda
 slug: ntaganda-events-bosco-ntaganda-start-of-trial
 ---
 
-[Presentation of evidence](https://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200104/related%20cases/icc%200104%200206/Pages/ntaganda-trial-info.aspx)
 
+[Presentation of evidence](https://youtu.be/J2GfTILjZ5M)
