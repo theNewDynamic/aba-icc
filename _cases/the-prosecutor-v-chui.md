@@ -7,7 +7,7 @@ case_status: 'Trial Complete: Acquitted'
 long_name: The Prosecutor v. Mathieu Ngudjolo Chui​
 accuseds:
   - mathieu-ngudjolo-chui
-slug: the-prosecutor-v-ngudjolo
+slug:
 ---
 
 
