@@ -1,11 +1,12 @@
 ---
-title: "Chui - Mathieu Ngudjolo Chui - Trial Judgement "
+title: Ngudjolo - Mathieu Ngudjolo Chui - Trial Judgement
 published: true
 event_date: 2012-12-18T00:00:00.000Z
-action: "Trial Judgement "
+action: Trial Judgement
 case: the-prosecutor-v-chui
 accused: mathieu-ngudjolo-chui
 slug: chui-events-mathieu-ngudjolo-chui-trial-judgement-
 ---
+
 
 [Verdict](http://www.icc-cpi.int/iccdocs/doc/doc1579080.pdf)
