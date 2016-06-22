@@ -9,4 +9,3 @@ slug: abu-garda-events-bahr-idriss-abu-garda-initial-appearance-
 ---
 
 
-&lt;iframe width="359" height="202" src="https://www.youtube.com/embed/4aqWt5VuzRc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
