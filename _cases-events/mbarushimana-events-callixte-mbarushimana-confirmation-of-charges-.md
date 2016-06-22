@@ -1,8 +1,8 @@
 ---
-title: 'Mbarushimana - Callixte Mbarushimana - Confirmation of Charges '
+title: Mbarushimana - Callixte Mbarushimana - Charges not confirmed
 published: true
 event_date: 2011-12-16T00:00:00.000Z
-action: 'Confirmation of Charges '
+action: Charges not confirmed
 case: the-prosecutor-v-mbarushimana
 accused: callixte-mbarushimana
 slug: mbarushimana-events-callixte-mbarushimana-confirmation-of-charges-
