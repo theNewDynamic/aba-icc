@@ -1,8 +1,10 @@
 ---
-title: Uhuru Muigai Kenyatta - Uhuru Muigai Kenyatta - Initial Appearance
+title: Uhuru Muigai Kenyatta - Francis Kirimi Muthaura - Initial Appearance
 published: true
 event_date:
 action:
-case:
-accused:
+case: the-prosecutor-v-uhuru-muigai-kenyatta
+accused: francis-kirimi-muthaura
 ---
+
+
