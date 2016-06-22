@@ -9,4 +9,4 @@ slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-abdullah-al-senussi-arrest-
 ---
 
 
-[Made public](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/11-13)
+[Made public](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/11-15)
