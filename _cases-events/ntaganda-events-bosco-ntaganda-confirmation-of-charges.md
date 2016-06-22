@@ -1,12 +1,13 @@
 ---
-title: "Ntaganda - Bosco Ntaganda - Confirmation of Charges"
+title: Ntaganda - Bosco Ntaganda - Confirmation of Charges
 published: true
 event_date: 2014-06-09T00:00:00.000Z
-action: "Confirmation of Charges"
+action: Confirmation of Charges
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda
 slug: ntaganda-events-bosco-ntaganda-confirmation-of-charges
 ---
 
-[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1783301.pdf)
 
+[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=pr1013) of confirmation of charges
+<br>[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-02/06-309) on the confirmation of charges
