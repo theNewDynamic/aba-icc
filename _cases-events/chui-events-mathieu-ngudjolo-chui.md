@@ -1,7 +1,7 @@
 ---
 title: Ngudjolo - Mathieu Ngudjolo Chui
 published: true
-event_date: 2008-02-06T00:00:00.000Z
+event_date:
 action:
 case: the-prosecutor-v-chui
 accused: mathieu-ngudjolo-chui
