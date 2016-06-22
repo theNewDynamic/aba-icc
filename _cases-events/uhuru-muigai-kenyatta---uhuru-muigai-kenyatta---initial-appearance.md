@@ -8,3 +8,4 @@ accused: francis-kirimi-muthaura
 ---
 
 
+[First appearance hearing](https://youtu.be/TDE1-knxPaI)
