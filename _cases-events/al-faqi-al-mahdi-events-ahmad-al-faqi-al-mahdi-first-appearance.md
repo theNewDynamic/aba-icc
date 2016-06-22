@@ -9,4 +9,4 @@ slug: al-faqi-al-mahdi-events-ahmad-al-faqi-al-mahdi-first-appearance
 ---
 
 
-[Hearing](https://youtu.be/wbzK5V8I6Gc)
+[First appearance hearing](https://youtu.be/wbzK5V8I6Gc)
