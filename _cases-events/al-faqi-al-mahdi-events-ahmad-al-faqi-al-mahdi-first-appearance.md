@@ -1,10 +1,12 @@
 ---
-title: "Al Faqi Al Mahdi - Ahmad Al Faqi Al Mahdi - First Appearance"
+title: Al Faqi Al Mahdi - Ahmad Al Faqi Al Mahdi - First Appearance
 published: true
 event_date: 2015-09-30T00:00:00.000Z
-action: "First Appearance"
+action: First Appearance
 case: the-prosecutor-v-al-faqi-al-mahdi
 accused: ahmad-al-faqi-al-mahdi
 slug: al-faqi-al-mahdi-events-ahmad-al-faqi-al-mahdi-first-appearance
 ---
----
+
+
+[Hearing](https://youtu.be/wbzK5V8I6Gc)
