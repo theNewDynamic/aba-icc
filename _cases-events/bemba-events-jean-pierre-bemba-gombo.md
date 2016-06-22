@@ -1,7 +1,7 @@
 ---
 title: Bemba - Jean-Pierre Bemba Gombo
 published: true
-event_date: 2008-05-24T00:00:00.000Z
+event_date:
 action:
 case: the-prosecutor-v-bemba
 accused: jean-pierre-bemba-gombo
