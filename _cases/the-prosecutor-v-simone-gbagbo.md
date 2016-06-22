@@ -1,13 +1,13 @@
 ---
-title: "The Prosecutor v. Simone Gbagbo"
-published: true
+title: The Prosecutor v. Simone Gbagbo
+published: false
 country: cote-divoire
 trial_opening_date:
-case_status: "Pre-trial"
+case_status: Pre-trial
 long_name:
 accuseds:
   - simone-gbagbo
-
 slug: the-prosecutor-v-simone-gbagbo
 ---
+
 
