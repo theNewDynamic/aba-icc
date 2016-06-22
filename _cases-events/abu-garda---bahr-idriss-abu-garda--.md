@@ -1,8 +1,10 @@
 ---
-title: Abu Garda - Bahr Idriss Abu Garda -
+title: 'Abu Garda - Bahr Idriss Abu Garda - Decision: Charges not confirmed'
 published: true
-event_date:
-action:
-case:
-accused:
+event_date: 2010-02-08T00:00:00.000Z
+action: 'Decision: Charges not confirmed'
+case: the-prosecutor-v-abu-garda
+accused: bahr-idriss-abu-garda
 ---
+
+
