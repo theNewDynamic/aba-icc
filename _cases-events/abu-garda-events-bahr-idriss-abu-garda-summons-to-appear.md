@@ -9,3 +9,4 @@ slug: abu-garda-events-bahr-idriss-abu-garda-summons-to-appear
 ---
 
 
+[Made public](https://www.icc-cpi.int/CourtRecords/CR2009_03504.PDF)
