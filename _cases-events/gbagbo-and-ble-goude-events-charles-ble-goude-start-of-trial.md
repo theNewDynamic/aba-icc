@@ -9,5 +9,4 @@ slug: gbagbo-and-ble-goude-events-charles-ble-goude-start-of-trial
 ---
 
 
-[Scheduled](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1163.aspx) on 28 January 2016
-<br>[Press release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1184.aspx) of the first hearing
+[Press release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1184.aspx)
