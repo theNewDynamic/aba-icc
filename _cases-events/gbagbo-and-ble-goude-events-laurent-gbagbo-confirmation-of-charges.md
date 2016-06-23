@@ -9,5 +9,5 @@ slug: gbagbo-and-ble-goude-events-laurent-gbagbo-confirmation-of-charges
 ---
 
 
-[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR1016) of confirmation of charges
-<br>[Decision on confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1783399.pdf)
+[Decision](http://www.icc-cpi.int/iccdocs/doc/doc1783399.pdf) on the confirmation of charges
+<br>[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR1016)
