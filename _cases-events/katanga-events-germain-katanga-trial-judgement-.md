@@ -10,5 +10,5 @@ slug: katanga-events-germain-katanga-trial-judgement-
 
 
 [Hearing](https://youtu.be/8Tu7Cze16sQ)
-<br>[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-01/07-3436) of the judgement
-<br>[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR986) of sentencing
+<br>[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-01/07-3436) on the judgement
+<br>[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR986)
