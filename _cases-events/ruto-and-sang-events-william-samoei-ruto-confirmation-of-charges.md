@@ -1,12 +1,13 @@
 ---
-title: "Ruto and Sang - William Samoei Ruto - Confirmation of Charges"
+title: Ruto and Sang - William Samoei Ruto - Confirmation of Charges
 published: true
 event_date: 2012-01-23T00:00:00.000Z
-action: "Confirmation of Charges"
+action: Confirmation of Charges
 case: the-prosecutor-v-ruto-and-sang
 accused: william-samoei-ruto
 slug: ruto-and-sang-events-william-samoei-ruto-confirmation-of-charges
 ---
 
-[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1314535.pdf)
 
+[Hearing](https://youtu.be/_piZIq-mv7A)
+<br>[Decision](http://www.icc-cpi.int/iccdocs/doc/doc1314535.pdf) on the confirmation of charges
