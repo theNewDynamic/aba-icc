@@ -1,11 +1,12 @@
 ---
-title: "Bemba charges - Jean-Pierre Bemba Gombo"
+title: Bemba charges - Jean-Pierre Bemba Gombo
 published: true
-charges_status: "Trial Ended: Sentenced"
-case: the-prosecutor-v-bemba
+charges_status: 'Trial Ended: Sentenced'
+case: the-prosecutor-v-bemba-et-al
 accused: jean-pierre-bemba-gombo
 slug: bemba-charges-jean-pierre-bemba-gombo
 ---
+
 
 ### Factual Allegations
 
@@ -21,9 +22,9 @@ For more information on the Prosecutor v. Jean-Pierre Bemba Gombo please visit t
 
 **[Crimes Against Humanity](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1171) (two counts)**: murder ([Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286) of the Rome Statute) and rape ([Article 7(1)(g)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292) of the Rome Statute)
 
-*   The Accused is alleged to be have had effective command and control over forces that committed these crimes, he failed to exercise control properly, and he knew or should have known that the forces committed or were about to commit these crimes ([Article 28(a)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201) of the Rome Statute); alleged to be have had effective command and control over forces that committed these crimes, he failed to exercise control properly, and he failed to take all necessary and reasonable steps within their power to prevent or repress these crimes or submit them to competent authorities for investigation and prosecution ([Article 28(a)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201) of the Rome Statute).
+* The Accused is alleged to be have had effective command and control over forces that committed these crimes, he failed to exercise control properly, and he knew or should have known that the forces committed or were about to commit these crimes ([Article 28(a)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201) of the Rome Statute); alleged to be have had effective command and control over forces that committed these crimes, he failed to exercise control properly, and he failed to take all necessary and reasonable steps within their power to prevent or repress these crimes or submit them to competent authorities for investigation and prosecution ([Article 28(a)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201) of the Rome Statute).
+
 
 **[War Crimes](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1172) (three counts)**: murder ([Article 8(2)(c)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359) of the Rome Statute), rape ([Article 8(2)(e)(vi)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2372) of the Rome Statute), pillaging ([Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371) of the Rome Statue)
 
-*   The Accused is alleged to be have had effective command and control over forces that committed these crimes, he failed to exercise control properly, and he knew or should have known that the forces committed or were about to commit these crimes ( [Article 28(a)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201) of the Rome Statute); alleged to be have had effective command and control over forces that committed these crimes, he failed to exercise control properly, and he failed to take all necessary and reasonable steps within their power to prevent or repress these crimes or submit them to competent authorities for investigation and prosecution ( [Article 28(a)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201) of the Rome Statute).
-
+* The Accused is alleged to be have had effective command and control over forces that committed these crimes, he failed to exercise control properly, and he knew or should have known that the forces committed or were about to commit these crimes ( [Article 28(a)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201) of the Rome Statute); alleged to be have had effective command and control over forces that committed these crimes, he failed to exercise control properly, and he failed to take all necessary and reasonable steps within their power to prevent or repress these crimes or submit them to competent authorities for investigation and prosecution ( [Article 28(a)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201) of the Rome Statute).
