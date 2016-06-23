@@ -8,4 +8,4 @@ accused: bahr-idriss-abu-garda
 ---
 
 
-Appeal [Request](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/05-02/09-252-Red)
+[Appeal request](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/05-02/09-252-Red)
