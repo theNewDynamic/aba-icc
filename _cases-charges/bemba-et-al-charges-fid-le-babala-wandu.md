@@ -1,11 +1,12 @@
 ---
-title: "Bemba et al. charges - Fidèle Babala Wandu"
+title: Bemba et al. charges - Fidèle Babala Wandu
 published: true
-charges_status: "Trial: Ongoing"
+charges_status: 'Trial: Ongoing'
 case: the-prosecutor-v-bemba-et-al
-accused: fidèle-babala-wandu
+accused: fid-le-babala-wandu
 slug: bemba-et-al-charges-fidèle-babala-wandu
 ---
+
 
 ### Factual Allegations
 
@@ -15,5 +16,4 @@ The Office of the Prosecutor (OTP) alleges that Fidèle Babala Wandu (Babala) pa
 
 [**Offenses against the administration of justice**](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243) **(three counts):** giving false testimony in the courtroom ([Article 70(1)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243) of the Rome Statute), presenting false evidence ([Article 70(1)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243) of the Rome Statute) and corruptly influencing witnesses by giving them money and instructions to provide falsetestimony ([Article 70(1)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243) of the Rome Statute)
 
-*   For some or all of these charges, the Accused is alleged to have aided and abetted, or otherwise assisted in the commission of these crimes ([Article 25(3)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
-
+* For some or all of these charges, the Accused is alleged to have aided and abetted, or otherwise assisted in the commission of these crimes ([Article 25(3)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
