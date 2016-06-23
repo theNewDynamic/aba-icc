@@ -1,6 +1,6 @@
 ---
-title:
-published: false
+title: Bemba et al. - Jean Pierre Bemba Gombo
+published: true
 charges_status: 'Trial: Ongoing'
 case: the-prosecutor-v-bemba-et-al
 accused: jean-pierre-bemba-gombo
