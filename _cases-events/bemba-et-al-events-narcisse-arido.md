@@ -1,11 +1,11 @@
 ---
-title: "Bemba et al. - Narcisse Arido"
+title: Bemba et al. - Narcisse Arido
 published: true
-#event_date: 2013-11-28T00:00:00.000Z
 action:
 case: the-prosecutor-v-bemba-et-al
 accused: narcisse-arido
 slug: bemba-et-al-events-narcisse-arido
 ---
 
-The Office of the Prosecutor made public an arrest warrant for Arido on November 28, 2013. He entered ICC custody on March 18, 2014. Charges against him were confirmed on November 11, 2014. Trial [opened](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1155.aspx) on September 29, 2015 before Trial Chamber VII of the International Criminal Court, composed of presiding judge Bertram Schmitt, judge Marc Perrin de Brichambaut and judge Raul Pangalangan.
+
+The Office of the Prosecutor made public an arrest warrant for Arido on November 28, 2013. He entered ICC custody on March 18, 2014. Charges against him were confirmed on November 11, 2014. His trial [opened](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1155.aspx) on September 29, 2015.
