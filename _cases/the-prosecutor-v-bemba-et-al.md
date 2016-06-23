@@ -6,11 +6,11 @@ trial_opening_date:
 case_status: Trial Ongoing
 long_name: 'The Prosecutor v. Jean-Pierre Bemba Gombo, Aimé Kilolo Musamba, Jean-Jacques Mangenda Kabongo, Fidèle Babala Wandu and Narcisse Arido'
 accuseds:
-  - aime-kilolo-musamba
-  - jean-jacques-magenda-kabongo
   - jean-pierre-bemba-gombo
-  - narcisse-arido
+  - aime-kilolo-musamba
   - fid-le-babala-wandu
+  - jean-jacques-magenda-kabongo
+  - narcisse-arido
 slug: the-prosecutor-v-bemba-et-al
 ---
 
