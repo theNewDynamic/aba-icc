@@ -1,11 +1,12 @@
 ---
-title: "Bemba et al. charges - Aimé Kilolo Musamba"
+title: Bemba et al. charges - Aimé Kilolo Musamba
 published: true
-charges_status: "Trial: Ongoing"
+charges_status: 'Trial: Ongoing'
 case: the-prosecutor-v-bemba-et-al
-accused: aimé-kilolo-musamba
+accused: aime-kilolo-musamba
 slug: bemba-et-al-charges-aime-kilolo-musamba
 ---
+
 
 ### Factual Allegations
 
@@ -15,5 +16,4 @@ The Office of the Prosecutor (OTP) alleges that Aimé Kilolo Musamba (Kilolo) pa
 
 **[Offenses against the administration of justice](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243) (three counts)**: giving false testimony in the courtroom ( [Article 70(1)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243) of the Rome Statute), presenting false evidence ([Article 70(1)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243) of the Rome Statute) and corruptly influencing witnesses by giving them money and instructions to provide false testimony ( [Article 70(1)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243) of the Rome Statute)
 
-*   For some or all of these charges, the Accused is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute); alleged to have ordered, solicited, or induced the commission of these crimes ([Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
-
+* For some or all of these charges, the Accused is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute); alleged to have ordered, solicited, or induced the commission of these crimes ([Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
