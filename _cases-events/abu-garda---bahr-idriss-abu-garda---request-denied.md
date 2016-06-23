@@ -8,4 +8,4 @@ accused: bahr-idriss-abu-garda
 ---
 
 
-[Press Release](https://www.icc-cpi.int/Pages/item.aspx?name=PR516) of Decision
+[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=PR516)
