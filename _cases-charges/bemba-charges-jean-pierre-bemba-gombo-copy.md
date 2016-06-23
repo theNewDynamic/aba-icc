@@ -1,6 +1,6 @@
 ---
 title: Bemba et al. charges - Jean-Pierre Bemba Gombo
-published: true
+published: false
 charges_status: 'Trial Ended: Sentenced'
 case: the-prosecutor-v-bemba-et-al
 accused: jean-pierre-bemba-gombo
