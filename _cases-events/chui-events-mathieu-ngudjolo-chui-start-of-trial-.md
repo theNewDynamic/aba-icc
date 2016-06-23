@@ -9,3 +9,4 @@ slug: chui-events-mathieu-ngudjolo-chui-start-of-trial-
 ---
 
 
+[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR477)
