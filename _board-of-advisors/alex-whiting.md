@@ -4,7 +4,7 @@ published: true
 board_chair:
 last_name: Whiting
 image_path: /uploads/1456417764306_1D2B9579.jpg
-position: 'Professor of Practice, Harvard Law School; Prosecution Coordinator and Investigations Coordinator at the International Criminal Court (2010-2013)'
+position: 'Professor of Practice, Harvard Law School; Prosecutions Coordinator and Investigations Coordinator at the International Criminal Court (2010-2013)'
 description:
 ---
 
