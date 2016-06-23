@@ -8,8 +8,8 @@ long_name: 'The Prosecutor v. Jean-Pierre Bemba Gombo, Aimé Kilolo Musamba, Jea
 accuseds:
   - jean-pierre-bemba-gombo
   - aime-kilolo-musamba
-  - fid-le-babala-wandu
   - jean-jacques-magenda-kabongo
+  - fid-le-babala-wandu
   - narcisse-arido
 slug: the-prosecutor-v-bemba-et-al
 ---
