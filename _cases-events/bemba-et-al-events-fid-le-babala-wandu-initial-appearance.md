@@ -9,3 +9,4 @@ slug: bemba-et-al-events-fidèle-babala-wandu-initial-appearance
 ---
 
 
+[First appearance hearing](https://youtu.be/xfP_il3Q77A)
