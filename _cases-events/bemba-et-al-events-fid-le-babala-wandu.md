@@ -3,7 +3,7 @@ title: Bemba et al. - Fidèle Babala Wandu
 published: true
 action:
 case: the-prosecutor-v-bemba-et-al
-accused: fidèle-babala-wandu
+accused: fid-le-babala-wandu
 slug: bemba-et-al-events-fidèle-babala-wandu
 ---
 
