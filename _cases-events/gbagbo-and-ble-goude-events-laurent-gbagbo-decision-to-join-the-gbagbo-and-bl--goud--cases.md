@@ -1,5 +1,5 @@
 ---
-title: Gbagbo and Blé Goudé - Laurent Gbagbo - Decision to Join the Gbagbo and Blé Goudé Cases
+title: Gbagbo and Blé Goudé - Laurent Gbagbo - Joining of the Laurent Gbagbo and Charles Blé Goudé Cases
 published: true
 event_date: 2015-03-11T00:00:00.000Z
 action: Decision to Join the Gbagbo and Blé Goudé Cases
@@ -9,4 +9,4 @@ slug: gbagbo-and-ble-goude-events-laurent-gbagbo-decision-to-join-the-gbagbo-and
 ---
 
 
-[Press release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1097.aspx) of the decision
+[Press release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1097.aspx)
