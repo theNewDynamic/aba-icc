@@ -8,4 +8,6 @@ accused: joshua-arap-sang
 ---
 
 
-[Press Release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1205.aspx)
+[Statement](https://youtu.be/jSK7VaHTShY) of ICC Spokesperson
+<br>[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/09-01/11-2027) on termination of proceedings
+<br>[Press Release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1205.aspx)
