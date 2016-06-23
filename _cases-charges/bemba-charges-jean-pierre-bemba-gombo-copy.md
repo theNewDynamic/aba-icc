@@ -1,5 +1,5 @@
 ---
-title: Bemba charges - Jean-Pierre Bemba Gombo
+title: Bemba charges - Jean-Pierre Bemba Gombo - 1
 published: false
 charges_status: 'Trial Ended:'
 case: the-prosecutor-v-bemba
