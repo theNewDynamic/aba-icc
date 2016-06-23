@@ -10,3 +10,4 @@ slug: bemba-et-al-events-narcisse-arido-initial-appearance
 
 
 [First appearance hearing](https://youtu.be/Gfv4V8OcYDw)
+<br>[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=PR987)
