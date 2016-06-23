@@ -1,6 +1,6 @@
 ---
 title: Abu Garda - Bahr Idriss Abu Garda - Request denied
-published: false
+published: true
 event_date: 2010-04-23T00:00:00.000Z
 action: Request denied
 case: the-prosecutor-v-abu-garda
