@@ -10,5 +10,5 @@ slug: banda-events-abdallah-banda-abakaer-nourain-confirmation-of-charges-
 
 
 [Hearing](https://youtu.be/3AC9QWOtDfA)
-<br>[Press Release](https://www.icc-cpi.int/Pages/item.aspx?name=PR635) of confirmation of charges
 <br>[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/05-03/09-121-Corr-Red) on the confirmation of charges
+<br>[Press Release](https://www.icc-cpi.int/Pages/item.aspx?name=PR635)
