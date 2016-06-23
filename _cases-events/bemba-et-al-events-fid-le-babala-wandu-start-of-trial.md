@@ -9,3 +9,5 @@ slug: bemba-et-al-events-fidèle-babala-wandu-start-of-trial
 ---
 
 
+[Hearing](https://youtu.be/AL86P4bwUIo)
+<br>[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR1155)
