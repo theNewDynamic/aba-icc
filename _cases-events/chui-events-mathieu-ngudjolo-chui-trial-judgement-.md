@@ -9,4 +9,6 @@ slug: chui-events-mathieu-ngudjolo-chui-trial-judgement-
 ---
 
 
-[Verdict](http://www.icc-cpi.int/iccdocs/doc/doc1579080.pdf)
+[Hearing](https://youtu.be/M5E23uRs-9M)
+<br>[Decision](http://www.icc-cpi.int/iccdocs/doc/doc1579080.pdf) of acquittal
+<br>[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR865)
