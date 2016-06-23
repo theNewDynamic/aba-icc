@@ -9,4 +9,5 @@ slug: bemba-et-al-events-fidèle-babala-wandu-confirmation-of-charges
 ---
 
 
-[Decision on the confirmation of charges](http://www.icc-cpi.int/iccdocs/doc/doc1857534.pdf)
+[Decision](http://www.icc-cpi.int/iccdocs/doc/doc1857534.pdf) on the confirmation of charges
+<br>[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR1062)
