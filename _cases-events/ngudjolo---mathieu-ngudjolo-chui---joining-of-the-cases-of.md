@@ -8,3 +8,4 @@ accused: mathieu-ngudjolo-chui
 ---
 
 
+[Press release](https://www.icc-cpi.int/pages/item.aspx?name=joinder%20of%20the%20cases%20against%20germain%20katanga%20and%20mathieu%20ngudjolo%20chui)
