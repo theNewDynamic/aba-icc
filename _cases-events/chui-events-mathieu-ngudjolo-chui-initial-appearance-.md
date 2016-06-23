@@ -9,3 +9,4 @@ slug: chui-events-mathieu-ngudjolo-chui-initial-appearance-
 ---
 
 
+[Press release](https://www.icc-cpi.int/pages/item.aspx?name=first%20appearance%20of%20mathieu%20ngudjolo%20chui%20before%20pre_trial%20chamber%20i)
