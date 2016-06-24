@@ -11,4 +11,3 @@ accused: jean-pierre-bemba-gombo
 [Decision](https://www.icc-cpi.int/iccdocs/PIDS/other/20-06-2016-Summary_of_Sentencing_Decision-Eng.pdf) on the sentence
 <br>[Press Release](https://www.icc-cpi.int//Pages/item.aspx?name=PR1223)
 <br>[Audio-visual](https://www.youtube.com/watch?v=oWmjjgsG1Is) of the verdict
-<br>&nbsp;
