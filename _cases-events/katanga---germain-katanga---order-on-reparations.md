@@ -3,8 +3,8 @@ title: Katanga - Germain Katanga - Order on Reparations to Victims
 published: true
 event_date: 2015-04-01T00:00:00.000Z
 action: Order on Reparations to Victims
-case: the-prosecutor-v-abu-garda
-accused: abdallah-banda-abakaer-nourain
+case: the-prosecutor-v-katanga
+accused: germain-katanga
 ---
 
 
