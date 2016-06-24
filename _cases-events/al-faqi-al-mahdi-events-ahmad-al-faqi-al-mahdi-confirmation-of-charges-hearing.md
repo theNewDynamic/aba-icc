@@ -9,4 +9,3 @@ slug: al-faqi-al-mahdi-events-ahmad-al-faqi-al-mahdi-confirmation-of-charges-hea
 ---
 
 
-[Confirmation of charges hearing](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/12-01/15-84-Red)
