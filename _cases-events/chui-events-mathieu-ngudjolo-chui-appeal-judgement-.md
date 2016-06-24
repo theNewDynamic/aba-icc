@@ -9,4 +9,4 @@ slug:
 ---
 
 
-[Judgement on appeal against acquittal](http://www.icc-cpi.int/iccdocs/doc/doc1957802.pdf)
+[Decision](http://www.icc-cpi.int/iccdocs/doc/doc1957802.pdf) upholding verdict
