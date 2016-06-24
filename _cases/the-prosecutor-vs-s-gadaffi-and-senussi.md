@@ -9,7 +9,7 @@ accuseds:
   - abdullah-al-senussi
   - muammar-mohammed-abu-minyar-gaddafi
   - saif-al-islam-gaddafi
-slug: the-prosecutor-vs-s-gadaffi-and-senussi
+slug:
 ---
 
 
