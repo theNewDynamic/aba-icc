@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor v. Gadaffi
+title: The Prosecutor v. Gaddafi
 published: true
 country: libya
 trial_opening_date:
