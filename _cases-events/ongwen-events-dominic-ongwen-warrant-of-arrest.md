@@ -1,12 +1,12 @@
 ---
-title: "Ongwen - Dominic Ongwen - Warrant of Arrest"
+title: Ongwen - Dominic Ongwen - Arrest Warrant
 published: true
 event_date: 2005-10-13T00:00:00.000Z
-action: "Warrant of Arrest"
+action: Arrest Warrant
 case: the-prosecutor-v-ongwen
 accused: dominic-ongwen
 slug: ongwen-events-dominic-ongwen-warrant-of-arrest
 ---
 
-[Made public](http://www.icc-cpi.int/iccdocs/doc/doc97201.pdf)
 
+[Made public](http://www.icc-cpi.int/iccdocs/doc/doc97201.pdf)
