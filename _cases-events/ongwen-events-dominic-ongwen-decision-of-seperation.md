@@ -1,12 +1,12 @@
 ---
-title: "Ongwen - Dominic Ongwen - Decision of Seperation"
+title: Ongwen - Dominic Ongwen - Severing of the cases of Dominc Ongwen and Joseph Kony et al.
 published: true
 event_date: 2015-02-06T00:00:00.000Z
-action: "Decision of Seperation"
+action: Severing of the cases of Dominc Ongwen and Joseph Kony et al.
 case: the-prosecutor-v-ongwen
 accused: dominic-ongwen
 slug: ongwen-events-dominic-ongwen-decision-of-seperation
 ---
 
-Decision to [seperate](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1088.aspx) the Dominic Ongwen case from the case of The Prosecutor v. Joseph Kony, Vincent Otti, Okot Odhiambo and Dominic Ongwen.
 
+[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR1088)
