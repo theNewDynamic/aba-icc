@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor v.  Gicheru and Bett
+title: The Prosecutor v. Gicheru and Bett
 published: true
 country: kenya
 trial_opening_date:
