@@ -1,6 +1,6 @@
 ---
 title: The Prosecutor v. Gbagbo
-published: false
+published: true
 country: cote-divoire
 trial_opening_date:
 case_status: Pre-trial
