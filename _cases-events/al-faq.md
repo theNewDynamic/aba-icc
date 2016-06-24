@@ -9,6 +9,6 @@ accused: ahmad-al-faqi-al-mahdi
 
 
 [Hearing](https://youtu.be/9uN2V19o1TQ)
+<br>[Statement](https://youtu.be/U1eeuCJ4DKc) of ICC Spokesperson
 <br>[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/12-01/15-84-Red) on the confirmation of charges
 <br>[Press Release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1204.aspx)
-<br>[Audio-visual](https://youtu.be/U1eeuCJ4DKc) of verdict
