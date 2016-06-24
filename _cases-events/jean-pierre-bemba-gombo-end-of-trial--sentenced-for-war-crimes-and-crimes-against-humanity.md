@@ -10,5 +10,5 @@ slug: jean-pierre-bemba-gombo-end-of-trial--sentenced-for-war-crimes-and-crimes-
 
 
 [Decision](https://www.icc-cpi.int/iccdocs/PIDS/publications/2016.03.21_Summary_of_the_Judgment-Eng.pdf) on the sentence
-<br>[Press Release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1200.aspx)
+<br>[Press release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1200.aspx)
 <br>[Audio-visual](https://www.youtube.com/watch?v=sqHt2Yr555A) of the verdict
