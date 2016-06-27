@@ -5,7 +5,7 @@ event_date: 2012-12-23T00:00:00.000Z
 action: Confirmation of Charges
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: mohammed-hussein-ali
-youtube_id:
+youtube_id: Ov1dSyby-ps
 slug: uhuru-muigai-kenyatta-events-mohammed-hussein-ali-confirmation-of-charges
 ---
 
