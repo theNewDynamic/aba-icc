@@ -9,4 +9,4 @@ youtube_id:
 ---
 
 
-[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR1147)
+[Decision terminating proceedings](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/05-431)
