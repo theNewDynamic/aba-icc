@@ -4,7 +4,7 @@ published: true
 charges_status: 'Trial: Ongoing'
 case: the-prosecutor-v-bemba-et-al
 accused: jean-pierre-bemba-gombo
-youtube:
+youtube_id:
 ---
 
 

@@ -4,7 +4,7 @@ published: true
 charges_status: "Charges Withdrawn: Death of Accused"
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: muammar-mohammed-abu-minyar-gaddafi
-youtube:
+youtube_id:
 slug: the-prosecutor-vs-s-gadaffi-and-senussi-charges-muammar-mohammed-abu-minyar-gaddafi
 ---
 

@@ -4,7 +4,7 @@ published: true
 charges_status: "Pre-trial: Deemed inadmissible, suspect currently held in Libya."
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: abdullah-al-senussi
-youtube:
+youtube_id:
 slug: the-prosecutor-vs-s-gadaffi-and-senussi-charges-abdullah-al-senussi
 ---
 

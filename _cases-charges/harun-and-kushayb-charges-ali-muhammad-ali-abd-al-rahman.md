@@ -4,7 +4,7 @@ published: true
 charges_status: "Pre-trial: Suspect Remains at Large"
 case: the-prosecutor-v-harun-and-kushayb
 accused: ali-muhammad-ali-abd-al-rahman
-youtube:
+youtube_id:
 slug: harun-and-kushayb-charges-ali-muhammad-ali-abd-al-rahman
 ---
 

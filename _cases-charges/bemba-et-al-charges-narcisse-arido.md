@@ -4,7 +4,7 @@ published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-bemba-et-al
 accused: narcisse-arido
-youtube:
+youtube_id:
 slug: bemba-et-al-charges-narcisse-arido
 ---
 

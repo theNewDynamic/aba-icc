@@ -4,7 +4,7 @@ published: true
 charges_status: "Pretrial: Held Admissible (on appeal), suspect currently held in Libya"
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: saif-al-islam-gaddafi
-youtube:
+youtube_id:
 slug: the-prosecutor-vs-s-gadaffi-and-senussi-charges-saif-al-islam-gaddafi
 ---
 

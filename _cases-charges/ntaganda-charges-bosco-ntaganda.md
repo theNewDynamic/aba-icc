@@ -4,7 +4,7 @@ published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda
-youtube:
+youtube_id:
 slug: ntaganda-charges-bosco-ntaganda
 ---
 

@@ -4,7 +4,7 @@ published: true
 charges_status: "Pre-trial: Suspect Remains at Large"
 case: the-prosecutor-v-harun-and-kushayb
 accused: ahmad-muhammad-harun
-youtube:
+youtube_id:
 slug: harun-and-kushayb-charges-ahmad-muhammad-harun
 ---
 

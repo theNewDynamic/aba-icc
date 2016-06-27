@@ -4,7 +4,7 @@ published: true
 charges_status: "Closed: Charges Withdrawn"
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: francis-kirimi-muthaura
-youtube:
+youtube_id:
 slug: uhuru-muigai-kenyatta-charges-francis-kirimi-muthaura
 ---
 

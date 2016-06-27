@@ -4,7 +4,7 @@ published: true
 charges_status:
 case:
 accused: 
-youtube:
+youtube_id:
 ---
 
 ### Factual Allegations

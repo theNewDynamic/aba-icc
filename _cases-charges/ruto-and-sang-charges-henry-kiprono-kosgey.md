@@ -4,7 +4,7 @@ published: true
 charges_status: "Pre-trial: Charges Not Confirmed "
 case: the-prosecutor-v-ruto-and-sang
 accused: henry-kiprono-kosgey
-youtube:
+youtube_id:
 slug: ruto-and-sang-charges-henry-kiprono-kosgey
 ---
 

@@ -4,7 +4,7 @@ published: true
 charges_status: 'Trial: Ongoing'
 case: the-prosecutor-v-bemba-et-al
 accused: fid-le-babala-wandu
-youtube: 
+youtube_id: 
 slug: bemba-et-al-charges-fidèle-babala-wandu
 ---
 

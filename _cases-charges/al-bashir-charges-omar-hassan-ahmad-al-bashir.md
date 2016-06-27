@@ -4,7 +4,7 @@ published: true
 charges_status: "Pre-trial: Suspect Remains at Large"
 case: the-prosecutor-v-al-bashir
 accused: omar-hassan-ahmad-al-bashir
-youtube:
+youtube_id: 
 slug: al-bashir-charges-omar-hassan-ahmad-al-bashir
 ---
 

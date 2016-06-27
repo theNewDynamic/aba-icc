@@ -4,7 +4,7 @@ published: true
 charges_status: "Terminated: Death of Accused"
 case: the-prosecutor-v-kony-et-al
 accused: raska-lukwiya
-youtube:
+youtube_id:
 slug: kony-et-al-charges-raska-lukwiya
 ---
 

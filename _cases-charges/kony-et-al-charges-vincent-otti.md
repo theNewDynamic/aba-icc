@@ -4,7 +4,7 @@ published: true
 charges_status: "Pre-trial: Suspect Remains at Large"
 case: the-prosecutor-v-kony-et-al
 accused: vincent-otti
-youtube:
+youtube_id:
 slug: kony-et-al-charges-vincent-otti
 ---
 

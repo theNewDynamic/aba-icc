@@ -4,7 +4,7 @@ published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-ruto-and-sang
 accused: joshua-arap-sang
-youtube:
+youtube_id:
 slug: ruto-and-sang-charges-joshua-arap-sang
 ---
 

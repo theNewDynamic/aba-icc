@@ -4,7 +4,7 @@ published: true
 charges_status: "Pre-Trial"
 case: the-prosecutor-v-paul-gicheru-and-philip-kipkoech-bett
 accused: paul-gicheru
-youtube:
+youtube_id:
 slug: paul-gicheru-and-philip-kipkoech-bett-charges-paul-gicheru
 ---
 

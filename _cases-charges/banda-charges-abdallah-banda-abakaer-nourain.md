@@ -4,7 +4,7 @@ published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-banda
 accused: abdallah-banda-abakaer-nourain
-youtube:
+youtube_id:
 slug: banda-charges-abdallah-banda-abakaer-nourain
 ---
 

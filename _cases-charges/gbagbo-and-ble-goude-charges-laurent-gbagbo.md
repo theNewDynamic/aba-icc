@@ -4,7 +4,7 @@ published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-gbagbo-and-ble-goude
 accused: laurent-gbagbo
-youtube:
+youtube_id:
 slug: gbagbo-and-ble-goude-charges-laurent-gbagbo
 ---
 
