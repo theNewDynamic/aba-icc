@@ -10,4 +10,4 @@ slug: gbagbo-and-ble-goude-events-laurent-gbagbo
 ---
 
 
-Gbagbo entered ICC custody on November 30, 2011. Charges were confirmed against him on 12 June 12, 2014. His case was joined with Charles Blé Goudé on March 11, 2015. On October 28, 2015, Trial Chamber I of the International Criminal Court (ICC) rescheduled the trial's opening statements, initially scheduled on November 10, 2015, to January 28, 2016.
+The Office of the Prosecutor issued an arrest warrant for Gbagbo on November 23, 2011, which was made public on November 30, 2011. Charges were confirmed against him on June 12, 2014. His case was joined with Charles Bl&eacute; Goud&eacute; on March 11, 2015. The trial opened on January 28, 2016.
