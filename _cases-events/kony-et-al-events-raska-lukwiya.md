@@ -1,7 +1,6 @@
 ---
-title: "Kony et al. - Raska Lukwiya"
+title: Kony et al. - Raska Lukwiya
 published: true
-#event_date:
 action:
 case: the-prosecutor-v-kony-et-al
 accused: raska-lukwiya
@@ -9,5 +8,7 @@ youtube_id:
 slug: kony-et-al-events-raska-lukwiya
 ---
 
-The Office of the Prosecutor made public an arrest warrant for Lukwiya on October 13, 2005. Following his death Pre-Trial Chamber II decided on July 11, 2007 to [terminate](https://www.icc-cpi.int/iccdocs/doc/doc297945.pdf) the proceedings against Raska Lukwiya, the warrant of arrest is rendered without effect therefore the name of Raska Lukwiya has been removed from the case.
 
+The ICC Pre-Trial Chamber II [issued an arrest warrant under seal for Raska Lukwiya](https://www.icc-cpi.int/pages/record.aspx?uri=97193)&nbsp;on July 8, 2005.&nbsp; The ICC Pre-Trial Chamber II [decided to unseal the arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/15-34)&nbsp;on October 13, 2005.&nbsp;
+
+After notification by the Government of Uganda and confirmation by the Netherlands Ministry of Justice-Forensic Institute of the suspect's death, the ICC Pre-Trial Chamber II, due&nbsp;[decided to terminate the proceedings against Raska Lukwiya](https://www.icc-cpi.int/pages/record.aspx?uri=297945) on grounds of Lukwiya's death on July 11, 2007. &nbsp;
