@@ -10,4 +10,4 @@ slug: kony-et-al-events-raska-lukwiya-arrest-warrant
 ---
 
 
-[Arrest warrant (issued under seal on July 8, 2005; unsealed on October 13, 2005)](http://www.icc-cpi.int/iccdocs/doc/doc97193.pdf)
+[Arrest warrant (issued under seal on July 8, 2005; unsealed on October 13, 2005)](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/05-55)
