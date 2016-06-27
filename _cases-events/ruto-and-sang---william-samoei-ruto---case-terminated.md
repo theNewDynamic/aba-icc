@@ -5,6 +5,7 @@ event_date: 2016-04-05T00:00:00.000Z
 action: Case Terminated
 case: the-prosecutor-v-ruto-and-sang
 accused: william-samoei-ruto
+youtube:
 ---
 
 

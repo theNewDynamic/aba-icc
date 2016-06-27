@@ -1,4 +1,4 @@
-export.txt ---
+---
 title: "Ruto and Sang - William Samoei Ruto"
 published: true
 #event_date:

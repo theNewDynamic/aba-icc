@@ -5,6 +5,7 @@ event_date: 2010-04-23T00:00:00.000Z
 action: Request denied
 case: the-prosecutor-v-abu-garda
 accused: bahr-idriss-abu-garda
+youtube:
 ---
 
 

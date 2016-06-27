@@ -5,6 +5,7 @@ event_date: 2008-04-28T00:00:00.000Z
 action: First Arrest Warrant
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda
+youtube:
 slug: ntaganda-events-bosco-ntaganda-first-arrest-warrant-(issued-by-pre-trial-chamber-i)
 ---
 

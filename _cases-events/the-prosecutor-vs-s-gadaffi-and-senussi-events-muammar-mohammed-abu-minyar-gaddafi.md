@@ -4,7 +4,7 @@ published: true
 action:
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: muammar-mohammed-abu-minyar-gaddafi
-slug:
+youtube:
 ---
 
 

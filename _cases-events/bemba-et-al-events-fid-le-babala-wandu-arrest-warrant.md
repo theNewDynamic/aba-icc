@@ -5,6 +5,7 @@ event_date: 2013-11-20T00:00:00.000Z
 action: Arrest Warrant
 case: the-prosecutor-v-bemba-et-al
 accused: fid-le-babala-wandu
+youtube:
 slug: bemba-et-al-events-fidèle-babala-wandu-arrest-warrant
 ---
 
