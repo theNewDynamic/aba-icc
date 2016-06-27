@@ -3,8 +3,8 @@ title: The Prosecutor vs. S. Gadaffi and Senussi - Abdullah Al-Senussi - Admissi
 published: true
 event_date: 2012-05-01T00:00:00.000Z
 action: Admissibility Challenged
-case: the-prosecutor-v--gbagbo
-accused: abdallah-banda-abakaer-nourain
+case: the-prosecutor-vs-s-gadaffi-and-senussi
+accused: abdullah-al-senussi
 youtube_id:
 ---
 
