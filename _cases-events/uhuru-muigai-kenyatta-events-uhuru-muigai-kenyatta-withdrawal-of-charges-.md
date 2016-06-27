@@ -1,11 +1,11 @@
 ---
-title: 'Uhuru Muigai Kenyatta - Uhuru Muigai Kenyatta - Withdrawal of Charges '
+title: Uhuru Muigai Kenyatta - Uhuru Muigai Kenyatta - Withdrawal of Charges
 published: true
 event_date: 2015-03-13T00:00:00.000Z
-action: 'Withdrawal of Charges '
+action: Withdrawal of Charges
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: uhuru-muigai-kenyatta
-youtube_id:
+youtube_id: s3HORJn15Mg
 slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta-withdrawal-of-charges-
 ---
 
