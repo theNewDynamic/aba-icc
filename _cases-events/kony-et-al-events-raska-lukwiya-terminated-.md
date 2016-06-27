@@ -10,4 +10,4 @@ slug: kony-et-al-events-raska-lukwiya-terminated-
 ---
 
 
-[Decision](http://www.icc-cpi.int/iccdocs/doc/doc297945.pdf)to terminate the proceedings
+[Decision](http://www.icc-cpi.int/iccdocs/doc/doc297945.pdf) on termination of proceedings
