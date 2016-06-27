@@ -1,11 +1,11 @@
 ---
-title: 'Lubanga - Thomas Lubanga Dyilo - Appeal Judgement '
+title: Lubanga - Thomas Lubanga Dyilo - Appeal Judgement
 published: true
 event_date: 2014-12-01T00:00:00.000Z
-action: 'Appeal Judgement '
+action: Appeal Judgement
 case: the-prosecutor-v-lubanga
 accused: thomas-lubanga-dyilo
-youtube_id:
+youtube_id: xNB2mV5k6OY
 slug: lubanga-events-thomas-lubanga-dyilo-appeal-judgement-
 ---
 
