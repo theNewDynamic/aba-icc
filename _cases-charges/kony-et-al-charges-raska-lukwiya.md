@@ -11,7 +11,7 @@ slug: kony-et-al-charges-raska-lukwiya
 
 ### Factual Allegations
 
-The ICC Office of the Prosecutor charged that Raska Lukwiya was “the Army Commander [third in command] who formerly occupied the posts of Brigade General and Deputy Army Commander” of the Lord’s Resistance Army (LRA) and that Raska Lukwiya was, along with Joseph Kony (Chairman and Commander-in-Chief of the LRA) and Vincent Otti (Vice-Chairman and Second-in-Command of the LRA), one of “the key members of “Control Altar,” the section representing the core LRA leadership responsible for devising and implementing LRA strategy, including standing orders to attack and brutalise civilian populations.”
+The ICC Office of the Prosecutor charged that Raska Lukwiya was the Army Commander (third in command), former Deputy Army Commander, and former Brigade General of the Lord’s Resistance Army (LRA) and that Raska Lukwiya was, along with Joseph Kony (Chairman and Commander-in-Chief of the LRA) and Vincent Otti (Vice-Chairman and Second-in-Command of the LRA), one of “the key members of “Control Altar,” the section representing the core LRA leadership responsible for devising and implementing LRA strategy, including standing orders to attack and brutalise civilian populations.”
 
 The ICC Office of the Prosecutor further charged that, under Kony’s orders, Raska Lukwiya: moved with LRA fighters into certain regions to attack Ugandan government forces and civilians; ordered LRA fighters to kill civilians and pillage property from an internally displaced persons camp; and ordered LRA fighters to abduct and enslave civilians as forced laborers to carry looted property.&nbsp;
 
