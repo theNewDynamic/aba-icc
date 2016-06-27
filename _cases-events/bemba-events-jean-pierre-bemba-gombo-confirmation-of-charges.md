@@ -10,5 +10,4 @@ slug: bemba-events-jean-pierre-bemba-gombo-confirmation-of-charges
 ---
 
 
-[Hearing](https://youtu.be/xXhDJyL4W4Y)
-<br>[Decision](http://www.icc-cpi.int/iccdocs/doc/doc699541.pdf) on the confirmation of charges
+[Decision](http://www.icc-cpi.int/iccdocs/doc/doc699541.pdf) on the confirmation of charges
