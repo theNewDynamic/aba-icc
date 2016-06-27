@@ -10,4 +10,4 @@ slug: kony-et-al-events-vincent-otti-warrant-of-arrest-
 ---
 
 
-[Made public](http://www.icc-cpi.int/iccdocs/doc/doc97189.pdf)
+[Arrest Warrant (issued under seal on July 8, 2005; unsealed on October 13, 2005)](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/05-54)
