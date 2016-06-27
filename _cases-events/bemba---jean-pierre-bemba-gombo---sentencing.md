@@ -5,7 +5,7 @@ event_date: 2016-06-21T00:00:00.000Z
 action: Sentencing
 case: the-prosecutor-v-bemba
 accused: jean-pierre-bemba-gombo
-youtube_id:
+youtube_id: 'https://www.youtube.com/watch?v=oWmjjgsG1Is'
 ---
 
 
