@@ -4,7 +4,7 @@ published: true
 event_date:
 action: Confirmation of Admissibility
 case: the-prosecutor-v--gbagbo
-accused: abdallah-banda-abakaer-nourain
+accused: simone-gbagbo
 youtube_id:
 ---
 
