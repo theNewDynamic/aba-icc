@@ -1,10 +1,12 @@
 ---
-title: "Ongwen - Dominic Ongwen - Transfer to ICC Detention Centre"
+title: Ongwen - Dominic Ongwen -
 published: true
-event_date: 2015-01-21T00:00:00.000Z
-action: "Transfer to ICC Detention Centre"
+event_date:
+action:
 case: the-prosecutor-v-ongwen
 accused: dominic-ongwen
 youtube:
 slug: ongwen-events-dominic-ongwen-transfer-to-icc-detention-centre
 ---
+
+

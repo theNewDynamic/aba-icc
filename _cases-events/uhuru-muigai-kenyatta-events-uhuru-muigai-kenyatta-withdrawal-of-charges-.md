@@ -10,5 +10,5 @@ slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta-withdrawal-of-charges-
 ---
 
 
-[Statement](https://youtu.be/s3HORJn15Mg) of the Prosecutor on the withdrawal of charges
+[Statement](https://youtu.be/s3HORJn15Mg) of ICC Prosecutor
 <br>[Decision](http://www.icc-cpi.int/iccdocs/doc/doc1936247.pdf) on the withdrawal of charges
