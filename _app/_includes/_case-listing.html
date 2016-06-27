@@ -23,7 +23,7 @@
         {% if charge.charges_status %}
           <h6>
             <span class="red">
-              {{charge.charges_status}}
+              {{ charge.charges_status }}
             </span>
           </h6>
         {% endif %}
@@ -35,7 +35,10 @@
               <ul class="submenu">
               {% if charge.content %}
                   {{ charge.content | markdownify }}
-                {% endif %}
+              {% endif %}
+              {% if charge.youtube %}
+                {% include components/embed-youtube.html embed_code=charge.youtube %}
+              {% endif %}
               </ul>
             </li>
           </ul>
@@ -61,6 +64,9 @@
                       {% endif %}
                       {% if event.event_date %}: {{ event.event_date |date: '%B %e, %Y' }}{% endif %}
                     </strong>
+                    {% if event.youtube %}
+                      {% include components/embed-youtube.html embed_code=event.youtube %}
+                    {% endif %}
                   </li>
               {% endfor %}
             </ul>

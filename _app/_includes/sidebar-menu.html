@@ -1,6 +1,6 @@
  {% comment %}
- <!-- assign section = site.documents | where: 'collection', page.collection | sort: 'order', 'last'  -->
- using these conditionals is faster than looping through all the collections
+ <!-- assign section = site.documents | where: 'collection', page.collection | sort: 'order', 'last' 
+ using these conditionals is faster than looping through all the collections -->
  {% endcomment %}
 {% if page.menu == 'about-the-icc' %}
   {% assign section = site.documents | where: 'collection', 'about-the-icc' | sort: 'order', 'last' %}
@@ -40,7 +40,7 @@
 
 <nav>
 
-{% comment %}PRIMARY MENU DETERMINED BY SECION - every template should define which global menu to use {% endcomment %}
+{% comment %}<!-- PRIMARY MENU DETERMINED BY SECION - every template should define which global menu to use  -->{% endcomment %}
 {% if local_menu %}
 
   <ul class="nav-sidebar accordion">
