@@ -4,6 +4,7 @@ published: true
 charges_status: "Pre-trial: Under Admissibility Challenge"
 case: the-prosecutor-v-simone-gbagbo
 accused: simone-gbagbo
+youtube:
 slug: simone-gbagbo-charges-simone-gbagbo
 ---
 

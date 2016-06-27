@@ -5,6 +5,7 @@ published: true
 action:
 case: the-prosecutor-v-ruto-and-sang
 accused: henry-kiprono-kosgey
+youtube:
 slug: ruto-and-sang-events-henry-kiprono-kosgey
 ---
 

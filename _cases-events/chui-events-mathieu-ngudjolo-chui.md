@@ -5,6 +5,7 @@ event_date:
 action:
 case: the-prosecutor-v-chui
 accused: mathieu-ngudjolo-chui
+youtube:
 slug: chui-events-mathieu-ngudjolo-chui
 ---
 

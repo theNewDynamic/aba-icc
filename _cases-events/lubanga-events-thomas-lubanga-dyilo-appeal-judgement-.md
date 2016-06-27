@@ -5,6 +5,7 @@ event_date: 2014-12-01T00:00:00.000Z
 action: 'Appeal Judgement '
 case: the-prosecutor-v-lubanga
 accused: thomas-lubanga-dyilo
+youtube:
 slug: lubanga-events-thomas-lubanga-dyilo-appeal-judgement-
 ---
 

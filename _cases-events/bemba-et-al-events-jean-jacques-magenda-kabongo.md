@@ -4,6 +4,7 @@ published: true
 action:
 case: the-prosecutor-v-bemba-et-al
 accused: jean-jacques-magenda-kabongo
+youtube:
 slug: bemba-et-al-events-jean-jacques-magenda-kabongo
 ---
 

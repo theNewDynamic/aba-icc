@@ -5,6 +5,7 @@ event_date:
 action:
 case: the-prosecutor-v-harun-and-kushayb
 accused: ali-muhammad-ali-abd-al-rahman
+youtube:
 slug: harun-and-kushayb-events-ali-muhammad-ali-abd-al-rahman
 ---
 

@@ -4,6 +4,7 @@ published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-ruto-and-sang
 accused: william-samoei-ruto
+youtube:
 slug: ruto-and-sang-charges-william-samoei-ruto
 ---
 

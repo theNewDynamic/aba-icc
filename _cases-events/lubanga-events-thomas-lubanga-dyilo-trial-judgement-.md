@@ -5,6 +5,7 @@ event_date: 2012-03-14T00:00:00.000Z
 action: 'Trial Judgement '
 case: the-prosecutor-v-lubanga
 accused: thomas-lubanga-dyilo
+youtube:
 slug: lubanga-events-thomas-lubanga-dyilo-trial-judgement-
 ---
 

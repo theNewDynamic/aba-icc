@@ -4,6 +4,7 @@ published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-ble-goude
 accused: charles-ble-goude
+youtube:
 slug: ble-goude-charges-charles-ble-goude
 ---
 

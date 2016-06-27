@@ -5,6 +5,7 @@ event_date: 2011-12-16T00:00:00.000Z
 action: Charges not confirmed
 case: the-prosecutor-v-mbarushimana
 accused: callixte-mbarushimana
+youtube:
 slug: mbarushimana-events-callixte-mbarushimana-confirmation-of-charges-
 ---
 

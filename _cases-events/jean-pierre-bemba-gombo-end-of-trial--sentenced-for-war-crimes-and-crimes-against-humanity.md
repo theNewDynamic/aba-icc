@@ -5,6 +5,7 @@ event_date: 2016-03-21T00:00:00.000Z
 action: Trial Judgement
 case: the-prosecutor-v-bemba
 accused: jean-pierre-bemba-gombo
+youtube:
 slug: jean-pierre-bemba-gombo-end-of-trial--sentenced-for-war-crimes-and-crimes-against-humanity
 ---
 

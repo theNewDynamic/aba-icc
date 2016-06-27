@@ -5,6 +5,7 @@ event_date: 2011-03-08T00:00:00.000Z
 action: Summons to Appear
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: francis-kirimi-muthaura
+youtube:
 slug: uhuru-muigai-kenyatta-events-francis-kirimi-muthaura-summonses-to-appear
 ---
 

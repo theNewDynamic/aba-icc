@@ -4,6 +4,7 @@ published: true
 charges_status: 'Trial: Ongoing'
 case: the-prosecutor-v-bemba-et-al
 accused: aime-kilolo-musamba
+youtube:
 slug: bemba-et-al-charges-aime-kilolo-musamba
 ---
 

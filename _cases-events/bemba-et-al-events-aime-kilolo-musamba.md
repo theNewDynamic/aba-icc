@@ -4,6 +4,7 @@ published: true
 action:
 case: the-prosecutor-v-bemba-et-al
 accused: aime-kilolo-musamba
+youtube:
 slug: bemba-et-al-events-aime-kilolo-musamba
 ---
 

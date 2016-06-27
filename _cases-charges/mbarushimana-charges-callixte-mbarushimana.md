@@ -4,6 +4,7 @@ published: true
 charges_status: "Closed: Charges Not Confirmed"
 case: the-prosecutor-v-mbarushimana
 accused: callixte-mbarushimana
+youtube:
 slug: mbarushimana-charges-callixte-mbarushimana
 ---
 

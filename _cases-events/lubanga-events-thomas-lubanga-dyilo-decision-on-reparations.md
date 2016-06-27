@@ -5,6 +5,7 @@ event_date: 2012-08-07T00:00:00.000Z
 action: Decision on Reparations
 case: the-prosecutor-v-lubanga
 accused: thomas-lubanga-dyilo
+youtube:
 slug: lubanga-events-thomas-lubanga-dyilo-decision-on-reparations
 ---
 

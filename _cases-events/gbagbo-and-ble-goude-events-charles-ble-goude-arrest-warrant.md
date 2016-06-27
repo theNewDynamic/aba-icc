@@ -5,6 +5,7 @@ event_date: 2013-09-30T00:00:00.000Z
 action: "Arrest Warrant"
 case: the-prosecutor-v-gbagbo-and-ble-goude
 accused: charles-ble-goude
+youtube:
 slug: gbagbo-and-ble-goude-events-charles-ble-goude-arrest-warrant
 ---
 

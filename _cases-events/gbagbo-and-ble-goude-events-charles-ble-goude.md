@@ -5,6 +5,7 @@ event_date:
 action:
 case: the-prosecutor-v-gbagbo-and-ble-goude
 accused: charles-ble-goude
+youtube:
 slug: gbagbo-and-ble-goude-events-charles-ble-goude
 ---
 

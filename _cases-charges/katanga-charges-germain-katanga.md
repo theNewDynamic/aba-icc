@@ -4,6 +4,7 @@ published: true
 charges_status: "Trial Complete: Sentenced"
 case: the-prosecutor-v-katanga
 accused: germain-katanga
+youtube:
 slug: katanga-charges-germain-katanga
 ---
 

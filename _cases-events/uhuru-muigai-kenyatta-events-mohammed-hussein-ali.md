@@ -5,6 +5,7 @@ published: true
 action:
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: mohammed-hussein-ali
+youtube:
 slug: uhuru-muigai-kenyatta-events-mohammed-hussein-ali
 ---
 

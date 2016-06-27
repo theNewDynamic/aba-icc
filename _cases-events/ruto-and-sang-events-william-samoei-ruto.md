@@ -5,6 +5,7 @@ published: true
 action:
 case: the-prosecutor-v-ruto-and-sang
 accused: william-samoei-ruto
+youtube:
 slug: ruto-and-sang-events-william-samoei-ruto
 ---
 

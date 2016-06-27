@@ -4,6 +4,7 @@ published: true
 charges_status: "Pre-trial: Suspect Remains at Large"
 case: the-prosecutor-v-walter-osapiri-barasa
 accused: walter-osapiri-barasa
+youtube:
 slug: walter-osapiri-barasa-charges-walter-osapiri-barasa
 ---
 

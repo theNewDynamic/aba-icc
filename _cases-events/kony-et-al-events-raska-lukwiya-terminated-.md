@@ -5,6 +5,7 @@ event_date: 2007-07-11T00:00:00.000Z
 action: "Terminated "
 case: the-prosecutor-v-kony-et-al
 accused: raska-lukwiya
+youtube:
 slug: kony-et-al-events-raska-lukwiya-terminated-
 ---
 

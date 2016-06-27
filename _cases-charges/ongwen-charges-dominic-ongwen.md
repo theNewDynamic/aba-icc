@@ -4,6 +4,7 @@ published: true
 charges_status: 'Pre-trial: Charges Confirmed'
 case: the-prosecutor-v-ongwen
 accused: dominic-ongwen
+youtube:
 slug: ongwen-charges-dominic-ongwen
 ---
 

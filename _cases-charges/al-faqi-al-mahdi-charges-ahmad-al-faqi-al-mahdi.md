@@ -4,6 +4,7 @@ published: true
 charges_status: Trial ongoing
 case: the-prosecutor-v-al-faqi-al-mahdi
 accused: ahmad-al-faqi-al-mahdi
+youtube:
 slug: al-faqi-al-mahdi-charges-ahmad-al-faqi-al-mahdi
 ---
 

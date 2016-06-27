@@ -4,6 +4,7 @@ published: true
 charges_status: "Trial: Ongoing"
 case: the-prosecutor-v-bemba-et-al
 accused: jean-jacques-magenda-kabongo
+youtube:
 slug: bemba-et-al-charges-jean-jacques-magenda-kabongo
 ---
 

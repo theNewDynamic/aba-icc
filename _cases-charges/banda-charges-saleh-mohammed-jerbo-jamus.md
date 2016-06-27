@@ -4,6 +4,7 @@ published: true
 charges_status: "Charges Withdrawn: Death of Accused"
 case: the-prosecutor-v-banda
 accused: saleh-mohammed-jerbo-jamus
+youtube:
 slug: banda-charges-saleh-mohammed-jerbo-jamus
 ---
 

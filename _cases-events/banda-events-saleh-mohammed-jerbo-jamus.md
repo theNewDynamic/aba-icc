@@ -5,6 +5,7 @@ event_date:
 action:
 case: the-prosecutor-v-banda
 accused: saleh-mohammed-jerbo-jamus
+youtube:
 slug: banda-events-saleh-mohammed-jerbo-jamus
 ---
 

@@ -5,6 +5,7 @@ event_date: 2011-01-28T00:00:00.000Z
 action: Initial appearance
 case: the-prosecutor-v-mbarushimana
 accused: callixte-mbarushimana
+youtube:
 slug: mbarushimana-events-callixte-mbarushimana-initial-appearance
 ---
 

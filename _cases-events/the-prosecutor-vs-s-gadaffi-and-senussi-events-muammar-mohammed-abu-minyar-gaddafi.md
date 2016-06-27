@@ -5,6 +5,7 @@ published: true
 action:
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: muammar-mohammed-abu-minyar-gaddafi
+youtube:
 slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-muammar-mohammed-abu-minyar-gaddafi
 ---
 

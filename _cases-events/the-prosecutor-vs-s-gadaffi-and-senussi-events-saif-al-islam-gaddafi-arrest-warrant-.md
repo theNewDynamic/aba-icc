@@ -5,6 +5,7 @@ event_date: 2011-06-27T00:00:00.000Z
 action: 'Arrest Warrant '
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: saif-al-islam-gaddafi
+youtube:
 slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-saif-al-islam-gaddafi-arrest-warrant-
 ---
 

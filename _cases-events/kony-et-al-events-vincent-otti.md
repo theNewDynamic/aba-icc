@@ -5,6 +5,7 @@ published: true
 action:
 case: the-prosecutor-v-kony-et-al
 accused: vincent-otti
+youtube:
 slug: kony-et-al-events-vincent-otti
 ---
 

@@ -4,6 +4,7 @@ published: true
 charges_status: "Pre-trial: Charges not Confirmed"
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: mohammed-hussein-ali
+youtube:
 slug: uhuru-muigai-kenyatta-charges-mohammed-hussein-ali
 ---
 

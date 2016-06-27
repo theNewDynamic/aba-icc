@@ -5,6 +5,7 @@ event_date: 2015-03-11T00:00:00.000Z
 action: Decision to Join the Gbagbo and Blé Goudé Cases
 case: the-prosecutor-v-gbagbo-and-ble-goude
 accused: charles-ble-goude
+youtube:
 slug: gbagbo-and-ble-goude-events-charles-ble-goude-decision-to-join-the-gbagbo-and-ble-goude-cases
 ---
 

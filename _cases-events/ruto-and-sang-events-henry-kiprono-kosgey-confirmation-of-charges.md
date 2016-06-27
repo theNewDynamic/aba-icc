@@ -5,6 +5,7 @@ event_date: 2012-01-23T00:00:00.000Z
 action: Confirmation of Charges
 case: the-prosecutor-v-ruto-and-sang
 accused: henry-kiprono-kosgey
+youtube:
 slug: ruto-and-sang-events-henry-kiprono-kosgey-confirmation-of-charges
 ---
 

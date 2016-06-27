@@ -5,6 +5,7 @@ event_date: 2005-10-13T00:00:00.000Z
 action: Arrest Warrant
 case: the-prosecutor-v-kony-et-al
 accused: joseph-kony
+youtube:
 slug: kony-et-al-events-joseph-kony-warrant-of-arrest
 ---
 

@@ -5,6 +5,7 @@ published: true
 action:
 case: the-prosecutor-v-lubanga
 accused: thomas-lubanga-dyilo
+youtube:
 slug: lubanga-events-thomas-lubanga-dyilo
 ---
 

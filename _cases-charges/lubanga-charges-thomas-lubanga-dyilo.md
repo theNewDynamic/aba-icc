@@ -4,6 +4,7 @@ published: true
 charges_status: "Trial Complete: Sentenced"
 case: the-prosecutor-v-lubanga
 accused: thomas-lubanga-dyilo
+youtube:
 slug: lubanga-charges-thomas-lubanga-dyilo
 ---
 

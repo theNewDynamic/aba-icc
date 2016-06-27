@@ -4,6 +4,7 @@ published: true
 charges_status: "Trial Ended: Sentenced"
 case: the-prosecutor-v-bemba
 accused: jean-pierre-bemba-gombo
+youtube:
 slug: bemba-charges-jean-pierre-bemba-gombo
 ---
 

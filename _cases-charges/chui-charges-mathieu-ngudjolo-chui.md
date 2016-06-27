@@ -4,6 +4,7 @@ published: true
 charges_status: 'Closed: Acquitted'
 case: the-prosecutor-v-chui
 accused: mathieu-ngudjolo-chui
+youtube:
 slug: chui-charges-mathieu-ngudjolo-chui
 ---
 
