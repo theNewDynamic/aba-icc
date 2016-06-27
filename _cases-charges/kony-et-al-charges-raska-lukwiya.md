@@ -17,7 +17,7 @@ The ICC Office of the Prosecutor further charged that, under Kony’s orders, Ra
 
 In October 2006, the Netherlands Ministry of Justice-Forensics Institute, at the request of the Government of Uganda and the ICC Prosecutor, prepared a report that concluded that the remains of the person killed on August 12, 2006 was that of Raska Lukwiya, and the Government of Uganda provided notice that, in addition to the DNA testing, there was body identification by Lukwiya’s family members and former LRA members and confirmation of death by LRA command.&nbsp; On July 11, 2007, the ICC Pre-Trial Chamber II terminated proceedings against Raska Lukwiya.
 
-Please visit the Court's website for more information on [*The Prosecutor v. Joseph Kony et al*.](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200204/related%20cases/icc%200204%200105/Pages/uganda.aspx)
+Please visit the Court's website for more information on [*The Prosecutor v. Joseph Kony et al*.](https://www.icc-cpi.int/uganda/kony)
 
 ### Charges
 
