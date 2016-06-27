@@ -1,7 +1,6 @@
 ---
-title: "Kony et al. - Joseph Kony"
+title: Kony et al. - Joseph Kony
 published: true
-# event_date: 2005-10-13T00:00:00.000Z
 action:
 case: the-prosecutor-v-kony-et-al
 accused: joseph-kony
@@ -9,4 +8,5 @@ youtube_id:
 slug: kony-et-al-events-joseph-kony
 ---
 
-The Office of the Prosecutor made public an arrest warrant for Kony on October 13, 2005. Accused remains [at-large.](http://www.theguardian.com/world/2014/nov/06/joseph-kony-hiding-sudan-border-report-lra)
+
+The ICC Pre-Trial Chamber II issued an arrest warrant under seal for Joseph Kony on July 8, 2005, which was amended on September 27, 2005.&nbsp; The ICC Pre-Trial Chamber II decided to unseal the arrest warrant on October 13, 2005.&nbsp; As of June 2016, the suspect remains [at-large](http://www.theguardian.com/world/2014/nov/06/joseph-kony-hiding-sudan-border-report-lra).&nbsp;
