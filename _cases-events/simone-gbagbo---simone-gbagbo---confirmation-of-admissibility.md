@@ -1,7 +1,7 @@
 ---
 title: Simone Gbagbo - Simone Gbagbo - Confirmation of Admissibility
 published: true
-event_date:
+event_date: 2015-05-27T00:00:00.000Z
 action: Confirmation of Admissibility
 case: the-prosecutor-v--gbagbo
 accused: simone-gbagbo
