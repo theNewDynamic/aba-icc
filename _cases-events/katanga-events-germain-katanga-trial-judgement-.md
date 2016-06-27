@@ -1,11 +1,11 @@
 ---
-title: 'Katanga - Germain Katanga - Trial Judgement '
+title: Katanga - Germain Katanga - Trial Judgement
 published: true
 event_date: 2014-03-07T00:00:00.000Z
-action: 'Trial Judgement '
+action: Trial Judgement
 case: the-prosecutor-v-katanga
 accused: germain-katanga
-youtube_id:
+youtube_id: 8Tu7Cze16sQ
 slug: katanga-events-germain-katanga-trial-judgement-
 ---
 
