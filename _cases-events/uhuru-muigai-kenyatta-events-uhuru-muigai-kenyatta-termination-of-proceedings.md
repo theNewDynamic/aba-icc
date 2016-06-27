@@ -5,7 +5,7 @@ event_date: 2015-03-13T00:00:00.000Z
 action: Case Terminated
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: uhuru-muigai-kenyatta
-youtube:
+youtube_id:
 slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta-termination-of-proceedings
 ---
 

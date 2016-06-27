@@ -4,7 +4,7 @@ published: true
 action:
 case: the-prosecutor-v-bemba-et-al
 accused: narcisse-arido
-youtube:
+youtube_id:
 slug: bemba-et-al-events-narcisse-arido
 ---
 

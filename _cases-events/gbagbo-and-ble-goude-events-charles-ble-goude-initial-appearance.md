@@ -5,7 +5,7 @@ event_date: 2014-03-27T00:00:00.000Z
 action: "Initial Appearance"
 case: the-prosecutor-v-gbagbo-and-ble-goude
 accused: charles-ble-goude
-youtube:
+youtube_id:
 slug: gbagbo-and-ble-goude-events-charles-ble-goude-initial-appearance
 ---
 

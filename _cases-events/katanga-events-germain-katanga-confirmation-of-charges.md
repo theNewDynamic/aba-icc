@@ -5,7 +5,7 @@ event_date: 2008-09-26T00:00:00.000Z
 action: Confirmation of Charges
 case: the-prosecutor-v-katanga
 accused: germain-katanga
-youtube:
+youtube_id:
 slug: katanga-events-germain-katanga-confirmation-of-charges
 ---
 

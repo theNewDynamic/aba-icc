@@ -5,7 +5,7 @@ published: true
 action:
 case: the-prosecutor-v-paul-gicheru-and-philip-kipkoech-bett
 accused: paul-gicheru
-youtube:
+youtube_id:
 slug: paul-gicheru-and-philip-kipkoech-bett-events-paul-gicheru
 ---
 

@@ -5,7 +5,7 @@ event_date: 2015-01-26T00:00:00.000Z
 action: Initial Appearance
 case: the-prosecutor-v-ongwen
 accused: dominic-ongwen
-youtube:
+youtube_id:
 slug: ongwen-events-dominic-ongwen-initial-appearance
 ---
 

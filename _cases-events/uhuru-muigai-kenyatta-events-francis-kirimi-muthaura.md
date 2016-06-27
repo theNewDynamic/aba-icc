@@ -5,7 +5,7 @@ published: true
 action:
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: francis-kirimi-muthaura
-youtube:
+youtube_id:
 slug: uhuru-muigai-kenyatta-events-francis-kirimi-muthaura
 ---
 

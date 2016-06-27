@@ -5,7 +5,7 @@ event_date: 2011-03-08T00:00:00.000Z
 action: Summons to Appear
 case: the-prosecutor-v-ruto-and-sang
 accused: william-samoei-ruto
-youtube:
+youtube_id:
 slug: ruto-and-sang-events-william-samoei-ruto-summonses-to-appear
 ---
 

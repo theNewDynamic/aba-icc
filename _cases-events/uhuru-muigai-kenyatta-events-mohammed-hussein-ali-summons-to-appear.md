@@ -5,7 +5,7 @@ event_date: 2010-12-15T00:00:00.000Z
 action: Summons to Appear
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: mohammed-hussein-ali
-youtube:
+youtube_id:
 slug: uhuru-muigai-kenyatta-events-mohammed-hussein-ali-summons-to-appear
 ---
 

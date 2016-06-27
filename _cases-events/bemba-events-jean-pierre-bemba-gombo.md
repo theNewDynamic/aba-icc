@@ -5,7 +5,7 @@ event_date:
 action:
 case: the-prosecutor-v-bemba
 accused: jean-pierre-bemba-gombo
-youtube:
+youtube_id:
 slug: bemba-events-jean-pierre-bemba-gombo
 ---
 

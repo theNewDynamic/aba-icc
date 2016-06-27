@@ -5,7 +5,7 @@ event_date: 2011-11-22T00:00:00.000Z
 action: Termination of Proceedings
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: muammar-mohammed-abu-minyar-gaddafi
-youtube:
+youtube_id:
 ---
 
 

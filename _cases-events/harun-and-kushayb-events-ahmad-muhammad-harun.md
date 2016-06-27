@@ -5,7 +5,7 @@ event_date:
 action:
 case: the-prosecutor-v-harun-and-kushayb
 accused: ahmad-muhammad-harun
-youtube:
+youtube_id:
 slug: harun-and-kushayb-events-ahmad-muhammad-harun
 ---
 

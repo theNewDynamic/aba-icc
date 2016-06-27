@@ -5,7 +5,7 @@ event_date: 2015-02-06T00:00:00.000Z
 action: Severing of the cases of Dominc Ongwen and Joseph Kony et al.
 case: the-prosecutor-v-ongwen
 accused: dominic-ongwen
-youtube:
+youtube_id:
 slug: ongwen-events-dominic-ongwen-decision-of-seperation
 ---
 

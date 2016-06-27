@@ -5,7 +5,7 @@ event_date: 2014-06-12T00:00:00.000Z
 action: Confirmation of Charges
 case: the-prosecutor-v-gbagbo-and-ble-goude
 accused: laurent-gbagbo
-youtube:
+youtube_id:
 slug: gbagbo-and-ble-goude-events-laurent-gbagbo-confirmation-of-charges
 ---
 

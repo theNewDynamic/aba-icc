@@ -5,7 +5,7 @@ published: true
 action:
 case: the-prosecutor-v-ruto-and-sang
 accused: joshua-arap-sang
-youtube:
+youtube_id:
 slug: ruto-and-sang-events-joshua-arap-sang
 ---
 

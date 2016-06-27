@@ -5,7 +5,7 @@ event_date: 2005-10-13T00:00:00.000Z
 action: Arrest Warrant
 case: the-prosecutor-v-ongwen
 accused: dominic-ongwen
-youtube:
+youtube_id:
 slug: ongwen-events-dominic-ongwen-warrant-of-arrest
 ---
 

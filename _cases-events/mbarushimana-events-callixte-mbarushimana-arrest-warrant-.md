@@ -5,7 +5,7 @@ event_date: 2010-10-11T00:00:00.000Z
 action: "Arrest Warrant "
 case: the-prosecutor-v-mbarushimana
 accused: callixte-mbarushimana
-youtube:
+youtube_id:
 slug: mbarushimana-events-callixte-mbarushimana-arrest-warrant-
 ---
 

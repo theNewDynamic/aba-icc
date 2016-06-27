@@ -5,7 +5,7 @@ published: true
 action:
 case: the-prosecutor-v-ongwen
 accused: dominic-ongwen
-youtube:
+youtube_id:
 slug: ongwen-events-dominic-ongwen
 ---
 

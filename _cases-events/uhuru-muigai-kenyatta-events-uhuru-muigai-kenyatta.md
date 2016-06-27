@@ -5,7 +5,7 @@ published: true
 action:
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: uhuru-muigai-kenyatta
-youtube:
+youtube_id:
 slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta
 ---
 

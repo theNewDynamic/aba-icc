@@ -5,7 +5,7 @@ event_date: 2006-03-20T00:00:00.000Z
 action: Initial Appearance
 case: the-prosecutor-v-lubanga
 accused: thomas-lubanga-dyilo
-youtube:
+youtube_id:
 ---
 
 

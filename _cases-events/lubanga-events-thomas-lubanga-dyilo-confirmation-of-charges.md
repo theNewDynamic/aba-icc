@@ -5,7 +5,7 @@ event_date: 2007-01-29T00:00:00.000Z
 action: "Confirmation of Charges"
 case: the-prosecutor-v-lubanga
 accused: thomas-lubanga-dyilo
-youtube:
+youtube_id:
 slug: lubanga-events-thomas-lubanga-dyilo-confirmation-of-charges
 ---
 

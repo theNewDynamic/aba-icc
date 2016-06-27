@@ -4,7 +4,7 @@ published: true
 action:
 case: the-prosecutor-v-banda
 accused: abdallah-banda-abakaer-nourain
-youtube:
+youtube_id:
 slug: banda-events-abdallah-banda-abakaer-nourain
 ---
 

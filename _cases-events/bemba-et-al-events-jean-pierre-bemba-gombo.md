@@ -4,7 +4,7 @@ published: true
 action:
 case: the-prosecutor-v-bemba-et-al
 accused: jean-pierre-bemba-gombo
-youtube:
+youtube_id:
 slug: bemba-et-al-events-jean-pierre-bemba-gombo
 ---
 

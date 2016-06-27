@@ -5,7 +5,7 @@ event_date: 2016-03-24T00:00:00.000Z
 action: Confirmation of Charges
 case: the-prosecutor-v-al-faqi-al-mahdi
 accused: ahmad-al-faqi-al-mahdi
-youtube: '<iframe width="560" height="315" src="https://www.youtube.com/embed/U1eeuCJ4DKc" frameborder="0" allowfullscreen></iframe>'
+youtube_id: '<iframe width="560" height="315" src="https://www.youtube.com/embed/U1eeuCJ4DKc" frameborder="0" allowfullscreen></iframe>'
 ---
 
 

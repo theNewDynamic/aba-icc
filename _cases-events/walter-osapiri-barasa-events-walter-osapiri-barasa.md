@@ -4,7 +4,7 @@ published: true
 action:
 case: the-prosecutor-v-walter-osapiri-barasa
 accused: walter-osapiri-barasa
-youtube:
+youtube_id:
 slug: walter-osapiri-barasa-events-walter-osapiri-barasa
 ---
 

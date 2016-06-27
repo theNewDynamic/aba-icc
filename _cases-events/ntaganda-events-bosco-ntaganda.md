@@ -5,7 +5,7 @@ published: true
 action:
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda
-youtube:
+youtube_id:
 slug: ntaganda-events-bosco-ntaganda
 ---
 

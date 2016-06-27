@@ -5,6 +5,6 @@ event_date: 2010-11-22T00:00:00.000Z
 action: "Start of Trial "
 case: the-prosecutor-v-bemba
 accused: jean-pierre-bemba-gombo
-youtube:
+youtube_id:
 slug: bemba-events-jean-pierre-bemba-gombo-start-of-trial-
 ---

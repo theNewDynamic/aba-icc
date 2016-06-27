@@ -5,7 +5,7 @@ event_date:
 action:
 case: the-prosecutor-v-katanga
 accused: germain-katanga
-youtube:
+youtube_id:
 slug: katanga-events-germain-katanga
 ---
 

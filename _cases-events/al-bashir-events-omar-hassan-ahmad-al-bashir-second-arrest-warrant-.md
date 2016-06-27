@@ -5,7 +5,7 @@ event_date: 2010-07-12T00:00:00.000Z
 action: "Second Arrest Warrant "
 case: the-prosecutor-v-al-bashir
 accused: omar-hassan-ahmad-al-bashir
-youtube:
+youtube_id:
 slug: al-bashir-events-omar-hassan-ahmad-al-bashir-second-arrest-warrant-
 ---
 

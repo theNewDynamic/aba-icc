@@ -4,7 +4,7 @@ published: true
 action:
 case: the-prosecutor-v-al-bashir
 accused: omar-hassan-ahmad-al-bashir
-youtube:
+youtube_id:
 slug: al-bashir-events-omar-hassan-ahmad-al-bashir
 ---
 

@@ -4,7 +4,7 @@ published: true
 action:
 case: the-prosecutor-v-abu-garda
 accused: bahr-idriss-abu-garda
-youtube:
+youtube_id:
 slug: abu-garda-events-bahr-idriss-abu-garda
 ---
 

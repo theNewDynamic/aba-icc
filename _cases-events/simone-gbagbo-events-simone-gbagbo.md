@@ -5,7 +5,7 @@ published: true
 action:
 case: the-prosecutor-v-simone-gbagbo
 accused: simone-gbagbo
-youtube:
+youtube_id:
 slug: simone-gbagbo-events-simone-gbagbo
 ---
 

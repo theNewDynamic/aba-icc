@@ -5,7 +5,7 @@ event_date: 2013-03-11T00:00:00.000Z
 action: Withdrawal of Charges
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: francis-kirimi-muthaura
-youtube:
+youtube_id:
 slug: uhuru-muigai-kenyatta-events-francis-kirimi-muthaura-withdrawal-of-charges
 ---
 

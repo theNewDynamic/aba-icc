@@ -5,7 +5,7 @@ published: true
 action:
 case: the-prosecutor-v-mudacumura
 accused: sylvestre-mudacumura
-youtube:
+youtube_id:
 slug: mudacumura-events-sylvestre-mudacumura
 ---
 

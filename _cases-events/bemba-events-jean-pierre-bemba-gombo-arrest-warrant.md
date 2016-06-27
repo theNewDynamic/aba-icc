@@ -5,7 +5,7 @@ event_date: 2008-05-04T00:00:00.000Z
 action: "Arrest Warrant"
 case: the-prosecutor-v-bemba
 accused: jean-pierre-bemba-gombo
-youtube:
+youtube_id:
 slug: bemba-events-jean-pierre-bemba-gombo-arrest-warrant
 ---
 

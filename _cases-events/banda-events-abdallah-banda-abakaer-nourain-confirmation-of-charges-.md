@@ -5,7 +5,7 @@ event_date: 2011-03-07T00:00:00.000Z
 action: Confirmation of Charges
 case: the-prosecutor-v-banda
 accused: abdallah-banda-abakaer-nourain
-youtube: '<iframe width="420" height="315" src="https://www.youtube.com/embed/3AC9QWOtDfA" frameborder="0" allowfullscreen></iframe>'
+youtube_id: '<iframe width="420" height="315" src="https://www.youtube.com/embed/3AC9QWOtDfA" frameborder="0" allowfullscreen></iframe>'
 slug: banda-events-abdallah-banda-abakaer-nourain-confirmation-of-charges-
 ---
 

@@ -5,7 +5,7 @@ event_date: 2015-03-03T00:00:00.000Z
 action: Amended Decision on Reparations
 case: the-prosecutor-v-lubanga
 accused: thomas-lubanga-dyilo
-youtube:
+youtube_id:
 slug: lubanga-events-thomas-lubanga-dyilo-amended-decision-on-reparations
 ---
 

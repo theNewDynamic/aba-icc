@@ -5,7 +5,7 @@ event_date: 2016-01-28T00:00:00.000Z
 action: Start of Trial
 case: the-prosecutor-v-gbagbo-and-ble-goude
 accused: charles-ble-goude
-youtube:
+youtube_id:
 slug: gbagbo-and-ble-goude-events-charles-ble-goude-start-of-trial
 ---
 

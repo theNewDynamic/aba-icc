@@ -5,7 +5,7 @@ published: true
 action:
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: abdullah-al-senussi
-youtube:
+youtube_id:
 slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-abdullah-al-senussi
 ---
 

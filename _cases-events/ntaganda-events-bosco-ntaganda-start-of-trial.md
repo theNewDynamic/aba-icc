@@ -5,7 +5,7 @@ event_date: 2015-09-02T00:00:00.000Z
 action: Start of Trial
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda
-youtube:
+youtube_id:
 slug: ntaganda-events-bosco-ntaganda-start-of-trial
 ---
 

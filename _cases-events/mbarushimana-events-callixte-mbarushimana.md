@@ -5,7 +5,7 @@ published: true
 action:
 case: the-prosecutor-v-mbarushimana
 accused: callixte-mbarushimana
-youtube:
+youtube_id:
 slug: mbarushimana-events-callixte-mbarushimana
 ---
 
