@@ -9,4 +9,4 @@ slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-saif-al-islam-gaddafi
 ---
 
 
-The Office of the Prosecutor issued and made public an arrest warrant for Gaddafi on 27 June 2011. Accused is in the custody of a rebel militia in Libya.
+The Office of the Prosecutor issued and made public an arrest warrant for Gaddafi on June 27, 2011. Accused is in the custody of a rebel militia in Libya.
