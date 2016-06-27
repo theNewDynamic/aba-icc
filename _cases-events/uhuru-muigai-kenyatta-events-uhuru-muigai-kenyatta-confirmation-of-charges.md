@@ -5,7 +5,7 @@ event_date: 2012-01-23T00:00:00.000Z
 action: Confirmation of Charges
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: uhuru-muigai-kenyatta
-youtube_id:
+youtube_id: jnyc7x9a3jI
 slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta-confirmation-of-charges
 ---
 
