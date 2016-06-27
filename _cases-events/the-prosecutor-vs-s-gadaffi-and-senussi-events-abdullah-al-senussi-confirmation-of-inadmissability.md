@@ -10,4 +10,5 @@ slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-abdullah-al-senussi-confirm
 ---
 
 
-[Press release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1034.aspx)
+[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/11-01/11-466-Red) on the confirmation of inadmissibility
+<br>[Press release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1034.aspx)
