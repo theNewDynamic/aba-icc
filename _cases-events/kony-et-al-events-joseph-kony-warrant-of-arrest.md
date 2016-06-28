@@ -10,4 +10,4 @@ slug: kony-et-al-events-joseph-kony-warrant-of-arrest
 ---
 
 
-[Made public](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/05-53)
+[Public arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/05-53)
