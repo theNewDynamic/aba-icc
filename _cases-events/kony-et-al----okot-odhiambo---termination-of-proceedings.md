@@ -10,3 +10,4 @@ youtube_id:
 
 
 [Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/05-431) on the termination of proceedings
+<br>[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=pr1147)
