@@ -9,4 +9,4 @@ slug: bemba-et-al-events-jean-jacques-magenda-kabongo
 ---
 
 
-The Office of the Prosecutor issued an arrest warrant for Kabongo on November 20, 2013, which was made public on November 28, 2013. He entered ICC custody on December 4, 2013. Charges were confirmed against him on November 11, 2014. His trial [opened](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1155.aspx) on September 29, 2015.
+The Office of the Prosecutor issued a sealed arrest warrant for Kabongo on November 20, 2013, which was unsealed on November 28, 2013. He entered ICC custody on December 4, 2013. Charges were confirmed against him on November 11, 2014. His trial [opened](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1155.aspx) on September 29, 2015.
