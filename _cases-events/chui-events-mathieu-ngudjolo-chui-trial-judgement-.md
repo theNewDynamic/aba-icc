@@ -5,7 +5,7 @@ event_date: 2012-12-18T00:00:00.000Z
 action: Trial Judgement
 case: the-prosecutor-v-chui
 accused: mathieu-ngudjolo-chui
-youtube_id:
+youtube_id: M5E23uRs-9M
 slug: chui-events-mathieu-ngudjolo-chui-trial-judgement-
 ---
 
