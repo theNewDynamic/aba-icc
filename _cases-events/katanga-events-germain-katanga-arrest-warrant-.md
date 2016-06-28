@@ -10,4 +10,4 @@ slug: katanga-events-germain-katanga-arrest-warrant-
 ---
 
 
-[Made public](http://www.icc-cpi.int/iccdocs/doc/doc349648.PDF)
+[Public arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc349648.PDF)
