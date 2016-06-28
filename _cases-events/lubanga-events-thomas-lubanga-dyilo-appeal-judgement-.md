@@ -2,7 +2,7 @@
 title: Lubanga - Thomas Lubanga Dyilo - Appeal Rejected
 published: true
 event_date: 2014-12-01T00:00:00.000Z
-action: Appeal Judgement
+action: Appeal Rejected
 case: the-prosecutor-v-lubanga
 accused: thomas-lubanga-dyilo
 youtube_id: xNB2mV5k6OY
