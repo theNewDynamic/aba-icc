@@ -5,7 +5,7 @@ published: true
 date: 2015-02-23T19:02:00.000Z
 phase: 'Situations & Cases'
 link_to_more_information:
-description: 'The Situation in Libya involves mass violence that occurred throughout Libya’s six month popular uprising in 2011. Within the Libya situation, there is one ongoing case, with one case terminated after the death of Colonel Muammar Gaddafi.'
+description: 'The Situation in Libya involves mass violence that occurred throughout Libya’s six month popular uprising in 2011. Within the Libya situation, there is one ongoing case.'
 slug: libya
 ---
 
