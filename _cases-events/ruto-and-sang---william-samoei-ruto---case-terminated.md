@@ -1,8 +1,8 @@
 ---
-title: Ruto and Sang - William Samoei Ruto - Case Terminated
+title: Ruto and Sang - William Samoei Ruto - Termination of Proceedings
 published: true
 event_date: 2016-04-05T00:00:00.000Z
-action: Case Terminated
+action: Termination of Proceedings
 case: the-prosecutor-v-ruto-and-sang
 accused: william-samoei-ruto
 youtube_id:
