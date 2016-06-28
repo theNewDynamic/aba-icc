@@ -10,3 +10,4 @@ youtube_id:
 
 
 [Decision](http://www.icc-cpi.int/iccdocs/doc/doc1957802.pdf) upholding verdict
+<br>[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=pr1089)
