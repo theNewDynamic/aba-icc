@@ -11,4 +11,3 @@ slug: ongwen-events-dominic-ongwen-initial-appearance
 
 
 [First appearance hearing](https://youtu.be/LqGGMX1YHLw)
-<br>[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR1085)
