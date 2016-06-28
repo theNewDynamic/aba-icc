@@ -9,4 +9,4 @@ slug: ruto-and-sang-events-william-samoei-ruto
 ---
 
 
-The Office of the Prosecutor issued and made public a summons to appear for Ruto on March 8, 2011. Charges against Ruto were confirmed on January 23, 2012. The trial began on September 10, 2013.
+The Office of the Prosecutor issued a public summons for Ruto on March 8, 2011. Charges against Ruto were confirmed on January 23, 2012. The trial began on September 10, 2013.
