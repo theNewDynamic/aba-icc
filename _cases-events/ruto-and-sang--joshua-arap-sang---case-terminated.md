@@ -1,8 +1,8 @@
 ---
-title: Ruto and Sang- Joshua Arap Sang - Case terminated
+title: Ruto and Sang- Joshua Arap Sang - Termination of Proceedings
 published: true
 event_date: 2016-04-05T00:00:00.000Z
-action: Case Terminated
+action: Termination of Proceedings
 case: the-prosecutor-v-ruto-and-sang
 accused: joshua-arap-sang
 youtube_id:
