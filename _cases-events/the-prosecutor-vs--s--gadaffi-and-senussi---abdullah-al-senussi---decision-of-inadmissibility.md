@@ -10,4 +10,4 @@ youtube_id:
 
 
 [Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/11-01/11-466-Red) on the inadmissibility
-<br>[Press release](Decision of Inadmissibility)
+<br>[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=pr953)
