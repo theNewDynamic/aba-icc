@@ -1,8 +1,8 @@
 ---
-title: Abu Garda - Bahr Idriss Abu Garda - OTP Request to Appeal
+title: Abu Garda - Bahr Idriss Abu Garda - OTP Appeals
 published: false
 event_date: 2010-03-15T00:00:00.000Z
-action: Request to Appeal Decision
+action: OTP Appeals
 case: the-prosecutor-v-abu-garda
 accused: bahr-idriss-abu-garda
 youtube_id:
