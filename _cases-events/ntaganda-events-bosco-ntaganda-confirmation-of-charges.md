@@ -5,7 +5,7 @@ event_date: 2014-06-09T00:00:00.000Z
 action: Confirmation of Charges
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda
-youtube_id:
+youtube_id: 5DnP7Inkm8k
 slug: ntaganda-events-bosco-ntaganda-confirmation-of-charges
 ---
 
