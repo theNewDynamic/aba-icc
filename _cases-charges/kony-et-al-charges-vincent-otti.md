@@ -1,12 +1,13 @@
 ---
-title: "Kony et al. charges - Vincent Otti"
+title: Kony et al. charges - Vincent Otti
 published: true
-charges_status: "Pre-trial: Suspect Remains at Large"
+charges_status: 'Pre-trial: Suspect Remains at Large'
 case: the-prosecutor-v-kony-et-al
 accused: vincent-otti
 youtube_id:
 slug: kony-et-al-charges-vincent-otti
 ---
+
 
 ### Factual Allegations
 
@@ -18,9 +19,8 @@ Please visit the Court's website for more information on [The Prosecutor v. Jose
 
 **[Crimes against humanity](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1171) (eleven counts)**: murder ([Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286) of the Rome Statute), sexual enslavement ([Article 7(1)(g)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2293) of the Rome Statute), inhumane acts of inflicting serious bodily injury and suffering ([Article 7(1)(k)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2301) of the Rome Statute)
 
-The Accused is alleged to have ordered, solicited, or induced the commission of these crimes ([Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
+The Suspect is alleged to have ordered, solicited, or induced the commission of these crimes ([Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
 
 **[War crimes](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1172) (twenty one counts)**: inducing rape ([Article 8(2)(e)(vi)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2372) of the Rome Statute), intentionally directing an attack against a civilian population ([Article 8(2)(e)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2367) of the Rome Statute), forced enlistment of children ([Article 8(2)(e)(vii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2378) of the Rome Statute), cruel treatment of civilians ([Article 8(2)(c)(i)-3](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2361) of the Rome Statute), pillaging ([Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371) of the Rome Statute), murder ([Article 8(2)(c)(i)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359) of the Rome Statute)
 
-The Accused is alleged to have ordered, solicited, or induced the commission of these crimes ([Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
-
+The Suspect is alleged to have ordered, solicited, or induced the commission of these crimes ([Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
