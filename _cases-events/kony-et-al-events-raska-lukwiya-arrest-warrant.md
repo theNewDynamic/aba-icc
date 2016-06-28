@@ -10,4 +10,4 @@ slug: kony-et-al-events-raska-lukwiya-arrest-warrant
 ---
 
 
-[Made public](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/05-55)
+[Public arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/05-55)
