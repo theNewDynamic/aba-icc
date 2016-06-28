@@ -1,8 +1,8 @@
 ---
-title: Uhuru Muigai Kenyatta - Uhuru Muigai Kenyatta - Case Terminated
+title: Uhuru Muigai Kenyatta - Uhuru Muigai Kenyatta - Termination of Proceedings
 published: true
 event_date: 2015-03-13T00:00:00.000Z
-action: Case Terminated
+action: Termination of Proceedings
 case: the-prosecutor-v-uhuru-muigai-kenyatta
 accused: uhuru-muigai-kenyatta
 youtube_id:
