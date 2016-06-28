@@ -5,7 +5,7 @@ event_date: 2012-01-23T00:00:00.000Z
 action: Confirmation of Charges
 case: the-prosecutor-v-ruto-and-sang
 accused: william-samoei-ruto
-youtube_id:
+youtube_id: _piZIq-mv7A
 slug: ruto-and-sang-events-william-samoei-ruto-confirmation-of-charges
 ---
 
