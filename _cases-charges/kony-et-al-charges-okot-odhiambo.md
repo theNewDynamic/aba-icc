@@ -17,7 +17,7 @@ The ICC Office of the Prosecutor further alleged that, under Kony’s orders, Ok
 
 In March 2015, the Government of Uganda exhumed a corpse which was identified through DNA testing as that of Okot Odhiambo and certified that Okot Odhiambo died on October 27, 2013.&nbsp; On September 7, 2015, the ICC Pre-Trial Chamber II terminated proceedings against Okot Odhiambo.
 
-Please visit the Court's website for more information on *[The Prosecutor v. Joseph Kony et al.](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200204/related%20cases/icc%200204%200105/Pages/uganda.aspx)*
+Please visit the Court's website for more information on *[The Prosecutor v. Joseph Kony et al.](https://www.icc-cpi.int/uganda/kony)*
 
 ### Charges
 
