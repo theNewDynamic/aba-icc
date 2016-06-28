@@ -10,4 +10,4 @@ slug: banda-events-saleh-mohammed-jerbo-jamus-summonses
 ---
 
 
-[Made public](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/05-03/09)
+[Public summons to appear](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/05-03/09)
