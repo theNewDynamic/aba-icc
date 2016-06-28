@@ -2,7 +2,7 @@
 title: Hussein - Abdel Raheem Muhammad Hussein - Arrest Warrant
 published: true
 event_date: 2012-03-01T00:00:00.000Z
-action: Arrest Warrant
+action: Arrest Warrant Issued
 case: the-prosecutor-v-hussein
 accused: abdel-raheem-muhammad-hussein
 youtube_id:
