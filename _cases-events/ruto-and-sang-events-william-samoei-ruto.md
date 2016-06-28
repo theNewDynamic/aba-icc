@@ -1,7 +1,6 @@
 ---
-title: "Ruto and Sang - William Samoei Ruto"
+title: Ruto and Sang - William Samoei Ruto
 published: true
-#event_date:
 action:
 case: the-prosecutor-v-ruto-and-sang
 accused: william-samoei-ruto
@@ -9,5 +8,5 @@ youtube_id:
 slug: ruto-and-sang-events-william-samoei-ruto
 ---
 
-Charges against Ruto were confirmed on January 23, 2012. The trial began on September 10, 2013.
 
+The Office of the Prosecutor issued and made public a summons to appear for Ruto on March 8, 2011. Charges against Ruto were confirmed on January 23, 2012. The trial began on September 10, 2013.
