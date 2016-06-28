@@ -9,4 +9,4 @@ slug: uhuru-muigai-kenyatta-events-francis-kirimi-muthaura
 ---
 
 
-The Office of the Prosecutor issued and made public a summons to appear for Muthaura on March 8, 2011. Charges were confirmed by Pre-Trial Chamber II on January 23, 2012. However, the Office of the Prosecutor [withdrew](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/OTP-statement-11-03-2013.aspx) charges against Muthaura on March 11, 2013.
+The Office of the Prosecutor issued a public summons for Muthaura on March 8, 2011. Charges were confirmed by Pre-Trial Chamber II on January 23, 2012. However, the Office of the Prosecutor [withdrew](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/OTP-statement-11-03-2013.aspx) charges against Muthaura on March 11, 2013.
