@@ -9,4 +9,4 @@ slug: mudacumura-events-sylvestre-mudacumura
 ---
 
 
-The Office of the Prosecutor issued and made public an arrest warrant for Mudacumura on July 13, 2012. Accused remains [at-large](http://allafrica.com/stories/201504151814.html).
+The Office of the Prosecutor issued a public arrest warrant for Mudacumura on July 13, 2012. The suspect remains [at-large](http://allafrica.com/stories/201504151814.html).
