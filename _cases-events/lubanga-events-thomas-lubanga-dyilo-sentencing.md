@@ -12,3 +12,4 @@ slug: lubanga-events-thomas-lubanga-dyilo-sentencing
 
 [Hearing](https://youtu.be/ZRtqgGzFfds)
 <br>[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-01/06-2901) of the sentence
+<br>[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=pr824)
