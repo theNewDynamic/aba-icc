@@ -1,7 +1,7 @@
 ---
 title: Ntaganda - Bosco Ntaganda - First Arrest Warrant
 published: true
-event_date: 2008-04-28T00:00:00.000Z
+event_date: 2006-08-22T00:00:00.000Z
 action: First Arrest Warrant
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda
