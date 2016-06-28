@@ -9,4 +9,4 @@ slug: al-bashir-events-omar-hassan-ahmad-al-bashir
 ---
 
 
-The Office of the Prosecutor issued and made public an arrest warrant for Al Bashir on March 4, 2009. The Office of the Prosecutor issued a second arrest warrant on July 12, 2010. The suspect remains [at-large](http://www.theguardian.com/world/2015/apr/27/sudan-bashir-elected-majority-vote).
+The Office of the Prosecutor issued a public arrest warrant for Al Bashir on March 4, 2009. The Office of the Prosecutor issued a second arrest warrant on July 12, 2010. The suspect remains [at-large](http://www.theguardian.com/world/2015/apr/27/sudan-bashir-elected-majority-vote).
