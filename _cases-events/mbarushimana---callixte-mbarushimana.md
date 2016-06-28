@@ -9,5 +9,5 @@ youtube_id: v7dHnvwaDjU
 ---
 
 
-[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-01/10-514) on appeal
+[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-01/10-514) upholding verdict
 <br>[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR798)
