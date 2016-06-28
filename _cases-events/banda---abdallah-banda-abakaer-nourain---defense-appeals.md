@@ -1,8 +1,8 @@
 ---
-title: Banda - Abdallah Banda Abakaer Nourain - Defense Appeals
-published: true
-event_date: 2014-09-18T00:00:00.000Z
-action: Defense Appeals
+title: Banda
+published: false
+event_date:
+action:
 case: the-prosecutor-v-banda
 accused: abdallah-banda-abakaer-nourain
 youtube_id:
