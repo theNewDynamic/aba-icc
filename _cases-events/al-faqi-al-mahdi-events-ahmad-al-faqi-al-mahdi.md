@@ -10,4 +10,4 @@ slug: al-faqi-al-mahdi-events-ahmad-al-faqi-al-mahdi
 ---
 
 
-The Office of the Prosecutor issued an arrest warrant for Al Faqi on September 18, 2009, which was made public on September 28, 2009. Al Faqi was surrendered to the ICC on September 26, 2015. Charges against him were confirmed on March 24, 2016.
+The Office of the Prosecutor issued a sealed arrest warrant for Al Faqi on September 18, 2009, which was unsealed on September 28, 2009. Al Faqi was surrendered to the ICC on September 26, 2015. Charges against him were confirmed on March 24, 2016.
