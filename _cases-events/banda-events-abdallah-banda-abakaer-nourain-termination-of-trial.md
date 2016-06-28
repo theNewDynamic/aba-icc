@@ -9,4 +9,4 @@ youtube_id:
 ---
 
 
-[Made public](https://www.icc-cpi.int/Pages/item.aspx?name=PR1039)
+[Public arrest warrant](https://www.icc-cpi.int/Pages/item.aspx?name=PR1039)
