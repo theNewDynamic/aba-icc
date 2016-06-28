@@ -1,8 +1,8 @@
 ---
-title: Abu Garda - Bahr Idriss Abu Garda - OTP Appeals
+title: Abu Garda
 published: false
-event_date: 2010-03-15T00:00:00.000Z
-action: OTP Appeals
+event_date:
+action:
 case: the-prosecutor-v-abu-garda
 accused: bahr-idriss-abu-garda
 youtube_id:
