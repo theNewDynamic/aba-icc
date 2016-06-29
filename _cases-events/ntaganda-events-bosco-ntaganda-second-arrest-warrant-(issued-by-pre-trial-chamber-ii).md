@@ -10,4 +10,4 @@ slug: ntaganda-events-bosco-ntaganda-second-arrest-warrant-(issued-by-pre-trial-
 ---
 
 
-[Public arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc1441449.pdf)
+[Arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc1441449.pdf)
