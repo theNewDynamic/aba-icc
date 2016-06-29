@@ -10,6 +10,5 @@ slug: lubanga-events-thomas-lubanga-dyilo-appeal-judgement-
 ---
 
 
-[Hearing](https://youtu.be/xNB2mV5k6OY)
-<br>[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-01/06-3121-Red) upholding verdict
+[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-01/06-3121-Red) upholding verdict
 <br>[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR1069)
