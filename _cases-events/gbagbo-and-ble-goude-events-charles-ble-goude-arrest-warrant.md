@@ -10,4 +10,4 @@ slug: gbagbo-and-ble-goude-events-charles-ble-goude-arrest-warrant
 ---
 
 
-[Public arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc1292069.pdf)
+[Arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc1292069.pdf)
