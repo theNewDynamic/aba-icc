@@ -10,4 +10,3 @@ slug: ruto-and-sang-events-william-samoei-ruto-initial-appearance
 ---
 
 
-[First appearance hearing](https://youtu.be/CQ09M8LeVJA)
