@@ -10,4 +10,4 @@ slug: mbarushimana-events-callixte-mbarushimana-arrest-warrant-
 ---
 
 
-[Public arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc954979.pdf)
+[Arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc954979.pdf)
