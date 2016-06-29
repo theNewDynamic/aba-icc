@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor vs. S. Gaddafi and Senussi - Muammar Mohammed Abu Minyar Gaddafi
+title: S. Gaddafi and Senussi - Muammar Mohammed Abu Minyar Gaddafi
 published: true
 action:
 case: the-prosecutor-vs-s-gadaffi-and-senussi
