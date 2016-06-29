@@ -10,5 +10,4 @@ slug: banda-events-saleh-mohammed-jerbo-jamus-confirmation-of-charges
 ---
 
 
-[Hearing](https://youtu.be/3AC9QWOtDfA)
-<br>[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/05-03/09-121-Corr-Red) on the confirmation of charges
+[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/05-03/09-121-Corr-Red) on the confirmation of charges
