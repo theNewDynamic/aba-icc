@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor vs. S. Gadaffi and Senussi - Saif Al-Islam Gaddafi
+title: The Prosecutor vs. S. Gaddafi and Senussi - Saif Al-Islam Gaddafi
 published: true
 action:
 case: the-prosecutor-vs-s-gadaffi-and-senussi
