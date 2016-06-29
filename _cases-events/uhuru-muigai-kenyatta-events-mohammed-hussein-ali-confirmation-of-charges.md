@@ -10,5 +10,4 @@ slug: uhuru-muigai-kenyatta-events-mohammed-hussein-ali-confirmation-of-charges
 ---
 
 
-[Hearing](https://youtu.be/Ov1dSyby-ps)
-<br>[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/09-02/11-382-Red) to decline the confirmation of charges
+[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/09-02/11-382-Red) to decline the confirmation of charges
