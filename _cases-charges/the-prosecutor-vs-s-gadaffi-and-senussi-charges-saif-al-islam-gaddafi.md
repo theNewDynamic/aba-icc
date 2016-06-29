@@ -1,12 +1,13 @@
 ---
-title: "The Prosecutor vs. S. Gadaffi and Senussi charges - Saif Al-Islam Gaddafi"
+title: The Prosecutor vs. S. Gaddafi and Senussi charges - Saif Al-Islam Gaddafi
 published: true
-charges_status: "Pretrial: Held Admissible (on appeal), suspect currently held in Libya"
+charges_status: 'Pretrial: Held Admissible (on appeal), suspect currently held in Libya'
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: saif-al-islam-gaddafi
 youtube_id:
 slug: the-prosecutor-vs-s-gadaffi-and-senussi-charges-saif-al-islam-gaddafi
 ---
+
 
 ### Factual Allegations
 
@@ -21,4 +22,3 @@ For more information on the Prosecutor v. Saif al-Islam Gaddafi please visit the
 **[Crimes against humanity](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1171) (two counts)**: murder ([Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286) of the Rome Statute) and persecution ([Article 7(1)(h)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2298) of the Rome Statute)
 
 The Accused is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
-
