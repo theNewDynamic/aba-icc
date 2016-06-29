@@ -10,5 +10,4 @@ slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta-confirmation-of-charges
 ---
 
 
-[Hearing](https://youtu.be/jnyc7x9a3jI)
-<br>[Decision](http://www.icc-cpi.int/iccdocs/doc/doc1314543.pdf) on the confirmation of charges
+[Decision](http://www.icc-cpi.int/iccdocs/doc/doc1314543.pdf) on the confirmation of charges
