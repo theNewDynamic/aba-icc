@@ -10,4 +10,4 @@ slug: hussein-events-abdel-raheem-muhammad-hussein-arrest-warrant
 ---
 
 
-[Public arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/05-01/12-2)
+[Arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/05-01/12-2)
