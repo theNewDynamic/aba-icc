@@ -9,7 +9,7 @@ slug: ongwen-events-dominic-ongwen
 ---
 
 
-The Pre-Trial Chamber II issued a sealed arrest warrant for Dominic Ongwen on July 8, 2005, which was unsealed on October 13, 2005. Ongwen surrendered in the Central African Republic on January 16, 2015 and was [transferred to ICC custody](https://www.icc-cpi.int/pages/item.aspx?name=pr1084)&nbsp;on January 17, 2015.&nbsp; Ongwen [made an initial appearance](https://www.icc-cpi.int/pages/item.aspx?name=PR1085) before the Pretrial Chamber II on January 26, 2015.
+The Pre-Trial Chamber II issued a sealed [arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/05-57) for Dominic Ongwen on July 8, 2005, which was unsealed on October 13, 2005. Ongwen surrendered in the Central African Republic on January 16, 2015 and was [transferred to ICC custody](https://www.icc-cpi.int/pages/item.aspx?name=pr1084)&nbsp;on January 17, 2015.&nbsp; Ongwen [made an initial appearance](https://www.icc-cpi.int/pages/item.aspx?name=PR1085) before the Pretrial Chamber II on January 26, 2015.
 
 The Pre-Trial Chamber II [severed the proceedings against Dominic Ongwen](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/05-424) from the case on February 6, 2015 due to the absence of other suspects ([Joseph Kony](https://www.aba-icc.org/accused/joseph-kony/), [Vincent Otti](https://www.aba-icc.org/accused/vincent-otti/), and [Okot Odhiambo](https://www.aba-icc.org/accused/okot-odhiambo/)) whose whereabouts were still unknown and to avoid any further delay in the proceedings that could result in serious prejudice to Ongwen's defence.&nbsp;
 
