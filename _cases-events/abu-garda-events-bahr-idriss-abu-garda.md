@@ -9,4 +9,4 @@ slug: abu-garda-events-bahr-idriss-abu-garda
 ---
 
 
-The Office of the Prosecutor issued a sealed summons for Abu Garda on May 7, 2009, which was unsealed on May 17, 2009. Charges against him were not confirmed on October 29, 2009.
+Pre-Trial Chamber I issued a sealed summons for Abu Garda on May 7, 2009, which was unsealed on May 17, 2009. Charges against him were not confirmed on October 29, 2009.
