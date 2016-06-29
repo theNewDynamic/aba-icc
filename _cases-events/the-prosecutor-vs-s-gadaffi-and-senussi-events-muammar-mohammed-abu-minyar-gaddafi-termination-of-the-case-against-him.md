@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor vs. S. Gaddafi and Senussi - Muammar Mohammed Abu Minyar Gaddafi - Termination of Proceedings
+title: S. Gaddafi and Senussi - Muammar Mohammed Abu Minyar Gaddafi - Termination of Proceedings
 published: true
 event_date: 2011-11-22T00:00:00.000Z
 action: Termination of Proceedings
