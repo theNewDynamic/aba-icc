@@ -1,5 +1,5 @@
 ---
-title: Bemba -
+title: To Delete
 published: false
 event_date:
 action:
