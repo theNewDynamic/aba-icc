@@ -10,5 +10,3 @@ slug: uhuru-muigai-kenyatta-events-mohammed-hussein-ali-initial-appearance
 ---
 
 
-[First appearance hearing](https://youtu.be/TDE1-knxPaI)
-{: .present-before-paste}
