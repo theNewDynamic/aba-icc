@@ -10,5 +10,4 @@ slug: ruto-and-sang-events-henry-kiprono-kosgey-confirmation-of-charges
 ---
 
 
-[Hearing](https://youtu.be/_piZIq-mv7A)
-<br>[Decision](https://www.icc-cpi.int/iccdocs/doc/doc1314535.pdf) not to confirm charges
+[Decision](https://www.icc-cpi.int/iccdocs/doc/doc1314535.pdf) not to confirm charges
