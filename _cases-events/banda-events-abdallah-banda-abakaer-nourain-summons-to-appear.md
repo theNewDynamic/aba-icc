@@ -10,4 +10,4 @@ slug: banda-events-abdallah-banda-abakaer-nourain-summons-to-appear
 ---
 
 
-[Public summons to appear](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/05-03/09)
+[Summons to appear](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/05-03/09)
