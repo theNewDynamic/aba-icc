@@ -9,4 +9,4 @@ slug: walter-osapiri-barasa-events-walter-osapiri-barasa
 ---
 
 
-The Office of the Prosecutor issued a sealed arrest warrant for Barasa on August 2, 2013, which was unsealed on October 2, 2013. The suspect remains [at-large](http://allafrica.com/stories/201501110255.html).
+Pre-Trial Chamber II issued a sealed arrest warrant for Barasa on August 2, 2013, which was unsealed on October 2, 2013. The suspect remains [at-large](http://allafrica.com/stories/201501110255.html).
