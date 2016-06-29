@@ -10,4 +10,4 @@ slug: al-bashir-events-omar-hassan-ahmad-al-bashir-first-arrest-warrant-
 ---
 
 
-[Public arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc639078.pdf)
+[Arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc639078.pdf)
