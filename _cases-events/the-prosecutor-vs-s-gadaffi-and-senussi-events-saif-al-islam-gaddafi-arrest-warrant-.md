@@ -10,4 +10,4 @@ slug: the-prosecutor-vs-s-gadaffi-and-senussi-events-saif-al-islam-gaddafi-arres
 ---
 
 
-[Public arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/11-13)
+[Arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/11-13)
