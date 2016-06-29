@@ -10,4 +10,4 @@ slug: uhuru-muigai-kenyatta-events-mohammed-hussein-ali-summons-to-appear
 ---
 
 
-[Public summons to appear](http://www.icc-cpi.int/iccdocs/doc/doc1037052.pdf)
+[Summons to appear](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/09-02/11-1)
