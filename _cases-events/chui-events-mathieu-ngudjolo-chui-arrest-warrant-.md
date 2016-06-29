@@ -9,4 +9,4 @@ youtube_id:
 ---
 
 
-[Public arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc453054.PDF)
+[Arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc453054.PDF)
