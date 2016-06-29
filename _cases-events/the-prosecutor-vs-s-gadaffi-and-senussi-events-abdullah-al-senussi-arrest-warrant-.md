@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor vs. S. Gadaffi and Senussi - Abdullah Al-Senussi - Arrest Warrant
+title: The Prosecutor vs. S. Gaddafi and Senussi - Abdullah Al-Senussi - Arrest Warrant
 published: true
 event_date: 2011-06-27T00:00:00.000Z
 action: Arrest Warrant Issued
