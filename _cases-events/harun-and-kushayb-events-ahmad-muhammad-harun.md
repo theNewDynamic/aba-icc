@@ -10,4 +10,4 @@ slug: harun-and-kushayb-events-ahmad-muhammad-harun
 ---
 
 
-The Office of the Prosecutor issued a public arrest warrant for Harun on April 27, 2007. The suspect remains [at-large](http://www.abc.net.au/news/2012-03-14/cases-before-the-icc/3888680).
+Pre-Trial Chamber I issued a public arrest warrant for Harun on April 27, 2007. The suspect remains [at-large](http://www.abc.net.au/news/2012-03-14/cases-before-the-icc/3888680).
