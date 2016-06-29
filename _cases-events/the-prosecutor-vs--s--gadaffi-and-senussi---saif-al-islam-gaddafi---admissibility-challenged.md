@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor vs. S. Gaddafi and Senussi - Saif Al-Islam Gaddafi - Admissibility Challenged
+title: S. Gaddafi and Senussi - Saif Al-Islam Gaddafi - Admissibility Challenged
 published: true
 event_date: 2012-05-01T00:00:00.000Z
 action: Admissibility Challenged
