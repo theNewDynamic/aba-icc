@@ -3,7 +3,7 @@ title: Simone Gbagbo - Simone Gbagbo - Decision on Admissiblity
 published: true
 event_date: 2014-12-11T00:00:00.000Z
 action: Decision on Admissiblity
-case: the-prosecutor-v--gbagbo
+case: the-prosecutor-v-simone-gbagbo
 accused: simone-gbagbo
 youtube_id:
 ---
