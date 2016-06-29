@@ -10,4 +10,4 @@ slug: lubanga-events-thomas-lubanga-dyilo-arrest-warrant-
 ---
 
 
-[Public arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc236258.pdf)
+[Arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc236258.pdf)
