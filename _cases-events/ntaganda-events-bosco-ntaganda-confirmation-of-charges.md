@@ -10,6 +10,5 @@ slug: ntaganda-events-bosco-ntaganda-confirmation-of-charges
 ---
 
 
-[Hearing](https://youtu.be/5DnP7Inkm8k)
-<br>[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-02/06-309) on the confirmation of charges
+[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-02/06-309) on the confirmation of charges
 <br>[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=pr1013)
