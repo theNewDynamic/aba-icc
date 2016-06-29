@@ -10,4 +10,3 @@ slug: bemba-et-al-events-jean-jacques-magenda-kabongo-initial-appearance
 ---
 
 
-[First appearance hearing](https://youtu.be/NoRvhnR6YFA)
