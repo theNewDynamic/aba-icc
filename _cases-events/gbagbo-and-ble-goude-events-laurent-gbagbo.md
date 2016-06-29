@@ -10,4 +10,4 @@ slug: gbagbo-and-ble-goude-events-laurent-gbagbo
 ---
 
 
-The Office of the Prosecutor issued a sealed arrest warrant for Gbagbo on November 23, 2011, which was unsealed on November 30, 2011. Charges were confirmed against him on June 12, 2014. His case was joined with Charles Bl&eacute; Goud&eacute; on March 11, 2015. The trial opened on January 28, 2016.
+Pre-Trial Chamber III issued a sealed arrest warrant for Gbagbo on November 23, 2011, which was unsealed on November 30, 2011. Charges were confirmed against him on June 12, 2014. His case was joined with Charles Bl&eacute; Goud&eacute; on March 11, 2015. The trial opened on January 28, 2016.
