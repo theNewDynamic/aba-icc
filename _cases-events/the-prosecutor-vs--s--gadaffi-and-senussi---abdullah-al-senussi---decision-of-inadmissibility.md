@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor vs. S. Gaddafi and Senussi - Abdullah Al-Senussi - Decision of Inadmissibility
+title: S. Gaddafi and Senussi - Abdullah Al-Senussi - Decision of Inadmissibility
 published: true
 event_date: 2013-10-11T00:00:00.000Z
 action: Decision of Inadmissibility
