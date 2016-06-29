@@ -10,4 +10,4 @@ slug: walter-osapiri-barasa-events-walter-osapiri-barasa-arrest-warrant-
 ---
 
 
-[Public arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc1650592.pdf)
+[Arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc1650592.pdf)
