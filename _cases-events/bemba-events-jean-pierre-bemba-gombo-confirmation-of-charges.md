@@ -5,7 +5,7 @@ event_date: 2009-06-15T00:00:00.000Z
 action: Confirmation of Charges
 case: the-prosecutor-v-bemba
 accused: jean-pierre-bemba-gombo
-youtube_id:
+youtube_id: ji4liOeUJKs
 slug: bemba-events-jean-pierre-bemba-gombo-confirmation-of-charges
 ---
 
