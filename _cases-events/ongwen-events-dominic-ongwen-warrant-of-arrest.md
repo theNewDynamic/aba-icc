@@ -10,4 +10,4 @@ slug: ongwen-events-dominic-ongwen-warrant-of-arrest
 ---
 
 
-[Arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc97201.pdf)
+[Arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/05-57)
