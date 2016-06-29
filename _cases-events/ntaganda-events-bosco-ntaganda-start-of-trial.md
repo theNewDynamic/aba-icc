@@ -10,5 +10,4 @@ slug: ntaganda-events-bosco-ntaganda-start-of-trial
 ---
 
 
-[Hearing](https://youtu.be/J2GfTILjZ5M)
-<br>[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=pr1143)
+[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=pr1143)
