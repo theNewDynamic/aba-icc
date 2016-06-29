@@ -10,4 +10,4 @@ slug: ruto-and-sang-events-joshua-arap-sang-summonses-to-appear
 ---
 
 
-[Public summons to appear](http://www.icc-cpi.int/iccdocs/doc/doc1037044.pdf)
+[Summons to appear](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/09-01/11-1)
