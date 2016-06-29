@@ -10,4 +10,3 @@ slug: mbarushimana-events-callixte-mbarushimana-initial-appearance
 ---
 
 
-[First appearance hearing](https://youtu.be/TTTVjIz83wo)
