@@ -10,5 +10,4 @@ slug: ruto-and-sang-events-joshua-arap-sang-start-of-trial
 ---
 
 
-[Hearing](https://youtu.be/GFuwzKbDiP8)
-<br>[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=PR939)
+[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=PR939)
