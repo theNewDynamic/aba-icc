@@ -10,6 +10,5 @@ slug: katanga-events-germain-katanga-sentencing-
 ---
 
 
-[Hearing](https://youtu.be/fDZZRx9ekKw)
-<br>[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-01/07-3484) on the sentence
+[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-01/07-3484) on the sentence
 <br>[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR1008)
