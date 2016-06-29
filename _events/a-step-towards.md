@@ -1,9 +1,9 @@
 ---
-title: 'A step towards Justice: Current Accountability Options for Crimes under International Law Committed in Syria'
+title: 'A Step towards Justice: Current Accountability Options for Crimes under International Law Committed in Syria'
 published: true
 date: 2015-05-12T12:00:00.000Z
 start_at: 2016-01-01T12:00:00.000Z
-featured_image_path:
+featured_image_path: /uploads/syria-nbc.jpg
 recap_link: 'http://www.international-criminal-justice-today.org/events/a-step-towards-justice-current-accountability-options-for-crimes-under-international-law-committed-in-syria/'
 ---
 
