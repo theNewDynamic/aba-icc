@@ -9,5 +9,5 @@ youtube_id: YvFXgt-gRE0
 ---
 
 
-[First appearance hearing](https://youtu.be/YvFXgt-gRE0)
+[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=pr549)
 {: .present-before-paste}
