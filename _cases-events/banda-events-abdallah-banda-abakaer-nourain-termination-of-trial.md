@@ -9,4 +9,4 @@ youtube_id:
 ---
 
 
-[Arrest warrant](https://www.icc-cpi.int/Pages/item.aspx?name=PR1039)
+[Arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/05-03/09-606&amp;ln=en)
