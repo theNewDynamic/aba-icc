@@ -10,5 +10,4 @@ slug: mbarushimana-events-callixte-mbarushimana-confirmation-of-charges-
 ---
 
 
-[Hearing](https://youtu.be/5XOx1ICyu20)
-<br>[Decision](http://www.icc-cpi.int/iccdocs/doc/doc1286409.pdf) on the confirmation of charges
+[Decision](http://www.icc-cpi.int/iccdocs/doc/doc1286409.pdf) on the confirmation of charges
