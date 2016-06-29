@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor vs. S. Gadaffi and Senussi - Abdullah Al-Senussi - Confirmation of Inadmissibility
+title: S. Gaddafi and Senussi - Abdullah Al-Senussi - Confirmation of Inadmissibility
 published: true
 event_date: 2014-07-24T00:00:00.000Z
 action: Confirmation of Inadmissibility
