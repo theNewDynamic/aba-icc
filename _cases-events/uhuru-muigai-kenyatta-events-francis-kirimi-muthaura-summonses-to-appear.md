@@ -10,4 +10,4 @@ slug: uhuru-muigai-kenyatta-events-francis-kirimi-muthaura-summonses-to-appear
 ---
 
 
-[Public summons to appear](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/09-02/11-01)
+[Summons to appear](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/09-02/11-1)
