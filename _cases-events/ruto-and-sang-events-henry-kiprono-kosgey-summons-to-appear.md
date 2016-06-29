@@ -10,4 +10,4 @@ slug: ruto-and-sang-events-henry-kiprono-kosgey-summons-to-appear
 ---
 
 
-[Public summons to appear](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/09-02/11-01)
+[Summons to appear](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/09-01/11-1)
