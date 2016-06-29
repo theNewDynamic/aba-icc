@@ -9,4 +9,4 @@ slug: bemba-et-al-events-aime-kilolo-musamba
 ---
 
 
-Pre-Trial Chamber I issued a sealed arrest warrant for Kilolo on November 20, 2013, which was unsealed on November 28, 2013. He entered ICC custody on November 25, 2013. Charges were confirmed against him on November 11, 2014. His trial [opened](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1155.aspx) on September 29, 2015.
+Pre-Trial Chamber II issued a sealed arrest warrant for Kilolo on November 20, 2013, which was unsealed on November 28, 2013. He entered ICC custody on November 25, 2013. Charges were confirmed against him on November 11, 2014. His trial [opened](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1155.aspx) on September 29, 2015.
