@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor v. Blé Goudé
+title: To Delete
 published: false
 country: cote-divoire
 trial_opening_date:
