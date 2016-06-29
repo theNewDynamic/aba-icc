@@ -10,5 +10,8 @@ youtube_id:
 
 
 [Statement](https://youtu.be/1KKjzj_Q2w0) of ICC Spokesperson
-<br>[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/15-422-red) on the confirmation of charges
+
+&nbsp;
+
+[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/15-422-red) on the confirmation of charges
 <br>[Press release](https://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr1204.aspx)
