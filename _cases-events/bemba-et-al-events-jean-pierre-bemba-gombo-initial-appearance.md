@@ -10,4 +10,3 @@ slug: bemba-et-al-events-jean-pierre-bemba-gombo-initial-appearance
 ---
 
 
-[First appearance hearing](https://youtu.be/xfP_il3Q77A)
