@@ -8,4 +8,5 @@ youtube_id:
 ---
 
 
-The Office of the Prosecutor issued a public arrest warrant for Gaddafi on June 27, 2011. The case against him was terminated on November 22, 2011 following his death.
+Pre-Trial Chamber I issued a public arrest warrant for Gaddafi on June 27, 2011. The case against him was terminated on November 22, 2011 following his death.
+{: .present-before-paste}
