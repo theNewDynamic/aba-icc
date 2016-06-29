@@ -10,6 +10,5 @@ slug: ongwen-events-dominic-ongwen-decision-of-seperation
 ---
 
 
-[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR1088)
-
 [Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/05-424)&nbsp;severing the case against Dominic Ongwen
+<br>[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR1088)
