@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor vs. S. Gaddafi and Senussi - Muammar Mohammed Abu Minyar Gaddafi - Arrest Warrant
+title: S. Gaddafi and Senussi - Muammar Mohammed Abu Minyar Gaddafi - Arrest Warrant
 published: true
 event_date: 2011-06-27T00:00:00.000Z
 action: Arrest Warrant Issued
