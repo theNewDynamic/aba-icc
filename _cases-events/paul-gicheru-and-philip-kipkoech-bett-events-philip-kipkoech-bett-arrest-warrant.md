@@ -10,4 +10,4 @@ slug: paul-gicheru-and-philip-kipkoech-bett-events-philip-kipkoech-bett-arrest-w
 ---
 
 
-[Public arrest warrant](https://www.icc-cpi.int/iccdocs/doc/doc2056890.pdf)
+[Arrest warrant](https://www.icc-cpi.int/iccdocs/doc/doc2056890.pdf)
