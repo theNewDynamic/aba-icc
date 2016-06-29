@@ -10,4 +10,3 @@ slug: abu-garda-events-bahr-idriss-abu-garda-initial-appearance-
 ---
 
 
-[First appearance hearing](https://youtu.be/4aqWt5VuzRc)
