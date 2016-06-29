@@ -10,4 +10,4 @@ slug: kony-et-al-events-okot-odhiambo-warrant-of-arrest
 ---
 
 
-[Public arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/05-56)
+[Arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/05-56)&nbsp;(issued under seal on July 8, 2005; unsealed on October 13, 2005)
