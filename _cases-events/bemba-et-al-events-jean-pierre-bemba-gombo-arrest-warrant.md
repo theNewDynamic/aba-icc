@@ -10,4 +10,4 @@ slug: bemba-et-al-events-jean-pierre-bemba-gombo-arrest-warrant
 ---
 
 
-[Public arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc504390.PDF)
+[Arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc504390.PDF)
