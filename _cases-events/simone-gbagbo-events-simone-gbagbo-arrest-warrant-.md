@@ -10,4 +10,4 @@ slug: simone-gbagbo-events-simone-gbagbo-arrest-warrant-
 ---
 
 
-[Public arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc1344439.pdf)
+[Arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc1344439.pdf)
