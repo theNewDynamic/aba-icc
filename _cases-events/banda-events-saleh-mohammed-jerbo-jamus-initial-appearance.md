@@ -10,4 +10,3 @@ slug: banda-events-saleh-mohammed-jerbo-jamus-initial-appearance
 ---
 
 
-[First appearance hearing](https://youtu.be/YvFXgt-gRE0)
