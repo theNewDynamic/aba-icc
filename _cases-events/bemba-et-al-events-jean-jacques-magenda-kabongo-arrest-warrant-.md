@@ -10,4 +10,4 @@ slug: bemba-et-al-events-jean-jacques-magenda-kabongo-arrest-warrant-
 ---
 
 
-[Public arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc1694691.pdf)
+[Arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc1694691.pdf)
