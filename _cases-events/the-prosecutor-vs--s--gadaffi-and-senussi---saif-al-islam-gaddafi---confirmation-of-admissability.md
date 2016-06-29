@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor vs. S. Gadaffi and Senussi - Saif Al-Islam Gaddafi - Confirmation of Admissibility
+title: The Prosecutor vs. S. Gaddafi and Senussi - Saif Al-Islam Gaddafi - Confirmation of Admissibility
 published: true
 event_date: 2014-05-21T00:00:00.000Z
 action: Confirmation of Admissibility
