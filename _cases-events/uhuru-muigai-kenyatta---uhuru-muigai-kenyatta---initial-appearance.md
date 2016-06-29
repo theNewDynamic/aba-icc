@@ -9,4 +9,3 @@ youtube_id: TDE1-knxPaI
 ---
 
 
-[First appearance hearing](https://youtu.be/TDE1-knxPaI)
