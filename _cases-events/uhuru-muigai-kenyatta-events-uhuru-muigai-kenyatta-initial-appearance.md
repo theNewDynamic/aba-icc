@@ -10,4 +10,3 @@ slug: uhuru-muigai-kenyatta-events-uhuru-muigai-kenyatta-initial-appearance
 ---
 
 
-[First appearance hearing](https://youtu.be/TDE1-knxPaI)
