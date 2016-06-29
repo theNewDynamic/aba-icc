@@ -11,3 +11,4 @@ slug: bemba-events-jean-pierre-bemba-gombo-confirmation-of-charges
 
 
 [Decision](http://www.icc-cpi.int/iccdocs/doc/doc699541.pdf) on the confirmation of charges
+<br>[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=20090615pr421)
