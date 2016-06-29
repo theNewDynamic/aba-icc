@@ -10,3 +10,4 @@ slug: banda-events-saleh-mohammed-jerbo-jamus-initial-appearance
 ---
 
 
+[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=pr549)
