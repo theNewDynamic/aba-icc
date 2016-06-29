@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor vs. S. Gaddafi and Senussi - Abdullah Al-Senussi
+title: S. Gaddafi and Senussi - Abdullah Al-Senussi
 published: true
 action:
 case: the-prosecutor-vs-s-gadaffi-and-senussi
