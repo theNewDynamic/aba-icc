@@ -1,5 +1,5 @@
 ---
-title: Ongwen - Dominic Ongwen -
+title: To Delete
 published: true
 event_date:
 action:
