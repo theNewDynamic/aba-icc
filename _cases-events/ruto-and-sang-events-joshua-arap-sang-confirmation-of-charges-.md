@@ -10,5 +10,4 @@ slug: ruto-and-sang-events-joshua-arap-sang-confirmation-of-charges-
 ---
 
 
-[Hearing](https://youtu.be/_piZIq-mv7A)
-<br>[Decision](http://www.icc-cpi.int/iccdocs/doc/doc1314535.pdf) on the confirmation of charges
+[Decision](http://www.icc-cpi.int/iccdocs/doc/doc1314535.pdf) on the confirmation of charges
