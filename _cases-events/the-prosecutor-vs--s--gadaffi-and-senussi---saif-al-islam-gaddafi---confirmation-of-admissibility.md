@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor vs. S. Gaddafi and Senussi - Saif Al-Islam Gaddafi - Decision of Admissibility
+title: S. Gaddafi and Senussi - Saif Al-Islam Gaddafi - Decision of Admissibility
 published: true
 event_date: 2013-05-31T00:00:00.000Z
 action: Decision of Admissibility
