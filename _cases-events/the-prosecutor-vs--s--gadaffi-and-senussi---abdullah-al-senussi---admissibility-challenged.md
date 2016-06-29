@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor vs. S. Gadaffi and Senussi - Abdullah Al-Senussi - Admissibility Challenged
+title: The Prosecutor vs. S. Gaddafi and Senussi - Abdullah Al-Senussi - Admissibility Challenged
 published: true
 event_date: 2013-04-02T00:00:00.000Z
 action: Admissibility Challenged
