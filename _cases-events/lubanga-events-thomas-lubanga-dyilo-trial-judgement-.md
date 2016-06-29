@@ -10,6 +10,5 @@ slug: lubanga-events-thomas-lubanga-dyilo-trial-judgement-
 ---
 
 
-[Hearing](https://youtu.be/O_m3KdZs02U)
-<br>[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-01/06-2842) on the sentence
+[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-01/06-2842) on the sentence
 <br>[Press release](https://www.icc-cpi.int/pages/item.aspx?name=PR776)
