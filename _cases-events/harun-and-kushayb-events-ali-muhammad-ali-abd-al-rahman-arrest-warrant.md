@@ -10,4 +10,4 @@ slug: harun-and-kushayb-events-ali-muhammad-ali-abd-al-rahman-arrest-warrant
 ---
 
 
-[Public arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc279813.pdf)
+[Arrest warrant](http://www.icc-cpi.int/iccdocs/doc/doc279813.pdf)
