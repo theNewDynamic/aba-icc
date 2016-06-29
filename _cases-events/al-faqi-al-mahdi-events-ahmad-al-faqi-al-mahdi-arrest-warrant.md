@@ -10,4 +10,4 @@ slug: al-faqi-al-mahdi-events-ahmad-al-faqi-al-mahdi-arrest-warrant
 ---
 
 
-[Arrest warrant](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/icc0112/related-cases/ICC-01_12-01_15/court-records/chambers/ptcI/Pages/1.aspx)
+[Arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/12-01/15-1-Red)
