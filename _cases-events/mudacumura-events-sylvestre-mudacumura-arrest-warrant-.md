@@ -10,4 +10,4 @@ slug: mudacumura-events-sylvestre-mudacumura-arrest-warrant-
 ---
 
 
-[Public arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-01/12-1-Red)
+[Arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/04-01/12-1-Red)
