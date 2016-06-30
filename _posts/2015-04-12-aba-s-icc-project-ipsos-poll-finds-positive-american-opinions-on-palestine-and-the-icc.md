@@ -6,4 +6,4 @@ featured_image_path: /uploads/1436320456524_palestine.jpg
 ---
 
 
-![](/uploads/1430405948577_logo-hdr-ipsos.gif)New findings highlight the importance of international organizations that support human rights. Please find [here](https://www.international-criminal-justice-today.org/news/ipsos-poll-finds-positive-american-opinions-on-palestine-and-the-icc/) the full article.
+![](/uploads/1430405948577_logo-hdr-ipsos.gif)New findings highlight the importance of international organizations that support human rights. Please find [here](https://www.international-criminal-justice-today.org/news/ipsos-poll-finds-positive-american-opinions-on-palestine-and-the-icc/) more information.
