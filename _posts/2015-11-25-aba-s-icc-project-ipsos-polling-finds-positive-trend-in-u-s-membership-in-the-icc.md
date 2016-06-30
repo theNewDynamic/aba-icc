@@ -2,7 +2,7 @@
 title: "ABA's ICC Project/Ipsos Polling Finds Positive Trend in U.S. Membership in the ICC"
 published: true
 date: 2015-11-26T03:38:00.000Z
-featured_image_path: /uploads/icc_member_states_world_map.png
+featured_image_path: /uploads/bashir.jpg
 ---
 
 
