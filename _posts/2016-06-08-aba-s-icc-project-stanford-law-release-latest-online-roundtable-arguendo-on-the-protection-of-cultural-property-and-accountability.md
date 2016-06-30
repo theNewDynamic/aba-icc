@@ -2,7 +2,7 @@
 title: "ABA's ICC Project & Stanford Law release latest online roundtable, Arguendo, on the protection of cultural property and accountability"
 published: true
 date: 2016-06-08T12:00:00.000Z
-featured_image_path: /uploads/screen-shot-2016-06-22-at-10-04-41-am---x----1242-710x---.png
+featured_image_path: /uploads/tombocutou.jpg
 ---
 
 
