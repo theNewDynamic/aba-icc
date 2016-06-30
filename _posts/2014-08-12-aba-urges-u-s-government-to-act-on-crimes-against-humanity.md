@@ -6,4 +6,4 @@ slug: 2014-08-12-american-bar-association-urges-us-government-to-act-on-crimes-a
 ---
 
 
-On August 12th, at the 2014 American Bar Association's (ABA) Annual Meeting, the ABA House of Delegates unanimously passed a policy resolution urging the U.S. Congress to pass comprehensive domestic legislation prohibiting Crimes Against Humanity (CAH)
+On August 12th, at the 2014 American Bar Association's (ABA) Annual Meeting, the ABA House of Delegates unanimously passed a policy resolution urging the U.S. Congress to pass comprehensive domestic legislation prohibiting Crimes Against Humanity (CAH). Please find [here](https://www.international-criminal-justice-today.org/news/aba-urges-us-government-to-act-on-crimes-against-humanity/) more information.
