@@ -1,6 +1,6 @@
 ---
 title: U.S. Senate Briefing on The International Criminal Court
-published: false
+published: true
 date: 2014-10-27T12:00:00.000Z
 featured_image_path: /uploads/1434905169778_2014-10-27-capitol-hill-briefing-icc.jpg
 ---
