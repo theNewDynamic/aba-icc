@@ -1,6 +1,6 @@
 ---
 title: "Harvard Law Professor and Former ICC Prosecutions Coordinator, Alex Whiting, Joins the ABA's ICC Project Board of Advisors"
-published: false
+published: true
 date: 2016-02-25T12:00:00.000Z
 featured_image_path: /uploads/1456415687776_1d2b9579.jpg
 ---
