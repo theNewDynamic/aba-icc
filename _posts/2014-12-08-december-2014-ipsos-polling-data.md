@@ -6,4 +6,4 @@ featured_image_path: /uploads/01isishatra.jpg
 ---
 
 
-![](/uploads/1430405948577_logo-hdr-ipsos.gif) Americans Continue to Support Involvement with the International Criminal Court (ICC). Despite this Support, Some Oppose the US Becoming a Full Member of the Court
+![](/uploads/1430405948577_logo-hdr-ipsos.gif) Americans continue to support involvement with the International Criminal Court (ICC), with some opposition to the U.S. becoming a full member of the Court. Please find [here](https://www.international-criminal-justice-today.org/polling-data/2014/12/08/december-2014-ipsos-polling-data/) more information.
