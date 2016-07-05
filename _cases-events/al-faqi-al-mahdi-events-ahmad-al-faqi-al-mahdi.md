@@ -10,4 +10,4 @@ slug: al-faqi-al-mahdi-events-ahmad-al-faqi-al-mahdi
 ---
 
 
-Pre-Trial Chamber I issued a sealed arrest warrant for Al Faqi on September 18, 2009, which was unsealed on September 28, 2009. Al Faqi was surrendered to the ICC on September 26, 2015. Charges against him were confirmed on March 24, 2016.
+Pre-Trial Chamber I issued a sealed arrest warrant for Al Mahdi on September 18, 2009, which was unsealed on September 28, 2009. Al Mahdi was surrendered to the ICC by Niger authorities on September 26, 2015. Charges against him were confirmed on March 24, 2016.
