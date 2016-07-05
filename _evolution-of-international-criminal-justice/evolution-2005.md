@@ -7,7 +7,7 @@ date: 2015-02-04T14:24:00.000Z
 
 ##### January 7, 2005
 
-The [situation in the Central African Republic is referred to the ICC](http://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/2005/Pages/otp%20prosecutor%20receives%20referral%20concerning%20central%20african%20republic.aspx). After conducting a preliminary investigation, the Office of the Prosecutor [opened a formal investigation](http://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/2007/Pages/prosecutor%20opens%20investigation%20in%20the%20central%20african%20republic.aspx) on May 22, 2007.<sup id="fnref:source2005jan"><a class="footnote" href="#fn:source2005jan">1</a></sup>
+The [situation in the Central African Republic is referred to the ICC](https://www.legal-tools.org/uploads/tx_ltpdb/ICCProsecutor_receives_Referral_Concerning_CAR_01.pdf). After conducting a preliminary investigation, the Office of the Prosecutor opened a formal investigation on May 22, 2007.<sup id="fnref:source2005jan"><a class="footnote" href="#fn:source2005jan">1</a></sup>
 
 ##### March 31, 2005
 
