@@ -15,4 +15,6 @@ The [trial against Gbagbo and Goud&eacute;](https://www.icc-cpi.int/cdi/gbagbo-g
 
 April 6, 2016
 
+Trial Chamber V vacated the charges against William Samoei Ruto and Joshua Arap Sang. The decision was made without prejudice to the possibility of their prosecution in the future.
+
 <div class="footnotes"><ol><li id="fn:source2015mar"><p>ICC Press Release ICC-CPI-20150311-PR1096 <a class="reversefootnote" href="#fnref:source2015mar">↩</a></p></li></ol></div>
