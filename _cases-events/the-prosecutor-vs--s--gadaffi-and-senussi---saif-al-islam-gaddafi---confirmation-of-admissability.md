@@ -5,7 +5,7 @@ event_date: 2014-05-21T00:00:00.000Z
 action: Confirmation of Admissibility
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: saif-al-islam-gaddafi
-youtube_id: '<iframe width="402" height="226" src="https://www.youtube.com/embed/X378P0xyoTE" frameborder="0" allowfullscreen></iframe>'
+youtube_id: 'X378P0xyoTE'
 ---
 
 

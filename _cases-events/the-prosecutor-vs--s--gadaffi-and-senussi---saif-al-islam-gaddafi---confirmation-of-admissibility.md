@@ -5,7 +5,7 @@ event_date: 2013-05-31T00:00:00.000Z
 action: Decision of Admissibility
 case: the-prosecutor-vs-s-gadaffi-and-senussi
 accused: saif-al-islam-gaddafi
-youtube_id: '<iframe width="560" height="315" src="https://www.youtube.com/embed/r8YA_8C3OyA" frameborder="0" allowfullscreen></iframe>'
+youtube_id: 'r8YA_8C3OyA'
 ---
 
 
