@@ -10,3 +10,4 @@ slug: al-faqi-al-mahdi-events-ahmad-al-faqi-al-mahdi-first-appearance
 ---
 
 
+[Press release](https://www.icc-cpi.int/Pages/item.aspx?name=pr1157)
