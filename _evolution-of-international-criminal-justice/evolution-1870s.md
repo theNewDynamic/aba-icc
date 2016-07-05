@@ -1,12 +1,12 @@
 ---
-title: "1870s"
+title: 1870s
 published: true
 date: 2015-02-04T13:53:00.000Z
-# slug: 1870s
 ---
 
-Gustav Moynier, one of the founders of the International Committee of the Red Cross, proposed a permanent international court in response to the devastation of the Franco-Prussian War.[^source1]
 
-[Link](http://www.icrc.org/eng/resources/documents/misc/57jp4m.htm)
+Gustav Moynier, one of the founders of the International Committee of the Red Cross, proposed a permanent international court in response to the devastation of the Franco-Prussian War.<sup id="fnref:source1"><a class="footnote" href="#fn:source1">1</a></sup>
 
-[^source1]: Christopher Keith Hall, The first proposal for an international criminal court, Int'l Rev. of the Red Cross No. 332 (March 31, 1998)
+[Link](https://www.icrc.org/eng/resources/documents/article/other/57jp4m.htm)
+
+<div class="footnotes"><ol><li id="fn:source1"><p>Christopher Keith Hall, The first proposal for an international criminal court, Int'l Rev. of the Red Cross No. 332 (March 31, 1998) <a class="reversefootnote" href="#fnref:source1">↩</a></p></li></ol></div>
