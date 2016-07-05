@@ -23,10 +23,10 @@ The ICC Office of the Prosecutor alleges that Dominic Ongwen ordered four separa
 The ICC Office of the Prosecutor alleges that, under Joseph Kony’s orders, Dominic Ongwen and other Sinia Brigade leadership implemented “a common plan to abduct girls and women to serve as domestic servants, forced exclusive conjugal partners (forced wives) and sex slaves in the Sinia Brigade” and “a common plan to abduct children in the territory of northern Uganda and conscript them into the Sinia Brigade in order to ensure a constant supply of fighters.”
 {: .present-before-paste}
 
-On March 23, 2016, the ICC Pre-Trial Chamber II [confirmed the charges against Dominic Ongwen](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/15-422-Red).
+On March 23, 2016, Pre-Trial Chamber II [confirmed the charges against Dominic Ongwen](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/15-422-Red).
 {: .present-before-paste}
 
-On May 30, 2016, the ICC Pre-Trial Chamber II [decided the trial of Dominic Ongwen shall commence on December 6, 2016](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/15-449).
+On May 30, 2016, Trial Chamber IX [decided the trial of Dominic Ongwen shall commence on December 6, 2016](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/04-01/15-449).
 {: .present-before-paste}
 
 Please visit the Court's website for more information on [*The Prosecutor v. Dominic Ongwen*](https://www.icc-cpi.int/uganda/ongwen).
