@@ -7,7 +7,7 @@ date: 2015-06-10T15:21:00.000Z
 
 ##### January 20, 2015
 
-[Dominic Ongwen](https://www.icc-cpi.int/uganda/ongwen#11), Brigade Commander of the Sinia Brigade of the Lord’s Resistance Army (LRA), is transferred to ICC custody in The Hague.1
+[Dominic Ongwen](https://www.icc-cpi.int/uganda/ongwen#11), Brigade Commander of the Sinia Brigade of the Lord’s Resistance Army (LRA), is transferred to ICC custody in The Hague.
 
 ##### March 11, 2015
 
