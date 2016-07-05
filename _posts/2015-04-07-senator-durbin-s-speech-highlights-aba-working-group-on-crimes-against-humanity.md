@@ -1,7 +1,7 @@
 ---
 title: "Senator Durbin's Speech Highlights ABA Working Group on Crimes Against Humanity"
 published: true
-date: 2015-04-08T00:00:00.000Z
+date: 2015-04-08T02:00:00.000Z
 featured_image_path: /uploads/dickdurbin.jpg
 ---
 
