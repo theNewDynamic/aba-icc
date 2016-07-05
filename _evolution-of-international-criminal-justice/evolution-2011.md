@@ -21,6 +21,10 @@ William Samoei Ruto, the Deputy President of the Republic of Kenya, and Joshua A
 
 [Uhuru Muigai Kenyatta](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200109/Pages/situation%20index.aspx), the President of the Republic of Kenya, voluntarily appears before the Court in response to a summons to appear issued by the Court.<sup id="fnref:source2011apr8"><a class="footnote" href="#fn:source2011apr8">4</a></sup>
 
+June 23, 2011
+
+The Office of the Prosecutor[sought authorization](https://www.icc-cpi.int/CourtRecords/CR2011_07959.PDF) to open an investigation of alleged crimes against humanity committed in the context of post-election violence in C&ocirc;te d'Ivoire in 2010/2011, but potentially also since 19 September 2002 to the present. The Office of the Prosecutor initiated the investigation proprio motu, which allows the Prosecutor to initiate cases within States Parties without a referral. After the Prosecutor applied for approval, Pre-Trial Chamber III issued a [decision formally authorizing](http://www.icc-cpi.int/iccdocs/doc/doc1240553.pdf) an investigation into the situation in C&ocirc;te d'Ivoire on October 3, 2011.
+
 ##### November 30, 2011
 
 [Laurent Gbagbo](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/icc0211/Pages/situation%20index.aspx), former President of C&ocirc;te d’Ivoire, is transferred to ICC custody in The Hague.<sup id="fnref:source2011nov30"><a class="footnote" href="#fn:source2011nov30">5</a></sup>
