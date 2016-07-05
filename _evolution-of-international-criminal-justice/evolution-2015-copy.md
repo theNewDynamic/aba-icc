@@ -13,7 +13,7 @@ The [trial against Gbagbo and Goud&eacute;](https://www.icc-cpi.int/cdi/gbagbo-g
 
 [Jean-Pierre Bemba Gombo is found guilty](https://www.icc-cpi.int/Pages/item.aspx?name=pr1200) of crimes against humanity (murder and rape) and war crimes (murder, rape, and pillaging) committed in Central African Republic. [Trial Chamber III sentenced](https://www.icc-cpi.int/Pages/item.aspx?name=PR1223) Jean-Pierre Bemba Gombo to 18 years of imprisonment on June 21, 2016.
 
-April 6, 2016
+##### April 6, 2016
 
 Trial Chamber V vacated the charges against William Samoei Ruto and Joshua Arap Sang. The decision was made without prejudice to the possibility of their prosecution in the future.
 
