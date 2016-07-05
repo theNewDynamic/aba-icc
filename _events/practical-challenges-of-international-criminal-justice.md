@@ -7,4 +7,3 @@ recap_link: 'http://www.international-criminal-justice-today.org/event/2014/06/0
 ---
 
 
-On June 2, 2014, the American Bar Association (ABA) Center for Human Rights and its International Criminal Court Project hosted the Registrar of the International Criminal Court (ICC), Mr. Herman von Hebel, for a discussion on practical challenges facing.
