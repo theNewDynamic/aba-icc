@@ -64,8 +64,8 @@
                       {% endif %}
                       {% if event.event_date %}: {{ event.event_date |date: '%B %e, %Y' }}{% endif %}
                     </strong>
-                    {% if event.youtube %}
-                      {% include components/embed-youtube.html embed_code=event.youtube %}
+                    {% if event.youtube_id %}
+                      {% include components/embed-youtube.html embed_code=event.youtube_id %}
                     {% endif %}
                   </li>
               {% endfor %}
