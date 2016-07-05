@@ -2,7 +2,7 @@
 title: Judge Hans-Peter Kaul
 published: true
 date: 2014-07-24T15:08:00.000Z
-featured_image_path: /uploads/judge-hans-peter-kaul.jpg
+featured_image_path: /uploads/judge-kaul.jpg
 slug: 2014-07-24-judge-hans-peter-kaul
 ---
 
