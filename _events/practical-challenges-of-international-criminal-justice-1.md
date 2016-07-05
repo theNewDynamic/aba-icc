@@ -1,5 +1,5 @@
 ---
-title: Practical Challenges of International Criminal Justice 1
+title: Practical Challenges of International Criminal Justice
 published: true
 date: 2014-06-07T12:00:00.000Z
 start_at: 2016-01-01T12:00:00.000Z
