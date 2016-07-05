@@ -17,11 +17,11 @@ The judges of the International Criminal Court (ICC) [elect](http://icc-cpi.int/
 
 The [trial against Ntaganda](https://www.icc-cpi.int/drc/ntaganda), former Deputy Chief of Staff for Military Operations and Commander of Operations of the Forces Patriotiques pour la Lib&eacute;ration du Congo (Patriotic Forces for the Liberation of Congo, FPLC), commenced. Ntaganda is accused of committing war crimes and crimes against humanity in the Democratic Republic of the Congo.
 
-##### 26 September 2015
+##### September 26, 2015
 
 [Ahmad Al Faqi Al Mahdi](https://www.icc-cpi.int/mali/al-mahdi), leading member of the extreme Islamic group Ansar Eddine, is transferred to ICC custody in The Hague.
 
-##### 29 September 2015
+##### September 29, 2015
 
 The [trial against Bemba et al.](https://www.icc-cpi.int/car/bemba?ln=en) commenced. Jean-Pierre Bemba Gombo, Aim&eacute; Kilolo Musamba, Jean-Jacques Mangenda Kabongo, Fid&egrave;le Babala Wandu and Narcisse Arido are accused of offences against the administration of justice in connection with witnesses' testimonies in the case of [*The Prosecutor v. Jean-Pierre Bemba Gombo*](https://www.icc-cpi.int/car/bemba).
 
