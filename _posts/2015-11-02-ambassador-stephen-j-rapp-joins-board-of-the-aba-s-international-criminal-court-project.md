@@ -7,4 +7,4 @@ slug: 2015-11-02-ambassador-stephen-j-rapp-joins-board-of-the-abas-international
 ---
 
 
-The American Bar Association (ABA) Center for Human Rights is pleased to announce that Ambassador Stephen J. Rapp, former U.S. Ambassador at-large for War Crimes Issues in the State Department’s Office of Global Criminal Justice, has joined the [Board of Advisors](http://www.aba-icc.org/the-aba-icc-project/board-of-advisors/) of ABA’s International Criminal Court Project. Please find [here](http://www.international-criminal-justice-today.org/news/ambassador-stephen-j-rapp-joins-board-of-the-abas-international-criminal-court-project/) the full article.
+The ABA’s ICC Project welcomes the Honorable Stephen J. Rapp, Ambassador at-large for the U.S. State Department’s Office of Global Criminal Justice and former Chief of Prosecutions at the International Criminal Tribunal of Rwanda, to its [Board of Advisors](http://www.aba-icc.org/the-aba-icc-project/board-of-advisors/). Please find [here](http://www.international-criminal-justice-today.org/news/ambassador-stephen-j-rapp-joins-board-of-the-abas-international-criminal-court-project/) the full article.
