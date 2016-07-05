@@ -2,7 +2,7 @@
 title: Practical Challenges of International Criminal Justice
 published: true
 date: 2014-06-07T12:00:00.000Z
-start_at: 2016-01-01T12:00:00.000Z
+start_at: 2014-06-07T12:00:00.000Z
 featured_image_path: /uploads/iccprovisional.jpg
 recap_link: 'http://www.international-criminal-justice-today.org/event/2014/06/02/practical-challenges-icc/'
 ---
