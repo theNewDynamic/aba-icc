@@ -25,4 +25,8 @@ The [trial against Ntaganda](https://www.icc-cpi.int/drc/ntaganda), former Deput
 
 The [trial against Bemba et al.](https://www.icc-cpi.int/car/bemba?ln=en) commenced. Jean-Pierre Bemba Gombo, Aim&eacute; Kilolo Musamba, Jean-Jacques Mangenda Kabongo, Fid&egrave;le Babala Wandu and Narcisse Arido are accused of offences against the administration of justice in connection with witnesses' testimonies in the case of [*The Prosecutor v. Jean-Pierre Bemba Gombo*](https://www.icc-cpi.int/car/bemba).
 
+##### October 13, 2015
+
+The Office of the Prosecutor [sought authorization](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/15-4) to open an investigation of alleged crimes against humanity and war crimes committed in the Georgia in the context of an international armed conflict between 1 July and 10 October 2008 . The Office of the Prosecutor initiated the investigation proprio motu, which allows the Prosecutor to initiate cases within States Parties without a referral. After the Prosecutor applied for approval, Pre-Trial Chamber I issued a [decision formally authorizing](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/15-12) an investigation into the situation in Georgia on January 27, 2016.
+
 <div class="footnotes"><ol><li id="fn:source2015mar"><p>ICC Press Release ICC-CPI-20150311-PR1096 <a class="reversefootnote" href="#fnref:source2015mar">↩</a></p></li></ol></div>
