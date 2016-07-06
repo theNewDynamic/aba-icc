@@ -13,6 +13,10 @@ Pre-Trial Chamber I [declined to confirm the charges against Bahar Idriss Abu Ga
 
 A review conference of the Rome Statute of the ICC is held in Kampala, Uganda. Around 4600 representatives of States, and intergovernmental and non-governmental organizations attend the Conference. The Conference adopted a resolution by which it amended the Rome Statute to include a definition of the crime of aggression and the conditions under which the Court could exercise jurisdiction with respect to the crime. The actual exercise of jurisdiction is subject to a decision to be taken after 1 January 2017 by a two-thirds majority of the States Parties to the ICC. The Conference also adopted a resolution by which it amended article 8 of the Rome Statute to bring under the jurisdiction of the Court the war crime of employing certain poisonous weapons and expanding bullets, asphyxiating or poisonous gases, and all analogous liquids, materials and devices, when committed in armed conflicts not of an international character.
 
+##### June 17, 2010
+
+[Abdallah Banda Abakaer Nourain](https://www.icc-cpi.int/darfur/banda), Commander-in-Chief of Justice and Equality Movement Collective-Leadership (JEM-CL), appears voluntarily before the Court in response to a summons to appear. Trial Chamber IV issues a [second arrest warrant](https://www.icc-cpi.int/Pages/item.aspx?name=PR1039) on September 1, 2014.
+
 ##### November 22, 2010
 
 The [trial against Jean-Pierre Bemba Gombo](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200105/related%20cases/icc%200105%200108/Pages/case%20the%20prosecutor%20v%20jean-pierre%20bemba%20gombo.aspx) for alleged crimes against humanity and war crimes committed in the Democratic Republic of the Congo commenced.<sup id="fnref:source2010nov"><a class="footnote" href="#fn:source2010nov">2</a></sup>
