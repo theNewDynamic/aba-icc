@@ -15,7 +15,7 @@ The [Rome Statute](http://www.icc-cpi.int/NR/rdonlyres/ADD16852-AEE9-4757-ABE7-9
 
 ##### September 3-10, 2002
 
-The [Assembly of States Parties](http://www.icc-cpi.int/en_menus/asp/Pages/asp_home.aspx), the management oversight and legislative body of the ICC, met for the first time.<sup id="fnref:source2002-sep"><a class="footnote" href="#fn:source2002-sep">3</a></sup>
+The [Assembly of States Parties](https://asp.icc-cpi.int/en_menus/asp/Pages/asp_home.aspx), the management oversight and legislative body of the ICC, met for the first time.<sup id="fnref:source2002-sep"><a class="footnote" href="#fn:source2002-sep">3</a></sup>
 
 ##### January 16, 2002
 
