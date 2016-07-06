@@ -16,4 +16,4 @@ The insurgency began in January 2012 and peaked with the seizure of much of nort
 
 Mali ratified the Rome Statute on August 16, 2000. Mali [referred](https://www.legal-tools.org/uploads/tx_ltpdb/ICCReferralLetterMali130712_02.pdf) itself to the International Criminal Court (ICC) on July 13, 2012. Following a preliminary examination, the Office of the Prosecutor officially [opened](https://www.legal-tools.org/uploads/tx_ltpdb/ICC-OTP-20130116-PR869_01.pdf) an investigation on January 13, 2013. Within the Situation in Mali, there is one case: [*The Prosecutor v.* *Ahmad Al Faqi Al Mahdi*](https://www.aba-icc.org/cases/case/the-prosecutor-v-al-faqi-al-mahdi/).
 
-For more information on the Situation in Mali, please visit the [ICC page](http://www.icc-cpi.int/EN_Menus/icc/situations%20and%20cases/situations/icc0112/pages/situation%20index.aspx).
+For more information on the Situation in Mali, please visit the [ICC page](https://www.icc-cpi.int/mali).
