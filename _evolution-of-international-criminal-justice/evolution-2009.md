@@ -19,7 +19,7 @@ Pre-Trial Chamber I issued [an arrest warrant against Omar Hassan Ahmad Al Bashi
 
 ##### November 24, 2009
 
-Trials against Germain Katanga ( [The Prosecutor v. Germain Katanga](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200104/related%20cases/icc%200104%200107/Pages/democratic%20republic%20of%20the%20congo.aspx)) and Mathieu Ngudjolo Chui ([The Prosecutor v. Mathieu Ngudjolo Chui](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200104/related%20cases/ICC-01-04-02-12/Pages/default.aspx)) for alleged war crimes and crimes against humanity committed in the Democratic Republic of the Congo commenced. Trial Chamber II separated the two cases on November 21, 2012.<sup id="fnref:source2009nov"><a class="footnote" href="#fn:source2009nov">4</a></sup>
+Trials against Germain Katanga ([The Prosecutor v. Germain Katanga](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200104/related%20cases/icc%200104%200107/Pages/democratic%20republic%20of%20the%20congo.aspx)) and Mathieu Ngudjolo Chui ([The Prosecutor v. Mathieu Ngudjolo Chui](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200104/related%20cases/ICC-01-04-02-12/Pages/default.aspx)) for alleged war crimes and crimes against humanity committed in the Democratic Republic of the Congo commenced. Trial Chamber II separated the two cases on November 21, 2012.<sup id="fnref:source2009nov"><a class="footnote" href="#fn:source2009nov">4</a></sup>
 
 ##### November 26, 2009
 
