@@ -11,6 +11,6 @@ The Republic of Lebanon and the United Nations signed an [Agreement establishing
 
 ##### October 17, 2007
 
-[Germain Katanga](https://www.icc-cpi.int/drc/katanga), commander of the Force de r&eacute;sistance patriotique en Ituri (The Patriotic Resistance Force in Ituri, FRPI), is transferred to ICC custody in The Hague.[&sup2;](#fn:source2007Jan)
+[Germain Katanga](https://www.icc-cpi.int/drc/katanga), commander of the Force de r&eacute;sistance patriotique en Ituri (The Patriotic Resistance Force in Ituri, FRPI), is transferred to ICC custody in The Hague.
 
-<div class="footnotes"><ol><li id="fn:source2007Jan"><p>S/RES/1757 and Annexes, May 30, 2007, <a href="http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N07/363/57/PDF/N0736357.pdf?OpenElement">http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N07/363/57/PDF/N0736357.pdf?OpenElement</a>; Creation of the STL, Special Tribunal for Lebanon (Dec. 12, 2012) <a class="reversefootnote" href="#fnref:source2007Jan">↩</a></p></li><li><p>http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200104/Pages/situation%20index.aspx <a href="#fnref:source2007Jan">↩</a></p></li></ol></div>
+<div class="footnotes"><ol><li id="fn:source2007Jan"><p>S/RES/1757 and Annexes, May 30, 2007, <a href="http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N07/363/57/PDF/N0736357.pdf?OpenElement">http://daccess-dds-ny.un.org/doc/UNDOC/GEN/N07/363/57/PDF/N0736357.pdf?OpenElement</a>; Creation of the STL, Special Tribunal for Lebanon (Dec. 12, 2012) <a class="reversefootnote" href="#fnref:source2007Jan">↩</a></p></li></ol></div>
