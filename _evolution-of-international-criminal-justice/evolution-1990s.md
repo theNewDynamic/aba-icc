@@ -15,7 +15,7 @@ November 8, 1994: By resolution, the United Nations Security Council established
 
 ##### 1995
 
-The International Law Commission presented its [final draft statute](http://legal.un.org/ilc/texts/instruments/english/draft%20articles/7_4_1994.pdf) for an international criminal court to the United Nations General Assembly in 1994. On the Commission's recommendation, the General Assembly established the Ad Hoc Committee on the Establishment of an International Criminal Court to consider substantives issues in the draft statute. The Ad Hoc Committee met twice during 1995 to discuss the establishment of an international criminal court.<sup id="fnref:source1995"><a class="footnote" href="#fn:source1995">3</a></sup>
+The International Law Commission presented its [final draft statute](http://legal.un.org/ilc/texts/instruments/english/commentaries/7_4_1994.pdf) for an international criminal court to the United Nations General Assembly in 1994. On the Commission's recommendation, the General Assembly established the Ad Hoc Committee on the Establishment of an International Criminal Court to consider substantives issues in the draft statute. The Ad Hoc Committee met twice during 1995 to discuss the establishment of an international criminal court.<sup id="fnref:source1995"><a class="footnote" href="#fn:source1995">3</a></sup>
 
 ##### 1995-98
 
