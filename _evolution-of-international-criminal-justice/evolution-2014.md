@@ -11,7 +11,7 @@ date: 2015-02-04T13:55:00.000Z
 
 ##### March 22, 2014
 
-Charles Bl&eacute; Goud&eacute;, a political leader in C&ocirc;te d’Ivoire and leader of the Jeunes Patriotes (Young Patriots), is transferred to ICC custody in The Hague.
+[Charles Bl&eacute; Goud&eacute;](https://www.icc-cpi.int/cdi/gbagbo-goude), a political leader in C&ocirc;te d’Ivoire and leader of the Jeunes Patriotes (Young Patriots), is transferred to ICC custody in The Hague.
 
 ##### May 20, 2014
 
