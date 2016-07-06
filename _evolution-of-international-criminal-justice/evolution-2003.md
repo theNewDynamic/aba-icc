@@ -23,7 +23,7 @@ The Assembly of States Parties unanimously [elected Luis Moreno Ocampo of Argent
 
 ##### December 2003
 
-The [situation in the Republic of Uganda is referred to the ICC](http://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/2004/Pages/president%20of%20uganda%20refers%20situation%20concerning%20the%20lord_s%20resistance%20army%20_lra_%20to%20the%20icc.aspx), making the Republic of Uganda the first State Party referral to the ICC. After conducting a preliminary investigation, the Office of the Prosecutor [opened a formal investigation](http://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/2004/Pages/prosecutor%20of%20the%20international%20criminal%20court%20opens%20an%20investigation%20into%20nothern%20uganda.aspx) on July 29, 2004.<sup id="fnref:source2003dec"><a class="footnote" href="#fn:source2003dec">4</a></sup>
+The [situation in the Republic of Uganda is referred to the ICC](https://www.icc-cpi.int/NR/rdonlyres/4BCE015E-9F70-4CD1-8AC2-4CACDB6070B6/277313/ICC_200514100561_English3.pdf), making the Republic of Uganda the first State Party referral to the ICC. After conducting a preliminary investigation, the Office of the Prosecutor [opened a formal investigation](https://www.icc-cpi.int/Pages/item.aspx?name=prosecutor%20of%20the%20international%20criminal%20court%20opens%20an%20investigation%20into%20nothern%20uganda) on July 29, 2004.<sup id="fnref:source2003dec"><a class="footnote" href="#fn:source2003dec">4</a></sup>
 
 ##### June 6, 2003
 
