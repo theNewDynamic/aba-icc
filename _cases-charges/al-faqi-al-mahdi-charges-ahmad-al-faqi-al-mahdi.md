@@ -11,10 +11,11 @@ slug: al-faqi-al-mahdi-charges-ahmad-al-faqi-al-mahdi
 
 ### Factual Allegations
 
-Ahmad Al Faqi Al Mahdi allegedly was an active personality in the context of the occupation of Timbuktu. The Office of the Prosecutor (OTP) alleges that Mr Al Faqi was a member of Ansar Eddine. It is assumed that he most likely collaborated with the heads of two armed squads and operated within their established institutions and structures.
-{: .redactor-invisible-space}
+The ICC Office of the Prosecutor (OTP) alleges that Ahmad Al Faqi Al Mahdi was the head of the Hisbah (a morality brigade under the Ansar Dine and Al-Qaeda in the Islamic Maghreb (AQIM)) and a member of Ansar Dine.&nbsp; In April 2012, Ahmad Al Faqi Al Mahdi established the Hisbah and was appointed its head; the Hisbah’s purpose was to promote a fundamentalist interpretation of Islam and eradicate any religious practices, such as worshipping tombs, which were considered false interpretations of Islam.&nbsp;
 
-Until September 2012, Mr Al Faqi allegedly was one of the leaders of the "Hesbah" ("Manners' Brigade"), that started operating in May 2012. Additionally, Mr Al Faqi is linked to the execution of orders issued by the Islamic Court of Timbuktu, particularly orders pertaining to the destruction of cultural buildings.
+From June 30, 2012 to July 11, 2012, as alleged by OTP, Ahmad Al Faqi Al Mahdi directed, planned, and participated in the destruction of historical mausoleums (UNESCO World Heritage sites) in Timbuktu, Mali.&nbsp; The destroyed mausoleums and mosques included: the Mausoleum of Sidi Mahamoud Ben Omar Mohamed Aquit, Mausoleum of Sheikh Mohamed Mahmoud Al Arawani, the Mausoleum of Sheikh Sidi El Mokhtar Ben Sidi Mouhammad Al Kabir Al Kounti, the Mausoleum of Sheikh Mouhamad El Mikki, the Mausoleum of the Sheikh Abdoul Kassim Attouaty, the Mausoleum of Alpha Moya, the Mausoleum Sheikh Sidi Ahmed Ben Amar Arragadi, Sidi Yahia Mosque, the Mausoleum of Bahaber Babadi&eacute;, and the Mausoleum of Ahmed Fulane.
+
+​
 
 ### Charges
 
