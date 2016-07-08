@@ -11,11 +11,11 @@ slug: kony-et-al-charges-okot-odhiambo
 
 ### Factual Allegations
 
-The ICC Office of the Prosecutor alleged that Okot Odhiambo was Deputy Army Commander and former Brigade Commander of Trinkle and Stockree Brigades of the Lord’s Resistance Army (LRA) and that Okot Odhiambo was, along with Joseph Kony (Chairman and Commander-in-Chief of the LRA) and Vincent Otti (Vice-Chairman and Second-in-Command of the LRA), one of “the key members of “Control Altar,” the section representing the core LRA leadership responsible for devising and implementing LRA strategy, including standing orders to attack and brutalise civilian populations.”
+The ICC Office of the Prosecutor (OTP) alleged that Okot Odhiambo was Deputy Army Commander and former Brigade Commander of Trinkle and Stockree Brigades of the Lord’s Resistance Army (LRA) and that Okot Odhiambo was, along with [Joseph Kony](https://www.aba-icc.org/accused/joseph-kony/) (Chairman and Commander-in-Chief of the LRA) and [Vincent Otti](https://www.aba-icc.org/accused/vincent-otti/) (Vice-Chairman and Second-in-Command of the LRA), a member of the “Control Altar,” which is the leadership group that conceived of, planned, and implemented LRA strategy which included campaigns to attack civilian settlements and standing orders to attack, abduct, and loot civilians.&nbsp;
 
-The ICC Office of the Prosecutor further alleged that, under Kony’s orders, Okot Odhiambo: moved with LRA fighters into certain regions to attack Ugandan government forces and civilians; ordered LRA fighters to kill civilians and pillage property in an internally displaced persons camp; ordered LRA fighters to abduct and enslave civilians as forced laborers to carry looted property from the internally displaced persons camp; and ordered LRA fighters to abduct and enlist children as LRA fighters.
+Under Joseph Kony’s orders, as alleged by OTP, Okot Odhiambo moved with LRA fighters into certain regions to attack Ugandan government forces and civilians; ordered LRA fighters to kill civilians and pillage property in an internally displaced persons camp; ordered LRA fighters to abduct and enslave civilians as forced laborers to carry looted property; and ordered LRA fighters to abduct and enlist children as LRA fighters.
 
-In March 2015, the Government of Uganda exhumed a corpse which was identified through DNA testing as that of Okot Odhiambo and certified that Okot Odhiambo died on October 27, 2013.&nbsp; On September 7, 2015, the ICC Pre-Trial Chamber II terminated proceedings against Okot Odhiambo.
+In March 2015, the Government of Uganda exhumed a corpse which was identified through DNA testing as that of Okot Odhiambo and certified that Okot Odhiambo died on October 27, 2013.&nbsp; On September 7, 2015, Pre-Trial Chamber II terminated proceedings against Okot Odhiambo.
 
 Please visit the Court's website for more information on *[The Prosecutor v. Joseph Kony et al.](https://www.icc-cpi.int/uganda/kony)*
 
