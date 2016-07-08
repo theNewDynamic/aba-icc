@@ -19,7 +19,7 @@ ICJT has many features that we hope you find enjoyable as well as informative.
 * In partnership with the market research firm [Ipsos](http://www.ipsos-na.com/), quarterly polling [reports](http://bit.ly/ipsos_abicc) on American opinions on international criminal justice, specifically the International Criminal Court.
 * [*Opinion*](http://www.international-criminal-justice-today.org/opinion/) that features regular blog post by ICJT contributors on current events in international criminal justice.
 * *Headlines*, an aggregation of news articles on international criminal justice.
-* Information about past and future events of the ABA International Criminal Court Project.
+* Information about past and future events of the ABA's International Criminal Court Project.
 
 
 ---
