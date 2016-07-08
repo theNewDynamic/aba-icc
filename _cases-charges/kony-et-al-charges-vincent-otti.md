@@ -11,7 +11,7 @@ slug: kony-et-al-charges-vincent-otti
 
 ### Factual Allegations
 
-The ICC Office of the Prosecutor (OTP) alleges that Vincent Otti is Vice-Chairman and Second-in-Command of the Lord’s Resistance Army (LRA) and that Vincent Otti is, along with Joseph Kony (Chairman and Commander-in-Chief of the LRA) and other senior LRA commanders, a member of the “Control Altar,” which is leadership group that conceived of, planned, and implemented LRA strategy which included campaigns to attack civilian settlements and standing orders to attack, abduct, and loot civilians.&nbsp;
+The ICC Office of the Prosecutor (OTP) alleges that Vincent Otti is Vice-Chairman and Second-in-Command of the Lord’s Resistance Army (LRA) and that Vincent Otti is, along with Joseph Kony (Chairman and Commander-in-Chief of the LRA) and other senior LRA commanders, a member of the “Control Altar,” which is the leadership group that conceived of, planned, and implemented LRA strategy which included campaigns to attack civilian settlements and standing orders to attack, abduct, and loot civilians.&nbsp;
 
 The ICC Office of the Prosecutor further alleges that Vincent Otti “as the Vice-Chairman and Second-in-Command of the LRA, shared with Joseph Kony the task of setting out the LRA objectives and acted as “Kony’s commander of the LRA for its operations in Uganda” from REDACTED 2003 to REDACTED 2004, when Joseph Kony was based in southern Sudan” and that Vincent Otti “in his capacity as Second-in-Command to the LRA’s Chairman and Commander-in-Chief Joseph Kony, . . . ordered or induced the commission of several crimes within the jurisdiction of the Court during the period from 1 July, 2002 to REDACTED 2004.” &nbsp;
 
