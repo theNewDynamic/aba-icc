@@ -6,4 +6,4 @@ featured_image_path: /uploads/iccprovisional.jpg
 ---
 
 
-ABA also recalls its long-standing support of the ICC and its efforts “to advocate for enhanced US-ICC relations and on the vital role of international criminal justice on world peace and security.” Please find [here](https://www.international-criminal-justice-today.org/news/aba-stresses-the-importance-of-judicial-independence-and-empowerment-before-the-icc-assembly-of-states-parties/) the full article.
+ABA also recalls its long-standing support of the International Criminal Court (ICC) and its efforts “to advocate for enhanced US-ICC relations and on the vital role of international criminal justice on world peace and security.” Please find [here](https://www.international-criminal-justice-today.org/news/aba-stresses-the-importance-of-judicial-independence-and-empowerment-before-the-icc-assembly-of-states-parties/) the full article.
