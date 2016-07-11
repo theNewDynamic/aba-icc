@@ -15,7 +15,7 @@ Paul Gicheru is suspected of offenses against the administration of justice cons
 
 The evidence indicates that said scheme has been run in an organized manner and with a clear distribution of tasks. In particular, Paul Gicheru has been a manager and coordinator of the scheme, meaning that he has finalized agreements with corrupted witnesses, organized the formalization of their withdrawal and handled the payment.
 
-Please visit the Court’s website for more information on [The Prosecutor v. Gicheru and Bett](https://www.icc-cpi.int/kenya/gicheru-bett).
+Please visit the Court’s website for more information on *[The Prosecutor v. Gicheru and Bett](https://www.icc-cpi.int/kenya/gicheru-bett)*.
 
 ### Charges
 
