@@ -15,7 +15,7 @@ Kenyatta and members of the Mungiki (a criminal organization) allegedly develope
 
 Allegedly carrying out the plan, Kenyan Police Forces were deployed into Orange Democratic Movement (ODM) strongholds where they used excessive force against civilian protesters in Kisumu and Kibera. Kenyan Police Forces allegedly shot indiscriminately and killed more than a hundred perceived ODM supporters in Kisumu and Kiberia from December 2007-mid January 2008. Also allegedly carrying out the plan, the Mungiki allegedly carried out attacks against perceived ODM supporters in Nakuru and Naivasha from January 24-28, 2008. These attacks resulted in a large number of killings, rapes, severe physical injuries, mental suffering, property destruction, and the displacement of thousands of people.
 
-Please visit the Court’s website for more information on [The Prosecutor v. Kenyatta](https://www.icc-cpi.int/kenya/kenyatta).
+Please visit the Court’s website for more information on *[The Prosecutor v. Kenyatta](https://www.icc-cpi.int/kenya/kenyatta)*.
 
 ### Charges
 
