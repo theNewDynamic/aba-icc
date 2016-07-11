@@ -15,8 +15,6 @@ Kenyatta and members of the Mungiki (a criminal organization) allegedly develope
 
 Allegedly carrying out the plan, Kenyan Police Forces were deployed into Orange Democratic Movement (ODM) strongholds where they used excessive force against civilian protesters in Kisumu and Kibera. Kenyan Police Forces allegedly shot indiscriminately and killed more than a hundred perceived ODM supporters in Kisumu and Kiberia from December 2007-mid January 2008. Also allegedly carrying out the plan, the Mungiki allegedly carried out attacks against perceived ODM supporters in Nakuru and Naivasha from January 24-28, 2008. These attacks resulted in a large number of killings, rapes, severe physical injuries, mental suffering, property destruction, and the displacement of thousands of people.
 
-Pre-Trial Chamber II [confirmed](http://www.icc-cpi.int/iccdocs/doc/doc1314543.pdf) the charges against Kenyatta on January 23, 2011, but on December 5, 2014, the OTP filed a notice to [withdraw](http://www.icc-cpi.int/iccdocs/doc/doc1936247.pdf) the charges, because the evidence is not sufficient to prove Kenyatta's alleged criminal responsibility beyond reasonable doubt. On March 13, 2015, Trial Chamber V(b) decided to terminate the proceedings in light of the Prosecutor's decision to withdraw the charges.
-
 Please visit the Court’s website for more information on [The Prosecutor v. Kenyatta](https://www.icc-cpi.int/kenya/kenyatta).
 
 ### Charges
