@@ -13,8 +13,6 @@ slug: the-prosecutor-vs-s-gadaffi-and-senussi-charges-saif-al-islam-gaddafi
 
 Saif Al-Islam Gaddafi (Al-Islam) is the second eldest son of Muammar Gaddafi, ruler of Libya from 1969-2011. As a member of Gaddafi's inner circle, the ICC Office of the Prosecutor (OTP) alleges that Al-Islam played a key role in implementing Gaddafi's plan to suppress the February 2011 protests through any means necessary, including through lethal force. Al-Islam allegedly met with Al-Senussi and Gaddafi before the February 2011 protests to construct this plan, and conduct initial measures such as mobilizing Security Forces and recruiting foreign mercenaries. Al-Islam allegedly played an active role in recruiting these mercenaries, integrating them into the Security Forces, and in supporting the Security Forces organizationally. Throughout the uprising and ensuing conflict, Al-Islam appeared often on Libyan and international media. In these interviews, Al-Islam allegedly continually expressed the Gaddafi regime's control over Security Forces and willingness to use additional violence against protesters or civilians perceived as dissidents.
 
-Al-Islam was captured by Libyan rebels on November 18, 2011. Currently held by the militia in Zintan, Libya, he is under indictment both in Zintan and Tripoli. Authorities have so far refused to surrender Al-Islam to the ICC and he remains in custody in Libya. Pre-Trial Chamber I ruled that the case against Al-Islam was admissible on May 31, 2013.
-
 Please visit the Court’s website for more information on [The Prosecutor v. Gaddafi.](https://www.icc-cpi.int/libya/gaddafi)
 
 ### Charges
