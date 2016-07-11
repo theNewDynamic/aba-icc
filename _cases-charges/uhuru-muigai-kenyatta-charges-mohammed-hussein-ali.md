@@ -13,7 +13,7 @@ slug: uhuru-muigai-kenyatta-charges-mohammed-hussein-ali
 
 Uhuru Kenyatta and members of the Mungiki (a criminal organization) allegedly developed and executed a plan to attack perceived ODM supporters in order to keep the Party of National Unity (PNU) in power in the 2007-2008 elections. In executing the common plan, the ICC Office of the Prosecutor (OTP) alleges that Kenyatta facilitated meetings with Francis Muthaura (then head of the Civil Service and Chairman of the National Security Committee and a former defendant in the case) and members of the Mungiki in order to prepare widespread attacks against civilians perceived to support ODM, and to instruct Kenyan Police Forces not to interfere with the movement of pro-PNU and Mungiki members. Allegedly carrying out the plan, the Mungiki allegedly carried out attacks against perceived ODM supporters in Nakuru and Naivasha from January 24-28, 2008. These attacks resulted in a large number of killings, rapes, severe physical injuries, mental suffering, property destruction and the displacement of thousands of people. The OTP alleged that as Police Commissioner, Ali ordered or controlled the Kenyan Police, whose inaction made the Mungiki attacks in Nakuru and Naivasha possible and more effective.
 
-Please visit the Court’s website for more information on [The Prosecutor v. Kenyatta](https://www.icc-cpi.int/kenya/kenyatta).
+Please visit the Court’s website for more information on *[The Prosecutor v. Kenyatta](https://www.icc-cpi.int/kenya/kenyatta)*.
 
 ### Charges
 
