@@ -11,9 +11,11 @@ slug: ruto-and-sang-charges-henry-kiprono-kosgey
 
 ### Factual Allegations
 
-Along with Joshua Arap Sang and William Samoei Ruto, Kosgey allegedly established a network in 2006 which he later used to commit crimes directed against supporters of the Party of National Unity (PNU). Kosgey, Chairman of the Orange Democratic Movement (ODM) during the 2007-2008 elections, allegedly attended ODM meetings where leaders planned the post-election violence.
+Along with Joshua Arap Sang and William Samoei Ruto, the ICC Office of the Prosecutor (OTP) alleges that Kosgey established a network in 2006 which he later used to commit crimes directed against supporters of the Party of National Unity (PNU). Kosgey, Chairman of the Orange Democratic Movement (ODM) during the 2007-2008 elections, allegedly attended ODM meetings where leaders planned the post-election violence.
 
-On January 23, 2012, Pre-Trial Chamber II [decided]() not to confirm the charges against Kosgey, deciding that witnesses at that stage in the proceedings had only spoken of Kosgey's attendance generally but not his specific role in ODM. The Pre-Trial Chamber decided that the combination of the anonymous witness's uncorroborated statements and the redaction of dates when Kosgey allegedly attended ODM meetings meant the Office of the Prosecutor did not meet the evidentiary burden to confirm charges against Kosgey at that time.
+On January 23, 2012, Pre-Trial Chamber II [decided](){: .cc-active} not to confirm the charges against Kosgey, deciding that witnesses at that stage in the proceedings had only spoken of Kosgey's attendance generally but not his specific role in ODM. Pre-Trial Chamber II decided that the combination of the anonymous witness's uncorroborated statements and the redaction of dates when Kosgey allegedly attended ODM meetings meant the OTP did not meet the evidentiary burden to confirm charges against Kosgey at that time.
+
+Please visit the Court’s website for more information on [The Prosecutor v. Ruto and Sang](https://www.icc-cpi.int/kenya/rutosang).
 
 ### Charges
 
