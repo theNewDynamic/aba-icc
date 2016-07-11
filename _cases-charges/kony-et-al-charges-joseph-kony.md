@@ -15,7 +15,7 @@ The ICC Office of the Prosecutor (OTP) alleges that Joseph Kony is Chairman and 
 
 From 2002 to 2004, in six separate attacks, Joseph Kony, as alleged by OTP, ordered LRA fighters: to attack Ugandan government forces and civilians in certain regions and internally displaced camps of Uganda; to abduct and enslave civilians including children as forced laborers, forced fighters, or forced sexual slaves; and to kill civilians and pillage property in certain regions and certain internally displaced persons camps.&nbsp; Joseph Kony’s ordered attacks included not only murder, abduction, and enslavement, but also rape and sexual violence, physical mutilations and physical beatings, forced marches and forced labor under threat of death, and mass burnings and lootings of homes and camps.&nbsp;
 
-Please visit the Court's website for more information on *[The Prosecutor v. Joseph Kony et al.](https://www.icc-cpi.int/uganda/kony)*
+Please visit the Court's website for more information on *[The Prosecutor v. Kony et al.](https://www.icc-cpi.int/uganda/kony)*
 
 ### Charges
 
