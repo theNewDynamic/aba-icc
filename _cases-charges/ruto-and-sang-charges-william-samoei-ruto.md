@@ -15,7 +15,7 @@ Along with Henry Kiprono Kosgey and Joshua Arap Sang, the ICC Office of the Pros
 
 After the Electoral Commission of Kenya declared on 30 December 2007 that incumbent PNU candidate Mwai Kibaki had won the presidential election, thousands of members of the network allegedly began to attack PNU supporters in Turbo, Huruma, Kimumu, Langas, Yamumbi, Kapsabet and Nandi Hills. They allegedly burnt down the houses of political opponents, killed civilians and forced them out of their homes. On January 1, 2008, at least 17 people died in an incident where network members allegedly burnt down a church in Kiambaa with more than 100 people inside. The attacks continued into the first week of January 2008.
 
-Please visit the Court’s website for more information on [The Prosecutor v. Barasa](https://www.icc-cpi.int/kenya/rutosang).
+Please visit the Court’s website for more information on *[The Prosecutor v. Barasa](https://www.icc-cpi.int/kenya/rutosang)*.
 
 ### Charges
 
