@@ -15,7 +15,7 @@ Bahr Idriss Abu Garda (Abu Garda) is the Chairman and General Coordinator of Mil
 
 Pre-Trial Chamber I decided on February 8, 2010 not to confirm the charges against Abu Garda, deciding that the Prosecution had not presented enough reliable evidence to establish substantial grounds to believe that Abu Garda was a part of meetings discussing the common plan to attack the MGS Haskanita, or that his participation in the attack itself or in establishing the common plan could be inferred. Abu Garda appeared voluntarily throughout the proceedings and is not in ICC custody.
 
-Please visit the Court's website for more information on [The Prosecutor v. Garda.](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200205/related%20cases/icc02050209/Pages/icc02050209.aspx)
+Please visit the Court's website for more information on [The Prosecutor v. Abu Garda.](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200205/related%20cases/icc02050209/Pages/icc02050209.aspx)
 
 ### Charges
 
