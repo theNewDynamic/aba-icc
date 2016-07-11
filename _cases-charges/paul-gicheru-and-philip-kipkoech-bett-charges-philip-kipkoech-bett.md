@@ -17,7 +17,7 @@ The evidence indicates that said scheme has been run in an organized manner and 
 
 There is also information that those witnesses who were successfully corrupted were enticed to make contact with other witnesses, for the purpose of their corruption.
 
-Please visit the Court’s website for more information on [The Prosecutor v. Gicheru and Bett](https://www.icc-cpi.int/kenya/gicheru-bett).
+Please visit the Court’s website for more information on *[The Prosecutor v. Gicheru and Bett](https://www.icc-cpi.int/kenya/gicheru-bett)*.
 
 ### Charges
 
