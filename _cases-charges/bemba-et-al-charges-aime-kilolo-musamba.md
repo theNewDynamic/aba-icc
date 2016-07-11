@@ -11,7 +11,9 @@ slug: bemba-et-al-charges-aime-kilolo-musamba
 
 ### Factual Allegations
 
-The Office of the Prosecutor (OTP) alleges that Aimé Kilolo Musamba (Kilolo) participated in a plan headed by Jean-Pierre Bemba Gombo to give monetary and other benefits to certain defense witnesses in exchange for their presentation of false testimony or evidence in The Prosecutor v. Jean-Pierre Bemba Gombo. OTP alleges that Kilolo and Jean-Jacques Magenda were the individuals mostly responsible for the scheme's implementation. In so doing, Kilolo allegedly paid defense witnesses with funds made available by Bemba, attempted to introduce false or forged documents into the record, and contacted defense witnesses before, after, and sometimes during their testimony to coach them on how to answer the questions they would be asked in court. Kilolo was granted interim release from detention at the ICC Detention Center in The Hague on October 21, 2014 and was subsequently released from custody.
+The ICC Office of the Prosecutor (OTP) alleges that Aim&eacute; Kilolo Musamba (Kilolo) participated in a plan headed by Jean-Pierre Bemba Gombo to give monetary and other benefits to certain defense witnesses in exchange for their presentation of false testimony or evidence in *The Prosecutor v. Jean-Pierre Bemba Gombo*. The OTP alleges that Kilolo and Jean-Jacques Magenda were the individuals mostly responsible for the scheme's implementation. In so doing, Kilolo allegedly paid defense witnesses with funds made available by Bemba, attempted to introduce false or forged documents into the record, and contacted defense witnesses before, after, and sometimes during their testimony to coach them on how to answer the questions they would be asked in court.
+
+Please visit the Court’s website for more information on [*The Prosecutor v. Bemba et al*](https://www.icc-cpi.int/car/Bemba-et-al#12).
 
 ### Charges
 
