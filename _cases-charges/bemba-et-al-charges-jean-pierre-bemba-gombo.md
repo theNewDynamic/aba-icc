@@ -10,7 +10,9 @@ youtube_id:
 
 ### Factual Allegations
 
-The Office of the Prosecutor alleges that Jean-Pierre Bemba Gombo headed a plan to give monetary and other benefits to certain defense witnesses in exchange for their presentation of false testimony or evidence in The Prosecutor v. Jean-Pierre Bemba Gombo. In so doing, Bemba allegedly made funds available, which may have been used to pay defense witnesses. He allegedly worked with Kilolo and Magenda to contact defense witnesses before, after, and sometimes during their testimony to coach them on how to answer the questions they would be asked in court, and allegedly allowed non-privileged persons to participate in privileged conference calls with himself and his attorney Kilolo. Bemba is currently in detention at ICC detention center in The Hague on charges relating to The Prosecutor v. Jean-Pierre Bemba Gombo.
+The ICC Office of the Prosecutor (OTP) alleges that Jean-Pierre Bemba Gombo headed a plan to give monetary and other benefits to certain defense witnesses in exchange for their presentation of false testimony or evidence in *The Prosecutor v. Jean-Pierre Bemba Gombo*. In so doing, Bemba allegedly made funds available, which may have been used to pay defense witnesses. He allegedly worked with Kilolo and Magenda to contact defense witnesses before, after, and sometimes during their testimony to coach them on how to answer the questions they would be asked in court, and allegedly allowed non-privileged persons to participate in privileged conference calls with himself and his attorney Kilolo.
+
+Please visit the Court’s website for more information on [*The Prosecutor v. Bemba et al*](https://www.icc-cpi.int/car/Bemba-et-al).
 
 ### Charges
 
