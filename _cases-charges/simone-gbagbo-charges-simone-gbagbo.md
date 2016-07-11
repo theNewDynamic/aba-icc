@@ -13,7 +13,7 @@ slug: simone-gbagbo-charges-simone-gbagbo
 
 Simone Gbagbo was the First Lady during the Presidency of her husband, Laurent Gbagbo, from 2000-2010. The ICC Office of the Prosecutor (OTP) alleges that Ms. Gbagbo was close to her husband ideologically and professionally, often acting as his "alter ego." Ms. Gbagbo allegedly had the power to make decisions on behalf of the Republic of C&ocirc;te d'Ivoire and attended and participated in meetings where Gbagbo and his close advisors discussed their plan to retain Gbagbo's power by any means. The OTP alleges that Ms. Gbagbo played a key role in recruiting and arming pro-Gbagbo youth militias which were integrated into the Ivorian Defense and Security Forces (FDS). Ms. Gbagbo allegedly approved the plans of or gave instructions to pro-Gbagbo forces to attack civilians perceived to support Ouattara, often targeting civilians in specific ethnic or religious communities.
 
-Please visit the Court’s website for more information on [*The Prosecutor v. Gbagbo*](https://www.icc-cpi.int/cdi/simone-gbagbo).
+Please visit the Court’s website for more information on [*The Prosecutor v. Simone Gbagbo*](https://www.icc-cpi.int/cdi/simone-gbagbo).
 
 ### Charges
 
