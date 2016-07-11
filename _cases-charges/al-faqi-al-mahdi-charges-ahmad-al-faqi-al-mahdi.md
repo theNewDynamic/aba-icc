@@ -15,7 +15,7 @@ The ICC Office of the Prosecutor (OTP) alleges that Ahmad Al Faqi Al Mahdi was t
 
 From June 30, 2012 to July 11, 2012, as alleged by the OTP, Ahmad Al Faqi Al Mahdi directed, planned, and participated in the destruction of historical mausoleums and mosques ([UNESCO World Heritage sites](http://whc.unesco.org/en/list/119)) in Timbuktu, Mali.&nbsp; The destroyed mausoleums and mosques included: the Mausoleum of Sidi Mahamoud Ben Omar Mohamed Aquit, Mausoleum of Sheikh Mohamed Mahmoud Al Arawani, the Mausoleum of Sheikh Sidi El Mokhtar Ben Sidi Mouhammad Al Kabir Al Kounti, the Mausoleum of Sheikh Mouhamad El Mikki, the Mausoleum of the Sheikh Abdoul Kassim Attouaty, the Mausoleum of Alpha Moya, the Mausoleum Sheikh Sidi Ahmed Ben Amar Arragadi, Sidi Yahia Mosque, the Mausoleum of Bahaber Babadi&eacute;, and the Mausoleum of Ahmed Fulane.
 
-​
+​Please visit the Court's website for more information on [The Prosecutor v. Al Faqi Al Mahdi](https://www.icc-cpi.int/mali/al-mahdi).
 
 ### Charges
 
