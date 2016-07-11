@@ -15,8 +15,6 @@ The ICC Office of the Prosecutor (OTP) alleges that Vincent Otti is Vice-Chairma
 
 From 2002 to 2004, Vincent Otti, as alleged by the OTP, shared with Joseph Kony the responsibility for six separate attacks in which Vincent Otti ordered LRA fighters: to attack Ugandan government forces and civilians in certain regions and certain internally displaced camps of Uganda; to abduct and enslave civilians including children as forced laborers, forced fighters, or forced sexual slaves; and to kill civilians and pillage property in certain regions and certain internally displaced persons camps. Vincent Otti’s ordered attacks included not only murder, abduction, and enslavement, but also rape and sexual violence, physical mutilations and physical beatings, forced marches and forced labor under threat of death, and mass burnings and lootings of homes and camps.&nbsp;
 
-In January 2008, Reuters reported that South Sudan Vice President Riek Machard said [that he had been informed by Joseph Kony that Vincent Otti was dead](http://www.reuters.com/article/idUSL23695656); BBC News reported that [Vincent Otti may have been executed on Joseph Kony’s orders](http://news.bbc.co.uk/2/hi/africa/7083311.stm).&nbsp; However, as of June 2016, the ICC Office of the Prosecutor has not requested termination of proceedings against Vincent Otti.&nbsp;
-
 Please visit the Court's website for more information on *[The Prosecutor v. Kony et al.](https://www.icc-cpi.int/uganda/kony)*
 
 ### Charges
