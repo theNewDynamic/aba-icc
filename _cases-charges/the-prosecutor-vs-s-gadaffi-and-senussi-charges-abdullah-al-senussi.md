@@ -15,7 +15,7 @@ Abdullah Al-Senussi is the brother-in-law of Muammar Gaddafi, ruler of Libya fro
 
 Al-Senussi was arrested in Mauritania on March 17, 2012 and extradited to Libya on September 5. Pre-Trial Chamber I ruled that the case against Al-Senussi was currently inadmissible on October 11, 2013. He remains in custody in Libya.
 
-For more information on the Prosecutor v. Senussi please visit the Court's [website](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/icc0111/related%20cases/icc01110111/Pages/icc01110111.aspx).
+Please visit the Court’s website for more information on [The Prosecutor v. Gaddafi](https://www.icc-cpi.int/libya/gaddafi).
 
 ### Charges
 
