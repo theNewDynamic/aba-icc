@@ -13,7 +13,7 @@ slug: walter-osapiri-barasa-charges-walter-osapiri-barasa
 
 Walter Osapiri Barasa is a journalist and previous intermediary between the ICC Office of the Prosecutor (OTP) and Kenyan witnesses in the investigation on the situation in the Republic of Kenya. Barasa allegedly corruptly influenced one Prosecution witness and attempted to corruptly influence two others, offering to pay them 1,000,000-1,500,000 Kenyan shillings (KES) each to withdraw their testimony. The OTP asserts that witness interference escalated in frequency and seriousness between May and July 2013. Barasa remains at large.
 
-Please visit the Court’s website for more information on [The Prosecutor v. Barasa](https://www.icc-cpi.int/kenya/barasa).
+Please visit the Court’s website for more information on *[The Prosecutor v. Barasa](https://www.icc-cpi.int/kenya/barasa)*.
 
 ### Charges
 
