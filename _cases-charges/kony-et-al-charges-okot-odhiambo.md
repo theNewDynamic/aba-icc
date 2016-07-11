@@ -17,7 +17,7 @@ Under Joseph Kony’s orders, as alleged by the OTP, Okot Odhiambo moved with LR
 
 In March 2015, the Government of Uganda exhumed a corpse which was identified through DNA testing as that of Okot Odhiambo and certified that Okot Odhiambo died on October 27, 2013.&nbsp; On September 7, 2015, Pre-Trial Chamber II terminated proceedings against Okot Odhiambo.
 
-Please visit the Court's website for more information on *[The Prosecutor v. Joseph Kony et al.](https://www.icc-cpi.int/uganda/kony)*
+Please visit the Court's website for more information on *[The Prosecutor v. Kony et al.](https://www.icc-cpi.int/uganda/kony)*
 
 ### Charges
 
