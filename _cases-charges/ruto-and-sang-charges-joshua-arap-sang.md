@@ -15,8 +15,6 @@ Along with Henry Kiprono Kosgey and William Samoei Ruto, the ICC Office of the P
 
 After the Electoral Commission of Kenya declared on December 30, 2007 that incumbent PNU candidate Mwai Kibaki had won the presidential election, thousands of members of the network allegedly began to attack PNU supporters in Turbo, Huruma, Kimumu, Langas, Yamumbi, Kapsabet and Nandi Hills. They allegedly burnt down the houses of political opponents, killed civilians and forced them out of their homes. On January 1, 2008, at least 17 people died in an incident where network members allegedly burnt down a church in Kiambaa with more than 100 people inside. The attacks continued into the first week of January 2008.
 
-On January 23, 2012, Pre-Trial Chamber II [confirmed](http://www.icc-cpi.int/iccdocs/doc/doc1314535.pdf) that the charges against Sang as an indirect co-perpetrator for the three counts of crimes against humanity (murder, deportation or forcible transfer of population and persecution). The trial opened on September 10, 2013. Sang is currently not in the custody of the ICC and is appearing in court voluntarily.
-
 Please visit the Court’s website for more information on [The Prosecutor v. Ruto and Sang](https://www.icc-cpi.int/kenya/rutosang).
 
 ### Charges
