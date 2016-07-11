@@ -17,7 +17,7 @@ From 2002 to 2005, as alleged by the OTP, Dominic Ongwen ordered four separate a
 
 Dominic Ongwen’s ordered attacks included not only mass murders of civilians, mass physical beatings and physical mutilations of civilians, and forced marches and forced labor under threat of death, but also the abduction and enslavement of women and girls as sexual slaves and forced conjugal partners and the abduction and enslavement of children as forced fighters.
 
-Please visit the Court's website for more information on [*The Prosecutor v. Dominic Ongwen*](https://www.icc-cpi.int/uganda/ongwen).
+Please visit the Court's website for more information on [*The Prosecutor v. Ongwen*](https://www.icc-cpi.int/uganda/ongwen).
 
 ### Charges
 
