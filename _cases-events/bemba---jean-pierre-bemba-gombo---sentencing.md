@@ -9,5 +9,9 @@ youtube_id: oWmjjgsG1Is
 ---
 
 
-[Decision](https://www.icc-cpi.int/iccdocs/PIDS/other/20-06-2016-Summary_of_Sentencing_Decision-Eng.pdf) on the sentence
+&nbsp;
+
+[Decision](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/05-01/08-3399 ) on the sentence
+
+[Summary of Decision](https://www.icc-cpi.int/iccdocs/PIDS/other/20-06-2016-Summary_of_Sentencing_Decision-Eng.pdf) on the sentence
 <br>[Press release](https://www.icc-cpi.int//Pages/item.aspx?name=PR1223)
