@@ -14,6 +14,6 @@ Pre-Trial Chamber III issued a sealed [arrest warrant](https://www.icc-cpi.int/P
 
 Pre-Trial Chamber II\* [confirmed](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/05-01/08-424) the charges against Bemba on June 15, 2009. (\*In March 2009, the ICC merged Pre-Trial Chamber III with Pre-Trial Chamber II and assigned the CAR situation to Pre-Trial Chamber II.)
 
-On March 21, 2016, Trial Chamber III issued a[verdict](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/05-01/08-3343) which found Bemba guilty of: murder (crime against humanity, war crime), rape (crime against humanity, war crime), and pillaging (war crime).
+On March 21, 2016, Trial Chamber III issued a [verdict](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/05-01/08-3343) which found Bemba guilty of: murder (crime against humanity, war crime), rape (crime against humanity, war crime), and pillaging (war crime).
 
 On June 21, 2016, Trial Chamber III ordered Bemba to serve [sentences](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/05-01/08-3399 ), running concurrently and with a deduction of time already spent in detention, of: 16 years of imprisonment for murder as a war crime; 16 years of imprisonment for murder as a crime against humanity; 18 years of imprisonment for rape as a war crime; 18 years of imprisonment for rape as a crime against humanity; and 16 years of imprisonment for pillaging as a war crime.&nbsp;
