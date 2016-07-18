@@ -10,4 +10,10 @@ slug: bemba-events-jean-pierre-bemba-gombo
 ---
 
 
-Pre-Trial Chamber II issued a sealed arrest warrant for Bemba on May 23, 2008, which was unsealed on May 24, 2008. Pre-Trial Chamber III issued a second public arrest warrant on June 10, 2008. Charges against him were confirmed on June 15, 2009. His trial ended on November 13, 2014, and was found guilty on April 21, 2016. He was sentenced, on June 21, 2016, to 18 years of imprisonment from which his time already spent in ICC custody will be deducted.
+Pre-Trial Chamber III issued a sealed [arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/05-01/08-1-tENG-Corr) against Jean-Pierre Bemba Gombo on May 23, 2008, which was unsealed on May 24, 2008.&nbsp; Bemba was arrested by Belgian authorities on May 24, 2008; however, upon the OTP’s &nbsp;application and submission of new evidence, Pre-Trial Chamber III [decided](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/05-01/08-14-tENG) to issue a new [arrest warrant](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/05-01/08-15-tENG) (which alleged murder, rape, pillaging, and torture) on June 10, 2008, which replaced the May 23 arrest warrant (which alleged rape, pillaging, and torture).&nbsp;
+
+Pre-Trial Chamber II\* [confirmed](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/05-01/08-424) the charges against Bemba on June 15, 2009. (\*In March 2009, the ICC merged Pre-Trial Chamber III with Pre-Trial Chamber II and assigned the CAR situation to Pre-Trial Chamber II.)
+
+On March 21, 2016, Trial Chamber III issued a[verdict](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/05-01/08-3343) which found Bemba guilty of: murder (crime against humanity, war crime), rape (crime against humanity, war crime), and pillaging (war crime).
+
+On June 21, 2016, Trial Chamber III ordered Bemba to serve [sentences](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/05-01/08-3399 ), running concurrently and with a deduction of time already spent in detention, of: 16 years of imprisonment for murder as a war crime; 16 years of imprisonment for murder as a crime against humanity; 18 years of imprisonment for rape as a war crime; 18 years of imprisonment for rape as a crime against humanity; and 16 years of imprisonment for pillaging as a war crime.&nbsp;
