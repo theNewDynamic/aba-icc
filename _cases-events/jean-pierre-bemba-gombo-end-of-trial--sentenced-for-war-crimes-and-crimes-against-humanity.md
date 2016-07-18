@@ -1,6 +1,6 @@
 ---
-title: Bemba - Jean-Pierre Bemba Gombo - Trial Judgement
-published: true
+title: Bemba - Jean-Pierre Bemba Gombo - Trial Judgment
+published: false
 event_date: 2016-03-21T00:00:00.000Z
 action: Trial Judgement
 case: the-prosecutor-v-bemba
