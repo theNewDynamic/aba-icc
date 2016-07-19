@@ -5,14 +5,14 @@ date: 2015-06-10T15:21:00.000Z
 ---
 
 
-##### January 28, 2016
-
-The [trial against Gbagbo and Goud&eacute;](https://www.icc-cpi.int/cdi/gbagbo-goude) commenced. Laurent Gbagbo, former President of C&ocirc;te d'Ivoire, and Charles Bl&eacute; Goud&eacute;, President of the Congress of the Young People and the Patriots (COJEP) and Minister for Youth, Professional Training and Employment, are accused of crimes against humanity allegedly committed during the 2010-2011 post-election in C&ocirc;te d’Ivoire.
-
 ##### March 21, 2016
 
 [Jean-Pierre Bemba Gombo is found guilty](https://www.icc-cpi.int/Pages/item.aspx?name=pr1200) of crimes against humanity (murder and rape) and war crimes (murder, rape, and pillaging) committed in Central African Republic. [Trial Chamber III sentenced](https://www.icc-cpi.int/Pages/item.aspx?name=PR1223) Jean-Pierre Bemba Gombo to 18 years of imprisonment on June 21, 2016.
 
-##### April 6, 2016
+##### **March 24, 2016**
 
-[Trial Chamber V vacated the charges](https://www.icc-cpi.int/Pages/item.aspx?name=otp-stat-160406) against William Samoei Ruto and Joshua Arap Sang. The decision was made due to the special circumstances of the case, involving witness interference, and was also made without prejudice to the possibility of future prosecution.
+Charges are confirmed against Ahmad Al Faqi Al Mahdi for the war crime of intentionally directing attacks against buildings dedicated to religion and/or historical monuments, the first case concerning the destruction of cultural heritage before the Court, as well as the first guilty plea before the Court.
+
+May 30, 2016
+
+The [Extraordinary African Chambers](http://allafrica.com/stories/201309030735.html) (EAC) sitting in the Appeals Court of Dakar, Senegal, [issued a life sentence](http://www.nytimes.com/2016/05/31/world/africa/hissene-habre-leader-chad-war-crimes.html?_r=0) to the former President of Chad, Hiss&egrave;ne Habr&eacute;, finding him guilty of a range of international crimes, including torture, war crimes, and crimes against humanity.
