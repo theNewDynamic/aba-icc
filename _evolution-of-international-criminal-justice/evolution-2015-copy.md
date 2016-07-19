@@ -15,4 +15,4 @@ date: 2015-06-10T15:21:00.000Z
 
 ##### May 30, 2016
 
-The [Extraordinary African Chambers](http://allafrica.com/stories/201309030735.html) (EAC) sitting in the Appeals Court of Dakar, Senegal, [issued a life sentence](http://www.nytimes.com/2016/05/31/world/africa/hissene-habre-leader-chad-war-crimes.html?_r=0) to the former President of Chad, Hiss&egrave;ne Habr&eacute;, finding him guilty of torture, war crimes, and crimes against humanity.
+The [Extraordinary African Chambers](http://www.chambresafricaines.org/) (EAC) sitting in the Appeals Court of Dakar, Senegal, [issued a life sentence](http://www.nytimes.com/2016/05/31/world/africa/hissene-habre-leader-chad-war-crimes.html?_r=0) to the former President of Chad, Hiss&egrave;ne Habr&eacute;, finding him guilty of torture, war crimes, and crimes against humanity.
