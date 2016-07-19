@@ -9,14 +9,6 @@ date: 2015-02-04T13:55:00.000Z
 
 [Germain Katanga is found guilty](http://www.icc-cpi.int/en_menus/icc/press%20and%20media/press%20releases/Pages/pr986.aspx) of war crimes (murder, attacking a civilian population, destruction of property, pillaging) and crimes against humanity (murder) committed in Ituri, Democratic Republic of the Congo. It is the court's third judgment and second conviction.<sup id="fnref:source2014mar"><a class="footnote" href="#fn:source2014mar">1</a></sup>
 
-##### March 22, 2014
-
-[Charles Bl&eacute; Goud&eacute;](https://www.icc-cpi.int/cdi/gbagbo-goude), a political leader in C&ocirc;te d’Ivoire and leader of the Jeunes Patriotes (Young Patriots), is transferred to ICC custody in The Hague.
-
-##### May 20, 2014
-
-The situation in the Central African Republic is [again referred](http://www.icc-cpi.int/iccdocs/otp/2014-05-30-CAR-referral.pdf) to the ICC. After conducting a preliminary investigation, the Office of the Prosecutor [opened its second formal investigation](https://www.icc-cpi.int/Pages/item.aspx?name=pr1043) in CAR on September 24, 2014.
-
 ##### December 5, 2014
 
 The Office of the Prosecutor [withdraws](http://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200109/Pages/situation%20index.aspx) the charges against Uhuru Muigai Kenyatta, the current President of the Republic of Kenya. On March 13, 2015, the Trial Chamber decided to terminate the proceedings against Mr. Kenyatta due to the Prosecutor's withdrawal of charges.<sup id="fnref:source2014dec"><a class="footnote" href="#fn:source2014dec">2</a></sup>
