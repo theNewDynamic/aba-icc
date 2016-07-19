@@ -5,10 +5,6 @@ date: 2015-02-04T14:24:00.000Z
 ---
 
 
-##### January 7, 2005
-
-The [situation in the Central African Republic is referred to the ICC](https://www.legal-tools.org/uploads/tx_ltpdb/ICCProsecutor_receives_Referral_Concerning_CAR_01.pdf). After conducting a preliminary investigation, the Office of the Prosecutor opened a formal investigation on May 22, 2007.<sup id="fnref:source2005jan"><a class="footnote" href="#fn:source2005jan">1</a></sup>
-
 ##### March 31, 2005
 
 The [Security Council referred the situation in Darfur, Republic of the Sudan, to the ICC through Resolution 1593](http://www.icc-cpi.int/NR/rdonlyres/85FEBD1A-29F8-4EC4-9566-48EDF55CC587/283244/N0529273.pdf). The situation in the Republic of the Sudan was the first Security Council referral to the Court. After conducting a preliminary investigation, the Office of the Prosecutor [opened a formal investigation](https://www.icc-cpi.int/Pages/item.aspx?name=the+prosecutor+of+the+icc+opens+investigation+in+darfur) on July 6, 2005.<sup id="fnref:source2005mar"><a class="footnote" href="#fn:source2005mar">2</a></sup>
