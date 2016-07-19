@@ -11,8 +11,8 @@ date: 2015-06-10T15:21:00.000Z
 
 ##### **March 24, 2016**
 
-Charges are confirmed against Ahmad Al Faqi Al Mahdi for the war crime of intentionally directing attacks against buildings dedicated to religion and/or historical monuments, the first case concerning the destruction of cultural heritage before the Court, as well as the first guilty plea before the Court.
+[Charges are confirmed against Ahmad Al Faqi Al Mahdi](https://www.icc-cpi.int/Pages/item.aspx?name=pr1204) for the war crime of intentionally directing attacks against buildings dedicated to religion and/or historical monuments, the first case concerning the destruction of cultural heritage before the Court, as well as the first guilty plea before the Court.
 
-May 30, 2016
+##### May 30, 2016
 
-The [Extraordinary African Chambers](http://allafrica.com/stories/201309030735.html) (EAC) sitting in the Appeals Court of Dakar, Senegal, [issued a life sentence](http://www.nytimes.com/2016/05/31/world/africa/hissene-habre-leader-chad-war-crimes.html?_r=0) to the former President of Chad, Hiss&egrave;ne Habr&eacute;, finding him guilty of a range of international crimes, including torture, war crimes, and crimes against humanity.
+The [Extraordinary African Chambers](http://allafrica.com/stories/201309030735.html) (EAC) sitting in the Appeals Court of Dakar, Senegal, [issued a life sentence](http://www.nytimes.com/2016/05/31/world/africa/hissene-habre-leader-chad-war-crimes.html?_r=0) to the former President of Chad, Hiss&egrave;ne Habr&eacute;, finding him guilty of torture, war crimes, and crimes against humanity.
