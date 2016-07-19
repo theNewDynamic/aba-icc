@@ -21,7 +21,7 @@ The Republic of C&ocirc;te d'Ivoire (a non-State Party to the Rome Statute) [fil
 
 The Assembly of States Parties unanimously [elected Luis Moreno Ocampo of Argentina to serve as the first Prosecutor of the ICC](http://www.un.org/press/en/2003/L3035.doc.htm). Mr. Ocampo took office on June 16, 2003.<sup id="fnref:source2003apr21"><a class="footnote" href="#fn:source2003apr21">3</a></sup>
 
-##### December 2003
+##### December 16, 2003
 
 The [situation in the Republic of Uganda is referred to the ICC](https://www.icc-cpi.int/NR/rdonlyres/4BCE015E-9F70-4CD1-8AC2-4CACDB6070B6/277313/ICC_200514100561_English3.pdf), making the Republic of Uganda the first State Party referral to the ICC. After conducting a preliminary investigation, the Office of the Prosecutor [opened a formal investigation](https://www.icc-cpi.int/Pages/item.aspx?name=prosecutor%20of%20the%20international%20criminal%20court%20opens%20an%20investigation%20into%20nothern%20uganda) on July 29, 2004.<sup id="fnref:source2003dec"><a class="footnote" href="#fn:source2003dec">4</a></sup>
 
