@@ -33,7 +33,7 @@ July 17, 1998: [The Rome Statute of the International Criminal Court](http://www
 
 September 2, 1998: The ICTR [finds](http://www.un.org/en/preventgenocide/rwanda/pdf/AKAYESU%20-%20JUDGEMENT.pdf) Jean-Paul Akayesu, the former *bourgmestre* of Taba *commune*, guilty of genocide, making the ICTR the first international tribunal to enter a judgement for genocide and the first to interpret the definition of genocide.
 
-##### 1998
+##### 1999
 
 May 27, 1999: The ICTY [indicts](http://www.icty.org/sid/7765) Yugoslav President Slobodan Milošević. This is the first indictment against a sitting head of state by an international court.
 
