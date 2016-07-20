@@ -25,7 +25,7 @@ The Assembly of States Parties unanimously [elected Luis Moreno Ocampo of Argent
 
 The Royal Government of Cambodia and the United Nations signed an agreement establishing the Extraordinary Chambers in the Courts of Cambodia (ECCC). The ECCC is a hybrid-internationalized domestic court, having jurisdiction over 'senior leaders of Democratic Kampuchea and those who were most responsible for the crimes and serious violations of Cambodian penal law, international humanitarian law and custom, and international conventions recognized by Cambodia' between April 17, 1975 to January 6, 1979, or the duration of the Khmer Rouge regime. The court was established following a 20 year civil war in Cambodia after the Khmer Rouge regime fell in 1979. The Khmer Rouge regime is believed to be responsible for the deaths of at least 1.7 million civilians through starvation, torture, execution and forced labor during its close to four year reign.<sup id="fnref:source2003jun"><a class="footnote" href="#fn:source2003jun">4</a></sup>
 
-December 16, 2003
+##### December 16, 2003
 
 The [situation in the Republic of Uganda](https://www.icc-cpi.int/NR/rdonlyres/4BCE015E-9F70-4CD1-8AC2-4CACDB6070B6/277313/ICC_200514100561_English3.pdf) is referred to the ICC, making the Republic of Uganda the first State Party referral to the ICC. After conducting a preliminary investigation, the Office of the Prosecutor [opened a formal investigation](https://www.icc-cpi.int/Pages/item.aspx?name=prosecutor%20of%20the%20international%20criminal%20court%20opens%20an%20investigation%20into%20nothern%20uganda) on July 29, 2004.
 
