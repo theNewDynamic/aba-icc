@@ -11,7 +11,11 @@ slug: bemba-et-al-charges-aime-kilolo-musamba
 
 ### Factual Allegations
 
-The ICC Office of the Prosecutor (OTP) alleges that Aim&eacute; Kilolo Musamba (Kilolo) participated in a plan headed by Jean-Pierre Bemba Gombo to give monetary and other benefits to certain defense witnesses in exchange for their presentation of false testimony or evidence in *The Prosecutor v. Jean-Pierre Bemba Gombo*. The OTP alleges that Kilolo and Jean-Jacques Magenda were the individuals mostly responsible for the scheme's implementation. In so doing, Kilolo allegedly paid defense witnesses with funds made available by Bemba, attempted to introduce false or forged documents into the record, and contacted defense witnesses before, after, and sometimes during their testimony to coach them on how to answer the questions they would be asked in court.
+*This case arises from the Accused’s actions in connection with the case of [<u>The Prosecutor v. Jean-Pierre Bemba Gombo</u>](https://www.aba-icc.org/cases/case/the-prosecutor-v-bemba/), in which Jean-Pierre Bemba Gombo was charged, tried, and convicted of crimes against humanity (murder, rape) and war crimes (murder, rape, and pillaging) at the ICC.&nbsp;*
+
+The ICC Office of the Prosecutor (OTP) alleges that defense counsel Aim&eacute; Kilolo Musamba was in charge of implementation of a scheme, devised by Jean-Pierre Bemba Gombo, along with defense case manager [Jean-Jacques Mangenda Kabongo](https://www.aba-icc.org/accused/jean-jacques-magenda-kabongo/), to transfer financial compensation to defense witnesses in exchange for false testimony and false or forged documents\* favorable to the defense of Mr. Bemba in the case of [*The Prosecutor v. Jean-Pierre Bemba Gombo*](https://www.aba-icc.org/cases/case/the-prosecutor-v-bemba/). (\*Pre-Trial Chamber II declined to confirm the charge of false or forged documents.)
+
+From 2011 to November 14, 2013, Mr. Kilolo, as alleged by the OTP, contacted defense witnesses on behalf of Mr. Bemba, coached defense witnesses on the information to provide and withhold in their testimonies and transferred money to defense witnesses.&nbsp; Mr. Kilolo also advised defense witnesses to deny any meetings or contact with the defense team.
 
 Please visit the Court’s website for more information on [*The Prosecutor v. Bemba et al*](https://www.icc-cpi.int/car/Bemba-et-al#12).
 
