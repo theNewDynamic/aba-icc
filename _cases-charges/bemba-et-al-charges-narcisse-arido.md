@@ -11,7 +11,11 @@ slug: bemba-et-al-charges-narcisse-arido
 
 ### Factual Allegations
 
-The ICC Office of the Prosecutor (OTP) alleges that Narcisse Arido (Arido) participated in a plan headed by Jean-Pierre Bemba Gombo to give monetary and other benefits to certain defense witnesses in exchange for their presentation of false testimony or evidence in *The Prosecutor v. Jean-Pierre Bemba Gombo*. The OTP alleges that Arido provided false or forged evidence, which the defense attempted to put into the record. Arido also allegedly received money transfers from Aim&eacute; Kilolo and Fid&egrave;le Babala with funds made available by Bemba, which were used to pay defense witnesses.
+*This case arises from the Accused’s actions in connection with the case of [<u>The Prosecutor v. Jean-Pierre Bemba Gombo</u>](https://www.aba-icc.org/cases/case/the-prosecutor-v-bemba/), in which Jean-Pierre Bemba Gombo was charged, tried, and convicted of crimes against humanity (murder, rape) and war crimes (murder, rape, and pillaging) at the ICC.&nbsp;*
+
+The ICC Office of the Prosecutor (OTP) alleges that Jean-Pierre Bemba Gombo’s former close associate Narcisse Arido participated in a scheme, devised by Mr. Bemba, to transfer financial compensation to defense witnesses in exchange for false testimony and false or forged documents\* favorable to the defense of Mr. Bemba in the case of [*The Prosecutor v. Jean-Pierre Bemba Gombo*](https://www.aba-icc.org/cases/case/the-prosecutor-v-bemba/). (\*Pre-Trial Chamber II declined to confirm the charge of false or forged documents.)
+
+In 2012, Mr. Arido, as alleged by OTP, though initially contacted by defense counsel [Aim&eacute; Kilolo Musamba](https://www.aba-icc.org/accused/aime-kilolo-musamba/) with regard to serving as an expert witness on military operations in CAR, recruited other defense witnesses to falsely testify that they were members of CAR armed forces (when they were not), &nbsp;coached their testimonies, and transferred money to them.&nbsp; Mr. Arido was also a liaison between Mr. Kilolo and the recruited defense witnesses and received transfers of money from Mr. Kilolo, Mr. Bemba’s former primary political advisor [Fid&egrave;le Babala Wandu](https://www.aba-icc.org/accused/fid-le-babala-wandu/), and Mr. Babala’s chauffeur.&nbsp;
 
 Please visit the Court’s website for more information on [*The Prosecutor v. Bemba et al*](https://www.icc-cpi.int/car/Bemba-et-al).
 
