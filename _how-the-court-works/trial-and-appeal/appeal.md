@@ -2,7 +2,7 @@
 title: Appeal
 published: true
 process: trial-and-appeal
-sort_order: 03
+sort_order: 3
 ---
 
 

@@ -2,7 +2,7 @@
 title: Reparations
 published: true
 process: sentencing-and-reparations
-sort_order: 02
+sort_order: 2
 ---
 
 

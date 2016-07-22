@@ -2,7 +2,7 @@
 title: State Party Referral
 published: true
 process: referrals-and-communication
-sort_order: 02
+sort_order: 2
 ---
 
 

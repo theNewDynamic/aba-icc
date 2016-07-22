@@ -2,7 +2,7 @@
 title: Proprio Motu Investigations
 published: true
 process: referrals-and-communication
-sort_order: 04
+sort_order: 4
 ---
 
 

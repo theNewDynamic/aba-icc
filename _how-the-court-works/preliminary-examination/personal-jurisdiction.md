@@ -2,7 +2,7 @@
 title: Personal Jurisdiction
 published: true
 process: preliminary-examination
-sort_order: 05
+sort_order: 5
 ---
 
 

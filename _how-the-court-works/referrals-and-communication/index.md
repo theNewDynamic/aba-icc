@@ -2,7 +2,7 @@
 title: Jurisdictional Triggers
 published: true
 process: referrals-and-communication
-sort_order: 01
+sort_order: 1
 ---
 
 

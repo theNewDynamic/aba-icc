@@ -2,7 +2,7 @@
 title: Investigation Process
 published: true
 process: investigation
-sort_order: 01
+sort_order: 1
 ---
 
 
