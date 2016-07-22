@@ -1,7 +1,7 @@
 ---
 title: 'Preliminary Examinations, Initial Assessment'
 process: preliminary-examination
-order: 2
+sort_order: 02
 published: true
 ---
 

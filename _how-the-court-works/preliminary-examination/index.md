@@ -1,7 +1,7 @@
 ---
 title: Preliminary Examination
 process: preliminary-examination
-order: 1
+sort_order: 01
 permalink: /how-the-court-works/preliminary-examination/
 ---
 

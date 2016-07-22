@@ -2,7 +2,7 @@
 title: 'Trial & Appeal'
 published: true
 process: trial-and-appeal
-order: 1
+sort_order: 01
 ---
 
 

@@ -3,7 +3,7 @@ title: Confirmation of Charges
 process: confirmation-of-charges
 published: true
 phase:
-order: 1
+sort_order: 01
 ---
 
 

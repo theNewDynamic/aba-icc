@@ -2,5 +2,5 @@
 title:
 published: true
 process:
-order: 
+sort_order: 
 ---

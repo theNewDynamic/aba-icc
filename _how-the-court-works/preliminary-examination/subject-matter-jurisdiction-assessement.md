@@ -1,7 +1,7 @@
 ---
 title: 'Preliminary Examinations, Subject Matter Jurisdiction Assessement'
 process: preliminary-examination
-order: 4
+sort_order: 04
 published: true
 phase: 'Situations & Cases'
 ---

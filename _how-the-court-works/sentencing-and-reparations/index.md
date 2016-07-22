@@ -2,7 +2,7 @@
 title: 'Sentencing & Reparations'
 process: sentencing-and-reparations
 published: true
-order: 1
+sort_order: 01
 permalink: /how-the-court-works/sentencing-and-reparations/
 ---
 

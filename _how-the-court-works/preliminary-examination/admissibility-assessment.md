@@ -1,7 +1,7 @@
 ---
 title: 'Preliminary Examinations, Admissibility Assessment'
 process: preliminary-examination
-order: 3
+sort_order: 03
 published: false
 ---
 

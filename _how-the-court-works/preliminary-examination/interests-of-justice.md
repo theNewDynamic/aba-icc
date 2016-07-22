@@ -1,7 +1,7 @@
 ---
 title: 'Admissibility Assessment: Interest of Justice'
 process: preliminary-examination
-order: 8
+sort_order: 08
 published: true
 ---
 

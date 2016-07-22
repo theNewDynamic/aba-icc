@@ -2,7 +2,7 @@
 title: Rights of the Accused
 published: true
 process: trial-and-appeal
-order: '2'
+sort_order: 02
 ---
 
 
