@@ -32,7 +32,7 @@ processes:
   - trial-and-appeal
   - sentencing-and-reparations
 
-order_number:
+sort_order:
   - 01
   - 02
   - 03
