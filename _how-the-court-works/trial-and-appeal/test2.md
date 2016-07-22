@@ -1,7 +1,7 @@
 ---
 title: test2
 published: true
-process:
+process: trial-and-appeal
 sort_order: '1'
 ---
 
