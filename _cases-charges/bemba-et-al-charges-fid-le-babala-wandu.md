@@ -17,7 +17,7 @@ slug: bemba-et-al-charges-fidèle-babala-wandu
 The ICC Office of the Prosecutor (OTP) alleges that Jean-Pierre Bemba Gombo’s former primary political advisor Fid&egrave;le Babala Wandu participated in a scheme, devised by Mr. Bemba, to transfer financial compensation to defense witnesses in exchange for false evidence (false testimony and false or forged documents\*) favorable to the defense of Mr. Bemba in the case of [*The Prosecutor v. Jean-Pierre Bemba Gombo*](https://www.aba-icc.org/cases/case/the-prosecutor-v-bemba/). (\*Pre-Trial Chamber II declined to confirm the charge of false or forged documents.)
 {: .present-before-paste}
 
-From 2011 to November 14, 2013, Mr. Babala, as alleged by the OTP, following conversations with Mr. Bemba, made transfers of money to defense witnesses.&nbsp; Mr. Babala personally and through his chauffeur also made transfers of money to defense counsel [Aim&eacute; Kilolo Musamba](https://www.aba-icc.org/accused/aime-kilolo-musamba/) and defense case manager [Jean-Jacques Mangenda Kabongo](https://www.aba-icc.org/accused/jean-jacques-magenda-kabongo/).&nbsp;
+From 2011 to November 14, 2013, Mr. Babala, as alleged by the OTP, following conversations with Mr. Bemba, made transfers of money to defense witnesses.&nbsp; Mr. Babala personally and through his chauffeur also made transfers of money to lead defense counsel [Aim&eacute; Kilolo Musamba](https://www.aba-icc.org/accused/aime-kilolo-musamba/) and defense case manager [Jean-Jacques Mangenda Kabongo](https://www.aba-icc.org/accused/jean-jacques-magenda-kabongo/).&nbsp;
 {: .present-before-paste}
 
 Please visit the Court’s website for more information on [*The Prosecutor v. Bemba et al*](https://www.icc-cpi.int/car/Bemba-et-al).
