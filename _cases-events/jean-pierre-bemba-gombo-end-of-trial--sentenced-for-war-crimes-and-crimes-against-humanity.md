@@ -2,7 +2,7 @@
 title: Bemba - Jean-Pierre Bemba Gombo - Trial Judgment
 published: false
 event_date: 2016-03-21T00:00:00.000Z
-action: Trial Judgement
+action: Trial Judgment
 case: the-prosecutor-v-bemba
 accused: jean-pierre-bemba-gombo
 youtube_id: sqHt2Yr555A
