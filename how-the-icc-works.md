@@ -1,16 +1,14 @@
 ---
-title: How the ICC Works
+title: Atrocity Crimes
 published: true
 featured_image_path: /uploads/icc-permanent_45op.png
 description: The ICC is a court of last resort. It has to adhere to a great number of rules to determine where and when it can operate.
-layout: page-education
+layout:
 regenerate: true
 sitemap: false
 permalink: /how-the-icc-works/
 ---
 
-
-## Atrocity Crimes
 
 [The]() ICC is the world’s only permanent tribunal with a mandate to investigate and prosecute genocide, crimes against humanity, and war crimes, which are collectively called “atrocity crimes”. While these crimes have many overlapping characteristics and a criminal act could be one, two, or all three of them, the three atrocity crimes are distinct. There is also no hierarchy among the three atrocity crimes. One crime is not graver than another.
 
