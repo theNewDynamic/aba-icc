@@ -7,4 +7,4 @@ phase: 'Situations & Cases'
 ---
 
 
-The alleged crimes must satisfy the [Rome Statute](https://www.icc-cpi.int/nr/rdonlyres/ea9aeff7-5752-4f84-be94-0a655eb30e16/0/rome_statute_english.pdf) definitions of either war crimes, crimes against humanity, genocide, or aggression, known collectively as “atrocity crimes”. If the alleged crimes cannot be defined as an atrocity crime, the case cannot move forward at the ICC. &nbsp;
+The alleged crimes <u>must</u> satisfy the Rome Statute definitions of either war crimes, crimes against humanity, or genocide, known collectively as “atrocity crimes”. If the alleged crimes cannot be defined as an atrocity crime, the case cannot move forward at the ICC. &nbsp;
