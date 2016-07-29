@@ -1,8 +1,8 @@
 ---
 title: "ABA's ICC Project/Ipsos Poll Finds Support for Increased Assistance to the ICC"
-published: false
-date: 2016-12-01T12:00:00.000Z
-featured_image_path:
+published: true
+date: 2016-07-26T12:00:00.000Z
+featured_image_path: /uploads/archive-images-8554452.jpg
 ---
 
 
