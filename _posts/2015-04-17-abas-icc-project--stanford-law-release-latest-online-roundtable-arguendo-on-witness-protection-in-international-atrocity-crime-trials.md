@@ -1,6 +1,6 @@
 ---
 title: "ABA's ICC Project & Stanford Law release latest online roundtable, Arguendo, on witness protection in international atrocity crime trials"
-published: false
+published: true
 date: 2015-04-17T12:00:00.000Z
 featured_image_path: /uploads/kenya-icc-justice-301013.jpg
 ---
