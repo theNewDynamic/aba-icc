@@ -2,7 +2,7 @@
 title: ABA Center for Human Rights Forms Working Group on Crimes Against Humanity
 published: true
 date: 2016-04-08T11:00:00.000Z
-featured_image_path:
+featured_image_path: /uploads/dc.jpg
 ---
 
 
