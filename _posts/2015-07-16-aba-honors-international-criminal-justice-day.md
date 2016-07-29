@@ -1,7 +1,7 @@
 ---
 title: ABA honors International Criminal Justice Day
 published: true
-date: 2015-07-16T12:00:00.000Z
+date: 2015-07-16T15:00:00.000Z
 featured_image_path: /uploads/1437099963494_img_6608_19727676076_o.jpg
 ---
 
