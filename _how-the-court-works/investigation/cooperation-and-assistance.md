@@ -6,4 +6,17 @@ sort_order: 2
 ---
 
 
-The ICC is an independent international court of law, but does not have its own police force or independent enforcement body because the ICC cannot enter sovereign countries without a country’s permission. So, the ICC depends on the “cooperation and assistance” of countries to allow ICC investigators and other personnel to enter their country and to assist the ICC’s investigations while in their country, such as grant them access to documents, help locate witnesses, and help identify crime sites, just to name a few examples.
+The ICC cannot act unilaterally because:
+
+* It does not have its own police force or independent enforcement powers
+
+
+* It cannot enter or obtain evidence in sovereign countries without the country’s permission.
+
+
+As a result, the ICC depends on the “cooperation and assistance” of countries in order to facilitate investigations and prosecutions. Cooperation and assistance may include:
+
+* Allowing access to documents and other evidence;
+* Tasking domestic personnel to assist the OTP
+* Helping locate witnesses and victims; and
+* Assisting in the identification of crime sites
