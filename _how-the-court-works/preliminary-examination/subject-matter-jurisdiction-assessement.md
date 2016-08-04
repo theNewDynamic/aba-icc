@@ -1,5 +1,5 @@
 ---
-title: 'Preliminary Examinations, Subject Matter Jurisdiction Assessement'
+title: Subject Matter Jurisdiction Assessment
 process: preliminary-examination
 sort_order: 4
 published: true
