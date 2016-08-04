@@ -7,6 +7,11 @@ sort_order: 1
 ---
 
 
-Once an individual official appears before the three-member Pre-Trial Chamber (PTC) by summons or arrest warrant, the PTC must hold a hearing within a reasonable amount of time to “confirm the charges” presented by the Office of the Prosecutor (OTP). Based on the strength of the evidence presented by the OTP and Defense arguments at this hearing, the PTC can either confirm the charges and send the case to the Trial Chambers for trial (whereby the individual becomes the “Accused”) , or decline to confirm the charges thereby setting the individual under suspicion free. The PTC can also pause the hearing to request the OTP to provide additional evidence or change the charges with the evidence presented. &nbsp; &nbsp;
+After an individual’s initial appearance, the Pre-Trial Chambers (PTC) must hold a hearing within a reasonable amount of time to confirm or dismiss the charges presented by the Office of the Prosecutor (OTP). The PTC can either:
 
-The OTP can provide additional evidence at a later time in order to convince the PTC to confirm the charges, or start the whole process over with different charges.&nbsp;
+* Confirm the charges and send the case to the Trial Chambers for trial (whereby the individual becomes the “Accused”)
+* Dismiss the charges and set the individual free
+* Pause the hearing to request the OTP to produce additional evidence or change the charges with the evidence presented.
+
+
+If dismissed, the OTP can provide additional evidence at a later time in order either to convince the PTC to confirm the previous charges, or start the whole process over with different charges.
