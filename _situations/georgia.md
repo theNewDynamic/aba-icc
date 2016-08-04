@@ -4,8 +4,8 @@ country: georgia
 published: true
 date: 2015-02-23T19:09:00.000Z
 phase: 'Situations & Cases'
-link_to_more_information: 'http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/office%20of%20the%20prosecutor/comm%20and%20ref/pe-ongoing/georgia/Pages/georgia.aspx'
-description: 'This investigation concerns allegations of pillaging and damage to civilian property resulting from the armed conflict between South Ossetian forces backed by Russia and the Georgian Army. The ICC has a formal investigation opened in Georgia. '
+link_to_more_information: 'https://www.icc-cpi.int/georgia'
+description: This investigation concerns allegations of pillaging and damage to civilian property resulting from the armed conflict between South Ossetian forces backed by Russia and the Georgian Army. The ICC has a formal investigation opened in Georgia.
 slug: georgia
 ---
 
