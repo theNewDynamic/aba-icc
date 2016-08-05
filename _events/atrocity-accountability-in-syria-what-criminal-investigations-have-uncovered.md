@@ -8,4 +8,4 @@ recap_link: 'https://www.international-criminal-justice-today.org/events/atrocit
 ---
 
 
-On April 14, 2015, the American Bar Association (ABA) Center for Human Rights and its International Criminal Court Project hosted a closed-door meeting of experts entitled " *Atrocity Accountability in Syria: What Criminal Investigations Have Uncovered*", which featured a distinguished panel.
+On April 14, 2015, the American Bar Association (ABA) Center for Human Rights and its International Criminal Court Project hosted a closed-door meeting of experts entitled "*Atrocity Accountability in Syria: What Criminal Investigations Have Uncovered*", which featured a distinguished panel.
