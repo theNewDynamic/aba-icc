@@ -15,7 +15,7 @@ The ICC Office of the Prosecutor (OTP) alleged that Okot Odhiambo was Deputy Arm
 
 Under Mr. Kony's orders, as alleged by the OTP, Mr. Odhiambo instructed and armed LRA forces to do the following: to attack Ugandan government forces and civilians in certain regions and internally displaced camps of Uganda; to murder civilians; to abduct and enslave civilians including children as forced laborers, forced fighters, and sexual slaves; and to pillage property in certain regions and internally displaced persons camps.&nbsp;
 
-In March 2015, the Government of Uganda exhumed a corpse which was identified through DNA testing as that of Mr. Odhiambo and certified that Mr. Odhiambo died on October 27, 2013. On September 7, 2015, Pre-Trial Chamber II terminated proceedings against Okot Odhiambo.
+In March 2015, the Government of Uganda exhumed a corpse which was identified through DNA testing as that of Mr. Odhiambo and certified that Mr. Odhiambo died on October 27, 2013. On September 7, 2015, Pre-Trial Chamber II terminated proceedings against Mr. Odhiambo.
 
 Please visit the Court's website for more information on *[The Prosecutor v. Kony et al.](https://www.icc-cpi.int/uganda/kony)*
 
