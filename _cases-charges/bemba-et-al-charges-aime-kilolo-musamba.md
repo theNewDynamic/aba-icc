@@ -15,7 +15,7 @@ slug: bemba-et-al-charges-aime-kilolo-musamba
 
 The ICC Office of the Prosecutor (OTP) alleges that lead defense counsel Aim&eacute; Kilolo Musamba was in charge of implementation of a scheme, devised by Jean-Pierre Bemba Gombo, along with defense case manager [Jean-Jacques Mangenda Kabongo](https://www.aba-icc.org/accused/jean-jacques-magenda-kabongo/), to transfer financial compensation to defense witnesses in exchange for false testimony and false or forged documents\* favorable to the defense of Mr. Bemba in the case of [*The Prosecutor v. Jean-Pierre Bemba Gombo*](https://www.aba-icc.org/cases/case/the-prosecutor-v-bemba/). (\*Pre-Trial Chamber II declined to confirm the charge of false or forged documents.)
 
-From 2011 to November 14, 2013, Mr. Kilolo, as alleged by the OTP, following conversations with Mr. Bemba, scheduled and contacted defense witnesses, coached defense witnesses on the information to provide and withhold in their testimonies, and transferred money to defense witnesses. Mr. Kilolo also advised defense witnesses to deny any meetings or contact with the defense team and to refuse to meet with the OTP.&nbsp;
+From 2011 to November 14, 2013, Mr. Kilolo, as alleged by the OTP, following conversations with Mr. Bemba, contacted and scheduled defense witnesses, coached defense witnesses on the information to provide and withhold in their testimonies, and transferred money to defense witnesses. Mr. Kilolo also advised defense witnesses to deny any meetings or contact with the defense team and to refuse to meet with the OTP.&nbsp;
 
 Please visit the Court’s website for more information on [*The Prosecutor v. Bemba et al*](https://www.icc-cpi.int/car/Bemba-et-al#12).
 
