@@ -4,7 +4,7 @@ published: true
 board_chair:
 last_name: Rapp
 image_path: /uploads/1446508766027_vyt00165-168x168.jpg
-position: U.S. Ambassador at-large for War Crimes Issues (2009-15)
+position: U.S. Ambassador at-Large for War Crimes Issues (2009-15)
 description:
 ---
 
