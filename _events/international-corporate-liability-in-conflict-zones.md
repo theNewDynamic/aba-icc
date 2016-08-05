@@ -4,7 +4,7 @@ published: true
 date: 2013-04-22T12:00:00.000Z
 start_at: 2013-04-22T12:00:00.000Z
 featured_image_path: /uploads/bensouda_fourth_suspect_2.jpg
-recap_link: 'http://www.international-criminal-justice-today.org/event/2013/03/21/international-corporate-liability-in-conflict-zones/'
+recap_link: 'https://www.international-criminal-justice-today.org/events/international-corporate-liability-in-conflict-zones/'
 ---
 
 
