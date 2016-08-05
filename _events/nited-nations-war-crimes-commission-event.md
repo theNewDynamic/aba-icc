@@ -4,7 +4,7 @@ published: true
 date: 2013-08-08T12:00:00.000Z
 start_at: 2013-08-08T12:00:00.000Z
 featured_image_path: /uploads/wcc4382.jpg
-recap_link: 'http://www.international-criminal-justice-today.org/event/2013/08/07/united-nations-war-crimes-commission-event/'
+recap_link: 'https://www.international-criminal-justice-today.org/events/united-nations-war-crimes-commission-event/'
 ---
 
 
