@@ -15,7 +15,7 @@ The ICC Office of the Prosecutor (OTP) alleged that Raska Lukwiya was the Army C
 
 Under Mr. Kony's orders, as alleged by the OTP, Mr. Lukwiya instructed and armed LRA forces to do the following: to attack Ugandan government forces and civilians in certain regions and internally displaced camps of Uganda; to murder civilians; to abduct and enslave civilians including children as forced laborers, forced fighters, and sexual slaves; and to pillage property in certain regions and internally displaced persons camps. &nbsp;
 
-In October 2006, at the request of the Government of Uganda and the ICC Prosecutor, the Netherlands Ministry of Justice-Forensics Institute reported its conclusion that the remains of the person killed on August 12, 2006 was that of Mr. Lukwiya, and the Government of Uganda provided notice that, in addition to DNA testing, there was body identification by Mr. Lukwiya’s family members and confirmation of death by LRA command. On July 11, 2007, Pre-Trial Chamber II terminated proceedings against Mr. Lukwiya.
+In October 2006, at the request of the Government of Uganda and the OTP, the Netherlands Ministry of Justice-Forensics Institute reported its conclusion that the remains of the person killed on August 12, 2006 was that of Mr. Lukwiya, and the Government of Uganda provided notice that, in addition to DNA testing, there was body identification by Mr. Lukwiya’s family members and confirmation of death by LRA command. On July 11, 2007, Pre-Trial Chamber II terminated proceedings against Mr. Lukwiya.
 
 Please visit the Court's website for more information on [*The Prosecutor v. Kony et al*.](https://www.icc-cpi.int/uganda/kony)
 
