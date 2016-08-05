@@ -4,7 +4,7 @@ published: true
 date: 2014-06-07T12:00:00.000Z
 start_at: 2014-06-07T12:00:00.000Z
 featured_image_path: /uploads/iccprovisional.jpg
-recap_link: 'http://www.international-criminal-justice-today.org/event/2014/06/02/practical-challenges-icc/'
+recap_link: 'https://www.international-criminal-justice-today.org/events/practical-challenges-of-international-criminal-justice/'
 ---
 
 
