@@ -4,7 +4,7 @@ published: true
 date: 2013-06-11T12:00:00.000Z
 start_at: 2013-06-11T12:00:00.000Z
 featured_image_path: /uploads/un-photo-evan-schneider.jpg
-recap_link: 'http://www.international-criminal-justice-today.org/event/2013/06/10/US-amb-rapp-congressional-briefing/'
+recap_link: 'https://www.international-criminal-justice-today.org/events/us-ambassador-for-global-criminal-justice-briefing-at-us-congress/'
 ---
 
 
