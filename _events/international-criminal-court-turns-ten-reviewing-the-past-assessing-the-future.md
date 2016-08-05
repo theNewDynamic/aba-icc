@@ -4,7 +4,7 @@ published: true
 date: 2012-05-11T12:00:00.000Z
 start_at: 2012-05-11T12:00:00.000Z
 featured_image_path: /uploads/14467279178_ff82572de5_o.jpg
-recap_link: 'http://www.international-criminal-justice-today.org/event/2012/05/11/introduction-and-the-icc-as-a-new-judicial-institution'
+recap_link: 'https://www.international-criminal-justice-today.org/events/icc-turns-ten-reviewing-the-past-assessing-the-future/'
 ---
 
 
