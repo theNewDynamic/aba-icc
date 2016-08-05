@@ -4,7 +4,7 @@ published: true
 date: 2012-11-12T12:00:00.000Z
 start_at: 2012-11-12T12:00:00.000Z
 featured_image_path: /uploads/121112_mhb_law_icc_517.jpg
-recap_link: 'http://www.international-criminal-justice-today.org/event/2012/10/12/the-international-criminal-court-at-10/'
+recap_link: 'https://www.international-criminal-justice-today.org/events/the-international-criminal-court-at-10/'
 ---
 
 
