@@ -12,4 +12,4 @@ The first step of a trial is to allow the Office of the Prosecutor to present it
 
 Once the OTP’s case is concluded, the second step of the trial is for the Accused and his/her defense team can present their own evidence. The OTP and Victims are allowed to test the strength of the Defense evidence as well.
 
-Once the trial is complete, the TC deliberates in private, and reaches a guilty or not guilty verdict. The TC delivers their verdict with written justifications, called a “judgment.”
+The last step, once the trial is complete, is for the TC to deliberate in private, and reach a guilty or not guilty verdict. The TC delivers their verdict with written justifications, called a “judgment.”
