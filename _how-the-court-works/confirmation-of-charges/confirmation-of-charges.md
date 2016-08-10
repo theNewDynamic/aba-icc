@@ -14,4 +14,4 @@ After an individual’s initial appearance, the Pre-Trial Chambers (PTC) must ho
 * Pause the hearing to request the OTP to produce additional evidence or change the charges with the evidence presented.
 
 
-If dismissed, the OTP can provide additional evidence at a later time in order either to convince the PTC to confirm the previous charges, or start the whole process over with different charges.
+If dismissed, the OTP can provide additional evidence at a later time in order to either convince the PTC to confirm the previous charges, or start the whole process over again with different charges.
