@@ -12,7 +12,7 @@ permalink: /how-the-icc-works/
 
 **Atrocity Crimes**
 
-The ICC is the world’s only permanent tribunal with a mandate to investigate and prosecute genocide, crimes against humanity, and war crimes, which are collectively called “atrocity crimes”. While these crimes have many overlapping characteristics and a criminal act could be one, two, or all three of them, the three atrocity crimes are distinct. There is also no hierarchy among the three atrocity crimes. One crime is not graver than another.
+The ICC is the world’s only permanent tribunal with a mandate to investigate and prosecute genocide, crimes against humanity, and war crimes, which are collectively called “atrocity crimes”. While these crimes have many overlapping characteristics - as a criminal act could be one, two, or all three of them - &nbsp;the three atrocity crimes are distinct. There is also no hierarchy among the three atrocity crimes. One crime is not graver than another.
 
 War Crimes are criminal acts committed within the context of an “armed conflict”, whether an international or a civil war. The criminal act must be related to the armed conflict, so a random theft done during a conflict is not a “war crime”. A war crime can be many different things, from illegal seizure of property to murder.
 
