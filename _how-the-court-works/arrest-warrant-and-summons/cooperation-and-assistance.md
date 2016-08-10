@@ -6,7 +6,7 @@ sort_order: 2
 ---
 
 
-Carrying out an arrest warrant depends on the cooperation and assistance of countries, specifically a country where the fugitive is located and the country’s law enforcement making the arrest.
+Carrying out an arrest warrant depends on the cooperation and assistance of countries, specifically of the country where the fugitive is located and the country’s law enforcement making the arrest.
 
 The case of President of Sudan Omar al-Bashir illustrates well the issue of ICC arrest warrants. While two arrest warrants for crimes against humanity, war crimes, and genocide have been issued by the ICC, President al-Bashir is still at large. While some of his travel has been limited, President al-Bashir has traveled to numerous countries since then. He remains at large and his trial will not occur until Sudan or another country is willing to arrest and transfer him to the ICC.&nbsp;
 
