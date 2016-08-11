@@ -5,7 +5,7 @@ published: true
 date: 2015-02-23T19:16:00.000Z
 phase: 'Preliminary Examinations, Closed - Decision Not to Proceed'
 link_to_more_information: 'http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/office%20of%20the%20prosecutor/comm%20and%20ref/pe-cdnp/comoros/Pages/default.aspx'
-description: 'The preliminary examination in Cambodia focuses on allegations of killings of civilians during the boarding of the Mavi Marmara as it attempted to breach the Israeli blockade of the Gaza Strip. The OTP closed the preliminary examination in Cambodia on June 11, 2014.'
+description: 'The preliminary examination in Cambodia focuses on allegations of killings of civilians during the boarding of the Mavi Marmara as it attempted to breach the Israeli blockade of the Gaza Strip. The OTP closed the preliminary examination on June 11, 2014.'
 slug: cambodia
 ---
 
