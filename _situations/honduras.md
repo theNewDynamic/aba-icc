@@ -5,7 +5,7 @@ published: true
 date: 2015-02-23T19:07:00.000Z
 phase: 'Preliminary Examinations, Closed - Decision Not to Proceed'
 link_to_more_information: 'http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/office%20of%20the%20prosecutor/comm%20and%20ref/pe-ongoing/honduras/Pages/honduras.aspx'
-description: "This preliminary examination concerns the 2009 coup d'état as well as the resulting restrictions of civil liberties and police violence against civilians. The Office of the Prosecutor decided to close the preliminary examination in Honduras on October 28, 2015."
+description: "This preliminary examination concerns the 2009 coup d'état as well as the resulting restrictions of civil liberties and police violence against civilians. The OTP closed the preliminary examination in Honduras on October 28, 2015."
 slug: honduras
 ---
 
