@@ -10,7 +10,7 @@ slug: cambodia
 ---
 
 
-&nbsp;The Preliminary Examination in Cambodia focuses on alleged atrocity crimes committed during a conflict which involved Israel, Comoros, Greece, Turkey, Kiribati, Togo, Cambodia, and the U.S. and which occurred on May 31, 2010.
+The Preliminary Examination in Cambodia focuses on alleged atrocity crimes committed during a conflict which involved Israel, Comoros, Greece, Turkey, Kiribati, Togo, Cambodia, and the U.S. and which occurred on May 31, 2010.
 {: .present-before-paste}
 
 On January 3, 2009, Israel created a [naval blockade](http://www.globalsecurity.org/military/world/palestine/gaza-blockade.htm) around the coast surrounding the Gaza Strip as part of an effort to limit the flow of certain goods in and out of the area. The Free Gaza Moment, formed to challenge the [blockade](http://www.aljazeera.com/indepth/features/2011/10/20111030172356990380.html), created a flotilla of eight ships registered to Comoros, Greece, Turkey, Kiribati, Togo, Cambodia, and the United States of America. Of the represented states, only Comoros, Greece, and Cambodia are State Parties to the Rome Statute. On May 31, 2010, members of the Israeli Defense Force (IDF) intercepted the [flotilla](http://www.theguardian.com/world/2010/may/31/israeli-attacks-gaza-flotilla-activists) and boarded the *Mavi Marmara*, which flew under the flag of Comoros. While the IDF members were boarding the [*Mavi Marmara*](http://www.bbc.com/news/world-middle-east-29934002), nine people were [killed](http://www.nbcnews.com/id/37423584/ns/world_news-mideast_n_africa/t/bloody-israeli-raid-flotilla-sparks-crisis/#.VztRy_krLIU).
