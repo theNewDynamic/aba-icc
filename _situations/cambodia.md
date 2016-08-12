@@ -5,7 +5,7 @@ published: true
 date: 2015-02-23T19:16:00.000Z
 phase: 'Preliminary Examinations, Closed - Decision Not to Proceed'
 link_to_more_information: 'https://www.icc-cpi.int/comoros'
-description: 'The preliminary examination in Cambodia focuses on allegations of killings of civilians during the boarding of the Mavi Marmara as it attempted to breach the Israeli blockade of the Gaza Strip. The OTP closed the preliminary examination on June 11, 2014.'
+description: 'The Preliminary Examination in Cambodia focuses on alleged atrocity crimes (crimes against humanity, war crimes) committed during an attack upon civilians which involved Israeli Defense Forces (IDF) and ships registered to various countries including Comoros, Greece, and Cambodia and which occurred on May 31, 2010. On November 6, 2014, the OTP closed the preliminary examination. However, on July 16, 2015, Pre-Trial Chamber I requested that the OTP reconsider her decision not to open a formal investigation.'
 slug: cambodia
 ---
 
