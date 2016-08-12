@@ -22,8 +22,5 @@ On May 31, 2010, the Israeli Defense Forces (IDF) surrounded and [boarded](https
 Cambodia [ratified](https://asp.icc-cpi.int/en_menus/asp/states%20parties/asian%20states/Pages/cambodia.aspx) the Rome Statute on April 11, 2002. On May 14, 2013, Comoros [referred](https://www.legal-tools.org/uploads/tx_ltpdb/doc1615044_05.pdf) itself to the ICC, and the ICC Office of the Prosecutor (OTP) [opened](https://www.icc-cpi.int/NR/rdonlyres/63682F4E-49C8-445D-8C13-F310A4F3AEC2/284116/OTPReportonPreliminaryExaminations13December2011.pdf) a preliminary examination into the State Parties involved–Comoros, Greece, and Cambodia. On November 6, 2014, the OTP [closed](https://www.icc-cpi.int//Pages/item.aspx?name=otp-statement-06-11-2014) the preliminary examination on grounds that the Rome Statute's requirements for opening a formal investigation had not been met.
 {: .present-before-paste}
 
-&nbsp;
-{: .present-before-paste}
-
 For more information on the preliminary examination in Cambodia, please visit the [ICC page](https://www.icc-cpi.int/comoros).
 {: .present-before-paste}
