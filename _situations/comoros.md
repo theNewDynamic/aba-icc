@@ -10,7 +10,7 @@ slug: comoros
 ---
 
 
-The Preliminary Examination in Comoros focuses on alleged atrocity crimes (crimes against humanity, war crimes) committed during an attack upon civilians which involved Israeli Defense Forces (IDF) and ships registered to various countries including Comoros, Greece, and Cambodia and which occurred on May 31, 2010.
+The Preliminary Examination in registered vessels of Comoros, Greece, and Cambodia focuses on alleged atrocity crimes (crimes against humanity, war crimes) committed during an attack upon civilians which involved Israeli Defense Forces (IDF) and ships registered to various countries including Comoros, Greece, and Cambodia and which occurred on May 31, 2010.
 
 On January 3, 2009, as a part of the continuing conflict between Israel and Palestine, Israel enforced a naval blockade of the Gaza Strip to restrict the movement of people and goods in and out of the region. In response to Israel’s blockade, the Free Gaza Movement decided to send an eight-boat flotilla of ships called the “Gaza Freedom Flotilla” to break the blockade and deliver humanitarian aid to Gaza. On May 28, 2010, the eight-boat flotilla of ships embarked upon the journey from Turkey; however, one ship was unable to depart and one ship was delayed due to mechanical issues. The eight ships carried over 700 passengers from 36 countries, and the ships were registered to various countries including State Parties Comoros, Greece, and Cambodia. &nbsp;&nbsp;
 
