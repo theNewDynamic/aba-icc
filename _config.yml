@@ -241,7 +241,7 @@ defaults:
     values:
       exclude_from_search: true
 
-compress_html:
-  ignore:
-    envs: [development]
-  profile: false
+# compress_html:
+#   ignore:
+#     envs: [development]
+#   profile: false

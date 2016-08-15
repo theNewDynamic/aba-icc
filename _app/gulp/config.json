@@ -1,7 +1,7 @@
 {
 
- "scssSrc":"./sass",
- "cssDist":"./../assets/css",
+ "scssSrc":"./_scss",
+ "cssDist":"./../static/css",
 
  "scriptsSrc":[
    "./node_modules/jquery/dist/jquery.js",
@@ -14,17 +14,17 @@
    "./js/*.js"
   ],
   "scriptsWatch":"./js",
-  "scriptsDest":"./../assets/js",
+  "scriptsDest":"./../static/js",
 
   "imgSrc":"./src/img",
-  "imgDist":"./../assets/images",
+  "imgDist":"./../static/images",
 
   "filesSrc":[
     "./js/dist/maps.min.js",
     "./node_modules/html5shiv/dist/html5shiv.min.js",
     "./node_modules/respond.js/dest/respond.min.js"
     ],
-  "filesSrcDest":"./../assets/js",
+  "filesSrcDest":"./../static/js",
 
    "jekyllPath": ["./index.html", "./_posts/*", "./_layouts/*", "./_includes/*" , "./assets/*", "./assets/**/*"],
    "browserList":"> 1%', 'last 2 versions', 'Firefox ESR', 'Opera 12.1",
@@ -34,5 +34,5 @@
      "./js/maps/ammap.js",
      "./js/maps/worldLow.js"
    ],
-   "mapsDest":"./../assets/maps"
+   "mapsDest":"./../static/maps"
 }
