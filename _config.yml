@@ -52,7 +52,7 @@ jekyll_get:
 
 
 version: 3.0.3
-full_rebuild: true
+#full_rebuild: true
 image_url: https://aba-icc.imgix.net
 kramdown:
   input: GFM

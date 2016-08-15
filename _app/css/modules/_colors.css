@@ -1,14 +1,15 @@
 
-.border-muted {border-color: rgba(255,255,255,0.1)}
+.bg-blue-dark   { background-color: var(--blue-dark) }
+.bg-white  { background-color: var(--white) }
+/*.border-muted {border-color: rgba(255,255,255,0.1)}
 .bg-brand { background-color: var(--brand)}
 .color-brand { color: var(--brand) !important;}
 .red { color: var(--red) }
-.near-white { color: var(--white-70) }
+.near-white { color: var(--white-70) }*/
 
-.bg-black  { background-color: var(--black) }
+/*.bg-black  { background-color: var(--black) }
 .bg-gray   { background-color: var(--gray) }
 .bg-silver { background-color: var(--silver) }
-.bg-white  { background-color: var(--white) }
 .bg-red     { background-color: var(--red) }
 .bg-white-70 { background-color: var(--white-70)}
 .bg-near-white { background-color: var(--near-white)}
@@ -21,10 +22,10 @@
 .moon-gray { color: var(--moon-gray); }
 .silver { color: var(--silver) }
 .silver h1 { color: var(--brand) }
-.white  { color: var(--white) }
+.white  { color: var(--white) }*/
 
 
-.border-dark-gray   { border-color: var(--dark-gray); }
+/*.border-dark-gray   { border-color: var(--dark-gray); }
 .border-silver { border-color: var(--silver) }
 
 .hover-black:hover, .hover-black:hover h1 { color: var(--black); }
@@ -54,7 +55,7 @@
 .hover-bg-near-white:hover { background-color: var(--near-white); }
 .hover-bg-white:hover { background-color: var(--white); }
 .hover-bg-transparent:hover { background-color: var(--transparent); }
-.hover-bg-color-brand:hover { background-color: var(--brand); }
+.hover-bg-color-brand:hover { background-color: var(--brand); }*/
 
 /*
 
@@ -88,6 +89,7 @@
   --brand: var(--yellow);
   --slate: #537282;
   --blue: #0074d9;
+  --blue-dark: #004B7B;
   --button-color: #fff;
   --button-background-color: var(--brand);
   --border-radius: 3px;
