@@ -5,7 +5,7 @@ published: true
 date: 2015-02-23T19:15:00.000Z
 phase: 'Preliminary Examinations, Admissibility Assessment'
 link_to_more_information: 'https://www.icc-cpi.int/colombia'
-description: 'The Preliminary Examination in Columbia focuses on alleged atrocity crimes (crimes against humanity*, war crimes**) committed during a conflict which involved Colombian government forces, paramilitary groups, and armed rebel groups called the Fuerzas Armadas Revolucionarias Colombianas - Ejericito del pueblo(FARC-EP) and the Ejército de Liberación Nacional (ELN). As of November 2015, the preliminary examination is under phase 3 (admissibility assessment), and the OTP is monitoring national proceedings to investigate and prosecute atrocity crimes.'
+description: 'The Preliminary Examination in Colombia focuses on alleged atrocity crimes (crimes against humanity*, war crimes**) committed during a conflict which involved Colombian government forces, paramilitary groups, and armed rebel groups called the Fuerzas Armadas Revolucionarias Colombianas - Ejericito del pueblo (FARC-EP) and the Ejército de Liberación Nacional (ELN). As of November 2015, the preliminary examination is under phase 3 (admissibility assessment), and the OTP is monitoring national proceedings to investigate and prosecute atrocity crimes.'
 slug: colombia
 ---
 
