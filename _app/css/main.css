@@ -15,7 +15,8 @@
 @import 'modules/_colors';
 @import 'modules/_fonts';
 @import 'modules/_styles';
-@import 'modules/_debug';
+@import 'modules/_parallax';
+/*@import 'modules/_debug';*/
 
 
 a.btn { margin-bottom:.5em }

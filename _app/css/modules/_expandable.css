@@ -1,28 +1,39 @@
-
+/*
+to show and hide the side nav
+*/
 :root {
-
   --sidebar-width: 360px;
 }
 
-
-  /*to show and hide the side nav*/
-.expandable { transform: translateX(var(--sidebar-width))}
-.expandable:target {transform: translateX(0)}
-
-.w-sidebar-lg {
-  width: var(--sidebar-width);
+/*.expandable { transform: translateX(var(--sidebar-width));}
+.expandable:target {transform: translateX(0);}*/
+.expandable {
+  display: none;
+  transition: transform 1.5s ease-in;
 }
-.m-sidebar {
-  margin-right: var(--sidebar-width);
+.expandable:target {
+  display: table;
+  transform: translateX(0);
+  
+  width:        var(--sidebar-width);
 }
+.m-sidebar    { margin-right: 0; }
 
-
-/*
-TODO: make this responsive
+/*@media (--breakpoint-lg) {
+  .expandable   { transform:    translateX(0);        }
+  .w-sidebar-lg { width:        var(--sidebar-width); }
+  .m-sidebar    { margin-right: var(--sidebar-width); }
+}
 */
-.w-sidebar-lg {
-  width: var(--sidebar-width);
+
+@media (--breakpoint-lg) {
+  .expandable   {    
+    display: table;   
+    width:  var(--sidebar-width);     
+  }
+  .w-sidebar-lg { width:        var(--sidebar-width); }
+  .m-sidebar    { margin-right: var(--sidebar-width); }
 }
-.m-sidebar {
-  margin-right: var(--sidebar-width);
-}
+
+
+

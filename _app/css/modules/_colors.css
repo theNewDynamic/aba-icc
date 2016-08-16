@@ -1,3 +1,4 @@
+
 .white  { color: var(--white) }
 .blue   {color: var(--blue)}
 .gray   { color: var(--gray) }
@@ -10,11 +11,13 @@
 .bg-white  { background-color: var(--white) }
 .bg-red     { background-color: var(--red) }
 
+.hover-bg-blue:hover { background-color: var(--blue) }
 
 .hover-gray:hover { color: var(--gray) }
 .hover-blue:hover { color: var(--blue) }
 .hover-white:hover { color: var(--white); }
 
+.border-silver { border-color: var(--silver) }
 
 /*.border-muted {border-color: rgba(255,255,255,0.1)}
 .bg-brand { background-color: var(--brand)}
@@ -91,10 +94,10 @@
   --black: #111;
   --near-black: #171515;
   --dark-gray:#333;
-  --mid-gray:#555;
+  --mid-gray:#434343;
   --gray: #A1A1A1;
   --silver: #ddd;
-  --light-silver: #FAFAFA;
+  --light-silver: #f6f6f6;
   --moon-gray: #8D9599;
   --light-gray: #eee;
   --near-white: #F8F8F8;

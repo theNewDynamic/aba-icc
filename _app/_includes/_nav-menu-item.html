@@ -1,10 +1,9 @@
-<li class="nav-sidebar-item" tabindex="{{ forloop.index | plus: 7 }}" data-ga-click="nav, go to explore, text:{{ link.title }}">
-  <a href="{{ link.url }}" class="menu-item{% if link.url == page.url %} active{% endif %}">
+<li class="{{ include.list_classes }}" tabindex="{{ forloop.index | plus: 7 }}" data-ga-click="nav, go to explore, text:{{ link.title }}">
+  <a href="{{ link.url }}" class="menu-item{% if link.url == page.url %} bg-blue{% endif %}{{ include.link_classes }}">
     {% if link.name %} {{ link.name }}</br />
       <span style="font-size:1.25em;font-weight:bold;">{{ link.title }}</span>
     {% else %}
       {{ link.title }}
     {% endif %}
-
   </a>
 </li>

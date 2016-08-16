@@ -1,0 +1,29 @@
+:root {
+--parallax-window-height: 24rem;
+--parallax-background-height: 40rem;
+}
+
+.parallax-window {
+  max-height: var(--parallax-window-height);  
+  min-height: 25em;
+}
+
+.parallax-background {
+  
+  height: var(--parallax-background-height);
+    
+  /*top: 7rem;*/
+}
+
+
+.content .parallax-window {  
+  max-height: var(--parallax-window-height);
+  min-height: 25em;
+  
+}
+
+
+
+
+
+/*Based on http://codepen.io/skeurentjes/*/

@@ -2,11 +2,11 @@
 {% assign countries = site.countries | sort: 'title' %}
 {% assign preliminary_examinations_color = 'green' %}{% assign trials_color = 'black' %}
 
-<div class="flex-boxes list-filter">
+<div class="flex flex-wrap list-filter">
   {% for object in countries %}
-    <div class="flex-box{% if object.state_party %} partyToTheRomeStatute{% elsif object.signed_but_not_ratified %} signedbutNotRatified{% else %} notASignatory{% endif %}">
+    <div class="col-4 m1 white {% if object.state_party %} partyToTheRomeStatute{% elsif object.signed_but_not_ratified %} signedbutNotRatified{% else %} notASignatory{% endif %}">
       <h1 class="flex-title" style="position:relative;">
-        <a href="{{ object.url }}" class="name">
+        <a href="{{ object.url }}" class="name text-decoration-none h3">
           {{ object.title }} <i class="icon-ion-link small" style="color:#c6c6c6;position:absolute;right:3;"></i>
         </a>
       </h1>
@@ -47,7 +47,7 @@
           <small>Legislation <i class="icon-down-open" style="color:#ddd;position:absolute;right:3;bottom:3;"></i>
           </small>
         </a>
-        <div class="submenu small">
+        <div class="submenu small hide">
           <h5>Domestic Atrocity Crime Legislation</h5>
 
           {% if object.genocide %}<h5>Genocide</h5>{{ object.genocide |markdownify }}{% endif %}

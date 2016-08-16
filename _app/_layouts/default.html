@@ -42,11 +42,8 @@ layout: compress
 </head>
   <body id="container" class="{{ page.style }}{% if page.body_class %} {{ page.body_class }}{% endif %} {{page.url | replace: '/', '' }} {{ jekyll.environment }}">
     <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content hide-until-focused bg-white z4 p2">Skip to content</a>
-    {% include global/nav-topbar.html %}
-        <div class=" m-sidebarTK">
+    {% include global/nav-topbar.html %}        
         {{content}}    
-        </div>
-      
     {% include global/footer.html %}
     {% include global/scripts.html %}
   </body>

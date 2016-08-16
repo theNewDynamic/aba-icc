@@ -1,13 +1,14 @@
 {% assign background_image = page.featured_image_path %}
 
-
-{% if background_image %}
 <style type="text/css">
-
+  {% if background_image %}
   .parallax-background {
-    background: url("{{ background_image }}") no-repeat;
-    background-position: top;
-    background-size: cover;
+    background-image: url("{{ background_image }}");     
   }
-  </style>
+  {% else %}
+  .parallax-background {
+      background: url("{{ site.hero_background_image }}");          
+  }
 {% endif %}
+  </style>
+

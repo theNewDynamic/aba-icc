@@ -9,7 +9,7 @@
 
   <div class="full-width-bar" id="{{ url(object)|replace('/country/', '')|replace('/', '') }}">
     {% for object in situations %}
-      <div class="grid">
+      <div class="bg-white p3 border border-silver mb3 rounded">
         <div class="left-side-wide">
           {% comment %} get the situation title and link to the situation country. {% endcomment %}
           {% if situationCountry %}

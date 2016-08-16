@@ -2,11 +2,11 @@
 layout: default
 section: page
 ---
-<main class="content" role="main">
+<main class="content m-sidebar" role="main">
 {% include hero.html %}
 {% include _country-meta-data.html %}
-<div class="has-layout" id="start-of-content">
-  <article class="hentry" role="article">
+<div class="has-layout p3" id="start-of-content">
+  <article class="hentry col-12 lg-col-7 mx-auto" role="article">
     {% include _article.html %}
   </article>
   {% if page.timeline %}

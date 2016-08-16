@@ -4,7 +4,7 @@ section: page
 ---
 {% assign situations = site.situations | where: 'country', page.slug %}
 {% assign cases = site.cases | where: 'country', page.slug %}
-<main class="content" role="main">
+<main class="content m-sidebar" role="main">
 {% include hero.html %}
 
 <div class="has-layout" id="start-of-content">

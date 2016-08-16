@@ -1,16 +1,16 @@
-<header id="expandable-nav-side" class="expandable transition silver flex flex-column fixed top-0 right-0 height-100 w-sidebar-lg z1 bg-blue-really-dark overflow-y xs-hide sm-hide ptr" role="banner" data-search-index="false">
+<div id="expandable-nav-side" class="expandable flex flex-column fixed top-0 right-0 height-100 w-sidebar-lg silver bg-blue-really-dark overflow-y" role="banner" data-search-index="false">
 
-  <div class="border border-silver col-12 pt3 pb3">    
-    <div class="right-align pr3">
-        <!-- include components/button-close.html %}  -->
-        <a href="#" class="block">
-          <img src="/assets/images/noun_149007.svg" alt="close button" style="height:22px;" />
-        </a>
-    </div>      
-  </div>  
-  <div class="p2">
-    {% include sidebar-heading.html %}
-   <!--  include sidebar-menu.html  %} -->
+  <!-- include components/button-close.html %}  -->
+  <a href="#" class="block right-align pr3 pt3 lg-hide">
+    <img src="/assets/images/noun_149007.svg" alt="close button" style="height:22px;" />
+  </a>  
+
+  <div class="mt3 bg-blue-really-dark">
+    <div class="p2">
+      {% include sidebar-heading.html %}
+    </div>
+    {% include sidebar-menu.html  %}
+   
    {% if page.url contains 'situations-cases' %}
       {% include map/legend-situations-and-cases.html %}
     {% endif %}
@@ -26,4 +26,4 @@
   <div class="px2 py3">
     {% include forms/search.html %} 
   </div>
-</header>
+</div>

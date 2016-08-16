@@ -1,14 +1,17 @@
-<div id="js-parallax-window" class="parallax-window">
-  <div class="parallax-static-content">
+<div id="js-parallax-window" class="parallax-window relative overflow-hidden col-12 white">
+<div id="js-parallax-background" class="parallax-background bg-top bg-cover bg-no-repeat left-0 absolute col-12 bg-blue-dark">
+  <div class="parallax-static-content relative z4 px3 py4">
     {% if page.title %}
-    <h1>{{ page.title }}</h1>
+    <h1 class="lg-h0 text-shadow-black">{{ page.title }}</h1>
     {% endif %}
     {% if page.image_path %}
     <img src="{{ page.image_path }}" alt="" class="featured" style="max-width:300px;" />
     {% endif %}
     {% if page.description %}
-      {{ page.description | markdownify }}
+      <div class="lg-h2">
+        {{ page.description | markdownify }}
+      </div>
     {% endif %}
   </div>
-  <div id="js-parallax-background" class="parallax-background"></div>
+  </div>
 </div>

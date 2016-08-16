@@ -4,6 +4,7 @@ description: "American Bar Association's International Criminal Court Project"
 twitter:
   username: ABAICCProject
 logo: /assets/images/logo-aba-icc_144xb.png
+hero_background_image: /uploads/bg-icc-wh-1600x900.png
 case_statuses:
  - "Pre-trial"
  - "Trial Ongoing"

@@ -1,12 +1,12 @@
-<div class="full-width-bar"{% if object.featured_image_path %} style="min-height:425px;"{% endif %}>
-  <strong>{% include _date-format.html %}</strong>
+<div class="bg-white p3 border border-silver mb3 rounded full-width-bar"{% if object.featured_image_path %} style="min-height:425px;"{% endif %}>
+  <div class="gray bold">{% include _date-format.html %}</div>
   {% if object.title %}
-    <h3>
+    <h2 class="black">
       {{ object.title }}
-    </h3>
+    </h2>
   {% endif %}
   {% if object.featured_image_path %}
-      <img src="{{ object.featured_image_path }}" style="float:left;margin-right:1.5em;max-height:225px;">
+      <img src="{{ object.featured_image_path }}" style="max-height:225px;" class="md-left lg-left md-mr2 lg-mr2">
   {% endif %}
   {% if object.content %}
     <div class="copy">

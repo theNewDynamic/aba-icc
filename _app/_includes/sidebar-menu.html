@@ -38,14 +38,16 @@
   {% assign country = countries[0].title %}
 {% endif %}
 
+{% assign link_classes = ' fit text-decoration-none block py1 pl2 col-12 silver hover-white hover-bg-blue font-light-weight h5'  %}
+{% assign list_classes = 'block col-12 '  %}
 <nav>
 
 {% comment %}<!-- PRIMARY MENU DETERMINED BY SECION - every template should define which global menu to use  -->{% endcomment %}
 {% if local_menu %}
 
-  <ul class="nav-sidebar accordion">
-    <li class="nav-sidebar-item">
-      <a href="javascript:void(0)" class="js-accordion-trigger menu-item">
+  <ul class="nav-sidebar accordion list-reset">
+    <li class="{{ list_classes }}">
+      <a href="javascript:void(0)" class="js-accordion-trigger menu-item{{ link_classes }}">
         {{ heading }} +
       </a>
       <ul class="submenu">
@@ -54,8 +56,8 @@
         {% endfor %}
       </ul>
     </li>
-    <li class="nav-sidebar-item">
-      <a href="javascript:void(0)" class="js-accordion-trigger menu-item">
+    <li class="{{ list_classes }}">
+      <a href="javascript:void(0)" class="js-accordion-trigger menu-item{{ link_classes }}">
        Main Menu +
       </a>
       <ul class="submenu">
@@ -69,8 +71,8 @@
 {% elsif country_menu %}
   <ul class="nav-sidebar accordion">
 
-    <li class="nav-sidebar-item">
-      <a href="javascript:void(0)" class="js-accordion-trigger menu-item">
+    <li class="{{ list_classes }}">
+      <a href="javascript:void(0)" class="js-accordion-trigger menu-item{{ link_classes }}">
        Main Menu +
       </a>
       <ul class="submenu">
@@ -81,16 +83,16 @@
     </li>
 
 
-    <li class="nav-sidebar-item">
-      <a href="javascript:void(0)" class="js-accordion-trigger menu-item">
+    <li class="{{ list_classes }}">
+      <a href="javascript:void(0)" class="js-accordion-trigger menu-item{{ link_classes }}">
         {{ heading }} +
       </a>
       <ul class="submenu">
         {% for link in country_menu %}
           {% assign country_link = link.country %}
           {% comment %} Note the hack to make country URLs not go to situations, which don't have pages. probably better than adding separate logic {% endcomment %}
-        <li class="nav-sidebar-item" tabindex="{{ forloop.index | plus: 7 }}" data-ga-click="nav, go to explore, text:{{ link.title }}">
-          <a href="{% if page.url contains '/country/' %}/country/{{ country_link }}{% else %}{{ link.url }}{% endif %}" class="menu-item{% if link.url == page.url %} active{% endif %}">
+        <li class="{{ list_classes }}" tabindex="{{ forloop.index | plus: 7 }}" data-ga-click="nav, go to explore, text:{{ link.title }}">
+          <a href="{% if page.url contains '/country/' %}/country/{{ country_link }}{% else %}{{ link.url }}{% endif %}" class="menu-item{% if link.url == page.url %} bg-blue{% endif %}{{ link_classes }}">
             {{ link.title }}
           </a>
         </li>
@@ -99,8 +101,8 @@
       </ul>
     </li>
 
-    <li class="nav-sidebar-item" data-ga-click="nav, go to explore, text:Situation & Cases Map">
-      <a href="/about-the-icc/situations-cases/" class="menu-item">
+    <li class="{{ list_classes }}" data-ga-click="nav, go to explore, text:Situation & Cases Map">
+      <a href="/about-the-icc/situations-cases/" class="menu-item{{ link_classes }}">
         Situation & Cases Map
       </a>
     </li>
@@ -109,16 +111,16 @@
 
   {% if cases.size > 0 %}
     <ul class="nav-sidebar" style="margin-top:2em;">
-      <li class="nav-sidebar-item">
+      <li class="{{ list_classes }}">
         <strong>
-          <a href="{{ page.link }}" class="menu-item">
+          <a href="{{ page.link }}" class="menu-item{{ link_classes }}">
             Cases in {{ country }}
           </a>
         </strong>
       </li>
       {% for object in cases %}
-        <li class="nav-sidebar-item">
-          <a href="{{ object.url }}"  class="menu-item">
+        <li class="{{ list_classes }}">
+          <a href="{{ object.url }}"  class="menu-item{{ link_classes }}">
             {{ object.title }}
           </a>
         </li>
@@ -127,9 +129,9 @@
   {% endif %}
 
 {% elsif section %}
-  <ul class="nav-sidebar">
+  <ul class="nav-sidebar list-reset">
     {% for link in section %}
-      {% include _nav-menu-item.html %}
+      {% include _nav-menu-item.html list_classes=list_classes link_classes=link_classes %}
     {% endfor %}
   </ul>
 {% endif %}
