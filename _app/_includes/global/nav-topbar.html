@@ -1,42 +1,21 @@
-<header class="navigation bs bg-blue-dark" role="banner">
+<header class="flexTK bg-blue-dark relative z4" role="banner">
 
-  <div class="navigation-wrapper">
-    
-    <a href="/" class="logo bs inline-block">
-      <img src="/assets/images/logo-aba-icc_144xb.png" alt="" style="display:block;">
-    </a>
-    
-    <a href="javascript:void(0)" class="navigation-menu-button-mobile" id="js-mobile-menu">&#9776; MENU</a>
-    
-    {% comment %}{% endcomment %}
-      <a href="javascript:void(0)" class="navigation-menu-button sliding-panel-button" id="js-mobile-menu-sidebar">
-        <span class="open">
-          <!-- &#9776; -->
-          <img src="/assets/images/noun_109088.svg" alt="" style="height:20px;" />
-        </span>
-        <span class="close">
-          <!-- &#10005; -->
-          <img src="/assets/images/noun_149007.svg" alt="" style="height:20px;" />
-        </span>
-        <!-- MENU -->
+  <a href="/" class="inline-block col-1 mr4 lg-mr2">
+    <img src="/assets/images/logo-aba-icc_144xb.png" alt="" class="absolute top-0 left-0 mt2 ml2 mr4" style="max-height:100px;">
+  </a>
+
+  <nav role="navigation" class="inline-block ml2 sm-ml0 mt2 mb2">    
+    {% for link in site.data.links-menu-top %}    
+      <a tabindex="{{ forloop.index | plus: 2 }}"  href="{{ link.link }}" class="h6 lg-h5 text-decoration-none block md-inline-block lg-inline-block caps white hover-gray px2 py1 lg-py2 font-light-weight{% if page.url == link.link %} active{% endif %}">
+        {{ link.name }}
       </a>
+    {% endfor %}    
+  </nav>
+  
+  
+  
+  <a href="#expandable-nav-side" class="fixed top-0 right-0 mt3 mr3">
+    <img src="/assets/images/noun_109088.svg" alt="" style="height:25px;" />
+  </a>
 
-    <nav role="navigation">
-      <ul id="js-navigation-menu" class="navigation-menu show">
-      {% for link in site.data.links-menu-top %}
-          <li tabindex="{{ forloop.index | plus: 2 }}" class="nav-link{% if page.url == link.link %} active{% endif %}" data-ga-click="nav, go to explore, text:{{ link.name }}">
-            <a href="{{ link.link }}">
-              {{ link.name }}
-            </a>
-          </li>
-
-      {% endfor %}
-      </ul>
-    </nav>
-    <div class="navigation-tools">
-      <div class="search-bar">
-      {% include forms/search.html %}
-      </div>
-    </div>
-  </div>
 </header>

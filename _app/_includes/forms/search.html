@@ -1,11 +1,17 @@
-<div id="search">
-  <form action="get" id="site_search" data-search-index="false" role="search" autocomplete="off" class="hidden-jsTK" tabindex="2">
-    <input type="search" name="search" placeholder="Search"  id="search_box" autocomplete="off" aria-label="Search" />
-    <button type="submit">
-      <img src="/assets/images/search-icon.png" alt="Search Icon">
-    </button>
-  </form>
+<!-- action="/search-results/" -->
+<form role="search" action="get" method="get" data-search-index="false" class="lg-mr2 fit bg-blue rounded">
+  <label id="search_label" class="hide">Search</label>
+  <input type="search" aria-labelledby="search_label" autocomplete="off" placeholder="search" name="query" id="search-box" class="
+  pt1 pr2 lg-px2 gray h4 font-family-primary hover-white"/>
+  <button type="submit" class="font-family-primary line-height-1 bg-transparent white m0 py1 px1 h5 muted">
+    <img src="/assets/images/search-icon.png" alt="Search Icon" style="height:.875em;" class="inlne-block gray">    
+  </button>
+</form>
+  
+<!-- 
   <ul id="search_results">
     <li>Start Typing Your Search Term</li>
   </div>
 </ul>
+ -->
+

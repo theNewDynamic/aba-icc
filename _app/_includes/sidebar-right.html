@@ -1,14 +1,29 @@
-<aside id="js-navigation-menu-sidebar" class="sidebar-right sliding-panel-content {{ include:class }}" role="navigation">
- {% include sidebar-heading.html %}
- {% include sidebar-menu.html  %}
- {% if page.url contains 'situations-cases' %}
-    {% include map/legend-situations-and-cases.html %}
-  {% endif %}
-  {% if page.url contains '/states-parties-to-the-icc/' %}
-     {% include map/legend-state-parties.html %}
-  {% endif %}
-  {% if page.url == '/' %}
-    <img src="/assets/images/logo-kingdom-of-the-netherlands.png" style="clear:both;margin:6em auto 1em auto;width:200px;display:block;border:none">
-  
-  {% endif %}
-</aside>
+<header id="expandable-nav-side" class="expandable transition silver flex flex-column fixed top-0 right-0 height-100 w-sidebar-lg z1 bg-blue-really-dark overflow-y xs-hide sm-hide ptr" role="banner" data-search-index="false">
+
+  <div class="border border-silver col-12 pt3 pb3">    
+    <div class="right-align pr3">
+        <!-- include components/button-close.html %}  -->
+        <a href="#" class="block">
+          <img src="/assets/images/noun_149007.svg" alt="close button" style="height:22px;" />
+        </a>
+    </div>      
+  </div>  
+  <div class="p2">
+    {% include sidebar-heading.html %}
+   <!--  include sidebar-menu.html  %} -->
+   {% if page.url contains 'situations-cases' %}
+      {% include map/legend-situations-and-cases.html %}
+    {% endif %}
+    {% if page.url contains '/states-parties-to-the-icc/' %}
+       {% include map/legend-state-parties.html %}
+    {% endif %}
+    {% if page.url == '/' %}
+      <img src="/assets/images/logo-kingdom-of-the-netherlands.png" style="clear:both;margin:6em auto 1em auto;width:200px;display:block;border:none">
+    
+    {% endif %}
+  </div>
+  <div class="flex-auto"><!--  space  --></div>
+  <div class="px2 py3">
+    {% include forms/search.html %} 
+  </div>
+</header>

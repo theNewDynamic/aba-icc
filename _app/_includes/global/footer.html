@@ -1,7 +1,17 @@
-<div class="push bg"></div>
-<footer class="footer" role="contentinfo">
-&copy; {{ site.time | date:'%Y' }} {% for link in site.data.links-footer %}<a href="{{ link.link }}">{{ link.name }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;site by <a href="http://sonnetmedia.net">sonnet media</a>
+<footer class="bg-silver px2 pb2 pt1 gray" role="contentinfo">
+  <a href="http://www.americanbar.org/" class="inline-block col-1 mr2" style="no-print">
+    <img src="/assets/images/logo-aba.png" class="fixed bottom-0 mb1 ml1 mr1" style="max-width:55px;">
+  </a>
+  <div class="h6 ml4">
+    &copy; {{ site.time | date:'%Y' }}   
+    {% for link in site.data.links-footer %}
+      <a href="{{ link.link }}" class="text-decoration-none gray hover-blue px2">
+        {{ link.name }}
+      </a>
+      {% unless forloop.last %} &bull; {% endunless %}
+    {% endfor %}      
+    <a href="http://sonnetmedia.net" class="text-decoration-none gray hover-blue inline-block ml2">
+      site by sonnet media
+    </a>    
+  </div>
 </footer>
-<a href="http://www.americanbar.org/" style="no-print">
-  <img src="/assets/images/logo-aba.png" style="max-width:55px;position:fixed;bottom: 10px;left:35px;">
-</a>

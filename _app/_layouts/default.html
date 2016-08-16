@@ -21,7 +21,7 @@ layout: compress
 
     <link rel="icon" href="{{ site.url }}/favicon.ico" type="image/x-icon">
 
-    <link href='/assets/css/main.min.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" />
+    <link href='/assets/css/main.css{% if site.bust_css_cache %}?generated={{ site.time | date: "%Y%m%d%H%S" }}{% endif %}' rel='stylesheet' type="text/css" />
 
     {% if jekyll.environment == "production" %}
       {% include global/analytics.html %}
@@ -41,9 +41,12 @@ layout: compress
 
 </head>
   <body id="container" class="{{ page.style }}{% if page.body_class %} {{ page.body_class }}{% endif %} {{page.url | replace: '/', '' }} {{ jekyll.environment }}">
-    <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+    <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content hide-until-focused bg-white z4 p2">Skip to content</a>
     {% include global/nav-topbar.html %}
-      {{content}}
+        <div class=" m-sidebarTK">
+        {{content}}    
+        </div>
+      
     {% include global/footer.html %}
     {% include global/scripts.html %}
   </body>
