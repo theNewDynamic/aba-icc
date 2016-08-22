@@ -18,19 +18,33 @@ featured_image_position: center
 
 **Position of Project Director - qualifications, expertise, duties and responsibilities:**
 
-* Strong experience, expertise and proficiency in the field of international criminal justice including international atrocity law, international criminal law, international human rights law, international law generally, the International Criminal Court,&nbsp; US Government-ICC relations, a thorough understanding of the historical developments in the foregoing areas, and experience in the development of educational and advocacy activities to advance international criminal justice.
-* Staying current on a daily basis on developments in international criminal justice, transitional justice, the ICC, US law regarding the ICC, and US-ICC relations.
-* Working closely with the Chair of the ABA’s ICC Project, and serving as staff attorney to Project initiatives such as the ABA Working Group on Crimes Against Humanity, on a wide range of activities including legislative, educational and advocacy initiatives.
-* Working closely with the Project Chair, serving as a spokesperson for the Project in the field of international criminal justice, including the advancement of ABA international criminal justice policies.
-* Working closely with the Project Chair, serving as the Project’s representative on international criminal justice matters at meetings with governmental and non-governmental actors in the US and abroad, and in public settings such as conferences and public panel discussions.
-* Managing relations, communication and other activities regarding, and serving as staff attorney to, the Project's Board of Advisors.
-* Working closely with the Project Chair, serving as the Project’s staff attorney representative to the International Criminal Justice Consortium on the Consortium’s educational, advocacy, and legal assistance activities that benefit the ICC and national courts regarding international criminal justice issues.
-* Developing and helping to implement advocacy, educational and legal assistance initiatives that promote international criminal justice, the ICC and US-ICC relations.
-* Developing and maintaining strong working relationships with civil society, governmental and international organizations in the US and abroad, including the Executive and Congressional branches of the US government.
-* Maintaining and frequent updating of the Project's websites and their features, including the educational website[aba-icc.org](http://secure-web.cisco.com/1yrZnDSQBU1OWibqWmhfvhCGRa42sT74aeBi3cx53E5m3vxcKMRdaXPsurcPVsZQdEqWXE0lHPCEEED26F2xfqbsqJTr9krjouMjuQLE7J1Y99SaSSgBKOVBuW5G0g5qNoKFsvVl-ubcJAzbZug4Vk_v-frX9Eb0DkfQWVFo3T8p-z2aZi24o8BkHVBMbJqWmbJhVx6rc8MojawEUC9g614xpApoHVtK5yerUnoGldEte3VFRDJ5JlvgQi0b1w2N9AyK9B8qHKFqPCnrNFjlgDg/http%3A%2F%2Faba-icc.org)and its online magazine[international-criminal-justice-today.org](http://secure-web.cisco.com/1Xl9G5duDf4X9o3l4I9YkC4lsWxlxdbPY25LgAKLUEu3B8uOSahntXmAV-cATAPhEnYoOO8HzkhqcS9wQ9bUfMbKKeErxBqBoReon1By8zTg9ViaiAIg0J7dav2G71xkVhsdXkhGYM9L5z1em1uak3i7vrIaJqW9saK135lbUcfJzDSiGd1tbDpS_kPHKzn_GAiQUe4nzWPPFkX4tfLuf4r0dbyTftb9hW3crT5f1MxEbeuRXYObC57KNjdodU9GvrM81XDfrWAki44ChZE6hcQ/http%3A%2F%2Finternational-criminal-justice-today.org),providing ongoing oversight, development and editing of new website content produced internally within the Project and externally by contributors, and having primary responsibility for all website administrative matters such as human resources and database management.
-* Outstanding writing, oral, legal research and organizational skills.
-* A JD Degree, admission to a state bar, and a minimum of 0-3 years of legal experience.
+Strong experience, expertise and proficiency in the field of international criminal justice including international atrocity law, international criminal law, international human rights law, international law generally, the International Criminal Court,&nbsp; US Government-ICC relations, a thorough understanding of the historical developments in the foregoing areas, and experience in the development of educational and advocacy activities to advance international criminal justice.
 
+&nbsp;
+
+Staying current on a daily basis on developments in international criminal justice, transitional justice, the ICC, US law regarding the ICC, and US-ICC relations.
+
+&nbsp;
+
+Working closely with the Chair of the ABA’s ICC Project, and serving as staff attorney to Project initiatives such as the ABA Working Group on Crimes Against Humanity, on a wide range of activities including legislative, educational and advocacy initiatives.
+
+Working closely with the Project Chair, serving as a spokesperson for the Project in the field of international criminal justice, including the advancement of ABA international criminal justice policies.
+
+Working closely with the Project Chair, serving as the Project’s representative on international criminal justice matters at meetings with governmental and non-governmental actors in the US and abroad, and in public settings such as conferences and public panel discussions.
+
+Managing relations, communication and other activities regarding, and serving as staff attorney to, the Project's Board of Advisors.
+
+Working closely with the Project Chair, serving as the Project’s staff attorney representative to the International Criminal Justice Consortium on the Consortium’s educational, advocacy, and legal assistance activities that benefit the ICC and national courts regarding international criminal justice issues.
+
+Developing and helping to implement advocacy, educational and legal assistance initiatives that promote international criminal justice, the ICC and US-ICC relations.
+
+Developing and maintaining strong working relationships with civil society, governmental and international organizations in the US and abroad, including the Executive and Congressional branches of the US government.
+
+Maintaining and frequent updating of the Project's websites and their features, including the educational website[aba-icc.org](http://secure-web.cisco.com/1yrZnDSQBU1OWibqWmhfvhCGRa42sT74aeBi3cx53E5m3vxcKMRdaXPsurcPVsZQdEqWXE0lHPCEEED26F2xfqbsqJTr9krjouMjuQLE7J1Y99SaSSgBKOVBuW5G0g5qNoKFsvVl-ubcJAzbZug4Vk_v-frX9Eb0DkfQWVFo3T8p-z2aZi24o8BkHVBMbJqWmbJhVx6rc8MojawEUC9g614xpApoHVtK5yerUnoGldEte3VFRDJ5JlvgQi0b1w2N9AyK9B8qHKFqPCnrNFjlgDg/http%3A%2F%2Faba-icc.org)and its online magazine[international-criminal-justice-today.org](http://secure-web.cisco.com/1Xl9G5duDf4X9o3l4I9YkC4lsWxlxdbPY25LgAKLUEu3B8uOSahntXmAV-cATAPhEnYoOO8HzkhqcS9wQ9bUfMbKKeErxBqBoReon1By8zTg9ViaiAIg0J7dav2G71xkVhsdXkhGYM9L5z1em1uak3i7vrIaJqW9saK135lbUcfJzDSiGd1tbDpS_kPHKzn_GAiQUe4nzWPPFkX4tfLuf4r0dbyTftb9hW3crT5f1MxEbeuRXYObC57KNjdodU9GvrM81XDfrWAki44ChZE6hcQ/http%3A%2F%2Finternational-criminal-justice-today.org),providing ongoing oversight, development and editing of new website content produced internally within the Project and externally by contributors, and having primary responsibility for all website administrative matters such as human resources and database management.
+
+Outstanding writing, oral, legal research and organizational skills.
+
+A JD Degree, admission to a state bar, and a minimum of 0-3 years of legal experience.
 
 **Additional Preferred Qualifications for position of Project Director:**
 
