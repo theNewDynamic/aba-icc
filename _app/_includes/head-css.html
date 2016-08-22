@@ -1,13 +1,26 @@
 {% assign background_image = page.featured_image_path %}
 
-
-{% if background_image %}
 <style type="text/css">
+{% if background_image %}
+
 
   .parallax-background {
     background: url("{{ background_image }}") no-repeat;
     background-position: top;
     background-size: cover;
   }
-  </style>
+
 {% endif %}
+article.hentry ul {
+
+    list-style-type: disc;
+    margin-bottom: 2em;
+    padding-left: 1em;
+  
+
+  }
+  article.hentry li {
+    margin-bottom: 1em;
+  }
+
+    </style>

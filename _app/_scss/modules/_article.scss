@@ -15,6 +15,14 @@ article.hentry, .hentry {
     font-weight: 500;
     margin: 1em auto;
   }
+  ul {
+
+    list-style-type: disc;
+    margin-bottom: $small-spacing;
+    padding-left: $base-spacing;
+  
+
+  }
   img {
     max-width: 100%;
   }
