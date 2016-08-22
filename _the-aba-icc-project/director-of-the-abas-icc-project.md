@@ -6,21 +6,13 @@ featured_image_position: center
 ---
 
 
-<div style="width:123px;margin:auto;">
+<div style="width:123px;margin:auto;"><img alt="" src="/uploads/versions/siteicon---x----144-144x---.png" width="144" height="144" /></div>
 
-
-
-![](/uploads/versions/siteicon---x----144-144x---.png)
-
-
-
-</div>
-
-*The International Criminal Court (ICC) Project of the American Bar Association (ABA) is an independent program housed in the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance.*
+## *The International Criminal Court (ICC) Project of the American Bar Association (ABA) is an independent program housed in the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance.*
 
 &nbsp;
 
-**Position of Project Director - qualifications, expertise, duties and responsibilities:**
+### **Position of Project Director - qualifications, expertise, duties and responsibilities:**
 
 * Strong experience, expertise and proficiency in the field of international criminal justice including international atrocity law, international criminal law, international human rights law, international law generally, the International Criminal Court,&nbsp; US Government-ICC relations, a thorough understanding of the historical developments in the foregoing areas, and experience in the development of educational and advocacy activities to advance international criminal justice.
 * Staying current on a daily basis on developments in international criminal justice, transitional justice, the ICC, US law regarding the ICC, and US-ICC relations.
@@ -36,7 +28,7 @@ featured_image_position: center
 * A JD Degree, admission to a state bar, and a minimum of 0-3 years of legal experience.
 
 
-**Additional Preferred Qualifications for position of Project Director:**
+### **Additional Preferred Qualifications for position of Project Director:**
 
 * A self-starter who thinks creatively and is able simultaneously to manage multiple types of projects with an array of partners.
 * The ability to work effectively with domestic and international partners taking into account relevant cultural and political sensitivities and other considerations.
