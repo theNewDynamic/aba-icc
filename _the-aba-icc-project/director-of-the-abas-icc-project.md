@@ -6,13 +6,11 @@ featured_image_position: center
 ---
 
 
-> &nbsp;
-
-&nbsp;
+<div style="width:123px;margin:auto;">
 
 ![](/uploads/versions/siteicon---x----144-144x---.png)
 
-> &nbsp;
+</div>
 
 *The International Criminal Court (ICC) Project of the American Bar Association (ABA) is an independent program housed in the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance.*
 
