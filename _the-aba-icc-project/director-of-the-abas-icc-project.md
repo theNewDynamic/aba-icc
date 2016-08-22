@@ -18,15 +18,10 @@ featured_image_position: center
 
 **Position of Project Director - qualifications, expertise, duties and responsibilities:**
 
-Strong experience, expertise and proficiency in the field of international criminal justice including international atrocity law, international criminal law, international human rights law, international law generally, the International Criminal Court,&nbsp; US Government-ICC relations, a thorough understanding of the historical developments in the foregoing areas, and experience in the development of educational and advocacy activities to advance international criminal justice.
+* Strong experience, expertise and proficiency in the field of international criminal justice including international atrocity law, international criminal law, international human rights law, international law generally, the International Criminal Court,&nbsp; US Government-ICC relations, a thorough understanding of the historical developments in the foregoing areas, and experience in the development of educational and advocacy activities to advance international criminal justice.
+* Staying current on a daily basis on developments in international criminal justice, transitional justice, the ICC, US law regarding the ICC, and US-ICC relations.
+* Working closely with the Chair of the ABA’s ICC Project, and serving as staff attorney to Project initiatives such as the ABA Working Group on Crimes Against Humanity, on a wide range of activities including legislative, educational and advocacy initiatives.
 
-&nbsp;
-
-Staying current on a daily basis on developments in international criminal justice, transitional justice, the ICC, US law regarding the ICC, and US-ICC relations.
-
-&nbsp;
-
-Working closely with the Chair of the ABA’s ICC Project, and serving as staff attorney to Project initiatives such as the ABA Working Group on Crimes Against Humanity, on a wide range of activities including legislative, educational and advocacy initiatives.
 
 Working closely with the Project Chair, serving as a spokesperson for the Project in the field of international criminal justice, including the advancement of ABA international criminal justice policies.
 
