@@ -1,16 +1,16 @@
-<div id="expandable-nav-side" class="expandable flex flex-column fixed top-0 right-0 height-100 w-sidebar-lg silver bg-blue-really-dark overflow-y" role="banner" data-search-index="false">
+<div id="expandable-nav-side" class="expandable flex flex-column fixed top-0 right-0 height-100 w-sidebar-lg silver bg-dark-primary-color overflow-y" role="banner" data-search-index="false">
 
   <!-- include components/button-close.html %}  -->
   <a href="#" class="block right-align pr3 pt3 lg-hide">
     <img src="/assets/images/noun_149007.svg" alt="close button" style="height:22px;" />
-  </a>  
+  </a>
 
   <div class="mt3 bg-blue-really-dark">
     <div class="p2">
-      {% include sidebar-heading.html %}
+      {% include global/sidebar-heading.html %}
     </div>
-    {% include sidebar-menu.html  %}
-   
+    <!-- include sidebar-menu.html  %} -->
+
    {% if page.url contains 'situations-cases' %}
       {% include map/legend-situations-and-cases.html %}
     {% endif %}
@@ -19,11 +19,11 @@
     {% endif %}
     {% if page.url == '/' %}
       <img src="/assets/images/logo-kingdom-of-the-netherlands.png" style="clear:both;margin:6em auto 1em auto;width:200px;display:block;border:none">
-    
+
     {% endif %}
   </div>
   <div class="flex-auto"><!--  space  --></div>
   <div class="px2 py3">
-    {% include forms/search.html %} 
+    {% include forms/search.html %}
   </div>
 </div>

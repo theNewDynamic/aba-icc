@@ -6,26 +6,13 @@ body_class: home
 <main class="content m-sidebar" role="main">
 <!-- flex-box-big -->
 {% assign pages = site.data.home-page-grid-items  %}
-<div class="flex-boxes-home">
+{% assign box_classes = ' inline-block md-col lg-col col-12 bg-cover bg-no-repeat hide-child-until-hover text-decoration-none white p3 m0 border-box ' %}
+<div class="md-flex lg-flex flex-wrap clearfix border border-white">
 
 {% for object in pages %}
-  <a href="{{ object.url }}" class="box{% if object.class %} {{object.class}}{% endif %}"
-      style="
-      {% if object.featured_image_path %}
-        background-image:url( {{ object.featured_image_path }} );
-        background-size:cover;
-        background-repeat:no-repeat;
-      {% endif %}
-      {% if object.background-color %}
-        background-color: {{ object.background-color }};
-      {% endif %}
-      {% if object.color %}
-        color:{{ object.color}};
-      {% endif %}
-    "
-    >
+  <a href="{{ object.url }}" class="{% cycle 'md-col-8 lg-col-8', 'md-col-4 lg-col-4', 'md-col-3 lg-col-3', 'md-col-3 lg-col-3', 'md-col-3 lg-col-3', 'md-col-3 lg-col-3', 'md-col-9 lg-col-9', 'md-col-3 lg-col-3' %}{{ box_classes }}{% cycle 'bg-primary-color', 'bg-dark-primary-color', 'bg-light-primary-color' %}"{% if object.featured_image_path %} style="background-image:url( {{ object.featured_image_path }} );"{% endif %}>
     {% if object.heading %}
-      <h1 class="flex-title">
+      <h1 class="flex-title h3{% if object.featured_image_path %} hidden-child transition{% endif %}">
         {% if object.featured_image_path %}
           <span class="heading-over-image">
             {{ object.heading }}
@@ -36,7 +23,9 @@ body_class: home
       </h1>
     {% endif %}
     {% if object.description %}
-      {{ object.description | markdownify }}
+      <div class="h6 center">
+        {{ object.description | markdownify }}
+      </div>
     {% endif %}
   </a>
   {% endfor %}
@@ -57,4 +46,17 @@ body_class: home
   </h2>
 </div>
 </main>
-{% include sidebar-right.html %}
+{% include global/sidebar-right.html %}
+
+
+{% comment %}
+{% if object.featured_image_path %}
+  background-image:url( {{ object.featured_image_path }} );
+{% endif %}
+{% if object.background-color %}
+  background-color: {{ object.background-color }};
+{% endif %}
+{% if object.color %}
+  color:{{ object.color}};
+{% endif %}
+ {% endcomment %}

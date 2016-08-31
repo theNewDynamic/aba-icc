@@ -9,6 +9,7 @@
 @import 'modules/_iframes';
 @import 'modules/_layout';
 @import 'modules/_expandable';
+@import 'modules/_hide-child';
 @import 'modules/_transitions';
 
 /* OVERRIDES */

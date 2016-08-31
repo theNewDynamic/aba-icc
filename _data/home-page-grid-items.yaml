@@ -2,7 +2,7 @@
   heading: "About the ABA's ICC Project"
   description: "The American Bar Association's International Criminal Court Project is an independent initiative to support the International Criminal Court & US-ICC relations through advocacy, education, and practical legal assistance."
   featured_image_path: /uploads/icc-sketch-dark-530x298.jpg
-  class: "big"
+  class: "big lg-col-9"
   url: /the-aba-icc-project/about-the-project/
 
 -
