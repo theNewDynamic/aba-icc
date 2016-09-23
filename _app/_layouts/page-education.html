@@ -3,16 +3,33 @@ layout: default
 section: page
 ---
 
- {% comment %}<!-- a
-TODO: 
- - set color scheme
- - match color scheme to topbar/under to match
- - make topbar link to phase
- - create a fade or something so the page can load
+{% comment %}
+TODO:
+lose the hr tag?
+fix hidden sidebar flow on mobile
+add waypoints
+make arrows in nav only show on the largest screens (at least when scrolling)
 
- #| where_exp:"item", "item.path contains '_how-the-court-works/sentencing-and-reparations'"
-  -->{% endcomment %}
+ {% endcomment %}
 
+{% assign section_classes_main = ' clearfix relative col-12 height-100 md-p3 lg-p3' %}
+
+{% assign section_classes_left = ' relative md-col lg-col col-12 md-col-5 lg-col-5 lg-height-100 pr2 pl2 md-pl0 lg-pl0 md-pr3 lg-pr3 md-fp4 lg-fp4' %}
+
+{% assign chapter_classes = ' chapter border-box transition transform md-p3 lg-p3' %}
+<!-- lg-absolute lg-left-0 lg-top-0 lg-right-0 fit col-12 lg-col-10 bg-silfver m2  -->
+{% assign chapter_classes_color_on_dark = ' silver' %}
+{% assign chapter_classes_color_on_light = ' primary-color-dark' %}
+
+{% assign section_classes_right = ' md-col lg-col col-12 md-col-7 lg-col-7 height-100 p2 md-p4 lg-p4 rounded   TKborder-left border-divider-color' %}
+{% assign chapter_heading_classes = 'white'  %}
+
+<style media="screen">
+  h1.white { color: white; !important}
+  ul {margin:0 !important;}
+
+</style>
+{% assign atrocity-crimes = (site.documents | where: 'process', 'atrocity-crimes' | sort: 'sort_order', 'last')  %}
 {% assign referrals-and-communication = (site.documents | where: 'process', 'referrals-and-communication' | sort: 'sort_order', 'last')  %}
 {% assign preliminary-examination = (site.documents | where: 'process', 'preliminary-examination' | sort: 'sort_order', 'last')) %}
 {% assign investigation = (site.documents | where: 'process', 'investigation' | sort: 'sort_order', 'last') %}
@@ -22,115 +39,251 @@ TODO:
 {% assign sentencing-and-reparations = (site.documents | where: 'process', 'sentencing-and-reparations' | sort: 'sort_order', 'last') %}
 
 {% assign slideshowOptions = ' "cellAlign": "left",  "pageDots": false, "freeScroll": true '%}
-  
 
-  
+
+
 <main class="content is-visible" role="main">
 {% include hero.html %}
 {% include components/nav-how-the-court-works.html %}
 
-  <div class="has-layout timelines" id="start-of-content">
-  
-    {% include _article.html %}
-  
-    <div id="referrals-and-communication" class="timeline phase_1">
-      <h2>Referrals & Communication</h2>
-      <div class="main-carousel{% if referrals-and-communication.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>
-        {% for object in referrals-and-communication | sort: 'sort_order', 'last' %}
-        {% capture words %}{{ content | number_of_words }}{% endcapture %}
-          {% assign words = words | plus: 1 %}
-          
-          <div class="section{% if words > 200 %} columns{% endif %}">
-            {% include components/sections.html %}
-          </div>
+  <div id="content-begin" class="has-layout" id="start-of-content">
+
+     <!-- include _article.html %} -->
+
+
+    <section id="atrocity-crimes" class="phase_0 {{ section_classes_main }}">
+      <div class="{{ section_classes_left }}">
+        <div class="{{ chapter_classes }}{{ chapter_classes_color_on_light }}">
+          <h1 class="{{ chapter_heading_classesTK }}">
+            {{ atrocity-crimes[0].title }}
+          </h1>
+          {{ atrocity-crimes[0].content | markdownify }}
+        </div>
+      </div>
+      <div class="bg-white{{ section_classes_right }}">
+        {% for object in atrocity-crimes offset:1 | sort: 'sort_order', 'last' %}
+          <aside class="col-12">
+            <h1>
+              {{ object.title }}
+            </h1>
+            {{ object.content | markdownify }}
+          </aside>
         {% endfor %}
       </div>
-    </div>
+      <hr />
+    </section>
 
 
-    <div id="preliminary-examination" class="timeline phase_2">
-      <h2>Preliminary Examination</h2>
-      <div class="main-carousel{% if preliminary-examination.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>
-        {% for object in preliminary-examination %}
-        {% capture words %}{{ content | number_of_words }}{% endcapture %}
-          {% assign words = words | plus: 1 %}
-          <div class="section{% if words > 200 %} columns{% endif %}">
-            {% include components/sections.html %}
-          </div>
+
+
+
+
+
+
+    <section id="referrals-and-communication" class="phase_1 {{ section_classes_main }}">
+      <div class="{{ section_classes_left }}">
+        <div class="{{ chapter_classes }}{{ chapter_classes_color_on_dark }}">
+          <h1 class="{{ chapter_heading_classes }}">
+            {{ referrals-and-communication[0].title }}
+          </h1>
+          {{ referrals-and-communication[0].content | markdownify }}
+        </div>
+      </div>
+      <div class="bg-white{{ section_classes_right }}">
+        {% for object in referrals-and-communication offset:1 | sort: 'sort_order', 'last' %}
+          <aside class="col-12">
+            <h1>
+              {{ object.title }}
+            </h1>
+            {{ object.content | markdownify }}
+          </aside>
         {% endfor %}
       </div>
-    </div>
-
-    <div id="investigation" class="timeline phase_3">
-      <h2>Investigation</h2>
-      <div class="main-carousel{% if investigation.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>        
-        {% for object in investigation %}
-        {% capture words %}{{ content | number_of_words }}{% endcapture %}
-          {% assign words = words | plus: 1 %}
-          <div class="section{% if words > 200 %} columns{% endif %}">
-            {% include components/sections.html %}
-          </div>
-        {% endfor %}
-      </div>
-    </div>
-
-    <div id="arrest-warrant-and-summons" class="timeline phase_4">
-      <h2>Arrest Warrant & Summons</h2>
-      <div class="main-carousel{% if arrest-warrant-and-summons.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>       
-        {% for object in arrest-warrant-and-summons %}
-        {% capture words %}{{ content | number_of_words }}{% endcapture %}
-          {% assign words = words | plus: 1 %}
-          <div class="section{% if words > 200 %} columns{% endif %}">
-            {% include components/sections.html %}
-          </div>
-        {% endfor %}
-      </div>
-    </div>
+      <hr />
+    </section>
 
 
-    <div id="confirmation-of-charges" class="timeline phase_5">
-      <h2>Confirmation of Charges</h2>
-      <div class="main-carousel{% if confirmation-of-charges.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>        
-        {% for object in confirmation-of-charges %}
-        {% capture words %}{{ content | number_of_words }}{% endcapture %}
-          {% assign words = words | plus: 1 %}
-          <div class="section{% if words > 200 %} columns{% endif %}">
-            {% include components/sections.html %}
-          </div>
-        {% endfor %}
-      </div>
-    </div>
+<!-- //////////////////////////// SECTION /////////////////////////////////////// -->
 
-    <div id="trial-and-appeal" class="timeline phase_6">
-      <h2>Trial & Appeal</h2>
-      <div class="main-carousel{% if trial-and-appeal.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>        
-        {% for object in trial-and-appeal %}
-        {% capture words %}{{ content | number_of_words }}{% endcapture %}
-          {% assign words = words | plus: 1 %}
-          <div class="section{% if words > 200 %} columns{% endif %}">
-            {% include components/sections.html %}
-          </div>
-        {% endfor %}
-      </div>
-    </div>
 
-    <div id="sentencing-and-reparations" class="timeline phase_7">
-      <h2>Sentencing & Reparations</h2>
-      <div class="main-carousel{% if sentencing-and-reparations.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>        
-        {% for object in sentencing-and-reparations %}
-        {% capture words %}{{ content | number_of_words }}{% endcapture %}
-          {% assign words = words | plus: 1 %}
-          <div class="section{% if words > 200 %} columns{% endif %}">
-            {% include components/sections.html %} 
-          </div>
-        {% endfor %}
-      </div>
+<section id="preliminary-examination" class="phase_2 {{ section_classes_main }}">
+  <div class="{{ section_classes_left }}">
+    <div class="{{ chapter_classes }}{{ chapter_classes_color_on_dark }}">
+      <h1 class="{{ chapter_heading_classes }}">
+        {{ preliminary-examination[0].title }}
+      </h1>
+      {{ preliminary-examination[0].content | markdownify }}
     </div>
+  </div>
+  <div class="bg-white{{ section_classes_right }}">
+    {% for object in preliminary-examination offset:1 | sort: 'sort_order', 'last' %}
+      <aside class="col-12">
+        <h1>
+          {{ object.title }}
+        </h1>
+        {{ object.content | markdownify }}
+      </aside>
+    {% endfor %}
+  </div>
+  <hr />
+</section>
+
+
+<!-- //////////////////////////// SECTION /////////////////////////////////////// -->
+
+
+
+
+
+<section id="investigation" class="phase_3 {{ section_classes_main }}">
+  <div class="{{ section_classes_left }}">
+    <div class="{{ chapter_classes }}{{ chapter_classes_color_on_dark }}">
+      <h1 class="{{ chapter_heading_classes }}">
+        {{ investigation[0].title }}
+      </h1>
+      {{ investigation[0].content | markdownify }}
+    </div>
+  </div>
+  <div class="bg-white{{ section_classes_right }}">
+    {% for object in investigation offset:1 | sort: 'sort_order', 'last' %}
+      <aside class="col-12">
+        <h1>
+          {{ object.title }}
+        </h1>
+        {{ object.content | markdownify }}
+      </aside>
+    {% endfor %}
+  </div>
+  <hr />
+</section>
+
+
+<!-- //////////////////////////// SECTION /////////////////////////////////////// -->
+
+
+<section id="arrest-warrant-and-summons" class="phase_4 {{ section_classes_main }}">
+  <div class="{{ section_classes_left }}">
+    <div class="{{ chapter_classes }}{{ chapter_classes_color_on_dark }}">
+      <h1 class="{{ chapter_heading_classes }}">
+        {{ arrest-warrant-and-summons[0].title }}
+      </h1>
+      {{ arrest-warrant-and-summons[0].content | markdownify }}
+    </div>
+  </div>
+  <div class="bg-white{{ section_classes_right }}">
+    {% for object in arrest-warrant-and-summons offset:1 | sort: 'sort_order', 'last' %}
+      <aside class="col-12">
+        <h1>
+          {{ object.title }}
+        </h1>
+        {{ object.content | markdownify }}
+      </aside>
+    {% endfor %}
+  </div>
+  <hr />
+</section>
+
+
+<!-- //////////////////////////// SECTION /////////////////////////////////////// -->
+
+
+<section id="confirmation-of-charges" class="phase_5 {{ section_classes_main }}">
+  <div class="{{ section_classes_left }}">
+    <div class="{{ chapter_classes }}{{ chapter_classes_color_on_dark }}">
+      <h1 class="{{ chapter_heading_classes }}">
+        {{ confirmation-of-charges[0].title }}
+      </h1>
+      {{ confirmation-of-charges[0].content | markdownify }}
+    </div>
+  </div>
+  {% if confirmation-of-charges[1] %}
+
+
+  <div class="bg-white{{ section_classes_right }}">
+    {% for object in confirmation-of-charges offset:1 | sort: 'sort_order', 'last' %}
+      <aside class="col-12">
+        <h1>
+          {{ object.title }}
+        </h1>
+        {{ object.content | markdownify }}
+      </aside>
+    {% endfor %}
+  </div>
+  <hr />
+  {% endif %}
+
+</section>
+
+
+<!-- //////////////////////////// SECTION /////////////////////////////////////// -->
+
+
+<section id="trial-and-appeal" class="phase_6 {{ section_classes_main }}">
+  <div class="{{ section_classes_left }}">
+    <div class="{{ chapter_classes }}{{ chapter_classes_color_on_light }}">
+      <h1 class="{{ chapter_heading_classes }}">
+        {{ trial-and-appeal[0].title }}
+      </h1>
+      {{ trial-and-appeal[0].content | markdownify }}
+    </div>
+  </div>
+  <div class="bg-white{{ section_classes_right }}">
+    {% for object in trial-and-appeal offset:1 | sort: 'sort_order', 'last' %}
+      <aside class="col-12">
+        <h1>
+          {{ object.title }}
+        </h1>
+        {{ object.content | markdownify }}
+      </aside>
+    {% endfor %}
+  </div>
+  <hr />
+</section>
+
+
+<!-- //////////////////////////// SECTION /////////////////////////////////////// -->
+
+
+<section id="sentencing-and-reparations" class="phase_7 {{ section_classes_main }}">
+  <div class="{{ section_classes_left }}">
+    <div class="{{ chapter_classes }}{{ chapter_classes_color_on_light }}">
+      <h1 class="{{ chapter_heading_classes }}">
+        {{ sentencing-and-reparations[0].title }}
+      </h1>
+      {{ sentencing-and-reparations[0].content | markdownify }}
+    </div>
+  </div>
+  <div class="bg-white{{ section_classes_right }}">
+    {% for object in sentencing-and-reparations offset:1 | sort: 'sort_order', 'last' %}
+      <aside class="col-12">
+        <h1>
+          {{ object.title }}
+        </h1>
+        {{ object.content | markdownify }}
+      </aside>
+    {% endfor %}
+  </div>
+  <hr />
+</section>
+
+
+<!-- //////////////////////////// SECTION /////////////////////////////////////// -->
+
+
+
+
+
+
+
+
+
 
 
 
 
   </div>
+
+  <a class="center h2 text-decoration-none black" href="#content-begin">— TOP —</a>
 </main>
 
 

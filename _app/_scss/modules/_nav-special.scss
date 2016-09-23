@@ -30,7 +30,7 @@
       float: left;
     }
 
-    @include media($large-screen) {
+    @include media($x-large-screen) {
     .breadcrumb li a:after {
       content: " ";
       display: block;
@@ -77,67 +77,67 @@
 $base-bg: $blue-dark;
 
 
-    
-    .breadcrumb li.jurisdictional-triggers a, #jurisdictional-triggers       { 
-      background: lighten($base-bg, 60%); 
+
+    .breadcrumb li.jurisdictional-triggers a, #jurisdictional-triggers       {
+      background: lighten($base-bg, 60%);
     }
-    .breadcrumb li.jurisdictional-triggers a:after { 
-    border-left-color: lighten($base-bg, 60%); 
+    .breadcrumb li.jurisdictional-triggers a:after {
+    border-left-color: lighten($base-bg, 60%);
     }
 
 
 
 
-    .breadcrumb li.referrals-and-communication a, #referrals-and-communication { 
-      background:  lighten($base-bg, 0%); 
+    .breadcrumb li.referrals-and-communication a, #referrals-and-communication {
+      background:  lighten($base-bg, 0%);
     }
-    .breadcrumb li.referrals-and-communication a:after { 
-      border-left-color: lighten($base-bg, 0%); 
-    }
-
-    .breadcrumb li.preliminary-examination a, #preliminary-examination { 
-      background: lighten($base-bg, 10%); 
-    }
-    .breadcrumb li.preliminary-examination a:after { 
-      border-left-color: lighten($base-bg, 10%); 
+    .breadcrumb li.referrals-and-communication a:after {
+      border-left-color: lighten($base-bg, 0%);
     }
 
-    .breadcrumb li.investigation a, #investigation       { 
-      background: lighten($base-bg, 20%); 
+    .breadcrumb li.preliminary-examination a, #preliminary-examination {
+      background: lighten($base-bg, 10%);
     }
-    .breadcrumb li.investigation a:after { 
-      border-left-color: lighten($base-bg, 20%); 
+    .breadcrumb li.preliminary-examination a:after {
+      border-left-color: lighten($base-bg, 10%);
+    }
+
+    .breadcrumb li.investigation a, #investigation       {
+      background: lighten($base-bg, 20%);
+    }
+    .breadcrumb li.investigation a:after {
+      border-left-color: lighten($base-bg, 20%);
     }
 
     .breadcrumb li.arrest-warrant-and-summons a, #arrest-warrant-and-summons {
-      background: lighten($base-bg, 30%); 
+      background: lighten($base-bg, 30%);
     }
     .breadcrumb li.arrest-warrant-and-summons a:after {
-      border-left-color: lighten($base-bg, 30%); 
+      border-left-color: lighten($base-bg, 30%);
     }
 
-    .breadcrumb li.confirmation-of-charges a, #confirmation-of-charges { 
+    .breadcrumb li.confirmation-of-charges a, #confirmation-of-charges {
       background: lighten($base-bg, 40%);
     }
-    .breadcrumb li.confirmation-of-charges a:after { 
-      border-left-color: lighten($base-bg, 40%); 
+    .breadcrumb li.confirmation-of-charges a:after {
+      border-left-color: lighten($base-bg, 40%);
     }
 
-    .breadcrumb li.trial-and-appeal a, #trial-and-appeal { 
-      background: lighten($base-bg, 50%); 
+    .breadcrumb li.trial-and-appeal a, #trial-and-appeal {
+      background: lighten($base-bg, 50%);
     }
-    .breadcrumb li.trial-and-appeal a:after { 
+    .breadcrumb li.trial-and-appeal a:after {
       border-left-color: lighten($base-bg, 50%);
     }
 
-    .breadcrumb li.sentencing-and-reparations a, #sentencing-and-reparations       { 
-      background: lighten($base-bg, 60%); 
+    .breadcrumb li.sentencing-and-reparations a, #sentencing-and-reparations       {
+      background: lighten($base-bg, 60%);
     }
-    .breadcrumb li.sentencing-and-reparations a:after { 
-    border-left-color: lighten($base-bg, 60%); 
+    .breadcrumb li.sentencing-and-reparations a:after {
+    border-left-color: lighten($base-bg, 60%);
     }
 
-    
+
 
 
     // .breadcrumb li:last-child a {
@@ -247,14 +247,14 @@ $base-bg: $blue-dark;
 }
 
 .timelines {
-  padding: 3em 0 2em 0;      
+  padding: 3em 0 2em 0;
 
   .timeline {
-    padding: 3em 3em 3em 4.5em;  
+    padding: 3em 3em 3em 4.5em;
   }
   h2 {
       color: white;
-      
+
       //@include outer-container;
       clear: both;
     }
@@ -281,14 +281,14 @@ $base-bg: $blue-dark;
     width: 66vw;
     div {
       h3  {
-        color: #111;
+        color: #fff;//#111;
       }
-      color: #555;//#ddd;
-    background-color:#f6f6f6;
+      color: #ddd;//#555;
+    //background-color:#f6f6f6;
     padding: 2em;
 
     }
-    
+
     p {
       font-size: 1.375em;
     }
@@ -303,7 +303,7 @@ $base-bg: $blue-dark;
   }
   a {
     color: #ddd;
-  }  
+  }
 }
 
 .columnsTK {

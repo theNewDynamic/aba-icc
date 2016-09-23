@@ -141,8 +141,8 @@ collections:
     output: false
   how-the-court-works:
     output: true
-    #permalink: '/:collection/:name/'  
-    permalink: '/:collection/:path/'  
+    #permalink: '/:collection/:name/'
+    permalink: '/:collection/:path/'
 
 defaults:
   -
@@ -189,7 +189,7 @@ defaults:
     values:
       exclude_from_search: true
       _comments:
-        youtube_id: 'Use the ID of the video only, not the embed code'      
+        youtube_id: 'Use the ID of the video only, not the embed code'
   -
     scope:
       path: "" # an empty string here means all files in the project
@@ -197,7 +197,7 @@ defaults:
     values:
       exclude_from_search: true
       _comments:
-        youtube_id: 'Use the ID of the video only, not the embed code'      
+        youtube_id: 'Use the ID of the video only, not the embed code'
   -
     scope:
       path: "" # an empty string here means all files in the project
