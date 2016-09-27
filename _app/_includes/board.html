@@ -1,7 +1,7 @@
 {% assign  boardMembers = site.board-of-advisors | where: 'published', true %}
 {% assign  boardChair = boardMembers | where: 'board_chair', true %}
 {% comment %} this could lead to an error, because a board_chair could be marked 'false' {% endcomment %}
-{% assign  boardMembers = boardMembers | where: 'board_chair', '' | sort: 'last_name', 'last' %}
+{% assign  boardMembers = boardMembers | where_exp: 'item', 'item.board_chair != "true"' | sort: 'last_name', 'last' %}
 <div class="flex-boxes">
   {% for item in boardChair %}
     {% include board-item.html %}
