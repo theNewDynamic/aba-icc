@@ -14,4 +14,4 @@ Pre-Trial Chamber I issued a sealed [arrest warrant](https://www.icc-cpi.int/Pag
 
 On March 24, 2016, Pre-Trial Chamber I&nbsp;[confirmed charges](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/12-01/15-84-Red) against Mr. Al Mahdi, and ICC Prosecutor Fatou Bensouda announced that the Accused&nbsp;[stated his wish to plead guilty](https://www.icc-cpi.int//Pages/item.aspx?name=160324-otp-stat-al-Mahdi) during the confirmation of charges hearing. &nbsp;
 
-On June 1, 2016, Trial Chamber VIII [set the trial commencement date](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/12-01/15-93) for August 22, 2016.
+On June 1, 2016, Trial Chamber VIII [set the trial commencement date](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/12-01/15-93) for August 22, 2016. Mr. Al-Mahdi [was](https://www.icc-cpi.int/pages/item.aspx?name=pr1242) found [guilty](https://www.icc-cpi.int/CourtRecords/CR2016_07244.PDF) and sentenced to nine years of imprisonment on September 27, 2016.&nbsp;
