@@ -1,4 +1,5 @@
-{% assign data = site.posts | sort: 'date', 'last' | reverse %}
+ <!-- assign data = site.posts | sort: 'date', 'last' | reverse %} -->
+{% assign data = site.data.news.news | sort: 'date', 'last'  | reverse %}
 <section class="news">
   {% for object in data %}
     {% include _news-item.html %}

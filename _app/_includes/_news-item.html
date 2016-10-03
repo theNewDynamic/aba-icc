@@ -10,7 +10,11 @@
   {% endif %}
   {% if object.content %}
     <div class="copy">
-      {{ object.content | markdownify }}
+      {% if page.layout == 'home' %}
+        {{ object.content | markdownify | truncatewords: 50 }}
+        {% else %}
+        {{ object.content | markdownify }}
+      {% endif %}
     </div>
   {% endif %}
   {% if object.venue or object.address %}
@@ -26,7 +30,11 @@
     <p>
       <a href="{{ object.recap_link }}">
         <strong>
-          &raquo; See a Recap of this Event
+          {% if page.layout == 'home' %}
+            &raquo; Click here for the full report
+          {% else %}
+            &raquo; Permanent Link to the full report
+          {% endif %}
         </strong>
       </a>
     </p>
