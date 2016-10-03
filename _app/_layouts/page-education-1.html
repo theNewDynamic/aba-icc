@@ -4,7 +4,7 @@ section: page
 ---
 
  {% comment %}<!-- a
-TODO: 
+TODO:
  - set color scheme
  - match color scheme to topbar/under to match
  - make topbar link to phase
@@ -13,33 +13,33 @@ TODO:
  #| where_exp:"item", "item.path contains '_how-the-court-works/sentencing-and-reparations'"
   -->{% endcomment %}
 
-{% assign referrals-and-communication = (site.documents | where: 'process', 'referrals-and-communication' | sort: 'sort_order', 'last')  %}
-{% assign preliminary-examination = (site.documents | where: 'process', 'preliminary-examination' | sort: 'sort_order', 'last')) %}
-{% assign investigation = (site.documents | where: 'process', 'investigation' | sort: 'sort_order', 'last') %}
-{% assign arrest-warrant-and-summons = (site.documents | where: 'process', 'arrest-warrant-and-summons' | sort: 'sort_order', 'last') %}
-{% assign confirmation-of-charges = (site.documents | where: 'process', 'confirmation-of-charges' | sort: 'sort_order', 'last') %}
-{% assign trial-and-appeal = (site.documents | where: 'process', 'trial-and-appeal' | sort: 'sort_order', 'last') %}
-{% assign sentencing-and-reparations = (site.documents | where: 'process', 'sentencing-and-reparations' | sort: 'sort_order', 'last') %}
+{% assign referrals-and-communication = site.documents | where: 'process', 'referrals-and-communication' | sort: 'sort_order', 'last'  %}
+{% assign preliminary-examination = site.documents | where: 'process', 'preliminary-examination' | sort: 'sort_order', 'last') %}
+{% assign investigation = site.documents | where: 'process', 'investigation' | sort: 'sort_order', 'last' %}
+{% assign arrest-warrant-and-summons = site.documents | where: 'process', 'arrest-warrant-and-summons' | sort: 'sort_order', 'last' %}
+{% assign confirmation-of-charges = site.documents | where: 'process', 'confirmation-of-charges' | sort: 'sort_order', 'last' %}
+{% assign trial-and-appeal = site.documents | where: 'process', 'trial-and-appeal' | sort: 'sort_order', 'last' %}
+{% assign sentencing-and-reparations = site.documents | where: 'process', 'sentencing-and-reparations' | sort: 'sort_order', 'last' %}
 
 {% assign slideshowOptions = ' "cellAlign": "left",  "pageDots": false, "freeScroll": true '%}
-  
 
-  
+
+
 <main class="content is-visible" role="main">
 {% include hero.html %}
 {% include components/nav-how-the-court-works.html %}
 
   <div class="has-layout timelines" id="start-of-content">
-  
+
     {% include _article.html %}
-  
+
     <div id="referrals-and-communication" class="timeline phase_1">
       <h2>Referrals & Communication</h2>
       <div class="main-carousel{% if referrals-and-communication.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>
         {% for object in referrals-and-communication | sort: 'sort_order', 'last' %}
         {% capture words %}{{ content | number_of_words }}{% endcapture %}
           {% assign words = words | plus: 1 %}
-          
+
           <div class="section{% if words > 200 %} columns{% endif %}">
             {% include components/sections.html %}
           </div>
@@ -63,7 +63,7 @@ TODO:
 
     <div id="investigation" class="timeline phase_3">
       <h2>Investigation</h2>
-      <div class="main-carousel{% if investigation.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>        
+      <div class="main-carousel{% if investigation.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>
         {% for object in investigation %}
         {% capture words %}{{ content | number_of_words }}{% endcapture %}
           {% assign words = words | plus: 1 %}
@@ -76,7 +76,7 @@ TODO:
 
     <div id="arrest-warrant-and-summons" class="timeline phase_4">
       <h2>Arrest Warrant & Summons</h2>
-      <div class="main-carousel{% if arrest-warrant-and-summons.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>       
+      <div class="main-carousel{% if arrest-warrant-and-summons.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>
         {% for object in arrest-warrant-and-summons %}
         {% capture words %}{{ content | number_of_words }}{% endcapture %}
           {% assign words = words | plus: 1 %}
@@ -90,7 +90,7 @@ TODO:
 
     <div id="confirmation-of-charges" class="timeline phase_5">
       <h2>Confirmation of Charges</h2>
-      <div class="main-carousel{% if confirmation-of-charges.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>        
+      <div class="main-carousel{% if confirmation-of-charges.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>
         {% for object in confirmation-of-charges %}
         {% capture words %}{{ content | number_of_words }}{% endcapture %}
           {% assign words = words | plus: 1 %}
@@ -103,7 +103,7 @@ TODO:
 
     <div id="trial-and-appeal" class="timeline phase_6">
       <h2>Trial & Appeal</h2>
-      <div class="main-carousel{% if trial-and-appeal.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>        
+      <div class="main-carousel{% if trial-and-appeal.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>
         {% for object in trial-and-appeal %}
         {% capture words %}{{ content | number_of_words }}{% endcapture %}
           {% assign words = words | plus: 1 %}
@@ -116,12 +116,12 @@ TODO:
 
     <div id="sentencing-and-reparations" class="timeline phase_7">
       <h2>Sentencing & Reparations</h2>
-      <div class="main-carousel{% if sentencing-and-reparations.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>        
+      <div class="main-carousel{% if sentencing-and-reparations.size > 1 %} js-flickity{% endif %}" data-flickity-options='{ {{slideshowOptions}} }'>
         {% for object in sentencing-and-reparations %}
         {% capture words %}{{ content | number_of_words }}{% endcapture %}
           {% assign words = words | plus: 1 %}
           <div class="section{% if words > 200 %} columns{% endif %}">
-            {% include components/sections.html %} 
+            {% include components/sections.html %}
           </div>
         {% endfor %}
       </div>

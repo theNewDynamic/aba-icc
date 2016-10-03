@@ -47,9 +47,9 @@ sort_order:
 ## DO NOT EDIT BELOW THIS LINE
 
 jekyll_get:
-  data: news
-  json: 'https://www.international-criminal-justice-today.org/api/icjt-news.json'
-
+  - data: news
+    json: https://www.international-criminal-justice-today.org/api/icjt-news.json
+    cache: false
 
 version: 3.0.3
 #full_rebuild: true
