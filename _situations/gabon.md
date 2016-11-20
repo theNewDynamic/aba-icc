@@ -4,7 +4,7 @@ country: gabon
 published: true
 date: 2016-01-01 12:12:00
 phase: 'Preliminary Examinations, Subject Matter Jurisdiction Assessement'
-link_to_more_information:
+link_to_more_information: 'https://www.icc-cpi.int/gabon'
 description: 'The Situation in Gabon focuses on alleged atrocity crimes committed during an ongoing political crisis, following disputed 2016 presidential elections results, which involved Gabonese government forces and protest groups (opposition political parties and citizens).  The preliminary examination is in the jurisdiction assessment phase.'
 ---
 
@@ -16,3 +16,5 @@ The Situation in Gabon focuses on alleged atrocity crimes committed during an on
 **ICC Status**
 
 Gabon is a [State Party](https://asp.icc-cpi.int/en_menus/asp/states%20parties/african%20states/Pages/gabon.aspx) to the International Criminal Court (ICC) and ratified the Rome Statute on September 20, 2000. In September 2016, after receiving a [referral](https://www.icc-cpi.int/iccdocs/otp/Referral-Gabon.pdf) from the Government of Gabon of alleged atrocity crimes committed in its territory, the ICC Office of the Prosecutor (OTP) [opened](https://www.icc-cpi.int/Pages/item.aspx?name=160929-otp-stat-gabon) a preliminary examination. After opening a preliminary examination, to make a determination to open a formal investigation, the OTP assesses the following factors: jurisdiction (temporal, territorial or personal, and subject matter); admissibility (complementarity and gravity); and the interests of justice. As of November 2016, the preliminary examination of Gabon is in the [jurisdiction assessment (subject matter) phase](https://www.icc-cpi.int/iccdocs/otp/161114-otp-rep-PE_ENG.pdf). &nbsp; &nbsp;&nbsp;&nbsp;
+
+For more information on the preliminary examination in Gabon, please visit the [ICC page](https://www.icc-cpi.int/gabon).
