@@ -1,7 +1,7 @@
 ---
 title: Gabon
 country: gabon
-published: false
+published: true
 date: 2016-01-01 12:12:00
 phase: 'Preliminary Examinations, Subject Matter Jurisdiction Assessement'
 link_to_more_information:
