@@ -1,0 +1,13 @@
+<aside id="js-navigation-menu-sidebar" class="sidebar-right sliding-panel-content {{ include:class }}" role="navigation">
+ {% include sidebar-heading.html %}
+ {% include sidebar-menu.html  %}
+ {% if page.url contains 'situations-cases' %}
+    {% include map/legend-situations-and-cases.html %}
+  {% endif %}
+  {% if page.url contains '/states-parties-to-the-icc/' %}
+     {% include map/legend-state-parties.html %}
+  {% endif %}
+  {% if page.url == '/' %}
+    <img src="/assets/images/logo-kingdom-of-the-netherlands.png" style="clear:both;margin:6em auto 1em auto;width:200px;display:block;border:none">
+  {% endif %}
+</aside>

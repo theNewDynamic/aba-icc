@@ -1,0 +1,19 @@
+---
+title: Cote d’Ivoire
+country: cote-divoire
+published: true
+date: 2015-02-23T19:14:00.000Z
+phase: 'Situations & Cases'
+link_to_more_information:
+description: "The Situation in Côte d'Ivoire involves violence resulting from contested presidential elections in 2010, as well as a decade of tension over the leadership of Côte d'Ivoire. Within the Côte d'Ivoire Situation, there are two ongoing cases."
+slug: cote-divoire
+---
+
+
+The Situation in Côte d'Ivoire involves violence resulting from the country’s contested [presidential elections](http://www.un.org/en/peacekeeping/missions/unoci/elections.shtml) of 2010, following a decade of tension over the leadership of Côte d'Ivoire. After former [President Laurent Gbagbo](https://www.washingtonpost.com/news/monkey-cage/wp/2016/02/03/who-is-laurent-gbagbo-and-why-is-he-on-trial-at-the-icc/) was elected in 2000, a revolt occurred in 2002, which resulted in civil unrest. The government held the majority Christian south, and rebels controlled the majority Muslim north. After Gbagbo refused to hold elections in 2004, the government allegedly ordered [airstrikes](http://www.nytimes.com/2004/11/07/world/africa/ivory-coast-violence-flares-9-french-and-1-us-death.html) against different rebel groups.
+
+The government continued to refuse to hold elections until 2010. In November 2010, former Prime Minister and Rally of the Republicans candidate Alassane Ouattara was elected President, but former [President Gbabgo](https://www.hrw.org/news/2013/02/12/qa-laurent-gbagbo-and-international-criminal-court) disputed the election results and refused to cede power. In November 2010, pro-Gbagbo forces allegedly attacked civilians perceived to be associated with the Ouattara opposition in Abidjan and western Côte d'Ivoire. The [attacks](https://www.hrw.org/report/2011/10/05/they-killed-them-it-was-nothing/need-justice-cote-divoires-post-election-crimes) allegedly often targeted civilians on the basis of ethnic, religious, national or political affiliations. The situation escalated to an armed conflict between [pro-Gbagbo](https://www.hrw.org/news/2011/03/15/cote-divoire-crimes-against-humanity-gbagbo-forces) forces and [pro-Ouattara](https://www.hrw.org/news/2011/04/09/cote-divoire-ouattara-forces-kill-rape-civilians-during-offensive) forces that lasted until April 2011, with both sides allegedly committing murder, rape, attacks against civilians and attacks to cultural and religious institutions.
+
+Côte d’Ivoire ratified the Rome Statute on February 15, 2013. Prior to ratification, Côte d'Ivoire [accepted](https://www.legal-tools.org/uploads/tx_ltpdb/ICC-CPI-20050215_01.pdf) International Criminal Court (ICC) jurisdiction in April 2003 and again in both December 2010 and May 2011. The Office of the Prosecutor (OTP) [initiated](https://www.icc-cpi.int/CourtRecords/CR2011_07959.PDF) a *proprio motu* investigation on June 23, 2011, which was later [authorized](http://www.icc-cpi.int/iccdocs/doc/doc1240553.pdf) by the ICC's Pre-Trial Chamber III on October 3, 2011. The OTP initially requested authorization to investigate crimes since November 28, 2010, but the investigation was later [expanded](http://www.icc-cpi.int/en_menus/icc/situations and cases/situations/icc0211/press releases/Pages/pr768.aspx) to cover evidence of crimes since September 19, 2002. Within the Côte d'Ivoire situation, there are the following cases: *[The Prosecutor v. Simone Gbagbo](https://www.aba-icc.org/cases/case/the-prosecutor-v-simone-gbagbo/)* and *[The Prosecutor v. Laurent Gbagbo and Charles Blé Goudé](https://www.aba-icc.org/cases/case/the-prosecutor-v-gbagbo-and-ble-goude/)*.
+
+For more information on the Situation in Côte d'Ivoire, please visit the [ICC page](http://www.icc-cpi.int/en_menus/icc/situations and cases/situations/icc0211/Pages/situation index.aspx).

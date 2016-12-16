@@ -1,0 +1,51 @@
+{% assign sections = site.structure-of-the-icc | sort: 'order', 'last' %}
+<div class="timeline">
+  {% for section in sections %}
+    <div class="full-width-bar">
+      <h1 id="{{ section.title | slugify }}">{{ section.title }}</h1>
+
+
+      {% if section.responsibilities  %}{% comment %} //responsibilities {% endcomment %}
+        <ul class="boxed-list left">
+          {% for row in section.responsibilities %}
+            <li>{{row}}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+
+
+      {{ section.content |markdownify }}
+
+
+      {% assign gallery = section.images %}{% comment %}  //pull in the images from each section's gallery {% endcomment %}
+      <div class="gallery">
+        {% for object in gallery %}
+          <div class="gallery-item">
+            <img src="{{ site.image_url}}{{ object.image_path }}?w=200&h=200&fit=clamp&exp=1">
+            {% if object.name %}
+              <p class="small m0 align-left">
+                {{ object.name }}
+              </p>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+
+
+      {% if section.footnotes %}
+        <div class="footnotes">
+          {{ section.footnotes | markdownify  }}
+        </div>
+      {% endif %}
+
+
+
+
+
+    </div>
+
+
+
+  {% endfor %}
+</div>

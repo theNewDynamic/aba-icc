@@ -1,0 +1,217 @@
+// .has-layout {
+//   @include outer-container;
+//   .entry-content {
+//     min-height: 100vh;
+//   }
+// }
+
+.row {
+  padding:.75em 1.5em;
+  width:100%;
+  ul.inline-block {
+    margin:0;
+    padding:0;
+  }
+}
+.row-first {
+  background-color:darken($lightest-gray, 9%);
+}
+.row-bottom-next {
+  background-color:darken($lightest-gray, 6%);
+}
+.row-bottom {
+  background-color:darken($lightest-gray, 3%);
+}
+
+
+.grid {
+    @include outer-container;
+    @include media($large-screen) {
+    .left-side {
+      @include span-columns(3 of 12);
+    }
+    .right-side {
+      @include span-columns(9 of 12);
+
+    }
+    .left-side-wide {
+      @include span-columns(4 of 12);
+    }
+    .right-side-narrow {
+      @include span-columns(8 of 12);
+
+    }
+  }
+  li {
+    margin-bottom: .75em;
+
+  }
+  ul li ul li {
+    padding-left:1em;
+  }
+
+}
+
+
+.full-width-bar {
+  //width:100%;
+  width:98%;
+  background-color: $white;
+  padding: 1em;
+  //border-top: $base-border;
+  //border-bottom: $base-border;
+  border: $base-border;
+  margin: 1em auto;
+  //margin-bottom: 1em;
+  p {
+    text-align: justify;
+  }
+  h4, h3 {
+    margin: .5em 0 .75em 0;
+  }
+  @include media($large-screen) {
+    padding:3em 5em;
+  }
+}
+
+
+.box { //similar to full-width-bar, but less padding
+  width:100%;
+  background-color: $white;
+  background-color: rgba(255,255,255,0.7);
+  padding: 1em;
+  margin-bottom: 1em;
+
+  h4, h3 {
+    margin: .5em 0 .75em 0;
+  }
+
+@include media($large-screen) {
+  padding:2em 2em;
+}
+}
+
+
+.heading h1 {
+  text-align: center;
+  }
+
+  .heading h2{
+    margin-left: 2.5em;
+  }
+
+.timeline, .flex-box {
+
+  .button {
+    border-color: $light-gray;
+    border-style: solid;
+    border-width: 1px;
+    padding: .125em .25em;
+  }
+
+  .submenu {
+    display: none;
+    h5 {
+      margin-bottom: .25em;
+    }
+    text-align: left;
+    a {
+      text-decoration: underline;
+    }
+  }
+  .is-expanded {
+    display: block;
+    padding-bottom: 0;
+  }
+}
+
+.text-align-left p {
+  text-align: left;
+}
+
+// .content {
+//   background-color: $content-color-background;
+//   height: auto;
+//   //min-height: 1200px;
+//   padding-bottom:2em;
+//   min-height:100%;
+// }
+
+// .layout {
+//   //margin-top: 5em;
+
+//     @include outer-container;
+//     max-width:95%;
+
+//     aside { @include span-columns(5);}
+//     article { @include span-columns(9); }
+
+//     section {
+//       @include span-columns(7);
+//     }
+
+// }
+
+
+// .layout-news {
+
+//     //margin-top: 5em;
+//     padding-top:2em;
+//     @include outer-container;
+//     //max-width:95%;
+
+//     aside {
+//       @include span-columns(12);
+//       margin-top:1em;
+//       padding:1em;
+//       background-color:#e8e8e8; }
+//     section { @include span-columns(12); padding:inherit; margin-top:inherit;}
+
+//       @include media($large-screen) {
+//           aside { @include span-columns(5); margin-top:2.5em; }
+//           section { @include span-columns(7); margin-top:0; }
+// }
+//     // section {
+//     //   @include span-columns(7);
+//     // }
+
+// }
+
+
+
+// .layout-article {
+
+//     //margin-top: 5em;
+//     padding-top:5em;
+//     @include outer-container;
+//     max-width:95%;
+
+//     aside { @include span-columns(12); margin-top:1em; padding:1em;background-color:#d9d9d9; }
+//     article { @include span-columns(12); padding:inherit; margin-top:inherit;}
+
+//       @include media($large-screen) {
+//           aside { @include span-columns(3); margin-top:2.5em; }
+//           article { @include span-columns(9); margin-top:0; padding: 2em 4em 2em 2em;}
+// }
+//     // section {
+//     //   @include span-columns(7);
+//     // }
+
+// }
+
+
+// .layout-content-with-grid {
+//   //margin-top: 5em;
+//     @include outer-container;
+
+//     aside { @include span-columns(12); }
+//     article { @include span-columns(12); }
+//     section { @include span-columns(12); }
+
+//       @include media($large-screen) {
+//       //@include grid-item-columns($grid-item-columns);
+//         aside { @include span-columns(5); }
+//         article { @include span-columns(9); }
+//         section { @include span-columns(7); }
+//       }
+// }

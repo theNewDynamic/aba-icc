@@ -1,0 +1,61 @@
+---
+layout: default
+section: page
+body_class: home
+---
+<main class="content" role="main">
+<!-- flex-box-big -->
+{% assign pages = site.data.home-page-grid-items  %}
+<div class="flex-boxes-home">
+
+{% for object in pages %}
+  <a href="{{ object.url }}" class="box{% if object.class %} {{object.class}}{% endif %}"
+      style="
+      {% if object.featured_image_path %}
+        background-image:url( {{ object.featured_image_path }} );
+        background-size:cover;
+        background-repeat:no-repeat;
+      {% endif %}
+      {% if object.background-color %}
+        background-color: {{ object.background-color }};
+      {% endif %}
+      {% if object.color %}
+        color:{{ object.color}};
+      {% endif %}
+    "
+    >
+    {% if object.heading %}
+      <h1 class="flex-title">
+        {% if object.featured_image_path %}
+          <span class="heading-over-image">
+            {{ object.heading }}
+          </span>
+        {% else %}
+          {{ object.heading }}
+        {% endif %}
+      </h1>
+    {% endif %}
+    {% if object.description %}
+      {{ object.description | markdownify }}
+    {% endif %}
+  </a>
+  {% endfor %}
+
+</div>
+
+
+<section class="news">
+  {% assign data = site.data.news.news | sort: 'date', 'last'  | reverse %}
+  {% for object in data limit:4 %}
+    {% include _news-item.html %}
+  {% endfor %}
+</section>
+<div class="heading">
+  <h2>
+    <a href="/news/">
+      more news
+    </a>
+  </h2>
+</div>
+</main>
+{% include sidebar-right.html %}

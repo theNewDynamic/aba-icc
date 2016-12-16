@@ -1,0 +1,234 @@
+#map-output, #map-stateparties {
+  //margin-top:-60px !important;
+  //overflow: hidden;
+  margin-bottom: 1em;
+  @include media($large-screen) {
+    height: 600px;  
+  }
+}
+#map-output, #map-stateparties, #map-situations-and-cases {
+  background-color: #eee;
+  max-height: 500px;
+   height: 92vh;
+   width: 100% !important;
+   //border-top: 3px solid $light-gray;
+   //border-bottom: 3px solid $light-gray;
+}
+
+.ammapDescriptionWindow {
+  font-size: .85em;
+  line-height: 1.1;
+  background-color: #fcfcfc !important;
+  border: 6px solid $blue !important;
+  box-shadow: 0 30px 50px rgba(0,0,0,0.8);
+  color: #555;
+  padding: 1.5em;
+  width: 365px !important;
+  z-index: 1000;
+  p{ 
+    line-height: 1.4;
+  }
+
+  @include media($large-screen) {
+    width: 450px !important;
+    left: 80px !important;
+    top: 20px !important;
+  }
+  -ms-word-break: break-all;
+  /* Be VERY careful with this, breaks normal words wh_erever */
+  word-break: break-all;
+  /* Non standard for webkit */
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+  a {
+    color: $red;
+    &:hover {
+      color: #000;
+      border-bottom: 1px solid #000;
+    }
+  }
+}
+.amChartsLegend {
+  -ms-word-break: break-all;
+  /* Be VERY careful with this, breaks normal words wh_erever */
+  word-break: break-all;
+  /* Non standard for webkit */
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
+.ammapDescriptionTitle {
+  font-size: 2em;
+  //color: #000;//darken($red, 5%);
+}
+
+
+.legend {
+  margin-top: 2em;
+}
+
+ul.legend-map {
+  list-style-type: none;
+  //z-index: 1000;
+  //background: transparent;
+  text-align: center;
+  //margin-left: auto;
+  //margin-right: auto;
+  margin: 2em auto;
+  border: 1px solid #777;
+  width: 90%;
+   @include media($large-screen) {
+    //width: 50%;
+    //display: block;
+  }
+
+
+
+  li {
+    padding: .0625em .5em .25em .5em;
+    //width: 100%;
+    display: block;
+    width: 100%;
+    
+    
+     @include media($large-screen) {
+      // display: inline-block;
+      // width:50%;
+    }
+  }
+  li.notASignatory {
+    background-color: $notASignatory;
+    color: $partyToTheRomeStatute;
+  }
+  li.signedButNotRatified {
+    background-color:$signedbutNotRatified;
+    color: white;
+  }
+  
+  li.stateParties {
+    //display: block;
+    //margin: .5em auto;
+    //width: 100%;
+    background-color: $partyToTheRomeStatute;
+    color: white;
+    @include media($large-screen) {
+      //width: 73%;
+    }
+
+  }
+
+
+
+
+}
+
+
+ul.legend-sidebar {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+ ul.legend-sidebar li {
+  font-size: 1.1em;
+  border: 1px solid #0c3f5f;
+  padding: .35em;
+  color: #ddd;
+  border-radius:3px;
+  //float: left;
+  margin-bottom:1em;
+ } 
+
+
+.partyToTheRomeStatute {
+  background-color: $partyToTheRomeStatute;
+  color: $white;
+  a {
+    color: $white;
+    &:hover {
+      color: $blue-light;
+    }
+  }
+}
+.signedbutNotRatified{
+  background-color: $signedbutNotRatified;
+  color: $white;
+  a {
+    color: $white;
+    &:hover {
+      color: darken($blue-light, 20%);
+    }
+  }
+}
+.notASignatory{
+  background-color: $notASignatory;
+  color: $black;
+  a {
+    color: $black;
+    &:hover {
+      color: $blue-light;
+    }
+  }
+}
+
+
+.preliminary-examinations-initial-assessment, .preliminaryexaminationsInitialAssessment {
+  background-color:$preliminaryexaminationsInitialAssessment;
+  color: $white;
+  a {
+    color: $white;
+    &:hover {
+      color: $blue-light;
+    }
+  }
+}
+.preliminary-examinations-admissibility-assessment, .preliminaryexaminationsAdmissibilityAssessment {
+  background-color:$preliminaryexaminationsAdmissibilityAssessment;
+  color: $white;
+  a {
+    color: $white;
+    &:hover {
+      color: $blue-light;
+    }
+  }
+}
+.preliminary-examinations-subject-matter-jurisdiction-assessement, .preliminaryexaminationsSubjectMatterJurisdictionAssessement {
+  background-color:$preliminaryexaminationsSubjectMatterJurisdictionAssessement;
+  color: $white;
+  a {
+    color: $white;
+    &:hover {
+      color: $blue-light;
+      }
+    }
+}
+.preliminary-examinations-closed---decision-not-to-proceed, .preliminaryexaminationsClosedDecisionNottoProceed {
+  background-color:$preliminaryexaminationsClosedDecisionNottoProceed;
+  color: $white;
+  a {
+    color: $white;
+    &:hover {
+      color: $blue-light;
+    }
+  }
+}
+.situations--cases, .situationsAndCases {
+  background-color:$situationsAndCases;
+  color: $white;
+  .flex-title {
+    color: $white;
+  }
+  a {
+    color: $white;
+    &:hover {
+      color: $blue-light;
+    }
+}
+}
+.list-filter p {
+  font-size: .85em;
+}

@@ -1,0 +1,84 @@
+//Base
+@import
+"node_modules/normalize.css/normalize.css",
+"node_modules/normalize-opentype.css/normalize-opentype.scss",
+"bourbon/bourbon",
+//"modules/grid-settings",//overrides bitters grid-settings
+"neat/neat",
+"base/base";
+
+// Vendor
+@import
+"vendor/flickity",
+"vendor/font-icons";
+
+//Modules
+@import
+"modules/accordion",
+"modules/article",
+"modules/footnotes",
+"modules/hero",
+"modules/hero-parallax",
+"modules/images",
+"modules/lists",
+"modules/map",
+"modules/navigation",
+"modules/navigation-side-right",
+"modules/navigation-sidebar",
+"modules/nav-special",
+"modules/grid-items", // home PAGE
+"modules/layouts",
+"modules/flex-boxes", // BIO PAGE
+"modules/flex-boxes-home-page", // BIO PAGE
+"modules/flex-boxes-small",
+"modules/search-results",
+"modules/tables",
+"modules/utilities",
+"modules/utilities-accessibility",
+"modules/utilities-responsive",
+"modules/utilities-iframes";
+
+body {
+ background-color: $base-body-color;
+}
+ footer {
+    background-color: $light-gray;
+    font-size:.75em;
+    padding: 2.125em 0 .375em 9.5em;
+
+  }
+
+.gallery {
+  margin-bottom: 3em;
+  @include clearfix;
+  //
+
+}
+.gallery-item {
+  margin: 1em 0;
+  width: 100%;
+  background-color: $lightest-gray;
+  border: $base-border;
+  float: left;
+  overflow: visible;
+  @include media($large-screen) {
+    width: 12rem;
+    margin:1em 1.5em 1em 0;
+    height: 18.75rem;
+  }
+  img {
+    width: 100%;
+    @include media($large-screen) {
+      //margin: 0 -1.25em 0 -.625em;
+      width: 12rem;
+    }
+  }
+  p{
+    text-align: center;
+    padding:.625em;
+    margin-bottom: 0;
+    @include media($large-screen) {
+      float: none;
+    }
+  }
+}

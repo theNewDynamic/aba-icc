@@ -1,0 +1,12 @@
+---
+title: 1970s
+published: true
+date: 2015-02-04T15:03:00.000Z
+---
+
+
+##### June 8, 1977
+
+Led by the International Committee of the Red Cross, a Diplomatic Conference in Geneva, Switzerland adopted [Additional Protocols I](https://treaties.un.org/doc/Publication/UNTS/Volume%201125/volume-1125-I-17512-English.pdf) and [II](http://www.ohchr.org/EN/ProfessionalInterest/Pages/ProtocolII.aspx) to the Geneva Conventions of 1949. Protocol I provided additional requirements during international armed conflicts, involving at least two countries, therefore limiting the way wars can be fought. Protocol II provided additional requirements and protection that apply during non-international armed conflicts, or civil wars. Before Protocol II, the only restrictions applicable to internal conflicts were in Common Article Three of the four original Geneva Conventions, which required parties to, at a minimum, protect persons from violence to life and person, humiliating and degrading treatment, and required parties to provide judicial guarantees among other measures.<sup id="fnref:source1977"><a class="footnote" href="#fn:source1977">1</a></sup>
+
+<div class="footnotes"><ol><li id="fn:source1977"><p>The Trial of Adolf Eichmann, The Nizkor Project Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I), 8 June 1977, <a href="https://treaties.un.org/doc/Publication/UNTS/Volume%201125/volume-1125-I-17512-English.pdf">https://treaties.un.org/doc/Publication/UNTS/Volume%201125/volume-1125-I-17512-English.pdf</a>; Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of Non-International Armed Conflicts (Protocol II), 8 June 1977, <a href="http://www.ohchr.org/EN/ProfessionalInterest/Pages/ProtocolII.aspx">http://www.ohchr.org/EN/ProfessionalInterest/Pages/ProtocolII.aspx</a>; Protocols I and II additional to the Geneva Conventions, Int'l Comm. for the Red Cross, Jan. 1, 2009, <a href="http://www.icrc.org/eng/resources/documents/misc/additional-protocols-1977.htm">http://www.icrc.org/eng/resources/documents/misc/additional-protocols-1977.htm</a>. <a class="reversefootnote" href="#fnref:source1977">↩</a></p></li></ol></div>

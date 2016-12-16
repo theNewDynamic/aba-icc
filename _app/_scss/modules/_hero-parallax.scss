@@ -1,0 +1,140 @@
+$parallax-window-height: 20em;
+$parallax-background-height: $parallax-window-height * 2;
+
+.parallax-window {
+
+  max-height: $parallax-window-height;
+  background-color: $blue;//#041520;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  
+  min-height: 25em;
+  @include media($large-screen) {
+    min-height: 25em;
+  }
+  @include media($x-large-screen-up) {
+    min-height: 65vh;
+    background-size: cover;
+  }
+
+
+}
+
+.parallax-static-content {
+  color: $white;
+  padding: 2em 1em 4em 1em;
+  
+  position: relative;
+  z-index: 9;
+  text-align: left;
+  @include outer-container;
+  @include media($large-screen) {
+   padding: 2em 3em 3em 2em;
+  }
+  h1 {
+    font-size: 1.6em; //<-- new style
+    margin-bottom: .5em;//<-- new style
+    color: white;// $red;//<-- new style
+    text-transform: uppercase;//<-- new style
+    letter-spacing: 2px;//<-- new style
+    line-height: 1.1;//<-- new style
+    //float: left;
+    //padding: .375em;
+    margin-bottom: 0.25em;
+    //background-color: rgba(0,0,0,0.4);
+    text-shadow: 1px 1px 1px #000000;
+    
+    @include media($large-screen) {
+      font-size: 2em;
+      font-size: 6.8em;
+    }
+  }
+  p {
+      clear: both;
+      max-width: 70%;
+    
+    text-shadow: 1px 1px 0 #333;
+    @include media($large-screen) {
+      font-size: 1.375em;  
+    }
+    @include media($x-large-screen-up) {
+    font-size: 1.675em;  
+  }
+
+  }
+}
+
+
+
+
+
+.parallax-background {
+  //background: url("/uploads/1431095283480_bg-icc-wh-1600x900.jpg") no-repeat;
+  background: url("/uploads/bg-icc-wh-1600x900.png") no-repeat;
+
+  background-position: top;
+  background-size: cover;
+  background-color: $blue;//beige;
+  height: $parallax-background-height;
+  left: 0;
+  position: absolute;
+  top: - $parallax-window-height / 3;
+  width: 100%;
+}
+
+// Based on http://codepen.io/skeurentjes/
+
+
+
+/////////////////////////////////////////////////////////////////////////
+
+
+.content {
+  $parallax-window-height: 20em;
+  $parallax-background-height: $parallax-window-height * 2;
+
+.parallax-window {
+
+  max-height: $parallax-window-height;
+  min-height: 25em;
+  @include media($large-screen) {
+    min-height: 25em;
+  }
+  @include media($x-large-screen-up) {
+    min-height: 65vh;
+    background-size: cover;
+  }
+}
+
+.parallax-static-content {
+  h1 {
+    font-size: 1.6em; //<-- new style
+    margin-bottom: .5em;//<-- new style
+    color: white;// $red;//<-- new style
+    text-transform: uppercase;//<-- new style
+    letter-spacing: 2px;//<-- new style
+    line-height: 1.1;//<-- new style
+    float: left;
+    padding: .375em;
+    margin-bottom: 0.5em;
+    //background-color: rgba(0,0,0,0.4);
+    text-shadow: 1px 1px 1px #000000;
+    text-align: left;
+    @include media($large-screen) {
+      //font-size: 2em;
+      font-size: 2.8em;
+    }
+  }
+}
+
+
+
+
+
+// Based on http://codepen.io/skeurentjes/
+
+}
+
+

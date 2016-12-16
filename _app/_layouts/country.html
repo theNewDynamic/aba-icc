@@ -1,0 +1,114 @@
+---
+layout: default
+section: page
+---
+{% assign situations = site.situations | where: 'country', page.slug %}
+{% assign cases = site.cases | where: 'country', page.slug %}
+<main class="content" role="main">
+{% include hero.html %}
+
+<div class="has-layout" id="start-of-content">
+
+  {% comment %} Rome Statute Data {% endcomment %}
+  <div class="has-layout row row-first small">
+    <ul class="inline-block" style="margin:0;padding:0;">
+      <li><strong>Rome Statute: </strong></li>
+        {% if page.signed_date %}
+            <li><strong>Signature:</strong> {{ page.signed_date | date: '%B %e, %Y'  }}</li>
+          {% if page.ratified_or_acceded_date %}
+            <li><strong>Ratification or Accension:</strong> {{ page.ratified_or_acceded_date | date: '%B %e, %Y' }}</li>
+          {% else %}
+            <li><strong>Not Ratified or Acceded</strong></li>
+          {% endif %}
+        {% else %}
+          <li><strong>Not a Signatory to the Rome Statute</strong></li>
+        {% endif %}
+    </ul>
+  </div>
+
+  {% comment %} Situation & Cases {% endcomment %}
+
+  {% if situations[0].phase %}
+   <div class="has-layout row row-bottom-next small">
+     <ul class="inline-block" style="margin:0;padding:0;">
+       <li>
+         <strong>Phase:</strong> {{ situations[0].phase }}{% if situations[1].phase %}, {{ situations[1].phase }}{% endif %}
+       </li>
+     </ul>
+   </div>
+ {% endif %}
+
+ {% comment %} Main Body {% endcomment %}
+  <article class="hentry">
+    {% include _article.html %}
+  {% comment %} Situations {% endcomment %}
+    {% if situations %}
+      <h2>Overview</h2>
+      {% for object in situations %}
+        {% if object.phase %}
+          <h6>phase: {{ object.phase }}</h6>
+        {% endif %}
+        {{ object.content | markdownify }}
+        <hr />
+      {% endfor %}
+    {% endif %}
+
+    {% comment %} Domestic Legislation {% endcomment %}
+
+    {% if page.genocide or page.crimes_against_humanity or page.aggression or page.war_crimes %}
+      <div class="timeline">
+        <div class="full-width-bar">
+          <h3>Domestic Atrocity Crime Legislation</h3>
+          {% if page.genocide %}
+            <strong>Genocide</strong>
+            {{ page.genocide | markdownify }}
+          {% endif %}
+          {% if page.crimes_against_humanity %}
+            <strong>Crimes against Humanity</strong>
+            {{ page.crimes_against_humanity | markdownify }}
+          {% endif %}
+          {% if page.aggression %}
+            <strong>Aggression</strong>
+            {{ page.aggression | markdownify }}
+          {% endif %}
+          {% if page.war_crimes %}
+            <strong>War Crimes</strong>
+            {{ page.war_crimes | markdownify }}
+          {% endif %}
+        </div>
+      </div>
+    {% endif %}
+
+
+
+    {% comment %} Cases {% endcomment %}
+
+      {% if cases.size > 0 %}
+      <h2>Cases <small style="font-size:.875rem;">click through for details</small></h2>
+      <div class="flex-boxes">
+        {% for object in cases %}
+
+        <div class="flex-box" id="{{ object.title | downcase | replace: ' ', '-' }}" style="background-color:white;">
+          <h3 class="flex-title">
+            <a href="{{ object.url }}">
+              {% if object.long_name %}
+                {{ object.long_name }}
+              {% else %}
+                {{ object.title }}
+              {% endif %}
+            </a>
+          </h3>
+          {% if object.case_status %}
+            {{ object.case_status }}
+          {% endif %}
+        </div>
+
+
+        {% endfor %}
+      </div>
+      {% endif %}
+
+  </article>
+</div>
+</main>
+{% include sidebar-right.html %}

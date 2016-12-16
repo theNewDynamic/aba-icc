@@ -1,0 +1,20 @@
+---
+layout: default
+section: page
+---
+<main class="content" role="main">
+{% include hero.html %}
+{% include _country-meta-data.html %}
+<div class="has-layout" id="start-of-content">
+  <article class="hentry" role="article">
+    {% include _article.html %}
+  </article>
+  {% if page.timeline %}
+    {% include timeline.html %}
+  {% endif %}
+  {% if page.include %}
+    {% include {{ page.include }} %}
+  {% endif %}
+</div>
+</main>
+{% include sidebar-right.html %}

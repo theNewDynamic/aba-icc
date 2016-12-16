@@ -1,0 +1,149 @@
+body {
+  @include font-feature-settings("kern", "liga", "pnum");
+  -webkit-font-smoothing: antialiased;
+  color: $base-font-color;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $heading-font-family;
+  //font-size: $base-font-size;
+  line-height: $heading-line-height;
+  margin: 0 0 $small-spacing;
+}
+h1, .h1 {
+  font-size: $base-font-size * 2.25; // 16 * 2.25 = 36px
+
+}
+
+h1 small {
+    font-size: 1rem; // 16 * 2.25 = 36px
+  }
+
+h2, .h2 {
+  font-size: $base-font-size * 1.9; // 16 * 2 = 32px
+  color: $blue-dark;
+
+}
+
+h3, .h3 {
+  font-size: $base-font-size * 1.75; // 16 * 1.75 = 28px
+  color: $blue-dark;
+  margin: 1.5em auto .75em auto;
+}
+
+h4, .h4 {
+  font-size: $base-font-size * 1.5; // 16 * 1.5 = 24px
+
+}
+.sidebar-content h4{
+    color: #444;
+  }
+
+h5, .h5 {
+  font-size: $base-font-size * 1.25; // 16 * 1.25 = 20px
+  margin-bottom: .125em;
+}
+
+h6, .h6{
+  font-size: $base-font-size;
+  margin:.5em 0;
+}
+
+.has-layout h1, .has-layout h2, .has-layout h3 {
+  color: $blue-dark;
+}
+
+p {
+  margin: 0 0 $small-spacing;
+}
+
+a {
+  color: $action-color;
+  text-decoration: none;
+  transition: color 0.1s linear;
+
+  &:active,
+  &:focus,
+  &:hover {
+    color: darken($action-color, 15%);
+  }
+
+  &:active,
+  &:focus {
+    outline: none;
+  }
+}
+
+article.hentry p a, .full-width-bar p a {
+  border-bottom: 1px dashed $action-color;
+
+}
+
+.sidebar-right a {
+  color: darken($light-gray, 15%);
+   &:active,
+  &:focus,
+  &:hover {
+    color: $light-gray;
+  }
+
+
+
+}
+
+hr {
+  border-bottom: $base-border;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  margin: $base-spacing 0;
+}
+
+img,
+picture {
+  margin: 0;
+  max-width: 100%;
+}
+////==========================
+.sidebar-content h4{
+    color: #444;
+  }
+
+
+article.hentry p,
+.wf-active article.hentry p {
+  //font-size: 1.0625em;
+  line-height: $unitless-line-height * 1.1;
+
+    a {
+      border-bottom: 1px dashed $base-link-color;
+    }
+}
+
+.flash {
+  color: $red;
+}
+
+small, .small, .footnotes, .footnotes p {
+  font-size: .875em;
+}
+
+.strong {
+  font-weight: bold;
+}
+
+.red {
+  color: $red;
+}
+
+.align-left {
+  text-align: left;
+}
