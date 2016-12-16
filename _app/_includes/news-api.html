@@ -1,6 +1,0 @@
-{% assign data = site.data.news | sort: 'date', 'last' | reverse %}
-<section class="news">
-  {% for object in data %}
-    {% include _news-item.html %}
-  {% endfor %}
-</section>
