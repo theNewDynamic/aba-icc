@@ -10,6 +10,8 @@ slug: cambodia
 ---
 
 
+**Background**
+
 The Situation in the registered vessels of Comoros, Greece, and Cambodia focuses on alleged atrocity crimes committed during a violent interception of the ships which involved Israeli Defense Forces (IDF) and civilians on the ships.&nbsp; &nbsp;
 
 **ICC status &nbsp;**
