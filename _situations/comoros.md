@@ -12,7 +12,7 @@ slug: comoros
 
 **Background**
 
-The Situation in the registered vessels of Comoros, Greece, and Cambodia focuses on alleged atrocity crimes committed during a violent interception of the ships which involved Israeli Defense Forces (IDF) and civilians on the ships.&nbsp; &nbsp;
+The Preliminary Examination of the Situation in the registered vessels of Comoros, Greece, and Cambodia focuses on alleged atrocity crimes committed during a violent interception of the ships which involved Israeli Defense Forces (IDF) and civilians on the ships.&nbsp; &nbsp;
 
 As a part of the ongoing conflict between Israel and Palestine, the Israeli government enforced a naval blockade of the Gaza Strip, and the Free Gaza Movement periodically sent flotillas to break the blockade and deliver humanitarian aid to Gaza.&nbsp; On May 28, 2010, a flotilla of ships embarked upon the journey to Gaza from Turkey.&nbsp; The flotilla carried over 700 passengers from 36 countries.&nbsp; On May 31, 2010, the IDF boarded the ships to enforce Israel’s blockade, and the interception resulted in the deaths of ten civilians (nine Turkish citizens and one dual Turkish-American citizen) and injuries to many humanitarian aid workers.&nbsp; On June 1, 2010, the UN Security Council [called](https://www.theguardian.com/world/2010/jun/01/un-condemns-israel-assault-gaza-flotilla) for an investigation into the IDF attack on the flotilla.&nbsp; &nbsp;
 
