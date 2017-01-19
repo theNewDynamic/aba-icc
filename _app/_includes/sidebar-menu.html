@@ -1,9 +1,11 @@
  {% comment %}
- <!-- assign section = site.documents | where: 'collection', page.collection | sort: 'order', 'last' 
+ <!-- assign section = site.documents | where: 'collection', page.collection | sort: 'order', 'last'
  using these conditionals is faster than looping through all the collections -->
  {% endcomment %}
 {% if page.menu == 'about-the-icc' %}
   {% assign section = site.documents | where: 'collection', 'about-the-icc' | sort: 'order', 'last' %}
+  {% assign external_link = 'https://how-the-icc-works.aba-icc.org/' %}
+  {% assign external_link_name = 'How the ICC Works' %}
 {% elsif page.menu == 'links-home-page' %}
   {% assign section = site.data.links-home-page %}
 {% else %}
@@ -131,6 +133,13 @@
     {% for link in section %}
       {% include _nav-menu-item.html %}
     {% endfor %}
+    {% if external_link %}
+    <li class="nav-sidebar-item" data-ga-click="nav, go to explore, text:{{ link.title }}">
+      <a href="{{ external_link }}" class="menu-item">
+        {{ external_link_name }}
+      </a>
+    </li>
+    {% endif %}
   </ul>
 {% endif %}
 

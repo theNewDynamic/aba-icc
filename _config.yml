@@ -59,6 +59,7 @@ kramdown:
 future: false
 gems:
   - jekyll-seo-tag
+  - jekyll-include-cache
   #- jekyll-sitemap
 incremental: true
 timezone: Etc/Zulu
