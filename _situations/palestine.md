@@ -4,7 +4,7 @@ country: palestine
 published: true
 date: 2015-02-23 18:54:00
 phase: 'Preliminary Examinations, Subject Matter Jurisdiction Assessement'
-link_to_more_information:
+link_to_more_information: 'https://www.icc-cpi.int/palestine'
 description: This preliminary examination concerns civilian deaths in the Gaza Strip resulting from Hamas rockets and Israeli air strikes. The preliminary examination is currently in the subject-matter jurisdiction stage.
 slug: palestine
 ---
@@ -26,6 +26,6 @@ In 2014, due to a kidnapping and [murder of three Israeli teenagers](https://www
 
 Palestine is a [State Party](https://asp.icc-cpi.int/en_menus/asp/states%20parties/asian%20states/Pages/Palestine.aspx) of the International Criminal Court (ICC) and ratified the Rome Statute on January 2, 2015.&nbsp; Previously, in January 2009, the Palestinian Authority submitted a [declaration](https://www.icc-cpi.int/NR/rdonlyres/74EEE201-0FED-4481-95D4-C8071087102C/279777/20090122PalestinianDeclaration2.pdf) recognizing the jurisdiction of the ICC; however, as Palestine’s status was an “observer entity” at the United Nations (UN), the Office of the Prosecutor (OTP) [decided](https://www.icc-cpi.int/Pages/item.aspx?name=otp-st-14-09-02) that the declaration could not be accepted.&nbsp; In November 2012, when Palestine’s status was changed from “observer entity” to “non-member observer state,” the OTP [decided](https://www.icc-cpi.int/Pages/item.aspx?name=otp-st-14-09-02) that Palestine could submit a new declaration accepting the jurisdiction of the ICC.&nbsp; On January 1, 2015, the government of Palestine submitted a [declaration](https://www.icc-cpi.int/iccdocs/PIDS/press/Palestine_A_12-3.pdf) (dated December 31, 2014) recognizing the jurisdiction of the ICC since June 13, 2014.&nbsp; On January 16, 2015, after receiving Palestine’s declaration, the OTP [opened](https://www.icc-cpi.int/Pages/item.aspx?name=pr1083) a preliminary examination.&nbsp; After opening a preliminary examination, to make a determination to open a formal investigation, the OTP assesses the following factors: jurisdiction (temporal, territorial or personal, and subject matter); admissibility (complementarity and gravity); and the interests of justice.&nbsp;
 
-As of November 2016, the OTP reported that the preliminary examination of Palestine is in the [(subject-matter) jurisdiction assessment phase](https://www.icc-cpi.int/iccdocs/otp/161114-otp-rep-PE_ENG.pdf) and that the OTP will continue its assessment “in order to establish whether there is a reasonable basis to proceed with an investigation.” &nbsp;
+As of November 2016, the preliminary examination of Palestine is in the [subject-matter jurisdiction assessment phase](https://www.icc-cpi.int/iccdocs/otp/161114-otp-rep-PE_ENG.pdf). &nbsp;The OTP [reported](https://www.icc-cpi.int/iccdocs/otp/161114-otp-rep-PE_ENG.pdf) that the OTP will continue its assessment “in order to establish whether there is a reasonable basis to proceed with an investigation.” &nbsp;
 
-For more information on the preliminary examination in Palestine, please visit the [ICC page](http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/office%20of%20the%20prosecutor/comm%20and%20ref/pe-ongoing/palestine/Pages/palestine.aspx).
+For more information on the preliminary examination in Palestine, please visit the [ICC page](https://www.icc-cpi.int/palestine).&nbsp;
