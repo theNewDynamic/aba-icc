@@ -5,14 +5,22 @@ published: true
 date: 2015-02-23 19:22:00
 phase: 'Preliminary Examinations, Admissibility Assessment'
 link_to_more_information: 'https://www.icc-cpi.int/afghanistan'
-description: "This preliminary examination concerns allegations of civilians killed by US-led coalition forces following the post-9/11 occupation. \nAs of November 2016, the preliminary examination is in the admissibility assessment phase."
+description: >-
+  The Preliminary Examination of the Situation in Afghanistan focuses on alleged
+  atrocity crimes committed during the ongoing armed conflict which involves
+  international military forces (International Security Assistance Force (ISAF),
+  North Atlantic Treaty Organization (NATO) forces, U.S. forces), Afghan
+  government forces, and armed anti-government groups such as the Taliban.
+
+  As of November 2016, the preliminary examination is in the admissibility
+  assessment phase.
 slug: afghanistan
 ---
 
 
 **Background**
 
-The Preliminary Examination of the Situation in Afghanistan focuses on alleged atrocity crimes committed during the ongoing armed conflict which involves international military forces (International Security Assistance Force (ISAF), North Atlantic Treaty Organization (NATO) forces, U.S. forces), Afghan government forces, and Taliban and other armed anti-government groups. After Al-Qaeda terrorists attacked the World Trade Center in New York City and the Pentagon in Washington, DC on September 11, 2001, the U.S. launched the “War on Terror.” The U.S. demanded that the Taliban government of Afghanistan surrender Al-Qaeda leader Osama bin Laden and stop Al-Qaeda terrorist operations in Afghanistan. In October 2001, a U.S.-led coalition of forces invaded Afghanistan and attacked the Taliban government and Al-Qaeda terrorists. In December 2001, the Taliban government was ousted, and the UN assisted with the formation of the Afghan Interim Administration. In the course of the conflict, from 2001 to 2015, civilians were killed and injured by international forces, Afghan government forces, and Taliban and other armed anti-government groups.&nbsp;
+The Preliminary Examination of the Situation in Afghanistan focuses on alleged atrocity crimes committed during the ongoing armed conflict which involves international military forces (International Security Assistance Force (ISAF), North Atlantic Treaty Organization (NATO) forces, U.S. forces), Afghan government forces, and armed anti-government groups such as the Taliban. After Al-Qaeda terrorists attacked the World Trade Center in New York City and the Pentagon in Washington, DC on September 11, 2001, the U.S. launched the “War on Terror.” The U.S. demanded that the Taliban government of Afghanistan surrender Al-Qaeda leader Osama bin Laden and stop Al-Qaeda terrorist operations in Afghanistan. In October 2001, a U.S.-led coalition of forces invaded Afghanistan and attacked the Taliban government and Al-Qaeda terrorists. In December 2001, the Taliban government was ousted, and the UN assisted with the formation of the Afghan Interim Administration. In the course of the conflict, from 2001 to 2015, civilians were killed and injured by international forces, Afghan government forces, and Taliban and other armed anti-government groups.&nbsp;
 
 **ICC Status**
 
