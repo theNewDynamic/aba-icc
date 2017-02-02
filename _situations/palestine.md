@@ -1,7 +1,7 @@
 ---
 title: Palestine
 country: palestine
-published: false
+published: true
 date: 2015-02-23 18:54:00
 phase: 'Preliminary Examinations, Subject Matter Jurisdiction Assessement'
 link_to_more_information: 'https://www.icc-cpi.int/palestine'
