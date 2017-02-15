@@ -4,7 +4,7 @@ country: central-african-republic
 published: true
 date: 2015-02-23 19:16:00
 phase: 'Situations & Cases'
-link_to_more_information:
+link_to_more_information: 'https://www.icc-cpi.int/carII'
 description: "The Situation in the Central African Republic II (CAR II) focuses on alleged atrocity crimes committed during an armed conflict which involved CAR government forces under President Francois Bozize, Seleka rebel armed group, and anti-balaka rebel armed group. The armed conflict occurred from August 1, 2012 to present. \_\nOn September 24, 2014, the OTP opened a formal investigation. Within the Situation in CAR II, there are no cases."
 ---
 
@@ -22,3 +22,11 @@ On March 23, 2013, Seleka [attacked](http://www.reuters.com/article/centralafric
 The CAR is a [State Party](https://asp.icc-cpi.int/en_menus/asp/states%20parties/african%20states/Pages/central%20african%20republic.aspx) to the International Criminal Court (ICC) and ratified the Rome Statute on October 3, 2001. On February 7, 2014, after receiving communications of alleged atrocity crimes committed in the CAR, the ICC Office of the Prosecutor (OTP) [opened](https://www.icc-cpi.int/Pages/item.aspx?name=otp-statement-07-02-2014) a preliminary investigation. On May 30, 2014, the CAR [referred](https://www.icc-cpi.int/iccdocs/otp/2014-05-30-CAR-referral.pdf) itself to the ICC. In a September 2014 report, the OTP [determined](https://www.icc-cpi.int/iccdocs/otp/Art_53_1_Report_CAR_II_24Sep14.pdf) that there is a reasonable basis to believe that the Seleka committed war crimes and crimes against humanity.&nbsp; In the same report, the OTP [determined](https://www.icc-cpi.int/iccdocs/otp/Art_53_1_Report_CAR_II_24Sep14.pdf) that there is a reasonable basis to believe that anti-balaka committed war crimes and crimes against humanity. On September 24, 2014, the OTP [opened](https://www.icc-cpi.int/Pages/item.aspx?name=pr1043) a formal investigation. Within the Situation in CAR II, there are no cases.
 
 For more information on the Situation in CAR II, please visit the [ICC page](https://www.icc-cpi.int/carII).
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
