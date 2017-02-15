@@ -4,8 +4,8 @@ country: central-african-republic
 published: true
 date: 2015-02-23 19:16:00
 phase: 'Situations & Cases'
-link_to_more_information:
-description: 'The Situation in the Central African Republic (CAR) (I) focuses on atrocity crimes (crimes against humanity, war crimes) committed during an armed conflict which involved CAR government forces under President Ange‐Félix Patassé, rebel forces under General François Bozizé, and the Mouvement de Libération du Congo (MLC) under Jean-Pierre Bemba Gombo. Within the Situation in CAR I, there are two ongoing cases.'
+link_to_more_information: 'https://www.icc-cpi.int/car'
+description: 'The Situation in the Central African Republic I (CAR I) focuses on alleged atrocity crimes committed during an armed conflict which involved CAR government forces under President Ange‐Felix Patasse, rebel forces under General Francois Bozize, and the Mouvement de Libération du Congo (MLC). The armed conflict occurred from October 26, 2002 to March 15, 2003. Within the Situation in CAR I, there are the following cases: The Prosecutor v. Jean Pierre Bemba Gombo and The Prosecutor v. Bemba et al.'
 slug: central-african-republic
 ---
 
