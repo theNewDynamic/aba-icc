@@ -1,14 +1,13 @@
 ---
-title: Al-Tuhamy Mohamed Khaled charges - Al-Tuhamy Mohamed Khaled
-published: true
+title: Khaled charges - Al-Tuhamy Mohamed Khaled
+published: false
 charges_status:
 case:
-accused:
+accused: al-tuhamy-mohamed-khaled
 youtube_id:
 ---
 
+
 ### Factual Allegations
-
-
 
 ### Charges
