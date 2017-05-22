@@ -1,5 +1,5 @@
 ---
-title: The Prosecutor v. Al-Tuhamy
+title: The Prosecutor v. Khaled
 published: true
 country: libya
 trial_opening_date:
