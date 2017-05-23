@@ -18,7 +18,7 @@ images:
   - name: 'Judge Chile Eboe-Osuji, President of the Trial Division (Nigeria)'
     image_path: /osuji.jpg
   - name: 'Judge Joyce Aluoch, Trial Division (Kenya)'
-    image_path: /aluoch.jpg
+    image_path: /uploads/aluoch.jpg
   - name: 'Judge Geoffrey A. Henderson, Trial Division (Trinidad and Tobago)'
     image_path: /henderson.jpg
   - name: 'Judge Olga Venecia Del C. Herrera Carbuccia, Trial Division (Dominican Republic)'
@@ -26,25 +26,25 @@ images:
   - name: 'Judge Robert Fremr, Trial Division (Czech Republic)'
     image_path: /fremr.jpg
   - name: 'Judge Bertram Schmitt, Trial Division (Germany)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/schmitt.jpg'
+    image_path: /schmitt.jpg
   - name: 'Judge Cuno Tarfusser, President of the Pre-Trial Division (Italy)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/tarfusser.jpg'
+    image_path: /tarfusser.jpg
   - name: 'Judge Antoine Kesia-Mbe Mindua, Pre-Trial Division (Democratic Republic of the Congo)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/mindua.jpg'
+    image_path: /mindua.jpg
   - name: 'Judge Chang-ho Chung, Pre-Trial Division (Republic of Korea)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/chung.jpg'
+    image_path: /chung.jpg
   - name: 'Judge Péter Kovács, Pre-Trial Division (Hungary)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/kovacs.jpg'
+    image_path: /kovacs.jpg
   - name: 'Judge Marc Perrin De Brichambaut, Pre-Trial Division (France)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/brichambaut.jpg'
+    image_path: /brichambaut.jpg
   - name: 'Judge Kuniko Ozaki, Trial Division (Japan)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/ozaki.jpg'
+    image_path: /ozaki.jpg
   - name: 'Judge Sanji Monageng, Appeals Division (Botswana)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/monageng.jpg'
+    image_path: /monageng.jpg
   - name: 'Judge Christine Van den Wyngaert, Appeals Division (Belgium'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/Van_Den_Wyngaert.jpg'
+    image_path: /Van_Den_Wyngaert.jpg
   - name: Judge Raul Cano Pangalangan
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/pangalangan.jpg'
+    image_path: /pangalangan.jpg
 order: 5
 ---
 
