@@ -10,7 +10,7 @@ responsibilities:
 footnotes: 'Photos courtesy of ICC-CPI, Link to Poland, Tufts Alumni, and LinkedIn.'
 images:
   - name: 'Judge Silvia Alejandra Fernández De Gurmendi, Appeals Division (Argentina)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/Judge_Silvia_Fernandez_de_Gurmendi.jpg'
+    image_path: /Judge_Silvia_Fernandez_de_Gurmendi.jpg
   - name: 'Judge Howard Morrison, Appeals Division (United Kingdom)'
     image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/morrison.jpg'
   - name: 'Judge Piotr Hofmański, Appeals Division (Poland)'
