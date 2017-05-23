@@ -12,19 +12,19 @@ images:
   - name: 'Judge Silvia Alejandra Fernández De Gurmendi, Appeals Division (Argentina)'
     image_path: /Judge_Silvia_Fernandez_de_Gurmendi.jpg
   - name: 'Judge Howard Morrison, Appeals Division (United Kingdom)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/morrison.jpg'
+    image_path: /morrison.jpg
   - name: 'Judge Piotr Hofmański, Appeals Division (Poland)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/hofmanski.jpg'
+    image_path: /hofmanski.jpg
   - name: 'Judge Chile Eboe-Osuji, President of the Trial Division (Nigeria)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/osuji.jpg'
+    image_path: /osuji.jpg
   - name: 'Judge Joyce Aluoch, Trial Division (Kenya)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/aluoch.jpg'
+    image_path: /aluoch.jpg
   - name: 'Judge Geoffrey A. Henderson, Trial Division (Trinidad and Tobago)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/henderson.jpg'
+    image_path: /henderson.jpg
   - name: 'Judge Olga Venecia Del C. Herrera Carbuccia, Trial Division (Dominican Republic)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/carbuccia.jpg'
+    image_path: /carbuccia.jpg
   - name: 'Judge Robert Fremr, Trial Division (Czech Republic)'
-    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/fremr.jpg'
+    image_path: /fremr.jpg
   - name: 'Judge Bertram Schmitt, Trial Division (Germany)'
     image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/schmitt.jpg'
   - name: 'Judge Cuno Tarfusser, President of the Pre-Trial Division (Italy)'
