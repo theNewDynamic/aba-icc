@@ -1,5 +1,5 @@
 ---
-title: "Chambers"
+title: Chambers
 published: true
 responsibilities:
   - Issue Arrest Warrants
@@ -7,40 +7,47 @@ responsibilities:
   - Confirm or Reject Charges
   - Adjudicate Cases
   - Hear Appeals
-footnotes: " Photos courtesy of ICC-CPI, Link to Poland, Tufts Alumni, and LinkedIn. "
+footnotes: 'Photos courtesy of ICC-CPI, Link to Poland, Tufts Alumni, and LinkedIn.'
 images:
-  - name: "Judge Silvia Alejandra Fernández De Gurmendi, Appeals Division (Argentina)"
-    image_path: /uploads/1432160987744_pr1096_web.jpg
-  - name: "Judge Howard Morrison, Appeals Division (United Kingdom)"
-    image_path: /uploads/1432161018857_6820637506_e7fb6b85f3_m.jpg
-  - name: "Judge Piotr Hofmański, Appeals Division (Poland)"
-    image_path: /uploads/1432161041598_piotr-hofmanski-489x325.jpg
-  - name: "Judge Chile Eboe-Osuji, President of the Trial Division (Nigeria)"
-    image_path: /uploads/1432161071138_6966758395_0bed5d3c73_m.jpg
-  - name: "Judge Joyce Aluoch, Trial Division (Kenya)"
-    image_path: /uploads/1432161113018_15586683817_a543572c80_m.jpg
-  - name: "Judge Geoffrey A. Henderson, Trial Division (Trinidad and Tobago)"
-    image_path: /uploads/1432161137847_16571345277_d59d945537_m.jpg
-  - name: "Judge Olga Venecia Del C. Herrera Carbuccia, Trial Division (Dominican Republic)"
-    image_path: /uploads/1432161170878_6966757731_df7582fbdf_m.jpg
-  - name: "Judge Robert Fremr, Trial Division (Czech Republic)"
-    image_path: /uploads/1432161223430_6966758027_102b39762a_m.jpg
-  - name: "Judge Bertram Schmitt, Trial Division (Germany)"
-    image_path: /uploads/1432161255379_16591220420_d1883ca30f_m.jpg
-  - name: "Judge Cuno Tarfusser, President of the Pre-Trial Division (Italy)"
-    image_path: /uploads/1432161283268_04cf57c.jpg
-  - name: "Judge Antoine Kesia-Mbe Mindua, Pre-Trial Division (Democratic Republic of the Congo)"
-    image_path: /uploads/1432161308160_16571345277_d59d945537_m.jpg
-  - name: "Judge Chang-ho Chung, Pre-Trial Division (Republic of Korea)"
-    image_path: /uploads/1432161345583_16158668823_8f2b13d13c_m.jpg
-  - name: "Judge Péter Kovács, Pre-Trial Division (Hungary)"
-    image_path: /uploads/1432161365481_16591027628_09df9e8a76_m.jpg
-  - name: "Judge Marc Perrin De Brichambaut, Pre-Trial Division (France)"
-    image_path: /uploads/1432161396323_16777532022_ef3ecf90f0_m.jpg
-  - name: "Judge Kuniko Ozaki, Trial Division (Japan)"
-    image_path: /uploads/1432161418079_15769974281_f69c4819df_m.jpg
-order: 05
+  - name: 'Judge Silvia Alejandra Fernández De Gurmendi, Appeals Division (Argentina)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/Judge_Silvia_Fernandez_de_Gurmendi.jpg'
+  - name: 'Judge Howard Morrison, Appeals Division (United Kingdom)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/morrison.jpg'
+  - name: 'Judge Piotr Hofmański, Appeals Division (Poland)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/hofmanski.jpg'
+  - name: 'Judge Chile Eboe-Osuji, President of the Trial Division (Nigeria)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/osuji.jpg'
+  - name: 'Judge Joyce Aluoch, Trial Division (Kenya)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/aluoch.jpg'
+  - name: 'Judge Geoffrey A. Henderson, Trial Division (Trinidad and Tobago)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/henderson.jpg'
+  - name: 'Judge Olga Venecia Del C. Herrera Carbuccia, Trial Division (Dominican Republic)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/carbuccia.jpg'
+  - name: 'Judge Robert Fremr, Trial Division (Czech Republic)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/fremr.jpg'
+  - name: 'Judge Bertram Schmitt, Trial Division (Germany)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/schmitt.jpg'
+  - name: 'Judge Cuno Tarfusser, President of the Pre-Trial Division (Italy)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/tarfusser.jpg'
+  - name: 'Judge Antoine Kesia-Mbe Mindua, Pre-Trial Division (Democratic Republic of the Congo)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/mindua.jpg'
+  - name: 'Judge Chang-ho Chung, Pre-Trial Division (Republic of Korea)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/chung.jpg'
+  - name: 'Judge Péter Kovács, Pre-Trial Division (Hungary)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/kovacs.jpg'
+  - name: 'Judge Marc Perrin De Brichambaut, Pre-Trial Division (France)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/brichambaut.jpg'
+  - name: 'Judge Kuniko Ozaki, Trial Division (Japan)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/ozaki.jpg'
+  - name: 'Judge Sanji Monageng, Appeals Division (Botswana)'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/monageng.jpg'
+  - name: 'Judge Christine Van den Wyngaert, Appeals Division (Belgium'
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/Van_Den_Wyngaert.jpg'
+  - name: Judge Raul Cano Pangalangan
+    image_path: 'https://www.icc-cpi.int/CourtStructure/PublishingImages/pangalangan.jpg'
+order: 5
 ---
+
 
 The Chambers consist of eighteen judges organized into the [Pre-Trial Division](http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/chambers/pre%20trial%20division/Pages/pre%20trial%20division.aspx), the [Trial Division](http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/chambers/trial%20division/Pages/trial%20division.aspx), and the [Appeals Division](http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/chambers/appeals%20division/Pages/appeals%20division.aspx). The judges of each Division are then divided into Chambers which are responsible for conducting the proceedings of the Court on specific cases and situations at different stages of the judicial procedure.
 
