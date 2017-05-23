@@ -1,20 +1,21 @@
 ---
-title: "Presidency"
+title: Presidency
 published: true
 responsibilities:
   - Represents the ICC externally
   - Organize the Judicial Chambers
   - Perform a select number of judicial functions
-footnotes: " Photos courtesy of ICC-CPI. "
+footnotes: Photos courtesy of ICC-CPI.
 images:
-  - name: "Judge Silvia Alejandra Fernández De Gurmendi, President (Argentina)"
-    image_path: /uploads/1432160827401_pr1096_web.jpg
-  - name: "Judge Kuniko Ozaki, Vice President (Japan)"
-    image_path: /uploads/1432160866161_15769974281_f69c4819df_m.jpg
-  - name: "Judge Joyce Aluoch, Vice-President (Kenya)"
-    image_path: /uploads/1432160931694_aluoch.jpg
-order: 01
+  - name: 'Judge Silvia Alejandra Fernández De Gurmendi, President (Argentina)'
+    image_path: /Judge_Silvia_Fernandez_de_Gurmendi.jpg
+  - name: 'Judge Kuniko Ozaki, Vice President (Japan)'
+    image_path: /ozaki.jpg
+  - name: 'Judge Joyce Aluoch, Vice-President (Kenya)'
+    image_path: /uploads/aluoch.jpg
+order: 1
 ---
+
 
 [The Presidency](http://www.icc-cpi.int/en_menus/icc/structure%20of%20the%20court/presidency/Pages/the%20presidency.aspx) is responsible for the overall administration of the Court, with the exception of the Office of the Prosecutor, and for specific functions assigned to the Presidency in accordance with the Statute.
 
