@@ -21,6 +21,6 @@ The Accused is alleged to have committed the following crimes as an individual, 
 
 Under this mode of direct individual responsibility, the Accused is charged with the following atrocity crimes:
 
-* Violence to Life as a War Crime:&nbsp;[Article 8(2)(c)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
-* Attacking Personnel or Objects Involved in Humanitarian Assistance as a War Crime:&nbsp;[Article 8(2)(e)(iii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2369)
-* Pillaging as a War Crime:&nbsp;[Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371)
+* Violence to Life (War Crime):&nbsp;[Article 8(2)(c)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
+* Attacking Personnel or Objects Involved in Humanitarian Assistance (War Crime):&nbsp;[Article 8(2)(e)(iii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2369)
+* Pillaging (War Crime):&nbsp;[Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371)
