@@ -14,6 +14,12 @@ Al-Tuhamy Mohamed Khaled (Khaled) is the former Lieutenant General of the Libyan
 
 ### Charges
 
-[**Crimes against humanity**](https://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1171)** (four counts):** imprisonment (Article 7(1)(e) of the Rome Statute), torture (Article 7(1)(f) of the Rome Statute), persecution (Article 7(1)(h) of the Rome Statute), and other inhumane acts (Article 7(1)(k) of the Rome Statute).
+The Accused is charged with the following crimes:
 
-**[War Crimes](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1172) (three counts):** torture (Article 8(2)(c)(i) of the Rome Statute), cruel treatment (Article 8(2)(c)(i) of the Rome Statute), and outrages against personal dignity (Article 8(2)(c)(ii) of the Rome Statute).
+* Imprisonment (Crime against Humanity):&nbsp;[Article 7(1)(e)](https://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2290)
+* Torture (Crime against Humanity): [Article 7(1)(f)](https://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2291)
+* Persecution (Crime against Humanity): [Article 7(1)(h)](https://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2298)
+* Inhumane Acts (Crime against Humanity): [Article 7(1)(k)](https://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2301)
+* Torture (War Crime):&nbsp;[Article 8(2)(c)(i)](https://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2362)
+* Cruel Treatment (War Crime): [Article 8(2)(c)(i)](https://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2361)
+* Outrages against Personal Dignity (War Crime): [Article 8(2)(c)(ii)](https://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2363)
