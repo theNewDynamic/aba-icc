@@ -17,6 +17,10 @@ Please visit the Court's website for more information on [*The Prosecutor v. Abu
 
 ### Charges
 
-**[War Crimes](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1172) (three counts)**: violence to life ([Article 8(2)(c)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359) of the Rome Statute), intentionally directing attacks against personnel, installations, material, units and vehicles involved in a peacekeeping mission ([Article 8(2)(e)(iii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2369) of the Rome Statute), pillaging ([Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371) of the Rome Statute)
+The Accused is alleged to have committed the following crimes as an individual, jointly with another, or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
 
-The Accused is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
+Under this mode of direct individual responsibility, the Accused is charged with the following atrocity crimes:
+
+* Violence to Life as a War Crime:&nbsp;[Article 8(2)(c)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
+* Attacking Personnel or Objects Involved in Humanitarian Assistance as a War Crime:&nbsp;[Article 8(2)(e)(iii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2369)
+* Pillaging as a War Crime:&nbsp;[Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371)
