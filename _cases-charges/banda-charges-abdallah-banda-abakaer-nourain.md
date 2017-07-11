@@ -17,7 +17,7 @@ Please visit the Court's website for more information on *[The Prosecutor v. Ban
 
 ### Charges
 
-The Accused is alleged to have committed the following crimes as an individual, jointly with another, or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
+The Accused is alleged to have committed the crimes listed below as an individual, jointly with another, or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
 
 Under this mode of direct individual responsibility, the Accused is charged with the following atrocity crimes:
 
