@@ -17,11 +17,17 @@ Please visit the Court’s website for more information on *[The Prosecutor v. N
 
 ### Charges
 
-**[Crimes Against Humanity](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1171) (three counts)**: murder ([Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286) of the Rome Statute), rape ([Article 7(1)(g)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292) of the Rome Statute) and sexual slavery ([Article 7(1)(g)-2](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2293) of the Rome Statute)
+The Accused is alleged to have committed the following crimes as an individual, jointly with another, or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
 
-* The Accused is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
+Under this mode of direct individual responsibility, the Accused is charged with the following atrocity crimes:
 
-
-**[War crimes](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1172) (seven counts)**: enlisting and conscripting children under the age of fifteen years and using them to participate actively in hostilities ([Article 8(2)(b)(xxvi)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2356) of the Rome Statute), attacks against the civilian population ([Article 8(2)(b)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2321) of the Rome Statute), willful killing ([Article (2)(a)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2310) of the Rome Statute), destruction of property ([Article 8(2)(b)(xiii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2338) of the Rome Statute), pillaging ([Article 8(2)(b)(xvi)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2341) of the Rome Statute), sexual slavery and rape ([Article 8(2)(b)(xxii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2347) of the Rome Statute)
-
-* The Accused is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
+* Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
+* Rape (Crime against Humanity): [Article 7(1)(g)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292)
+* Sexual Slavery (Crime against Humanity):&nbsp;[Article 7(1)(g)-2](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2293)
+* Enlisting and Conscripting as Child Soldiers (War Crime):&nbsp;[Article 8(2)(b)(xxvi)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2356)
+* Attacks against Civilians (War Crime):&nbsp;[Article 8(2)(b)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2321)
+* Willful Killing (War Crime):&nbsp;[Article (2)(a)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2310)
+* Destruction of Property (War Crime): [Article 8(2)(b)(xiii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2338)
+* Pillaging (War Crime): [Article 8(2)(b)(xvi)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2341)
+* Sexual Slavery (War Crime):&nbsp;[Article 8(2)(b)(xxii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2347)
+* Rape (War Crime): [Article 8(2)(b)(xxii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2347)
