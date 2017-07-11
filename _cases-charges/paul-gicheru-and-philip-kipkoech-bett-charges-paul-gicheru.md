@@ -19,6 +19,4 @@ Please visit the Court’s website for more information on *[The Prosecutor v. G
 
 ### Charges
 
-**[Offences against the administration of justice](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243)** **(six counts):** corruptly influencing witnesses ([Article 70(1)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243) of the Rome Statute)
-
-The Accused is alleged to have ordered, solicited, or induced the commission of these crimes ([Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
+The Accused is alleged to have ordered, solicited, or induced the commission, under&nbsp;[Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute, of an Offence against the Administration of Justice: Corruptly Influencing Witnesses, under&nbsp;[Article 70(1)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243).
