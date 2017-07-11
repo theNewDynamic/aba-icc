@@ -17,6 +17,9 @@ Please visit the Court’s website for more information on [*The Prosecutor v. S
 
 ### Charges
 
-**[Crimes against humanity](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1171) (four counts)**: murder ([Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286) of the Rome Statute), rape and other sexual violence ([Article 7(1)(g)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292), [(g)-6](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2297) of the Rome Statute), persecution ([Article 7(1)(h)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2298) of the Rome Statute) and other inhuman acts ([Article 7(1)(k)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2301) of the Rome Statute)
+The Accused is alleged to have committed the following atrocity crimes as an individual, jointly with another or through another person under&nbsp;[Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute:
 
-* The Accused is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
+* Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286){: .present-before-paste}
+* Rape and Sexual Violence (Crime against Humanity):&nbsp;[Article 7(1)(g)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292), [(g)-6](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2297){: .present-before-paste}
+* Persecution (Crime against Humanity):&nbsp;[Article 7(1)(h)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2298){: .present-before-paste}
+* Other Inhuman Acts (Crime against Humanity):&nbsp;[Article 7(1)(k)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2301){: .present-before-paste}
