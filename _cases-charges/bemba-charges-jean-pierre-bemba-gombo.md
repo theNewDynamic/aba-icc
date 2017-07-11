@@ -22,25 +22,14 @@ Please visit the Court’s website for more information on [*The Prosecutor v. B
 
 ### Charges
 
-{: .present-before-paste}
-
 The Accused is allegedly responsible for the atrocity crimes committed by subordinates as their commander. Under [Article 28(a)](https://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201) of the Rome Statute, commanders are responsible for the crimes committed by subordinates if the commander possessed effective control over the forces, knew or should have known that the forces committed or were about to commit the crimes, and failed to take reasonable measures to prevent the crimes from occurring or failed to punish the subordinates for committing the crimes.
 {: .present-before-paste}
 
 Under this mode of individual criminal responsibility, the Accused is charged with the following atrocity crimes:
 {: .present-before-paste}
 
-Murder as a Crime Against Humanity:[ Article 7(1)(a)](https://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
-{: .present-before-paste}
-
-Rape as a Crime Against Humanity:[ Article 7(1)(g)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292)
-{: .present-before-paste}
-
-Murder as a War Crime: [Article 8(2)(c)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
-{: .present-before-paste}
-
-Rape as a War Crime: [Article 8(2)(e)(vi)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2372)
-{: .present-before-paste}
-
-Pillaging as a War Crime: [Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371)
-{: .present-before-paste}
+* Murder (Crime against Humanity):[ Article 7(1)(a)](https://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286){: .present-before-paste}
+* Rape (Crime against Humanity):[ Article 7(1)(g)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292){: .present-before-paste}
+* Murder (War Crime): [Article 8(2)(c)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359){: .present-before-paste}
+* Rape (War Crime): [Article 8(2)(e)(vi)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2372){: .present-before-paste}
+* Pillaging (War Crime): [Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371){: .present-before-paste}
