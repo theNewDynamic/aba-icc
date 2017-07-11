@@ -19,4 +19,4 @@ Please visit the Court’s website for more information on *[The Prosecutor v. G
 
 ### Charges
 
-The Accused is alleged to have ordered, solicited, or induced the commission, under&nbsp;[Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute, of an Offence against the Administration of Justice: Corruptly Influencing Witnesses, under&nbsp;[Article 70(1)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243).
+The Accused is alleged to have ordered, solicited, or induced the commission, under [Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute, of an Offence against the Administration of Justice: Corruptly Influencing Witnesses, under [Article 70(1)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243).
