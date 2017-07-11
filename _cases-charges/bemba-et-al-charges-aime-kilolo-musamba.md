@@ -21,6 +21,10 @@ Please visit the Court’s website for more information on [*The Prosecutor v. B
 
 ### Charges
 
-**[Offenses against the administration of justice](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243) (three counts)**: giving false testimony in the courtroom ( [Article 70(1)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243) of the Rome Statute), presenting false evidence ([Article 70(1)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243) of the Rome Statute) and corruptly influencing witnesses by giving them money and instructions to provide false testimony ( [Article 70(1)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243) of the Rome Statute)
+The Accused is charged with committing atrocity crimes as an individual, jointly with another or through another person, under&nbsp;[Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute, and with ordering, soliciting, or inducing the commission of these crimes under&nbsp;[Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198).
 
-* For some or all of these charges, the Accused is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute); alleged to have ordered, solicited, or induced the commission of these crimes ([Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
+Under these two modes of criminal liability, the Accused is charged with the following crimes:
+
+* Giving False Testimony in Court (Offense against the Administration of Justice):&nbsp;[Article 70(1)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243)
+* Presenting False Evidence (Offense against the Administration of Justice): [Article 70(1)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243)
+* Corruptly Influencing Witnesses (Offense against the Administration of Justice):&nbsp;[Article 70(1)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243)
