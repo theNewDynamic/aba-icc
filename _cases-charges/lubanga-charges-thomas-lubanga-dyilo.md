@@ -17,6 +17,4 @@ Please visit the Court’s website for more information on *[The Prosecutor v. L
 
 ### Charges
 
-**[Crime against humanity](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1171) (one count)**: enlisting and conscripting children under the age of fifteen years and using them to participate actively in hostilities ([Article 8(2)(e)(vii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2378) of the Rome Statute)
-
-The Accused is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
+The Accused is charged, as an individual, jointly with another or through another person under&nbsp;[Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute, with enlisting child soldiers, &nbsp;a crime against humanity under&nbsp;[Article 8(2)(e)(vii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2378).
