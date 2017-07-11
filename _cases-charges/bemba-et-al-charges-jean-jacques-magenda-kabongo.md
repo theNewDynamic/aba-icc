@@ -21,7 +21,7 @@ Please visit the Court’s website for more information on *[The Prosecutor v. B
 
 ### Charges
 
-The Accused is charged with committing atrocity crimes as an individual, jointly with another or through another person, under&nbsp;[Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute, and with ordering, soliciting, or inducing the commission of these crimes under&nbsp;[Article 25(3)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198).
+The Accused is charged with committing atrocity crimes as an individual, jointly with another or through another person, under&nbsp;[Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute, and with aiding, abetting, or otherwise assisting in the commission of these crimes under&nbsp;[Article 25(3)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198).
 
 Under these two modes of criminal liability, the Accused is charged with the following crimes:
 
