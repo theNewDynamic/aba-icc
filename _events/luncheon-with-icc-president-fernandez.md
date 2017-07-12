@@ -8,4 +8,4 @@ recap_link: 'https://www.international-criminal-justice-today.org/events/luncheo
 ---
 
 
-On June 5, the ABA welcomed International Criminal Court President Judge Silvia Fern&aacute;ndez de Gurmendi to its Washington, DC offices, to discuss issues of mutual concern in international criminal justice.&nbsp; Meeting with her were ABA volunteers and staff leaders, including Matthew Redle, Professor Stephen Saltzburg, Kevin Scruggs, and Sara Dill of the Criminal Justice Section; Judge Bernice Donald and Michael Pates of the Center for Human Rights, which houses the ABA’s ICC Project; &nbsp;Executive Director Jack Rives; and Thomas Susman, Director of the Governmental Affairs Office, among other attendees.
+On June 5, the ABA welcomed International Criminal Court President Judge Silvia Fern&aacute;ndez de Gurmendi to its Washington, DC offices for a luncheon discussion of matters of mutual concern in international criminal justice.&nbsp; She was joined by volunteers and staff leaders, including representatives from the Criminal Justice Section, Center for Human Rights, and the Governmental Affairs Office, among other attendees.
