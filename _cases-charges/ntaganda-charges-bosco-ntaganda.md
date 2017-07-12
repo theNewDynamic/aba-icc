@@ -21,27 +21,46 @@ Please visit the Court’s website for more information on *[The Prosecutor v. N
 
 The Accused is charged under a number of different modes of liability outlined in the Rome Statute:
 
-* He is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)).
-* He is alleged to have ordered, solicited, or induced the commission of these crimes ([Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)).
-* He is alleged to have intentionally contributed to the commission of these crimes through a group of others, with the aim of furthering the criminal activity or purpose of the group ([Article 25(3)(d)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)) and with knowledge of the intention of the group to commit these crimes ([Article 25(3)(d)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)).
-* He is alleged to be have had effective command and control over forces that committed these crimes, failed to exercise control properly, knew or should have known that the forces committed or were about to commit these crimes ([Article 28(a)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201)), and failed to take all necessary and reasonable steps to prevent or repress these crimes or submit them to competent authorities for investigation and prosecution ([Article 28(a)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201)).
+- &nbsp; &nbsp; He is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)).
+
+- &nbsp; &nbsp; He is alleged to have ordered, solicited, or induced the commission of these crimes ([Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)).
+
+- &nbsp; &nbsp; He is alleged to have intentionally contributed to the commission of these crimes through a group of others, with the aim of furthering the criminal activity or purpose of the group ([Article 25(3)(d)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)) and with knowledge of the intention of the group to commit these crimes ([Article 25(3)(d)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)).
+
+- &nbsp; &nbsp; He is alleged to be have had effective command and control over forces that committed these crimes, failed to exercise control properly, knew or should have known that the forces committed or were about to commit these crimes ([Article 28(a)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201)), and failed to take all necessary and reasonable steps to prevent or repress these crimes or submit them to competent authorities for investigation and prosecution ([Article 28(a)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201)).
 
 Under these modes of criminal liability, the Accused is charged with the following atrocity crimes:
 
-* Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
-* Sexual Slavery (Crime against Humanity):&nbsp;[Article 7(1)(g)-2](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2293)
-* Rape (Crime against Humanity):&nbsp;[Article 7(1)(g)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292)
-* Persecution (Crime against Humanity):&nbsp;[Article 7(1)(h)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2298)
-* Forcible Transfer (Crime against Humanity):&nbsp;[Article 7(1)(d)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2289)
-* Rape of Child Soldiers (War Crime):&nbsp;[Article 8(2)(e)(vi)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2372)
-* Sexual Slavery of Child Soldiers (War Crime):&nbsp;[Article 8(2)(e)(vi)-2](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2373)
-* Enlisting Child Soldiers (War Crime):&nbsp;[Article 8(2)(e)(vii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2378)
-* Murder (War Crime):&nbsp;[Article 8(2)(c)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
-* Attacks against Civilians (War Crime):&nbsp;[Article 8(2)(b)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2321)
-* Rape (War Crime):&nbsp;[Article 8(2)(b)(xxii)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2347)
-* Sexual Slavery (War Crime):&nbsp;[Article 8(2)(b)(xxii)-2](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2348)
-* Pillaging (War Crime):&nbsp;[Article 8(2)(b)(xvi)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2341)
-* Forcible Transfer (War Crime):&nbsp;[Article 8(2)(b)(viii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2332)
-* Attacks against Protected Objects (War Crime):&nbsp;[Article 8(2)(e)(iv)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2370)
-* Destruction of Property (War Crime):&nbsp;[Article 8(2)(a)(iv)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2314)
-* Destroying the Enemy's Property (War Crime):&nbsp;[Article 8(2)(e)(xii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2384)
+- &nbsp; &nbsp; &nbsp;Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
+
+- &nbsp; &nbsp; Sexual Slavery (Crime against Humanity):&nbsp;[Article 7(1)(g)-2](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2293)
+
+- &nbsp; &nbsp; Rape (Crime against Humanity):&nbsp;[Article 7(1)(g)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292)
+
+- &nbsp; &nbsp; Persecution (Crime against Humanity):&nbsp;[Article 7(1)(h)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2298)
+
+- &nbsp; &nbsp; Forcible Transfer (Crime against Humanity):&nbsp;[Article 7(1)(d)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2289)
+
+- &nbsp; &nbsp; Rape of Child Soldiers (War Crime):&nbsp;[Article 8(2)(e)(vi)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2372)
+
+- &nbsp; &nbsp; Sexual Slavery of Child Soldiers (War Crime):&nbsp;[Article 8(2)(e)(vi)-2](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2373)
+
+- &nbsp; &nbsp; Enlisting Child Soldiers (War Crime):&nbsp;[Article 8(2)(e)(vii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2378)
+
+- &nbsp; &nbsp; Murder (War Crime):&nbsp;[Article 8(2)(c)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
+
+&nbsp;- &nbsp; &nbsp; Attacks against Civilians (War Crime):&nbsp;[Article 8(2)(b)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2321)
+
+- &nbsp; &nbsp; Rape (War Crime):&nbsp;[Article 8(2)(b)(xxii)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2347)
+
+- &nbsp; &nbsp; Sexual Slavery (War Crime):&nbsp;[Article 8(2)(b)(xxii)-2](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2348)
+
+- &nbsp; &nbsp; Pillaging (War Crime):&nbsp;[Article 8(2)(b)(xvi)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2341)
+
+- &nbsp; &nbsp; Forcible Transfer (War Crime):&nbsp;[Article 8(2)(b)(viii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2332)
+
+- &nbsp; &nbsp; Attacks against Protected Objects (War Crime):&nbsp;[Article 8(2)(e)(iv)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2370)
+
+- &nbsp; &nbsp; Destruction of Property (War Crime):&nbsp;[Article 8(2)(a)(iv)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2314)
+
+- &nbsp; &nbsp; Destroying the Enemy's Property (War Crime):&nbsp;[Article 8(2)(e)(xii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2384)
