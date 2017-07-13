@@ -23,7 +23,7 @@ Please visit the Court’s website for more information on *[The Prosecutor v. K
 
 The Accused is alleged to have intentionally contributed to the commission or attempted commission of atrocity crimes crimes by a group, with the aim of furthering the criminal activity or purpose of the perpetrators ([Article 25(3)(d)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute), and with knowledge of the perpetrators' intention to commit these crimes ([Article 25(3)(d)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)).
 
-Under these modes of criminal liability, the Accused is charged with the following atrocity crimes:
+Under this mode of criminal liability, the Accused is charged with the following atrocity crimes:
 
 > Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
 >
