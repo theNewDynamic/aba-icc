@@ -19,10 +19,18 @@ Please visit the Court’s website for more information on *[The Prosecutor v. K
 
 The Accused is alleged to have intentionally contributed to the commission of atrocity crimes crimes, with the aim of furthering the criminal activity or purpose of the perpetrators ([Article 25(3)(d)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute), and with knowledge of the intention of the perpetrators to commit these crimes ([Article 25(3)(d)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
 
-Under these modes of liability, the Accused is charged with the following atrocity crimes:
+Under these modes of criminal, the Accused is charged with the following atrocity crimes:
 
-* Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
-* Attacks against Civilians (War Crime):&nbsp;[Article 8(2)(e)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2367)
-* Murder (War Crime):&nbsp;[Article 8(2)(c)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
-* Destroying the Enemy's Property (War Crime):&nbsp;[Article 8(2)(e)(xii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2384)
-* Pillaging (War Crime):&nbsp;[Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371)
+> Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
+>
+>
+> Attacks against Civilians (War Crime):&nbsp;[Article 8(2)(e)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2367)
+>
+>
+> Murder (War Crime):&nbsp;[Article 8(2)(c)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
+>
+>
+> Destroying the Enemy's Property (War Crime):&nbsp;[Article 8(2)(e)(xii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2384)
+>
+>
+> Pillaging (War Crime):&nbsp;[Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371)
