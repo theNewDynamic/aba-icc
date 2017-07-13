@@ -19,7 +19,7 @@ Please visit the Court’s website for more information on *[The Prosecutor v. R
 
 ### Charges
 
-The Accused is alleged to have intentionally contributed to the commission or attempted commission of atrocity crimes by a group, with the aim of furthering the criminal activity or purpose of the perpetrators ([Article 25(3)(d)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute), and with knowledge of the perpetrators' intention to commit these crimes ([Article 25(1)(d)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)).
+The Accused is alleged to have intentionally contributed to the commission or attempted commission of the crimes listed below by a group, with the aim of furthering the criminal activity or purpose of the perpetrators ([Article 25(3)(d)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute), and with knowledge of the perpetrators' intention to commit these crimes ([Article 25(1)(d)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)).
 
 Under this mode of criminal liability, the Accused is charged with the following atrocity crimes:
 
