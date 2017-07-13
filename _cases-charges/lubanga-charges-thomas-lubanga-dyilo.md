@@ -17,4 +17,4 @@ Please visit the Court’s website for more information on *[The Prosecutor v. L
 
 ### Charges
 
-The Accused is charged, as an individual, jointly with another or through another person under&nbsp;[Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute, with enlisting child soldiers, a crime against humanity under&nbsp;[Article 8(2)(e)(vii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2378).
+The Accused is charged, as an individual, jointly with another or through another person under&nbsp;[Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute, with Enlisting Child Soldiers, a crime against humanity under&nbsp;[Article 8(2)(e)(vii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2378).
