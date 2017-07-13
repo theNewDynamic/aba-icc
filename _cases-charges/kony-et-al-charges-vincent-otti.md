@@ -21,7 +21,9 @@ Please visit the Court's website for more information on *[The Prosecutor v. Kon
 
 ### Charges
 
-The Accused is alleged to have ordered, solicited, or induced the commission of crimes under&nbsp;[Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198). Under this mode of criminal liability, the Accused is charged with the following atrocity crimes:
+The Accused is alleged to have ordered, solicited, or induced the commission of the crimes listed below under&nbsp;[Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198).
+
+Under this mode of criminal liability, the Accused is charged with the following atrocity crimes:
 
 > Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
 >
