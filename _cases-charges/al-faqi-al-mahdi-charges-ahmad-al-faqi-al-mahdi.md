@@ -21,7 +21,7 @@ From June 30, 2012 to July 11, 2012, as alleged by the OTP, Mr. Al Mahdi directe
 
 The Accused is charged with seven counts of Directing Attacks against Religious Buildings and Historic Monuments, a war crime under [Article 8(2)(e)(iv)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2370) of the Rome Statute.&nbsp;
 
-He has been charged under multiple modes of criminal liability; they are as follows:
+He has been charged under the following modes of criminal liability:
 
 > Committing crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute)
 >
