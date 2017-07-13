@@ -22,10 +22,7 @@ The Accused is charged with atrocity crimes under three different modes of crimi
 > He is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute)
 >
 >
-> He is alleged to have intentionally contributed to the commission of these crimes, with the aim of furthering the criminal activity or purpose of the perpetrators ([Article 25(3)(d)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute)
->
->
-> He is alleged to have intentionally contributed to the commission of these crimes, with knowledge of the intention of the perpetrators to commit these crimes ([Article 25(3)(d)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
+> The Accused is alleged to have intentionally contributed to the commission or attempted commission of atrocity crimes crimes by a group, with the aim of furthering the criminal activity or purpose of the perpetrators (Article 25(3)(d)(i) of the Rome Statute), and with knowledge of the perpetrators' intention to commit these crimes (25(3)(d)(ii) of the Rome Statute)
 
 Under these modes of criminal liability, the Accused is charged with the following atrocity crimes:
 
