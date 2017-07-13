@@ -21,16 +21,16 @@ Please visit the Court’s website for more information on *[The Prosecutor v. N
 
 The Accused is charged under a number of different modes of liability outlined in the Rome Statute:
 
-> He is alleged to have committed these crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)).
+> Committing atrocity crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198))
 >
 >
-> He is alleged to have ordered, solicited, or induced the commission of these crimes ([Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)).
+> Ordering, soliciting, or inducing the commission of these crimes ([Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198))
 >
 >
-> The Accused is alleged to have intentionally contributed to the commission or attempted commission of atrocity crimes by a group, with the aim of furthering the criminal activity or purpose of the perpetrators ([Article 25(3)(d)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)), and with knowledge of the perpetrators' intention to commit these crimes ([Article 25(3)(d)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)).
+> Intentionally contributing to the commission or attempted commission of atrocity crimes by a group, with the aim of furthering the criminal activity or purpose of the perpetrators ([Article 25(3)(d)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)), and with knowledge of the perpetrators' intention to commit these crimes ([Article 25(3)(d)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198))
 >
 >
-> He is alleged to be have had effective command and control over forces that committed these crimes, failed to exercise control properly, knew or should have known that the forces committed or were about to commit these crimes ([Article 28(a)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201)), and failed to take all necessary and reasonable steps to prevent or repress these crimes or submit them to competent authorities for investigation and prosecution ([Article 28(a)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201)).
+> Having effective command and control over forces that committed these crimes, failing to exercise control properly, knowing or should have known that the forces committed or were about to commit these crimes ([Article 28(a)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201)), and failing to take all necessary and reasonable steps to prevent or repress these crimes or submit them to competent authorities for investigation and prosecution ([Article 28(a)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201))
 
 Under these modes of criminal liability, the Accused is charged with the following atrocity crimes:
 
