@@ -21,7 +21,7 @@ Please visit the Court’s website for more information on *[The Prosecutor v. H
 
 ### Charges
 
-The Accused is charged with the crimes listed below under three different modes of criminal liability:
+The Accused is charged with the crimes listed below under the following modes of criminal liability:
 
 > Committing atrocity crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute)
 
