@@ -19,9 +19,15 @@ Please visit the Court’s website for more information on [*The Prosecutor v. G
 
 The Accused is alleged to have committed the following crimes as an individual, jointly with another, or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
 
-Under this mode of direct individual responsibility, the Accused is charged with the following atrocity crimes:
+Under this mode of criminal liability, the Accused is charged with the following atrocity crimes:
 
-* Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
-* Rape and Sexual Violence (Crime against Humanity):&nbsp;[Article 7(1)(g)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292), [(g)-6](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2297)
-* Persecution (Crime against Humanity):&nbsp;[Article 7(1)(h)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2298)
-* Other Inhuman Acts (Crime against Humanity):&nbsp;[Article 7(1)(k)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2301)
+> Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
+>
+>
+> Rape and Sexual Violence (Crime against Humanity):&nbsp;[Article 7(1)(g)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292), [(g)-6](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2297)
+>
+>
+> Persecution (Crime against Humanity):&nbsp;[Article 7(1)(h)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2298)
+>
+>
+> Other Inhuman Acts (Crime against Humanity):&nbsp;[Article 7(1)(k)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2301)
