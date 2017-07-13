@@ -25,10 +25,22 @@ Please visit the Court's website for more information on [*The Prosecutor v. Ong
 The Accused is alleged to have ordered, solicited, or induced the commission of the following atrocity crimes under&nbsp;[Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute:
 {: .present-before-paste}
 
-* Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](){: .cc-active}
-* Enslavement (Crime against Humanity):&nbsp;[Article 7(1)(c)](){: .cc-active}
-* Inhumane Acts (Crime against Humanity): [Article 7(1)(k)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2301)
-* Murder (War Crime):&nbsp;[Article 8(2)(c)(i)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
-* Cruel Treatment of Civilians (War Crime):&nbsp;[Article 8(2)(c)(i)-3](){: .cc-active}
-* Directing an Attack against Civilians (War Crime):&nbsp;[Article 8(2)(e)(i)](){: .cc-active}
-* Pillaging (War Crime)&nbsp;[Article 8(2)(e)(v)](){: .cc-active}
+> Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](){: .cc-active}
+>
+>
+> Enslavement (Crime against Humanity):&nbsp;[Article 7(1)(c)](){: .cc-active}
+>
+>
+> Inhumane Acts (Crime against Humanity): [Article 7(1)(k)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2301)
+>
+>
+> Murder (War Crime):&nbsp;[Article 8(2)(c)(i)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
+>
+>
+> Cruel Treatment of Civilians (War Crime):&nbsp;[Article 8(2)(c)(i)-3](){: .cc-active}
+>
+>
+> Directing an Attack against Civilians (War Crime):&nbsp;[Article 8(2)(e)(i)](){: .cc-active}
+>
+>
+> Pillaging (War Crime)&nbsp;[Article 8(2)(e)(v)](){: .cc-active}
