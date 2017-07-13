@@ -21,7 +21,7 @@ The Accused is charged with an Offense against the Administration of Justice, At
 
 The Accused is charged under the following two modes of criminal liability:
 
-> He is alleged to have committed crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)).
+> Committing crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198))
 >
 >
-> He is alleged to have attempted to commit these crimes by taking action that commenced the execution by means of a substantial step, where the crime was not successfully committed due to circumstances independent of the Accused’s intentions ([Article 25(3)(f)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)).
+> Attempting to commit crimes by taking action that commenced their execution by means of a substantial step, where the crime was not successfully committed due to circumstances independent of the Accused’s intentions ([Article 25(3)(f)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198))
