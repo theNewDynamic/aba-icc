@@ -25,5 +25,7 @@ The Accused is charged with committing atrocity crimes as an individual, jointly
 
 Under these two modes of criminal liability, the Accused is charged with the following crimes:
 
-* Presenting False Evidence (Offense against the Administration of Justice): [Article 70(1)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243)
-* Corruptly Influencing Witnesses (Offense against the Administration of Justice):&nbsp;[Article 70(1)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243)
+> Presenting False Evidence (Offense against the Administration of Justice): [Article 70(1)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243)
+>
+>
+> Corruptly Influencing Witnesses (Offense against the Administration of Justice):&nbsp;[Article 70(1)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243)
