@@ -11,13 +11,17 @@ slug: mudacumura-charges-sylvestre-mudacumura
 
 ### Factual Allegations
 
-Sylvestre Mudacumura is the Supreme Commander of the Democratic Forces for the Liberation of Rwanda (*Forces D&eacute;mocratiques pour la Lib&eacute;ration du Rwanda*, FDLR). The FDLR is an armed group formed after the 1994 Rwandan Genocide that has been operating in the Democratic Republic of the Congo throughout and in the aftermath of the first and second Congo wars. In 2009 and 2010, the FDLR allegedly engaged in an armed conflict against different groups in the Kivu Provinces of the Democratic Republic of the Congo. The ICC Office of the Prosecutor (OTP) alleges that as a leader of the FDLR, Mudacumura agreed to conduct a campaign attacking civilian populations in order to create a human catastrophe which could strengthen the FDLR's attempt to extort political power from the international community. In his role as Commander of the FDLR, Mudacumura allegedly issued a general order to create a humanitarian catastrophe in the Kivus and ordered or approved several attacks against civilian populations where war crimes were committed.
+Sylvestre Mudacumura is the Supreme Commander of the Democratic Forces for the Liberation of Rwanda (*Forces D&eacute;mocratiques pour la Lib&eacute;ration du Rwanda*, FDLR). The FDLR is an armed group formed after the 1994 Rwandan Genocide that has been operating in the Democratic Republic of the Congo throughout and in the aftermath of the first and second Congo wars. In 2009 and 2010, the FDLR allegedly engaged in an armed conflict against different groups in the Kivu Provinces of the Democratic Republic of the Congo.
+
+The ICC Office of the Prosecutor (OTP) alleges that as a leader of the FDLR, Mudacumura agreed to conduct a campaign attacking civilian populations in order to create a human catastrophe which could strengthen the FDLR's attempt to extort political power from the international community. In his role as Commander of the FDLR, Mudacumura allegedly issued a general order to create a humanitarian catastrophe in the Kivus and ordered or approved several attacks against civilian populations where war crimes were committed.
 
 Please visit the Court’s website for more information on *[The Prosecutor v. Mudacumura](https://www.icc-cpi.int/drc/mudacumura)*.
 
 ### Charges
 
-The Accused is charged under [Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute with having ordered, solicited, or induced the commission of crimes. Under this mode of criminal liability, the Accused is charged with the following atrocity crimes:
+The Accused is charged under [Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute with having ordered, solicited, or induced the commission of the crimes listed below.
+
+Under this mode of criminal liability, the Accused is charged with the following atrocity crimes:
 
 > Attacks against Civilians (War Crime):&nbsp;[Article 8(2)(e)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2367)
 >
