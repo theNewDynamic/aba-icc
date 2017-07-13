@@ -17,7 +17,9 @@ Please visit the Court’s website for more information on *[The Prosecutor v. H
 
 ### Charges
 
-The Accused is alleged to have committed atrocity crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](){: .cc-active} of the Rome Statute). Under this mode of criminal liability, the Accused has been charged with the following atrocity crimes:
+The Accused is alleged to have committed the crimes listed blow as an individual, jointly with another or through another person ([Article 25(3)(a)](){: .cc-active} of the Rome Statute).
+
+Under this mode of criminal liability, the Accused has been charged with the following atrocity crimes:
 
 > Persecution (Crime against Humanity):&nbsp;[Article 7(1)(h)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2298)
 >
