@@ -17,9 +17,11 @@ Please visit the Court’s website for more information on *[The Prosecutor v. B
 
 ### Charges
 
-The Accused is charged with the atrocity crimes listed below under two modes of criminal liability outlined in the Rome Statute:
+The Accused is charged with atrocity crimes under two modes of criminal liability outlined in the Rome Statute:
 
-* He is alleged to have committed crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198))
-* He is alleged to have attempted to commit these crimes by taking action that commenced the execution by means of a substantial step, where the crime was not successfully committed due to circumstances independent of the Accused’s intentions ([Article 25(3)(f)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198))
+> He is alleged to have committed crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198))
+>
+>
+> He is alleged to have attempted to commit these crimes by taking action that commenced the execution by means of a substantial step, where the crime was not successfully committed due to circumstances independent of the Accused’s intentions ([Article 25(3)(f)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198))
 
-Under these two modes of liability, the Accused is charged with the Offense against the Administration of Justice: Attempting to Corruptly Influence Witnesses ([Article 70(1)(c)](http://www.casematrixnetwork.org/cmn-knowledge-hub/icc-commentary-clicc/commentary-rome-statute/commentary-rome-statute-part-6/#c3468)).
+The Accused is charged with an Offense against the Administration of Justice: Attempting to Corruptly Influence Witnesses ([Article 70(1)(c)](http://www.casematrixnetwork.org/cmn-knowledge-hub/icc-commentary-clicc/commentary-rome-statute/commentary-rome-statute-part-6/#c3468)).
