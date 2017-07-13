@@ -19,15 +19,33 @@ Please visit the Court’s website for more information on *[The Prosecutor v. N
 
 The Accused is alleged to have committed the following crimes as an individual, jointly with another, or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
 
-Under this mode of direct individual responsibility, the Accused is charged with the following atrocity crimes:
+Under this mode of criminal liability, the Accused is charged with the following atrocity crimes:
 
-* Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
-* Rape (Crime against Humanity): [Article 7(1)(g)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292)
-* Sexual Slavery (Crime against Humanity):&nbsp;[Article 7(1)(g)-2](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2293)
-* Enlisting and Conscripting as Child Soldiers (War Crime):&nbsp;[Article 8(2)(b)(xxvi)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2356)
-* Attacks against Civilians (War Crime):&nbsp;[Article 8(2)(b)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2321)
-* Willful Killing (War Crime):&nbsp;[Article (2)(a)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2310)
-* Destruction of Property (War Crime): [Article 8(2)(b)(xiii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2338)
-* Pillaging (War Crime): [Article 8(2)(b)(xvi)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2341)
-* Sexual Slavery (War Crime):&nbsp;[Article 8(2)(b)(xxii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2347)
-* Rape (War Crime): [Article 8(2)(b)(xxii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2347)
+> Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
+>
+>
+> Rape (Crime against Humanity): [Article 7(1)(g)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292)
+>
+>
+> Sexual Slavery (Crime against Humanity):&nbsp;[Article 7(1)(g)-2](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2293)
+>
+>
+> Enlisting and Conscripting as Child Soldiers (War Crime):&nbsp;[Article 8(2)(b)(xxvi)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2356)
+>
+>
+> Attacks against Civilians (War Crime):&nbsp;[Article 8(2)(b)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2321)
+>
+>
+> Willful Killing (War Crime):&nbsp;[Article (2)(a)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2310)
+>
+>
+> Destruction of Property (War Crime): [Article 8(2)(b)(xiii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2338)
+>
+>
+> Pillaging (War Crime): [Article 8(2)(b)(xvi)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2341)
+>
+>
+> Sexual Slavery (War Crime):&nbsp;[Article 8(2)(b)(xxii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2347)
+>
+>
+> Rape (War Crime): [Article 8(2)(b)(xxii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2347)
