@@ -21,14 +21,30 @@ Please visit the Court's website for more information on *[The Prosecutor v. Kon
 
 ### Charges
 
-The Accused is alleged to have ordered, solicited, or induced the commission of the following atrocity crimes under&nbsp;[Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198):
+The Accused is alleged to have ordered, solicited, or induced the commission of crimes under&nbsp;[Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198). Under this mode of criminal liability, the Accused is charged with the following atrocity crimes:
 
-* Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
-* Sexual Slavery (Crime against Humanity):&nbsp;[Article 7(1)(g)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2293)
-* Inhumane Acts (Crime against Humanity):&nbsp;[Article 7(1)(k)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2301)
-* Inducing Rape (War Crime):&nbsp;[Article 8(2)(e)(vi)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2372)
-* Directing an Attack against Civilians (War Crime):&nbsp;[Article 8(2)(e)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2367)
-* Enlisting Child Soldiers (War Crime):&nbsp;[Article 8(2)(e)(vii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2378)
-* Cruel Treatment of Civilians (War Crime):&nbsp;[Article 8(2)(c)(i)-3](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2361)
-* Pillaging (War Crime):&nbsp;[Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371)
-* Murder (War Crime):&nbsp;[Article 8(2)(c)(i)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
+> Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
+>
+>
+> Sexual Slavery (Crime against Humanity):&nbsp;[Article 7(1)(g)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2293)
+>
+>
+> Inhumane Acts (Crime against Humanity):&nbsp;[Article 7(1)(k)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2301)
+>
+>
+> Inducing Rape (War Crime):&nbsp;[Article 8(2)(e)(vi)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2372)
+>
+>
+> Directing an Attack against Civilians (War Crime):&nbsp;[Article 8(2)(e)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2367)
+>
+>
+> Enlisting Child Soldiers (War Crime):&nbsp;[Article 8(2)(e)(vii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2378)
+>
+>
+> Cruel Treatment of Civilians (War Crime):&nbsp;[Article 8(2)(c)(i)-3](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2361)
+>
+>
+> Pillaging (War Crime):&nbsp;[Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371)
+>
+>
+> Murder (War Crime):&nbsp;[Article 8(2)(c)(i)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
