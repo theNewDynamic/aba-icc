@@ -21,7 +21,7 @@ Please visit the Court’s website for more information on *[The Prosecutor v. H
 
 ### Charges
 
-The Accused is charged with the crimes listed below under three different modes of criminal liability:&nbsp;
+The Accused is charged with the crimes listed below under the following modes of criminal liability:&nbsp;
 
 > Ordering, soliciting, or inducing the commission of these crimes ([Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute)
 >
