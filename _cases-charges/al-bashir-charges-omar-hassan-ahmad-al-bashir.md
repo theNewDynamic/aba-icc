@@ -23,15 +23,33 @@ Please visit the Court’s website for more information on *[The Prosecutor v. A
 
 The Accused is alleged to have committed the crimes listed below as an individual, jointly with another, or through another person ([Article 25(3)(a)](https://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute).
 
-Under this mode of direct individual responsibility, the Accused is charged with the following atrocity crimes:
+Under this mode of criminal liability, the Accused is charged with the following atrocity crimes:
 
-* Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
-* Extermination (Crime against Humanity):&nbsp;[Article 7(1)(b)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2287)
-* Forcible Transfer (Crime against Humanity):&nbsp;[Article 7(1)(d)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2289)
-* Torture (Crime against Humanity):&nbsp;[Article 7(1)(f)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2291)
-* Rape (Crime against Humanity):&nbsp;[Article 7(1)(g)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292)
-* Attacking Civilians (War Crime):&nbsp;[Article 8(2)(e)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2367)
-* Pillaging (War Crime):&nbsp;[Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371)
-* Genocide by Killing (Genocide):&nbsp;[Article 6(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2280)
-* Genocide by Causing Serious Bodily or Mental Harm (Genocide): [Article 6(b)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2281)
-* Genocide by Deliberately Inflicting Conditions of Life Calculated to Bring about Physical Destruction (Genocide): [Article 6(c)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2282)
+> Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
+>
+>
+> Extermination (Crime against Humanity):&nbsp;[Article 7(1)(b)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2287)
+>
+>
+> Forcible Transfer (Crime against Humanity):&nbsp;[Article 7(1)(d)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2289)
+>
+>
+> Torture (Crime against Humanity):&nbsp;[Article 7(1)(f)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2291)
+>
+>
+> Rape (Crime against Humanity):&nbsp;[Article 7(1)(g)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292)
+>
+>
+> Attacking Civilians (War Crime):&nbsp;[Article 8(2)(e)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2367)
+>
+>
+> Pillaging (War Crime):&nbsp;[Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371)
+>
+>
+> Genocide by Killing (Genocide):&nbsp;[Article 6(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2280)
+>
+>
+> Genocide by Causing Serious Bodily or Mental Harm (Genocide): [Article 6(b)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2281)
+>
+>
+> Genocide by Deliberately Inflicting Conditions of Life Calculated to Bring about Physical Destruction (Genocide): [Article 6(c)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2282)
