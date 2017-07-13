@@ -17,7 +17,7 @@ Please visit the Court’s website for more information on *[The Prosecutor v. M
 
 ### Charges
 
-The Accused is charged under [Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute with having ordered, solicited, or induced the commission of the following atrocity crimes:
+The Accused is charged under [Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute with having ordered, solicited, or induced the commission of crimes. Under this mode of criminal liability, the Accused is charged with the following atrocity crimes:
 
 > Attacks against Civilians (War Crime):&nbsp;[Article 8(2)(e)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2367)
 >
