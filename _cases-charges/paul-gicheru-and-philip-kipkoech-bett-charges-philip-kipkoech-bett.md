@@ -21,11 +21,11 @@ Please visit the Court’s website for more information on *[The Prosecutor v. G
 
 ### Charges
 
-The Accused is alleged to have committed crimes under multiple modes of criminal liability:
+The Accused is alleged to have committed the crimes listed below under the following modes of criminal liability:
 
-> He is alleged to have committed atrocity crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)&nbsp;of the Rome Statute).
+> Committing &nbsp;crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)&nbsp;of the Rome Statute)
 >
 >
-> The Accused is alleged to have intentionally contributed to the commission or attempted commission of atrocity crimes by a group, with the aim of furthering the criminal activity or purpose of the perpetrators ([Article 25(3)(d)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)), and with knowledge of the perpetrators' intention to commit these crimes ([Article 25(3)(d)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)).
+> Intentionally contributing to the commission or attempted commission of crimes by a group, with the aim of furthering the criminal activity or purpose of the perpetrators ([Article 25(3)(d)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)), and with knowledge of the perpetrators' intention to commit these crimes ([Article 25(3)(d)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198))
 
 Under these modes of liability, the Accused is charged with Corruptly Influencing Witnesses, and Offence against the Administration of Justice ([Article 70(1)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243)).
