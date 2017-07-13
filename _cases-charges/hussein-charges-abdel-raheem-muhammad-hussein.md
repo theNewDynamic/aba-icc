@@ -17,18 +17,42 @@ Please visit the Court’s website for more information on *[The Prosecutor v. H
 
 ### Charges
 
-The Accused is alleged to have committed the following crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](){: .cc-active} of the Rome Statute):
+The Accused is alleged to have committed atrocity crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](){: .cc-active} of the Rome Statute). Under this mode of criminal liability, the Accused has been charged with the following atrocity crimes:
 
-* Persecution (Crime against Humanity):&nbsp;[Article 7(1)(h)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2298)
-* Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](){: .cc-active}
-* Forcible Transfer (Crime against Humanity):&nbsp;[Article 7(1)(d)](){: .cc-active}
-* Rape (Crime against Humanity):&nbsp;[Article 7(1)(g)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292)
-* Inhumane Acts (Crime against Humanity):&nbsp;[Article 7(1)(k)](){: .cc-active}
-* Imprisonment (Crime against Humanity):&nbsp;[Article 7(1)(e)](){: .cc-active}
-* Torture (Crime against Humanity):&nbsp;[Article 7(1)(f)](){: .cc-active}
-* Murder (War Crime):&nbsp;[Article 8(2)(c)(i)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
-* Attacks on Civilians (War Crime):&nbsp;[Article 8(2)(e)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2367)
-* Desctruction of Property (War Crime):&nbsp;[Article 8(2)(e)(xii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2384)
-* Rape (War Crime):&nbsp;[Article 8(2)(e)(vi)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2372)
-* Pillaging (War Crime):&nbsp;[Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371)
-* Outrage upon Personal Dignity (War Crime):&nbsp;[Article 8(2)(c)(ii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2363)
+> Persecution (Crime against Humanity):&nbsp;[Article 7(1)(h)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2298)
+>
+>
+> Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](){: .cc-active}
+>
+>
+> Forcible Transfer (Crime against Humanity):&nbsp;[Article 7(1)(d)](){: .cc-active}
+>
+>
+> Rape (Crime against Humanity):&nbsp;[Article 7(1)(g)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2292)
+>
+>
+> Inhumane Acts (Crime against Humanity):&nbsp;[Article 7(1)(k)](){: .cc-active}
+>
+>
+> Imprisonment (Crime against Humanity):&nbsp;[Article 7(1)(e)](){: .cc-active}
+>
+>
+> Torture (Crime against Humanity):&nbsp;[Article 7(1)(f)](){: .cc-active}
+>
+>
+> Murder (War Crime):&nbsp;[Article 8(2)(c)(i)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
+>
+>
+> Attacks on Civilians (War Crime):&nbsp;[Article 8(2)(e)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2367)
+>
+>
+> Desctruction of Property (War Crime):&nbsp;[Article 8(2)(e)(xii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2384)
+>
+>
+> Rape (War Crime):&nbsp;[Article 8(2)(e)(vi)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2372)
+>
+>
+> Pillaging (War Crime):&nbsp;[Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371)
+>
+>
+> Outrage upon Personal Dignity (War Crime):&nbsp;[Article 8(2)(c)(ii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2363)
