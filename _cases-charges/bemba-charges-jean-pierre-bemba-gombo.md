@@ -19,7 +19,7 @@ Please visit the Court’s website for more information on [*The Prosecutor v. B
 
 ### Charges
 
-The Accused is allegedly responsible for the atrocity crimes committed by subordinates as their commander. Under [Article 28(a)](https://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201) of the Rome Statute, commanders are responsible for the crimes committed by subordinates if the commander possessed effective control over the forces, knew or should have known that the forces committed or were about to commit the crimes, and failed to take reasonable measures to prevent the crimes from occurring or failed to punish the subordinates for committing the crimes listed below.
+The Accused is allegedly responsible for the atrocity crimes committed by his subordinates as their commander. Under [Article 28(a)](https://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1201) of the Rome Statute, commanders are responsible for the crimes committed by subordinates if the commander possessed effective control over the forces, knew or should have known that the forces committed or were about to commit the crimes, and failed to take reasonable measures to prevent the crimes from occurring or failed to punish the subordinates for committing the crimes listed below.
 
 Under this mode of criminal liability, the Accused is charged with the following atrocity crimes:
 
