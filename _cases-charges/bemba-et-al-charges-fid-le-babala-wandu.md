@@ -21,7 +21,7 @@ Please visit the Court’s website for more information on [*The Prosecutor v. B
 
 ### Charges
 
-The Accused is alleged to have aided and abetted, or otherwise assisted in, the commission of atrocity crimes through&nbsp;[Article 25(3)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute. Under this mode of criminal liability, the Accused is charged with the following atrocity crimes:
+The Accused is alleged to have aided and abetted, or otherwise assisted in, the commission of atrocity crimes under&nbsp;[Article 25(3)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute. Under this mode of criminal liability, the Accused is charged with the following atrocity crimes:
 
 > Giving False Testimony in Court (Offense against the Administration of Justice):&nbsp;[Article 70(1)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243)
 >
