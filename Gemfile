@@ -8,7 +8,6 @@ group :jekyll_plugins do
   # gem "html-proofer"
   gem 'jekyll-seo-tag'
   gem 'hash-joiner'
-  gem 'jekyll-livereload'
   gem 'jekyll-include-cache'
 #  gem 'jekyll-sitemap'
 end

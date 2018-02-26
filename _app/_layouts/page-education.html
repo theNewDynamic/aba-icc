@@ -29,14 +29,14 @@ make arrows in nav only show on the largest screens (at least when scrolling)
   ul {margin:0 !important;}
 
 </style>
-{% assign atrocity-crimes = (site.documents | where: 'process', 'atrocity-crimes' | sort: 'sort_order', 'last')  %}
-{% assign referrals-and-communication = (site.documents | where: 'process', 'referrals-and-communication' | sort: 'sort_order', 'last')  %}
-{% assign preliminary-examination = (site.documents | where: 'process', 'preliminary-examination' | sort: 'sort_order', 'last')) %}
-{% assign investigation = (site.documents | where: 'process', 'investigation' | sort: 'sort_order', 'last') %}
-{% assign arrest-warrant-and-summons = (site.documents | where: 'process', 'arrest-warrant-and-summons' | sort: 'sort_order', 'last') %}
-{% assign confirmation-of-charges = (site.documents | where: 'process', 'confirmation-of-charges' | sort: 'sort_order', 'last') %}
-{% assign trial-and-appeal = (site.documents | where: 'process', 'trial-and-appeal' | sort: 'sort_order', 'last') %}
-{% assign sentencing-and-reparations = (site.documents | where: 'process', 'sentencing-and-reparations' | sort: 'sort_order', 'last') %}
+{% assign atrocity-crimes = site.documents | where: 'process', 'atrocity-crimes' | sort: 'sort_order', 'last'  %}
+{% assign referrals-and-communication = site.documents | where: 'process', 'referrals-and-communication' | sort: 'sort_order', 'last'  %}
+{% assign preliminary-examination = site.documents | where: 'process', 'preliminary-examination' | sort: 'sort_order', 'last' %}
+{% assign investigation = site.documents | where: 'process', 'investigation' | sort: 'sort_order', 'last' %}
+{% assign arrest-warrant-and-summons = site.documents | where: 'process', 'arrest-warrant-and-summons' | sort: 'sort_order', 'last' %}
+{% assign confirmation-of-charges = site.documents | where: 'process', 'confirmation-of-charges' | sort: 'sort_order', 'last' %}
+{% assign trial-and-appeal = site.documents | where: 'process', 'trial-and-appeal' | sort: 'sort_order', 'last' %}
+{% assign sentencing-and-reparations = site.documents | where: 'process', 'sentencing-and-reparations' | sort: 'sort_order', 'last' %}
 
 {% assign slideshowOptions = ' "cellAlign": "left",  "pageDots": false, "freeScroll": true '%}
 

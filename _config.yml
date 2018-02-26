@@ -57,7 +57,7 @@ image_url: https://aba-icc.imgix.net
 kramdown:
   input: GFM
 future: false
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
   #- jekyll-sitemap
