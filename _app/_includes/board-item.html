@@ -1,6 +1,6 @@
 <a href="{{ item.url }}" class="flex-box">
   {% comment %} <img src="{{ item.image_path }}" alt="" style="max-width:200px;max-width:200px;"> {% endcomment %}
   <img src="{{ site.image_url}}{{ item.image_path }}?w=200&h=200&fit=clamp&exp=1" alt="image of {{ item.title }}">
-  <h1 class="flex-title">{{ item.title }}   {% if item.board_chair %}<br /><small>Chair</small>{% endif %}</h1>
+  <h1 class="flex-title">{{ item.title }}  {% if item.board_chair %}<br /><small>Chair</small>{% endif %}</h1>
   <p>{{ item.position }}</p>
 </a>
