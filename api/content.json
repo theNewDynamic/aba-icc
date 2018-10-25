@@ -2,7 +2,7 @@
 layout: null
 permalink: content.json
 ---
-{% assign docs  = site.documents | where: 'exclude_from_search', -true %}
+{% assign docs  = site.documents  %}
 {
   {% for entry in docs %}
     "{{ entry.url | slugify }}": {
