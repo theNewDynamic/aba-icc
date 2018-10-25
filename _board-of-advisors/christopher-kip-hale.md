@@ -2,10 +2,10 @@
 title: Christopher "Kip" Hale
 published: true
 board_chair: false
-last_name:
-image_path:
+last_name: Hale
+image_path: /uploads/kiphale.jpg
 position:
-description:
+description: "Lead lawyer for a non-governmental organization doing criminal investigation of atrocity crimes"
 ---
 
 [Christopher "Kip" Hale](https://www.linkedin.com/in/kiphale/){: target="_blank"} is currently a lead lawyer for a non-governmental organization doing criminal investigation of atrocity crimes. Previously, Kip served as senior counsel of [American Bar Association (ABA) Center for Human Rights](https://www.americanbar.org/groups/human_rights/){: target="_blank"} in Washington, D.C., and was the founding director of the ABA's International Criminal Court Project. Prior to this post, he was a prosecuting attorney in the Office of the Co-Prosecutors at the Extraordinary Chambers in the Courts of Cambodia (ECCC), and has done legal defense work and advised Judges at the UN-International Criminal Tribunal for the former Yugoslavia (ICTY) in The Hague, The Netherlands.
