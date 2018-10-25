@@ -1,5 +1,5 @@
 ---
-title: "Prof. M.Cherif Bassiouni"
+title: "Professor M. Cherif Bassiouni (1937-2017)"
 published: true
 board_chair:
 last_name: Bassiouni
