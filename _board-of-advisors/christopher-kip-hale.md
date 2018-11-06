@@ -4,7 +4,7 @@ published: true
 board_chair: false
 last_name: Hale
 image_path: /uploads/kiphale.jpg
-position:
+position: Atrocity Crimes Attorney
 description: "Lead lawyer for a non-governmental organization doing criminal investigation of atrocity crimes"
 ---
 
