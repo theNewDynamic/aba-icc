@@ -17,7 +17,7 @@ timeline:
 
 ### Director
 
-##### [**Christopher “Kip" Hale**](/staff/kip-hale/)
+##### [Kristin J. Smith](/staff/kristin-smith/)
 
 ---
 
