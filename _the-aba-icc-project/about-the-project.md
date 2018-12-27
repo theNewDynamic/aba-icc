@@ -13,11 +13,7 @@ The American Bar Association's International Criminal Court Project (ABA's ICC P
 
 #### [Click Here to Join our Mailing List](/follow/)
 
-
-<div class="embed-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/SICq5kqkMC8" frameborder="0" allowfullscreen></iframe>
-</div>
-
+<div class="embed-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/SICq5kqkMC8" frameborder="0" allowfullscreen=""></iframe></div>
 
 With nearly 400,000 members worldwide and a respected voice among diverse stakeholders, the ABA is well-positioned to raise awareness in the US about the crucial mandate of the ICC to investigate and prosecute the international atrocity crimes of genocide, crimes against humanity, and war crimes, and to support the Court's legal activities. The ABA-ICC Project provides such support through:
 
@@ -27,7 +23,7 @@ Engaging with the American people, legal profession, and policymakers on the ICC
 
 Convening high-level briefings on the ICC before the US legislative and executive branches, offering ICC education courses for American lawyers, providing assistance to ABA members advocating for greater US support for the ICC's mandate, and establishing dialogs between US, ICC, and other key stakeholders.
 
-Through the ABA's ICC Project website, providing innovative and interactive content that educates website visitors on the ICC and its jurisdiction, judicial process, constituent organs, State Parties, and US-ICC relations. In collaboration with **Stanford Law School**, the website also features [_International Criminal Justice Today_](http://bit.ly/ictj_page), an online periodical with [IPSOS market research polling data](http://bit.ly/ipsos_abicc)[](http://www.international-criminal-justice-today.org/ipsos-polling-data/) and up-to-date developments in the field and includes [_Arguendo_](http://bit.ly/arg146), a regular roundtable forum where distinguished experts from different fields discuss and debate the most pressing international criminal justice issues.
+Through the ABA's ICC Project website, providing innovative and interactive content that educates website visitors on the ICC and its jurisdiction, judicial process, constituent organs, State Parties, and US-ICC relations. In collaboration with **Stanford Law School**, the website also features [*International Criminal Justice Today*](http://bit.ly/ictj_page), an online periodical with [IPSOS market research polling data](http://bit.ly/ipsos_abicc) and up-to-date developments in the field and includes [*Arguendo*](http://bit.ly/arg146), a regular roundtable forum where distinguished experts from different fields discuss and debate the most pressing international criminal justice issues.
 
 ## Practical Legal Assistance
 
@@ -39,10 +35,10 @@ The ABA is a member of the [**International Criminal Justice Consortium**](http:
 
 In collaboration with the **University of Denver Sturm College of Law** and the **Ved Nanda Center for International and Comparative Law**, developing the world's only online repository of proven practices in international criminal justice. The repository will be an indispensable resource for international tribunal practitioners as well as national practitioners undertaking complementarity proceedings.
 
-* * *
+---
 
 ## Staff
 
-#### [Christopher “Kip" Hale](/staff/kip-hale/)
+#### [Kristin J. Smith](/staff/kristin-smith/)
 
 ##### Director
