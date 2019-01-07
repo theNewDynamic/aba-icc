@@ -3,8 +3,8 @@ title: >-
   Side Event at ICC’s 17th Assembly of States Parties Examines ICC’s Upcoming
   Challenges and Possibilities for Advancing Accountability
 published: true
-date: 2016-01-01 12:00:00
-start_at: 2016-01-01 12:00:00
+date: 2018-12-06 13:00:00
+start_at: 2018-12-06 13:00:00
 featured_image_path: /uploads/sideevent5.jpg
 recap_link: >-
   https://www.international-criminal-justice-today.org/events/challenges-and-prospects-on-the-iccs-horizon-afghanistan-myanmar-more/
