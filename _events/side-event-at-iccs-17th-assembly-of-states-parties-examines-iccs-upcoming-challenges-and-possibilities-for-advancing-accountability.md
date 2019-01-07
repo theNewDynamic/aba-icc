@@ -2,7 +2,7 @@
 title: >-
   Side Event at ICC’s 17th Assembly of States Parties Examines ICC’s Upcoming
   Challenges and Possibilities for Advancing Accountability
-published: false
+published: true
 date: 2016-01-01 12:00:00
 start_at: 2016-01-01 12:00:00
 featured_image_path: /uploads/sideevent5.jpg
@@ -14,4 +14,4 @@ recap_link: >-
 
 Experts highlighted&nbsp;[past U.S. cooperation with the Court](https://www.aba-icc.org/about-the-icc/the-us-icc-relationship/){: target="_blank"}&nbsp;and emphasized the legal profession and civil society’s role in advancing accountability for atrocity crimes. They also compared accountability initiatives attempted by the international community and civil society beyond the ICC for alleged conduct in Afghanistan, Myanmar, and other countries through universal jurisdiction and UN-mandated investigations, as well as the challenges present in seeking accountability for these alleged crimes before the ICC.
 
-*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its website.*
+*The American Bar Association’s (ABA) International Criminal Court (ICC) Project is an independent initiative of the ABA Center for Human Rights that advances international criminal justice and US-ICC relations through advocacy, education and practical legal assistance. More information about the ABA’s ICC Project can be found at its&nbsp;[website](www.aba-icc.org).*
