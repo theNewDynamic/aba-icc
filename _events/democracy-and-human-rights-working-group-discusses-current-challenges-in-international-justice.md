@@ -2,7 +2,7 @@
 title: >-
   Democracy and Human Rights Working Group Discusses Current Challenges in
   International Justice
-published: false
+published: true
 date: 2018-11-14 13:00:00
 start_at: 2018-11-14 13:00:00
 featured_image_path: /uploads/abamccaindhrwg1.jpg
