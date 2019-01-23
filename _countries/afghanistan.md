@@ -1,7 +1,7 @@
 ---
 title: Afghanistan
 published: true
-featured_image_path: /uploads/afghanistan-u-s--army-photo-by-sgt--ken-scar-2.jpg
+featured_image_path: /uploads/afghanistan-u-s--army-photo-by-sgt--ken-scar-3.jpg
 featured_image_attribution: U.S. Army photo by Sgt. Ken Scar
 geocode: AFG
 iso_code: AF
