@@ -1,9 +1,9 @@
 ---
-title: "Laurent Gbagbo"
+title: Laurent Gbagbo
 published: true
 description: Former President of Côte d’Ivoire
-image_path: /uploads/1427902614216_Laurent-Gbagbo-faces-ICC--007.jpg
-image_credit: "Photo courtesy of The Guardian"
+image_path: /uploads/gbagbo-un-photomarco-castro-via-flickr-cc-by-nc-nd-2-0.jpg
+image_credit: UN Photo/Marco Castro via Flickr (CC BY-NC-ND 2.0)
 country: cote-divoire
 slug: laurent-gbagbo
 ---
