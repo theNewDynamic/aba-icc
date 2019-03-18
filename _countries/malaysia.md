@@ -6,7 +6,7 @@ featured_image_attribution:
 geocode: MYS
 iso_code: MY
 territory:
-state_party: false
+state_party: true
 signed_but_not_ratified: false
 signed_date: 2019-03-04 00:00:00
 ratified_or_acceded_date: 2019-03-04 00:00:00
