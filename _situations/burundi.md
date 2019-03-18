@@ -3,12 +3,11 @@ title: Burundi
 country: burundi
 published: true
 date: 2015-02-23 19:22:00
-phase: 'Preliminary Examinations, Subject Matter Jurisdiction Assessement'
+phase: Situations & Cases
 link_to_more_information: 'https://www.icc-cpi.int/burundi'
-description: "The Preliminary Examination of the Situation in Burundi focuses on alleged atrocity crimes committed during a political crisis which involved Burundi government forces, pro-government armed groups (CNDD-FDD-ruling political party, Imbonerakure-CNDD-FDD’s youth wing), and protest groups (opposition political parties and citizens). The political crisis occurred from April 2015 to the present.\_\nAs of November 2016, the preliminary examination of Burundi is in the subject-matter jurisdiction assessment phase."
+description: "The Preliminary Examination of the Situation in Burundi focuses on alleged atrocity crimes committed during a political crisis which involved Burundi government forces, pro-government armed groups (CNDD-FDD-ruling political party, Imbonerakure-CNDD-FDD’s youth wing), and protest groups (opposition political parties and citizens). The political crisis occurred from April 2015 to the present.\_\nHaving requested and received authorization from the Pre-Trial Chamber, the Prosecutor opened an investigation proprio motu into alleged crimes against humanity committed in Burundi on 25 October 2017. The focus of the investigation is alleged crimes committed between 26 April 2015 and 26 October 2017."
 slug: burundi
 ---
-
 
 **Background**&nbsp;&nbsp;
 
@@ -18,8 +17,8 @@ On April 25, 2015, President Pierre Nkurunziza [announced](http://www.reuters.co
 
 **ICC Status**&nbsp;&nbsp;
 
-Burundi was a [State Party](https://asp.icc-cpi.int/en_menus/asp/states%20parties/african%20states/Pages/burundi.aspx) to the International Criminal Court (ICC) and ratified the Rome Statute on September 21, 2004. On April 25, 2016, after receiving communications of alleged atrocity crimes committed in Burundi, the ICC Office of the Prosecutor (OTP) [opened](https://www.icc-cpi.int/Pages/item.aspx?name=otp-stat-25-04-2016) a preliminary examination. In October 2016, Burundi’s Parliament [voted](https://www.icc-cpi.int/Pages/item.aspx?name=pr1244) to withdraw from the ICC and [notified](https://www.un.org/sg/en/content/highlight/2016-10-27.html) the UN Secretary General of the withdrawal. Withdrawal from the ICC becomes effective one year after withdrawal notification to the UN Secretary General, unless otherwise specified, under Article 127(1) of the Rome Statute, and a State is not discharged, by reason of its withdrawal, from its obligations under the Rome Statute including the duty to cooperate with investigations and proceedings which were commenced prior to the date on which the withdrawal became effective under Article 127(2) of the Rome Statute.
+Burundi was a [State Party](https://asp.icc-cpi.int/en_menus/asp/states%20parties/african%20states/Pages/burundi.aspx) to the International Criminal Court (ICC) and ratified the Rome Statute on September 21, 2004. On April 25, 2016, after receiving communications of alleged atrocity crimes committed in Burundi, the ICC Office of the Prosecutor (OTP) [opened](https://www.icc-cpi.int/Pages/item.aspx?name=otp-stat-25-04-2016) a preliminary examination. In October 2016, Burundi’s Parliament [voted](https://www.icc-cpi.int/Pages/item.aspx?name=pr1244) to withdraw from the ICC and [notified](https://www.un.org/sg/en/content/highlight/2016-10-27.html) the UN Secretary General of the withdrawal. Withdrawal from the ICC becomes effective one year after withdrawal notification to the UN Secretary General, unless otherwise specified, under Article 127(1) of the Rome Statute*,* and a State is not discharged, by reason of its withdrawal, from its obligations under the Rome Statute including the duty to cooperate with investigations and proceedings which were commenced prior to the date on which the withdrawal became effective under Article 127(2) of the Rome Statute.
 
-As of November 2016, the preliminary examination of Burundi is in the [subject-matter jurisdiction assessment phase](https://www.icc-cpi.int/iccdocs/otp/161114-otp-rep-PE_ENG.pdf). &nbsp; &nbsp; &nbsp;
+Having requested and received authorization from the Pre-Trial Chamber, the Prosecutor [opened an investigation](https://www.icc-cpi.int//Pages/item.aspx?name=171109_otp_statement) *proprio motu* into alleged crimes against humanity committed in Burundi on 25 October 2017. The focus of the investigation is alleged crimes committed between 26 April 2015 and 26 October 2017. &nbsp; &nbsp; &nbsp;
 
-For more information on the preliminary examination in Burundi, please visit the [ICC page](https://www.icc-cpi.int/burundi).
+For more information on the situation in Burundi, please visit the [ICC page](https://www.icc-cpi.int/burundi).
