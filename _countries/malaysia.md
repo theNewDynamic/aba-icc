@@ -8,7 +8,7 @@ iso_code: MY
 territory:
 state_party: true
 signed_but_not_ratified: false
-signed_date: 2019-03-04 00:00:00
+signed_date: Invalid date
 ratified_or_acceded_date: 2019-03-04 00:00:00
 entry_into_force_date: 2019-06-01 00:00:00
 ratified_apic_date:
