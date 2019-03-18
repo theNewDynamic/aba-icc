@@ -1,6 +1,6 @@
 ---
 title: Malaysia
-published: false
+published: true
 featured_image_path:
 featured_image_attribution:
 geocode: MYS
