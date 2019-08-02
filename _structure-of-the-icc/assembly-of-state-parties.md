@@ -9,7 +9,7 @@ footnotes: 'Photos courtesy of Twitter, .'
 images:
   - name: 'H.E. O-Gon Kwon, President (Republic of Korea)'
     image_path:
-  - name: 'Mr. Jens-Otto Horslund, Vice-President (Denmark)'
+  - name: 'H.E. Jens-Otto Horslund, Vice-President (Denmark)'
     image_path:
   - name: 'Mr. Michal Mlynár, Vice-President (Slovakia)'
     image_path:
