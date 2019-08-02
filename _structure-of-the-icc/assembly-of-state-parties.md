@@ -8,7 +8,7 @@ responsibilities:
 footnotes: 'Photos courtesy of Twitter, .'
 images:
   - name: 'H.E. O-Gon Kwon, President (Republic of Korea)'
-    image_path: /uploads/icc-asp-pres--o-gon-kwon.jpg
+    image_path:
   - name: 'Mr. Jens-Otto Horslund, Vice-President (Denmark)'
     image_path:
   - name: 'H.E. Álvaro Moerzinger, Vice-President (Uruguay)'
