@@ -5,13 +5,12 @@ responsibilities:
   - Change ICC Law and Procedures
   - Elect Judges and Prosecutors
   - Determine ICC's Budget
-footnotes: Photos courtesy of Flickr.
+footnotes: 'Photos courtesy of Twitter, .'
 images:
   - name: 'H.E. O-Gon Kwon, President (Republic of Korea)'
     image_path: /uploads/icc-asp-pres--o-gon-kwon.jpg
-  - name: 'H.E. Sebastiano Cardi, Vice-President (Italy)'
-    image_path: >-
-      /uploads/1432160349506_jkMRixw7iGLuHYKfDHcWfLe-Xkh5Ry1y3o_ve7wsUaI6inpWX3BIzfqkyp32bL3QGd7FYb3h7ywldQlP0FlddJH5AHyWLmE%3Ds1200
+  - name: 'Mr. Jens-Otto Horslund, Vice-President (Denmark)'
+    image_path:
   - name: 'H.E. Álvaro Moerzinger, Vice-President (Uruguay)'
     image_path: >-
       /uploads/1432160357015_DtU1cZ4xkCgBjQf2jAGZ9VlVmYJ9JoTOyhBmmbQtl_PZKP-Ji7so-j7YSe-bR3TDf-5Q0Pt02PqAHV64MtyfWP4UCrH0JSjT%3Ds1200
