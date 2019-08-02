@@ -11,7 +11,7 @@ images:
     image_path:
   - name: 'H.E. Jens-Otto Horslund, Vice-President (Denmark)'
     image_path:
-  - name: 'Mr. Michal Mlynár, Vice-President (Slovakia)'
+  - name: 'H.E. Michal Mlynár, Vice-President (Slovakia)'
     image_path:
 order: 20
 ---
