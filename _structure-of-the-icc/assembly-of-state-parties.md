@@ -8,7 +8,7 @@ responsibilities:
 footnotes: Photos courtesy of Flickr.
 images:
   - name: H.E. O-Gon Kwon (Republic of Korea)
-    image_path:
+    image_path: /uploads/icc-asp-pres--o-gon-kwon.jpg
   - name: 'H.E. Sebastiano Cardi, Vice-President (Italy)'
     image_path: >-
       /uploads/1432160349506_jkMRixw7iGLuHYKfDHcWfLe-Xkh5Ry1y3o_ve7wsUaI6inpWX3BIzfqkyp32bL3QGd7FYb3h7ywldQlP0FlddJH5AHyWLmE%3Ds1200
