@@ -7,7 +7,7 @@ responsibilities:
   - Determine ICC's Budget
 footnotes: Photos courtesy of Flickr.
 images:
-  - name: H.E. O-Gon Kwon (Republic of Korea)
+  - name: 'H.E. O-Gon Kwon, President (Republic of Korea)'
     image_path: /uploads/icc-asp-pres--o-gon-kwon.jpg
   - name: 'H.E. Sebastiano Cardi, Vice-President (Italy)'
     image_path: >-
