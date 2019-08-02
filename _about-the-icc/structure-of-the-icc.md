@@ -17,7 +17,7 @@ The ICC is composed of four primary organs: the Presidency, the Judicial Divisio
 
 The [Assembly of States Parties](https://asp.icc-cpi.int/en_menus/asp/assembly/Pages/assembly.aspx) serves as the Court's management, oversight, and legislative body and is not an organ of the Court. It establishes the budget, elects judges and prosecutors, amends law and procedure, and conducts other activities consistent with the Rome Statute.&nbsp;
 
-Also separate from the Court is the [Trust Fund for Victims](https://www.icc-cpi.int/tfv), which was created by the Assembly of States Parties to provide assistance and support to victims of Rome Statute crimes and their families and to help implement Court-ordered reparations. The Trust Fund for Victims seeks to promote restorative justice, reconciliation, and sustainable peace by attempting to address the direct harms of atrocity crimes.
+Also separate from the Court is the [Trust Fund for Victims](https://www.trustfundforvictims.org/), which was created by the Assembly of States Parties to provide assistance and support to victims of Rome Statute crimes and their families and to help implement Court-ordered reparations. The Trust Fund for Victims seeks to promote restorative justice, reconciliation, and sustainable peace by attempting to address the direct harms of atrocity crimes.
 
 ---
 
