@@ -14,9 +14,9 @@ The American Bar Association's (ABA) International Criminal Court (ICC) Project 
 
 Interns generally work from the ABA office in central Washington, D.C., but remote internships may be considered. Internships are unpaid, and can be completed for credit in accordance with relevant academic programs. There is a strong preference for applicants currently in law school with an understanding of international law; however, undergraduate applicants with background in international law and demonstrated capacity to work on typical ABA's ICC Project activities may be considered.&nbsp;*The ABA commits itself to building a multifaceted and diverse workforce, and thus strongly encourages applicants of any gender, sexual orientation, ethnic, religious, or other self-identified background.*
 
-If interested in applying for an internship at the ABA's ICC Project, please email the following PDF formatted material (as a whole or in individual pieces) to the Director of the ABA's ICC Project, [Kristin Smith](/staff/kristin-smith/):
+If interested in applying for an internship at the ABA's ICC Project, please email the following PDF formatted material (as a whole or in individual pieces) to the Director of the ABA's ICC Project, [Kristin Smith](/staff/kristin-smith/)\:
 
-**For summer 2019 internships, please apply by Mar. 22, 2019.**
+**For Fall internships (Sept.- early Dec.), please apply by Aug. 31, 2019. Applications also accepted for Spring 2020 internships on a rolling basis.&nbsp;**
 
 ---
 
