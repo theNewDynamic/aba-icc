@@ -7,9 +7,8 @@ responsibilities:
   - Determine ICC's Budget
 footnotes: Photos courtesy of Flickr.
 images:
-  - name: 'H.E. Sidiki Kaba, President (Senegal)'
-    image_path: >-
-      /uploads/1432160364611_X1befPHhspIJZXDH1VE12LMq6AjZXSOFJQcSJfYH_4u2-LpJulMu9_Rnz_6UkRNi6Rq4cC587VJLhkXgUR9ohJfOCNOAyUPg%3Ds300
+  - name: H.E. O-Gon Kwon (Republic of Korea)
+    image_path:
   - name: 'H.E. Sebastiano Cardi, Vice-President (Italy)'
     image_path: >-
       /uploads/1432160349506_jkMRixw7iGLuHYKfDHcWfLe-Xkh5Ry1y3o_ve7wsUaI6inpWX3BIzfqkyp32bL3QGd7FYb3h7ywldQlP0FlddJH5AHyWLmE%3Ds1200
