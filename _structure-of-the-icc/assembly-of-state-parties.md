@@ -11,9 +11,8 @@ images:
     image_path:
   - name: 'Mr. Jens-Otto Horslund, Vice-President (Denmark)'
     image_path:
-  - name: 'H.E. Álvaro Moerzinger, Vice-President (Uruguay)'
-    image_path: >-
-      /uploads/1432160357015_DtU1cZ4xkCgBjQf2jAGZ9VlVmYJ9JoTOyhBmmbQtl_PZKP-Ji7so-j7YSe-bR3TDf-5Q0Pt02PqAHV64MtyfWP4UCrH0JSjT%3Ds1200
+  - name: 'Mr. Michal Mlynár, Vice-President (Slovakia)'
+    image_path:
 order: 20
 ---
 
