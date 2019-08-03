@@ -12,7 +12,7 @@ order: 25
 
 #### Composition
 
-The TFV is guided by a Board of Directors, the five members of which are elected by the Assembly of Parties for three-year terms. Members of the Board of Directors serve pro bono and come from different world regions.
+The TFV is guided by a Board of Directors, the five members of which are elected by the Assembly of Parties for three-year terms. Members of the Board of Directors serve pro bono.
 
 The TFV uses fines and forfeitures of persons convicted through ICC proceedings, as well as through voluntary donations from states and individual donors. The TFV works with national and international partners to implement its programs through a grant-making process.
 
