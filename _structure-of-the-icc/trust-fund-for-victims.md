@@ -8,7 +8,7 @@ images:
 order: 25
 ---
 
-[The Trust Fund](https://www.trustfundforvictims.org/)'s (TFV) dual mandate serves victims of crimes that fall within the Court's jurisdiction through the provision of 1) general assistance including physical rehabilitation, psychological rehabilitation, and/or material support and 2) implementation of reparations awards ordered by the Court against a convicted person.
+[The Trust Fund](https://www.trustfundforvictims.org/)&nbsp;serves victims of crimes that fall within the Court's jurisdiction through the provision of 1) general assistance including physical rehabilitation, psychological rehabilitation, and/or material support and 2) implementation of reparations awards ordered by the Court against a convicted person.
 
 #### Composition
 
