@@ -14,7 +14,7 @@ order: 25
 
 The TFV is comprised of a five-member Board of Directors elected by the ASP for three-year terms. The five seats are distributed according to the five major world regions. Each member serves in an individual capacity on a pro bono basis.
 
-TFV projects are funded through fines and forfeitures of persons convicted through ICC proceedings, as well as through voluntary donations from states and individual donors. The TFV works with national and international partners to implement its programs through a grant-making process.
+The TFV uses fines and forfeitures of persons convicted through ICC proceedings, as well as through voluntary donations from states and individual donors. The TFV works with national and international partners to implement its programs through a grant-making process.
 
 #### Responsibility
 
@@ -22,6 +22,6 @@ The two mandates of the TFV, general assistance and reparations, were establishe
 
 The TFV’s assistance mandate enables victims and their families to receive assistance prior to a conviction by the Court. The assistance mandate is crucial in helping to repair the harm that victims have suffered, by providing assistance: 1) in a timelier manner than the judicial process may allowed, and 2) to a more extensive range of victims who are affected by the broader situations before the Court, regardless of whether the harm they suffered stems from particular crimes charged in a specific case.
 
-The TFV is responsible for implementing reparations as ordered by the Court. The Court determines the most appropriate forms of reparation in light of the context of the case, and in light of the rights and wishes of the victims and their communities. Reparations may be individual or collective, and can take many different forms, including restitution, compensation and rehabilitation. However, reparations are not limited to just individual, monetary compensation; they may also be awarded in more collective or symbolic forms, as measures that can help to promote reconciliation within divided communities.
+The TFV fulfills its reparations mandate by creating plans and programs to implement reparations orders decided by the Court. Although reparations can be direct and aimed at individuals, including individual compensation or material support and physical or psychological rehabilitation. They can also be collective or symbolic, which might address broader societal or collective harm caused by atrocity crimes. These possibilities allow for the Court to be responsive to the context of specific cases and the wishes of victims, and for reparations measures to encourage restoration, reconciliation and address community-wide needs.
 
-Since 2008, the Trust Fund has implemented projects in Uganda and the Democratic Republic of the Congo, Kenya and the Central African Republic.
+Since 2008, the Trust Fund has [implemented projects](https://www.trustfundforvictims.org/en/what-we-do/assistance-programmes) in Uganda, the Democratic Republic of the Congo, Kenya, and the Central African Republic, and is launching an assistance program in C&ocirc;te d’Ivoire. The Trust Fund is also working to implement reparations orders in [several cases](https://www.trustfundforvictims.org/en/what-we-do/reparation-orders).
