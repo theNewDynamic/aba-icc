@@ -12,13 +12,13 @@ order: 25
 
 #### Composition
 
-The TFV is comprised of a five-member Board of Directors elected by the ASP for three-year terms. The five seats are distributed according to the five major world regions. Each member serves in an individual capacity on a pro bono basis.
+The TFV is guided by a Board of Directors, the five members of which are elected by the Assembly of Parties for three-year terms. Members of the Board of Directors serve pro bono and come from different world regions.
 
 The TFV uses fines and forfeitures of persons convicted through ICC proceedings, as well as through voluntary donations from states and individual donors. The TFV works with national and international partners to implement its programs through a grant-making process.
 
 #### Responsibility
 
-The two mandates of the TFV, general assistance and reparations, were established to provide support to victims of genocide, crimes against humanity and war crimes. The key difference between the assistance and reparations mandates is that reparations are linked to accountability, arising from individual criminal responsibility of a convicted person, whereas the assistance mandate is not.
+The two mandates of the TFV, general assistance and reparations, were established to provide support to victims of genocide, crimes against humanity and war crimes. While reparations are linked to accountability, arising from individual criminal responsibility of a convicted person, the assistance mandate is not and can address broader implications of the crimes and conflict at issue.
 
 Through its assistance mandate, the TFV provides assistance to victims and their families independently from the conviction of a particular person, or before a conviction happens. This allows for assistance to reach victims and affected communities more quickly, and reaches victims of crimes committed in the conflict at issue without the requirement that they be directly tied to charges and the case against a particular defendant.
 
