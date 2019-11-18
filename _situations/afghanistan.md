@@ -1,7 +1,7 @@
 ---
 title: Afghanistan
 country: afghanistan
-published: false
+published: true
 date: 2015-02-23 19:22:00
 phase: 'Preliminary Examinations, Closed - Decision Not to Proceed'
 link_to_more_information: 'https://www.icc-cpi.int/afghanistan'
