@@ -1,9 +1,9 @@
 ---
 title: Afghanistan
 country: afghanistan
-published: true
+published: false
 date: 2015-02-23 19:22:00
-phase: 'Preliminary Examinations, Admissibility Assessment'
+phase: 'Preliminary Examinations, Closed - Decision Not to Proceed'
 link_to_more_information: 'https://www.icc-cpi.int/afghanistan'
 description: >-
   The Preliminary Examination of the Situation in Afghanistan focuses on alleged
@@ -12,11 +12,10 @@ description: >-
   North Atlantic Treaty Organization (NATO) forces, U.S. forces), Afghan
   government forces, and armed anti-government groups such as the Taliban.
 
-  As of November 2016, the preliminary examination is in the admissibility
-  assessment phase.
+  As of September 2019, the decision not to authorize an investigation into
+  alleged crimes committed in Afghanistan is being appealed.
 slug: afghanistan
 ---
-
 
 **Background**
 
@@ -26,6 +25,10 @@ The Preliminary Examination of the Situation in Afghanistan focuses on alleged a
 
 Afghanistan is a [State Party](https://asp.icc-cpi.int/en_menus/asp/states%20parties/asian%20states/Pages/afghanistan.aspx) of the International Criminal Court (ICC) and ratified the Rome Statute on February 10, 2003. After receiving communications since June 2006 of alleged atrocity crimes committed in Afghanistan, the ICC Office of the Prosecutor (OTP) [made public](https://www.icc-cpi.int/NR/rdonlyres/63682F4E-49C8-445D-8C13-F310A4F3AEC2/284116/OTPReportonPreliminaryExaminations13December2011.pdf) its preliminary examination in 2007.&nbsp; After opening a preliminary examination, to make a determination to open a formal investigation, the OTP assesses the following factors: jurisdiction (temporal, territorial or personal, and subject matter); admissibility (complementarity and gravity); and the interests of justice.&nbsp;
 
-As of November 2016, the preliminary examination of Afghanistan is in the [admissibility assessment phase](https://www.icc-cpi.int/iccdocs/otp/161114-otp-rep-PE_ENG.pdf). The OTP [reported](https://www.icc-cpi.int/iccdocs/otp/161114-otp-rep-PE_ENG.pdf) that the OTP “is concluding its assessment of factors set out in article 53(1)(a)-(c) and will make a final decision on whether to request the Pre-Trial Chamber authorization to commence an investigation . . . imminently.”
+As of December 2017, the OTP [completed its preliminary examination](https://www.icc-cpi.int/itemsDocuments/2017-PE-rep/2017-otp-rep-PE_ENG.pdf). On November 20, 2017, the ICC Prosecutor [requested authorization](https://www.icc-cpi.int/Pages/item.aspx?name=171120-otp-stat-afgh) from Pre-Trial Chamber III to initiate an investigation into alleged war crimes and crimes against humanity committed in relation to this conflict.
+
+On April 12, 2019, Judges in Pre-Trial Chamber II rejected the Prosecutor’s request and [declined to authorize an investigation](https://www.icc-cpi.int/Pages/item.aspx?name=pr1448). The Pre-Trial Chamber found that &nbsp;there was sufficient evidence at this early stage (“reasonable basis to consider”) that crimes under the Court’s jurisdiction were committed in Afghanistan and also found that cases would be admissible—that the Court’s gravity threshold had been met and that there had not been national criminal proceedings regarding those most responsible for the crimes at issue. However, the Court determined that an investigation would not be “in the interests of justice” for several reasons, including the significant time passed since the preliminary examination began in 2006 and the lack of cooperation expected from states involved.
+
+This decision is currently under appeal. Pre-Trial Chamber II [granted](https://www.icc-cpi.int/Pages/item.aspx?name=pr1479) the Prosecutor’s [request](https://www.icc-cpi.int/CourtRecords/CR2019_03060.PDF) for leave to appeal on Sept. 17, 2019.
 
 For more information on the preliminary examination in Afghanistan, please visit the [ICC page](https://www.icc-cpi.int/afghanistan).
