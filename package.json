@@ -60,7 +60,7 @@
     "html5shiv": "^3.7.3",
     "imagemin-cli": "^2.1.0",
     "install": "^0.8.1",
-    "jquery": "^2.2.4",
+    "jquery": "^3.4.1",
     "list.js": "^1.2.0",
     "lunr": "^0.7.1",
     "normalize-opentype.css": "^0.2.4",
