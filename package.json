@@ -54,7 +54,7 @@
     "browser-sync": "^2.12.10",
     "copyfiles": "^0.2.1",
     "cssnano": "^3.6.2",
-    "eslint": "^2.11.1",
+    "eslint": "^6.6.0",
     "eslint-config-google": "^0.5.0",
     "flexibility": "^1.0.6",
     "html5shiv": "^3.7.3",
