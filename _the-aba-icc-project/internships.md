@@ -16,7 +16,9 @@ Interns generally work from the ABA office in central Washington, D.C., but remo
 
 If interested in applying for an internship at the ABA's ICC Project, please email the following PDF formatted material (as a whole or in individual pieces) to the Director of the ABA's ICC Project, [Kristin Smith](/staff/kristin-smith/)\:
 
-**For Fall internships (Sept.- early Dec.), please apply by Aug. 31, 2019. Applications also accepted for Spring 2020 internships on a rolling basis.&nbsp;**
+**For Summer 2020 internships, applications will be accepted and reviewed on a rolling basis, but please apply at the latest by April 30, 2020.**
+
+**For Fall 2020 internships (Sept.- early Dec.), please apply by July 31, 2020.**
 
 ---
 
