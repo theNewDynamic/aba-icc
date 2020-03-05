@@ -12,8 +12,7 @@ description: >-
   North Atlantic Treaty Organization (NATO) forces, U.S. forces), Afghan
   government forces, and armed anti-government groups such as the Taliban.
 
-  As of September 2019, the decision not to authorize an investigation into
-  alleged crimes committed in Afghanistan is being appealed.
+  As of March 5, 2020, the situation in Afghanistan is under investigation.
 slug: afghanistan
 ---
 
