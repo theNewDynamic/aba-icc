@@ -2,7 +2,7 @@
 title: Burundi
 country: burundi
 published: true
-date: 2020-03-06 19:22:00
+date: 2020-03-05 19:22:00
 phase: Situations & Cases
 link_to_more_information: 'https://www.icc-cpi.int/burundi'
 description: "The investigation of the situation in Burundi focuses on alleged atrocity crimes committed during a political crisis which involved Burundi government forces, pro-government armed groups (CNDD-FDD-ruling political party, Imbonerakure-CNDD-FDD’s youth wing), and protest groups (opposition political parties and citizens). The political crisis occurred from April 2015 to the present.\_\nHaving requested and received authorization from Pre-Trial Chamber III, the Prosecutor opened an investigation proprio motu into alleged crimes against humanity committed in Burundi or by nationals of Burundi on October 25, 2017. The focus of the investigation is alleged crimes committed between April 26, 2015 and October 26, 2017."
