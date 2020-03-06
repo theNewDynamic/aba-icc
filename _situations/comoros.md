@@ -2,7 +2,7 @@
 title: Comoros
 country: comoros
 published: true
-date: 2015-02-23 19:15:00
+date: 2020-03-06 16:00:00
 phase: 'Preliminary Examinations, Closed - Decision Not to Proceed'
 link_to_more_information: 'https://www.icc-cpi.int/comoros'
 description: "The Preliminary Examination of the Situation in the registered vessels of Comoros, Greece, and Cambodia focuses on alleged atrocity crimes committed during a violent interception of the ships which involved Israeli Defense Forces (IDF) and civilian passengers on the ships. The violent interception of the ships occurred on May 31, 2010.\_\nOn November 6, 2014, the OTP closed the preliminary examination. However, on July 16, 2015, Pre-Trial Chamber I requested that the OTP reconsider her decision. On November 6, 2015, the Appeals Chamber dismissed the OTP's appeal. \nOn December 2, 2019, the OTP decided (after multiple reviews and appeals) again to close the preliminary examination. Comoros once again applied for judicial review of that decision."
