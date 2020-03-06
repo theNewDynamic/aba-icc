@@ -20,5 +20,4 @@ note:
 slug: cambodia
 ---
 
-
-note: Registered Vessels of Comoros, Greece, and Cambodia
+**Note:** Situation on the&nbsp;Registered Vessels of Comoros, Greece, and Cambodia
