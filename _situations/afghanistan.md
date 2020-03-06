@@ -2,7 +2,7 @@
 title: Afghanistan
 country: afghanistan
 published: true
-date: 2015-02-23 19:22:00
+date: 2020-03-06 19:22:00
 phase: Situations & Cases
 link_to_more_information: 'https://www.icc-cpi.int/afghanistan'
 description: >-
