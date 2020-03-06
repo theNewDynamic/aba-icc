@@ -20,4 +20,4 @@ note:
 slug: comoros
 ---
 
-
+**Note:** Situation on the Registered Vessels of Comoros, Greece, and Cambodia
