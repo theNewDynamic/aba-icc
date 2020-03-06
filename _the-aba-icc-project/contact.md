@@ -9,9 +9,11 @@ timeline:
 # slug: contact
 ---
 
-##### **American Bar Association's International Criminal Court Project**
+##### **International Criminal Court Project**
 
-1050 Connecticut Ave NW Suite 400<br>Washington, D.C. 20036<br>(202) 662-1523<br>[aba-iccproject@americanbar.org](mailto:aba-iccproject@americanbar.org)
+##### **American Bar Association**
+
+1050 Connecticut Ave NW Suite 400<br>Washington, D.C. 20036<br>(202) 662-1000<br>[aba-iccproject@americanbar.org](mailto:aba-iccproject@americanbar.org)
 
 ---
 
@@ -21,7 +23,7 @@ timeline:
 
 ---
 
-Please follow us on [Facebook](http://facebook.com/ABAICCProject) and [Twitter](http://twitter.com/ABAICCProject).
+Follow us on [Facebook](http://facebook.com/ABAICCProject) and [Twitter](http://twitter.com/ABAICCProject)\!
 
 For technical issues or questions about the site, contact [Bud Parr at Sonnet Media LLC](mailto:budparr@sonnetmedia.net).
 
