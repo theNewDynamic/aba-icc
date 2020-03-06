@@ -6,8 +6,8 @@ date: 2015-02-23 19:22:00
 phase: Situations & Cases
 link_to_more_information: 'https://www.icc-cpi.int/afghanistan'
 description: >-
-  The Preliminary Examination of the Situation in Afghanistan focuses on alleged
-  atrocity crimes committed during the ongoing armed conflict which involves
+  The Investigation of the Situation in Afghanistan focuses on alleged atrocity
+  crimes committed during the ongoing armed conflict which involves
   international military forces (International Security Assistance Force (ISAF),
   North Atlantic Treaty Organization (NATO) forces, U.S. forces), Afghan
   government forces, and armed anti-government groups such as the Taliban.
