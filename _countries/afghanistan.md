@@ -11,7 +11,7 @@ signed_but_not_ratified: false
 signed_date: Invalid date
 ratified_or_acceded_date: 2003-02-10 00:00:00
 entry_into_force_date: 2003-05-01 00:00:00
-ratified_apic_date: 2020-03-06 15:18:19
+ratified_apic_date: 2020-03-06 15:19:07
 genocide:
 crimes_against_humanity:
 aggression:
