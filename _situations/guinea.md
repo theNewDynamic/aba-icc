@@ -2,7 +2,7 @@
 title: Guinea
 country: guinea
 published: true
-date: 2015-02-23 19:08:00
+date: 2020-07-27 19:08:00
 phase: 'Preliminary Examinations, Admissibility Assessment'
 link_to_more_information: 'https://www.icc-cpi.int/guinea'
 description: "The Preliminary Examination of the Situation in Guinea focuses on alleged atrocity crimes committed during a political crisis which involved Guinean government forces (Conseil National pour la Démocratie et le Développement (CNDD)) under President Moussa Dadis Camara and protest groups (opposition political parties and citizens). The political crisis occurred from December 2008 to January 2010, but this preliminary examination focuses on the “September 28 Massacre” which occurred on September 28, 2009.\_\nAs of July 2020, the preliminary examination of Guinea is in the admissibility assessment phase."
