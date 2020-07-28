@@ -24,3 +24,7 @@ Georgia is a&nbsp;[State Party](https://asp.icc-cpi.int/en_menus/asp/states%20pa
 &nbsp;
 
 For more information on the Situation in Georgia, visit the&nbsp;[ICC page](https://www.icc-cpi.int/georgia){: target="_blank"}.
+
+&nbsp;
+
+<br>*\[Updated July 27, 2020\]*
