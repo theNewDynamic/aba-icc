@@ -2,8 +2,8 @@
 title: Georgia
 country: georgia
 published: true
-date: 2015-02-23 19:09:00
-phase: 'Situations & Cases'
+date: 2020-07-27 19:09:00
+phase: Situations & Cases
 link_to_more_information: 'https://www.icc-cpi.int/georgia'
 description: "The Situation in Georgia focuses on alleged atrocity crimes committed during an international armed conflict, also known as the 2008 Georgian-South Ossetia conflict or the 2008 Russo-Georgian war, which involved Georgian government forces, South Ossetian separatist forces, and Russian government forces. The armed conflict occurred from July 1 to October 10, 2008.\_\nOn January 27, 2016, Pre-Trial Chamber I granted authorization to the OTP to conduct a formal investigation. Within the Situation in Georgia, there are no cases."
 slug: georgia
