@@ -3,7 +3,7 @@ title: Hon. Todd F. Buchwald
 published: true
 board_chair: false
 last_name: Buchwald
-image_path: /uploads/Todd Buchwald v1 5x7.jpg
+image_path: /uploads/todd-buchwald-v1-5x7-copy.jpg
 position: >-
   Special Coordinator and Ambassador, U.S. Department of State Office of Global
   Criminal Justice (2015-17)
