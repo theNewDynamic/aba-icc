@@ -5,9 +5,11 @@ board_chair: false
 last_name: Buchwald
 image_path: /uploads/Todd Buchwald v1 5x7.jpg
 position: >-
-  Special Coordinator and Ambassador for the U.S. Department of State Office of
-  Global Criminal Justice (2015-17)
-description:
+  Special Coordinator and Ambassador, U.S. Department of State Office of Global
+  Criminal Justice (2015-17)
+description: >-
+  Special Coordinator and Ambassador, U.S. Department of State Office of Global
+  Criminal Justice (2015-17)
 ---
 
 Amb. Todd F. Buchwald served as Special Coordinator and Ambassador for the Department of State's Office of Global Criminal Justice from December 2015 through July 2017. Prior to assuming this position, Mr. Buchwald served as a career lawyer in the Department's Office of the Legal Adviser, including as head of the office for United Nations Affairs during the Bush and Obama administrations, of the office of Political-Military Affairs during the Clinton and Bush administrations, and of the Office of European Affairs during the Bush and Clinton administrations. He also served as an attorney in the Office of White House Counsel under President Reagan, and has been the recipient of numerous Presidential Rank Awards, Superior Honor Awards, and State Department performance awards, as well as recipient of the Justice Tom C. Clark Award (outstanding attorney in the federal government).
