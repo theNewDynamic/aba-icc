@@ -24,7 +24,7 @@ With the coming of the 1990s and the end of the Cold War, the international comm
 
 Ferencz’s goal of replacing the “rule of force with the rule of law” has guided his work, as has one of his signature pieces of advice: “Never give up, never give up, never give up.” Mr. Ferencz’s career was profiled in a 2019 documentary *Prosecuting Evil: The Extraordinary World of Ben Ferencz*.
 
-With his wife Gertrude, who died in 2019, Mr. Ferencz has four grown children. He continues to write and speak worldwide for international law and global peace.
+With his wife Gertrude, who died in 2019, Mr. Ferencz has four grown children, including ICC Project Board Member Prof. Donald M. Ferencz. He continues to write and speak worldwide for international law and global peace.
 
 &nbsp;
 
