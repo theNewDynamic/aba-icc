@@ -1,6 +1,6 @@
 ---
 title: Benjamin B. Ferencz
-published: false
+published: true
 board_chair: false
 last_name: Ferencz
 image_path: /uploads/2005-march-29-ben-ferencz-cardozo-law-school-1200x0.jpg
@@ -12,7 +12,7 @@ description:
 
 Benjamin B. Ferencz was born in the Carpathian Mountains of Transylvania in 1920. When he was ten months old his family moved to America (specifically, the "Hell's Kitchen" neighborhood of Manhattan). &nbsp;Mr. Ferencz attended the City College of New York, and won a scholarship to Harvard Law School where he worked as a researcher for a professor doing a book on war crimes. After Ben graduated from Harvard Law School in 1943, he joined an anti-aircraft artillery battalion preparing for the invasion of France. As an enlisted man under General Patton, he fought in most of the major campaigns in Europe. As Nazi atrocities were uncovered, he was transferred to a newly created War Crimes Branch of the Army to gather evidence of Nazi brutality and apprehend the criminals.
 
-In his 1988 book,&nbsp;*Planethood*, Ferencz writes: “Indelibly seared into my memory are the scenes I witnessed while liberating these centers of death and destruction. Camps like Buchenwald, Mauthausen, and Dachau are vividly imprinted in my mind's eye. Even today, when I close my eyes, I witness a deadly vision I can never forget-the crematoria aglow with the fire of burning flesh, the mounds of emaciated corpses stacked like cordwood waiting to be burned.... I had peered into Hell.”
+In his 1988 book,&nbsp;*Planethood*, Ferencz writes: “Indelibly seared into my memory are the scenes I witnessed while liberating these centers of death and destruction. Camps like Buchenwald, Mauthausen, and Dachau are vividly imprinted in my mind's eye. Even today, when I close my eyes, I witness a deadly vision I can never forget-the crematoria aglow with the fire of burning flesh, the mounds of emaciated corpses stacked like cordwood waiting to be burned…. I had peered into Hell.”
 
 On the day after Christmas 1945, Ferencz was honorably discharged from the U.S. Army with the rank of Sergeant of Infantry. He returned home and was promptly recruited by General Telford Taylor to return to Germany to help in the additional war crimes trials. He was appointed Chief Prosecutor in what was aptly described as the “biggest murder trial in history” - the “Einsatzgruppen case.” All 22 defendants, including six SS Generals, were convicted of murdering over a million innocent men, women and children. 13 defendants were sentenced to death. Ferencz was then 27 years old and it was his first case.
 
