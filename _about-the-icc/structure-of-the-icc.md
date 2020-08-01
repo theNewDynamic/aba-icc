@@ -20,5 +20,3 @@ The [Assembly of States Parties](https://asp.icc-cpi.int/en_menus/asp/assembly/P
 Also separate from the Court is the [Trust Fund for Victims](https://www.trustfundforvictims.org/), which was created by the Assembly of States Parties (as specified in Article 79 of the Rome Statute) to provide assistance and support to victims of Rome Statute crimes and their families and to help implement Court-ordered reparations. The Trust Fund for Victims seeks to promote restorative justice, reconciliation, and sustainable peace by attempting to address the direct harms of atrocity crimes.
 
 ---
-
-![](http://lh3.googleusercontent.com/sPxfa06cCZEnu7aGxVq2bF5V9ESJRt_4E25X1mX_TTv0VRloS8F46pzcjghcij1N8SKHgW6ODmLQw99L4jdKbLTYvAF8PPPd=s1200)
