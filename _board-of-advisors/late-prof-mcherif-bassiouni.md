@@ -1,12 +1,15 @@
 ---
-title: "Professor M. Cherif Bassiouni (1937-2017)"
+title: Prof. M. Cherif Bassiouni (1937-2017)
 published: true
 board_chair:
 last_name: Bassiouni
 image_path: /uploads/1423055277425_image-12.png
-position: Professor Emeritus, DePaul University College of Law Co-founder, International Institute of Higher Studies in Criminal Sciences
-description: Professor Emeritus, DePaul University College of Law Co-founder, International Institute of Higher Studies in Criminal Sciences
-# slug: prof-mcherif-bassiouni
+position: >-
+  Professor Emeritus, DePaul University College of Law Co-founder, International
+  Institute of Higher Studies in Criminal Sciences
+description: >-
+  Professor Emeritus, DePaul University College of Law Co-founder, International
+  Institute of Higher Studies in Criminal Sciences
 ---
 
 The late Prof. Bassiouni was Emeritus Professor of Law at DePaul University where he taught from 1964 to 2012. In 1990, he helped establish the International Human Rights Law Institute at DePaul University, serving as its President from 1990 to 1997, and now as President Emeritus. In 1972, he also helped found the International Institute of Higher Studies in Criminal Sciences in Siracusa, Italy, currently serving as its President. He also held positions as Secretary General, President, and now Honorary President of the International Association of Penal Law.
