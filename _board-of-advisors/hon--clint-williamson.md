@@ -6,11 +6,11 @@ last_name: Williamson
 image_path: /uploads/williamson-300x300.jpg
 position: >-
   Senior Director for International Rule of Law, Governance and Security, McCain
-  Institute for International Leadership at Arizona State University, U.S.
+  Institute for International Leadership at Arizona State University; U.S.
   Ambassador-at-Large for War Crimes Issues (2006-09)
 description: >-
   Senior Director for International Rule of Law, Governance and Security, McCain
-  Institute for International Leadership at Arizona State University, U.S.
+  Institute for International Leadership at Arizona State University; U.S.
   Ambassador-at-Large for War Crimes Issues (2006-09)
 ---
 
