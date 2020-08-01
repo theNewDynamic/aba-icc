@@ -1,5 +1,5 @@
 ---
-title: Colonel William K. Lietzau
+title: Col. William K. Lietzau
 published: true
 board_chair:
 last_name: Lietzau
