@@ -5,10 +5,10 @@ board_chair: false
 last_name: Van Schaack
 image_path: /uploads/beth-van-schaack.jpg
 position: >-
-  Leah Kaplan Visiting Professor in Human Rights at Stanford Law School; Former
+  Leah Kaplan Visiting Professor in Human Rights, Stanford Law School; Former
   Deputy to the U.S. Ambassador-at-Large for War Crimes Issues
 description: >-
-  Leah Kaplan Visiting Professor in Human Rights at Stanford Law School; Former
+  Leah Kaplan Visiting Professor in Human Rights, Stanford Law School; Former
   Deputy to the U.S. Ambassador-at-Large for War Crimes Issues
 ---
 
