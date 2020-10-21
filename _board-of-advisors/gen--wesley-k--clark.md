@@ -3,9 +3,13 @@ title: Gen. Wesley K. Clark
 published: false
 board_chair: false
 last_name: Clark
-image_path:
-position:
-description:
+image_path: /uploads/gen-wesley-clark-headshot.png
+position: >-
+  Chairman & CEO Wesley K. Clark & Associates; former Supreme Allied Commander
+  Europe, NATO
+description: >-
+  Chairman & CEO Wesley K. Clark & Associates; former Supreme Allied Commander
+  Europe, NATO
 ---
 
 **Gen. Wesley K. Clark (ret.)**
