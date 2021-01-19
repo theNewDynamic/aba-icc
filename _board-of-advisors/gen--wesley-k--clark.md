@@ -1,6 +1,6 @@
 ---
 title: Gen. Wesley K. Clark
-published: false
+published: true
 board_chair: false
 last_name: Clark
 image_path: /uploads/gen-wesley-clark-headshot.png
