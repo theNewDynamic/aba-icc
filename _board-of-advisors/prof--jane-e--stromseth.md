@@ -1,6 +1,6 @@
 ---
 title: Prof. Jane E. Stromseth
-published: false
+published: true
 board_chair: false
 last_name: Stromseth
 image_path: /uploads/stromseth.png
