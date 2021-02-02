@@ -34,4 +34,10 @@ The CAR is a [State Party](https://asp.icc-cpi.int/en_menus/asp/states%20parties
 
 For more information on the Situation in CAR I, please visit the [ICC page](https://www.icc-cpi.int/car).
 
-<br>*Updated:&nbsp; 2/2/2021*
+&nbsp;
+
+**Other Resources (non-ABA)**
+
+[Conflict Tracker: Central African Republic (Council on Foreign Relations)](https://www.cfr.org/global-conflict-tracker/conflict/violence-central-african-republic){: target="_blank"}[Country Case Studies: Central African Republic (US Holocaust Memorial Museum)](https://www.ushmm.org/genocide-prevention/countries/central-african-republic){: target="_blank"}
+
+*Updated:&nbsp; 2/2/2021*
