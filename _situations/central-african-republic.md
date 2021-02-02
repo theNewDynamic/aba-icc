@@ -1,7 +1,7 @@
 ---
 title: Central African Republic
 country: central-african-republic
-published: false
+published: true
 date: 2021-02-01 19:16:00
 phase: Situations & Cases
 link_to_more_information: 'https://www.icc-cpi.int/car'
