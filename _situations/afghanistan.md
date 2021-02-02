@@ -2,7 +2,7 @@
 title: Afghanistan
 country: afghanistan
 published: true
-date: 2020-03-05 19:22:00
+date: 2021-02-01 19:22:00
 phase: Situations & Cases
 link_to_more_information: 'https://www.icc-cpi.int/afghanistan'
 description: >-
@@ -30,8 +30,12 @@ On April 12, 2019, Judges in Pre-Trial Chamber II rejected the Prosecutor’s re
 
 On March 5, 2020, the Appeals Chamber [decided unanimously](https://www.icc-cpi.int/Pages/item.aspx?name=pr1516) to authorize the Prosecutor to [open an investigation](https://www.icc-cpi.int/Pages/item.aspx?name=200305-otp-statement-afghanistan). The Appeals Chamber held that the Pre-Trial Chamber erred in considering whether an investigation was in the "interests of justice." Because the Pre-Trial Chamber had found there was a factual and jurisdictional basis to proceed, the Appeals Chamber authorized the Prosecutor to commence an investigation according to the parameters in her [request](https://www.icc-cpi.int/Pages/item.aspx?name=171120-otp-stat-afgh).&nbsp;
 
-In April 2020, Afghanistan filed a&nbsp;[request](https://www.icc-cpi.int/CourtRecords/CR2020_01537.PDF)&nbsp;under [Article 18](https://www.casematrixnetwork.org/cmn-knowledge-hub/icc-commentary-clicc/commentary-rome-statute/commentary-rome-statute-part-2-articles-11-21/) of the [Rome Statute](https://www.icc-cpi.int/NR/rdonlyres/ADD16852-AEE9-4757-ABE7-9CDC7CF02886/283503/RomeStatutEng1.pdf)&nbsp;asking the Prosecutor to "defer to Afghanistan’s national investigations and proceedings," which Afghanistan alleges "cover allegations of crimes committed by Afghan forces, the Taliban and related groups, other terrorist groups and international forces." Afghanistan noted its intention to provide additional information on [current investigations](https://www.icc-cpi.int/RelatedRecords/CR2020_01538.PDF) at a later date due to the ongoing COVID 19 pandemic.
+In April 2020, Afghanistan filed a&nbsp;[request](https://www.icc-cpi.int/CourtRecords/CR2020_01537.PDF)&nbsp;under [Article 18](https://www.casematrixnetwork.org/cmn-knowledge-hub/icc-commentary-clicc/commentary-rome-statute/commentary-rome-statute-part-2-articles-11-21/) of the [Rome Statute](https://www.icc-cpi.int/NR/rdonlyres/ADD16852-AEE9-4757-ABE7-9CDC7CF02886/283503/RomeStatutEng1.pdf)&nbsp;asking the Prosecutor to "defer to Afghanistan’s [national investigations and proceedings](https://www.icc-cpi.int/RelatedRecords/CR2020_01538.PDF)," which Afghanistan alleges "cover allegations of crimes committed by Afghan forces, the Taliban and related groups, other terrorist groups and international forces." Afghanistan provided further confidential information on national proceedings in June 2020 which are [under review](https://asp.icc-cpi.int/iccdocs/asp_docs/ASP19/ICC-ASP-19-9-ENG-ICC%20Activities-Court--16nov20-1800.pdf) by the Prosecutor.
 
 For more information on the investigation in Afghanistan, please visit the [ICC page](https://www.icc-cpi.int/afghanistan).
 
-<br>*Updated: 7/17/2020*
+**US Sanctions on ICC Personnel**<br><br>In June 2020, US President Donald Trump issued [Executive Order 13928](https://www.federalregister.gov/documents/2020/06/15/2020-12953/blocking-property-of-certain-persons-associated-with-the-international-criminal-court) authorizing financial and travel sanctions against ICC personnel and their immediate families, alleging ICC investigations of US personnel or those of allies without consent constituted an "unusual and extraordinary threat to the national security and foreign policy of the United States" and declared a "national emergency." On September 2, 2020, the ICC Prosecutor and a senior staff member were added to the US Office of Foreign Asset Control list and&nbsp;[designated](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/blocking-property-of-certain-persons-associated-with-the-international-criminal-court-sanctions)&nbsp;as "specially designated nationals," materializing travel and economic sanctions made possible by the executive order.
+
+**Other Resources (non-ABA)**<br><br>[Afghanistan and the International Criminal Court: Questions & Answers (Human Rights Watch 2017)](https://www.hrw.org/news/2017/11/20/afghanistan-and-international-criminal-court)<br>[The International Criminal Court and the United States: Questions & Answers](https://www.hrw.org/news/2020/09/02/qa-international-criminal-court-and-united-states)[&nbsp;(Human Rights Watch 2020)]( )<br>[Amb. David J. Scheffer, The ICC's Probe Into Atrocities in Afghanistan, What to Know (Council on Foreign Relations, Mar. 6, 2020)](https://www.cfr.org/article/iccs-probe-atrocities-afghanistan-what-know)
+
+<br>*Updated: 2/1/2020*
