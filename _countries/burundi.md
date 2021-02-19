@@ -22,7 +22,7 @@ aggression:
 war_crimes: >-
   [Burundian Criminal Code No. 1/05 of 22 April 2009, Article
   198](https://iccdb.hrlc.net/data/doc/240/)
-note: 'Burundi withdrew from the Rome Statute, effective 27 October 2017.'
+note: 'Burundi withdrew from the Rome Statute, effective October 27, 2017.'
 slug: burundi
 ---
 
