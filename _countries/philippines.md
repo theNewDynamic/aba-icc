@@ -22,7 +22,7 @@ aggression:
 war_crimes: >-
   [Philippine Act on Crimes Against International Humanitarian Law, Chapter 3,
   Section 4](https://iccdb.hrlc.net/data/doc/411/keyword/145/l)
-note: Withdrawal effective on 17 March 2019.
+note: 'Withdrawal effective on March 17, 2019.'
 slug: philippines
 ---
 
