@@ -21,13 +21,15 @@ timeline:
 
 As the largest voluntary association of lawyers in the world and a respected voice among diverse stakeholders, the ABA is well-positioned to raise awareness in the US about the crucial mandate of the ICC to investigate and prosecute the international atrocity crimes of genocide, crimes against humanity, and war crimes, and to support the Court's legal activities. The ICC Project provides such support through:
 
-## Advocacy and Education
+## Education
+
+Through its interactive website, the ICC Project seeks to expand public understanding of the ICC and its jurisdiction, judicial process, constituent organs, State Parties, and US-ICC relations. The website also features [*International Criminal Justice Today*](http://bit.ly/ictj_page), an online periodical with [IPSOS market research polling data](http://bit.ly/ipsos_abicc) and up-to-date developments in the field and includes [*Arguendo*](http://bit.ly/arg146), a regular roundtable forum where distinguished experts from different fields discuss and debate the most pressing international criminal justice issues. The ICC Project also convenes educational events throughout the year.
+
+## Advocacy
 
 Engaging with the American people, legal profession, and policymakers on the ICC and its vital role in helping protect human rights, establish the rule of law globally, and foster durable peace, thereby engendering broad-based familiarity with the ICC and enhancing US-ICC relations.
 
 Convening high-level briefings on the ICC before the US legislative and executive branches, offering ICC education courses for American lawyers, providing assistance to ABA members advocating for greater US support for the ICC's mandate, and establishing dialogues between US, ICC, and other key stakeholders.
-
-Through its interactive website, the ICC Project seeks to expand public understanding of the ICC and its jurisdiction, judicial process, constituent organs, State Parties, and US-ICC relations. The website also features [*International Criminal Justice Today*](http://bit.ly/ictj_page), an online periodical with [IPSOS market research polling data](http://bit.ly/ipsos_abicc) and up-to-date developments in the field and includes [*Arguendo*](http://bit.ly/arg146), a regular roundtable forum where distinguished experts from different fields discuss and debate the most pressing international criminal justice issues.
 
 ## Practical Legal Assistance
 
