@@ -1,13 +1,14 @@
 ---
 title: About the ICC Project
-published: false
+published: true
 featured_image_path: /uploads/1423101251774_Benjamin_Ferencz.jpg
 featured_image_position: center
 image_path:
 description: >-
-  The ICC Project’s mission is to build greater understanding of the
-  International Criminal Court and to strengthen, regularize, and broaden U.S.
-  engagement with the ICC.
+  The ICC Project’s mission is to implement ABA policies on international
+  criminal justice, build greater understanding of the International Criminal
+  Court, and to strengthen, regularize, and broaden U.S. engagement with the
+  ICC.
 order: 1
 timeline:
 ---
