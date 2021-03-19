@@ -1,15 +1,18 @@
 ---
-title: "Contact"
+title: Contact
 published: true
 featured_image_path:
 featured_image_position: bottom
 description:
 order: 35
 timeline:
-# slug: contact
 ---
 
 ##### **International Criminal Court Project**
+
+##### **ABA's Center for Human Rights & Criminal Justice Section**
+
+&nbsp;
 
 ##### **American Bar Association**
 
