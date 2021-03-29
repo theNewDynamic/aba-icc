@@ -1,6 +1,6 @@
 ---
 title: Ntaganda - Bosco Ntaganda
-published: false
+published: true
 action:
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda
