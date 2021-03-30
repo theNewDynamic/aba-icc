@@ -1,14 +1,10 @@
-- name: "The ABA's ICC Project"
+- name: About the ICC Project
   link: /the-aba-icc-project/about-the-project/
-
-- name: "News"
+- name: News
   link: /news/
-
-- name: "Events"
+- name: Events
   link: /events/
-
-- name: "About the ICC"
+- name: About the ICC
   link: /about-the-icc/about-the-icc/
-
-- name: "Contact"
+- name: Contact
   link: /the-aba-icc-project/contact/
