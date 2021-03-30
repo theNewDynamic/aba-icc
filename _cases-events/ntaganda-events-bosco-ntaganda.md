@@ -16,7 +16,7 @@ Ntaganda was [sentenced](https://www.icc-cpi.int/Pages/item.aspx?name=pr1494) to
 
 On March 8, 2021, Trial Chamber IV [issued](https://www.icc-cpi.int/Pages/item.aspx?name=pr1572)&nbsp;a reparations order for victims of Ntaganda's crimes, to be &nbsp;The Court [ordered](https://www.icc-cpi.int/itemsDocuments/2021.03.08-Summary-Reparations-Order-Ntaganda-case.pdf) collective reparations with individualized components based on the multi-faceted harms suffered by many victims, including a large number of unidentified victims, to be implemented by the Trust Fund for Victims. &nbsp;Over 2,000 victims participated in the Ntaganda trial.
 
-On March 30, 2021, the ICC Appeals Chamber confirmed, by majority, the Trial Chamber's decision and the sentencing judgment. Ntaganda's conviction and sentence are final.
+On March 30, 2021, the ICC Appeals Chamber [confirmed](https://www.icc-cpi.int/Pages/item.aspx?name=pr1582), by majority, the Trial Chamber's decision and the sentencing judgment. Ntaganda's conviction and sentence are final.
 
 &nbsp;
 
