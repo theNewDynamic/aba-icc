@@ -14,10 +14,12 @@ On July 8, 2019, Trial Chamber VI found Ntaganda [guilty](https://www.icc-cpi.in
 
 Ntaganda was [sentenced](https://www.icc-cpi.int/Pages/item.aspx?name=pr1494) to 30 years imprisonment on November 7, 2019.
 
-On March 8, 2021, Trial Chamber IV [issued](https://www.icc-cpi.int/Pages/item.aspx?name=pr1572)a reparations order for victims of Ntaganda's crimes, to be &nbsp;The Court [ordered](https://www.icc-cpi.int/itemsDocuments/2021.03.08-Summary-Reparations-Order-Ntaganda-case.pdf) collective reparations with individualized components based on the multi-faceted harms suffered by many victims, including a large number of unidentified victims, to be implemented by the Trust Fund for Victims. &nbsp;Over 2,000 victims participated in the Ntaganda trial.
+On March 8, 2021, Trial Chamber IV [issued](https://www.icc-cpi.int/Pages/item.aspx?name=pr1572)&nbsp;a reparations order for victims of Ntaganda's crimes, to be &nbsp;The Court [ordered](https://www.icc-cpi.int/itemsDocuments/2021.03.08-Summary-Reparations-Order-Ntaganda-case.pdf) collective reparations with individualized components based on the multi-faceted harms suffered by many victims, including a large number of unidentified victims, to be implemented by the Trust Fund for Victims. &nbsp;Over 2,000 victims participated in the Ntaganda trial.
+
+On March 30, 2021, the ICC Appeals Chamber confirmed, by majority, the Trial Chamber's decision and the sentencing judgment. Ntaganda's conviction and sentence are final.
 
 &nbsp;
 
-<u>More on the Ntaganda trial (non-ABA resources):&nbsp;</u><br>[ICC Case Information Sheet](https://www.icc-cpi.int/CaseInformationSheets/NtagandaEng.pdf)<br>[Ntaganda Trial Monitoring from International Justice Monitor](https://www.ijmonitor.org/category/bosco-ntaganda/)<br>[Human Rights Watch, Q&A: Bosco Ntaganda, DR Congo, and the ICC](https://www.hrw.org/news/2019/07/02/qa-bosco-ntaganda-dr-congo-and-icc)
+**More on the Ntaganda trial (non-ABA resources):&nbsp;**<br>[ICC Case Information Sheet](https://www.icc-cpi.int/CaseInformationSheets/NtagandaEng.pdf)<br>[Ntaganda Trial Monitoring from International Justice Monitor](https://www.ijmonitor.org/category/bosco-ntaganda/)<br>[Human Rights Watch, Q&A: Bosco Ntaganda, DR Congo, and the ICC](https://www.hrw.org/news/2019/07/02/qa-bosco-ntaganda-dr-congo-and-icc)
 
 &nbsp;
