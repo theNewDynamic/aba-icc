@@ -5,7 +5,7 @@ event_date: 2019-11-07 00:00:00
 action: Sentencing
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda
-youtube_id: 'https://www.youtube.com/watch?v=Z4SGHmi4NIA&t=6s'
+youtube_id: Z4SGHmi4NIA
 slug: ntaganda-events-bosco-ntaganda-sentencing
 ---
 
