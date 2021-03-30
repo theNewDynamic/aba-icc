@@ -5,7 +5,7 @@ event_date: 2019-07-08 00:00:00
 action: Trial Judgment
 case: the-prosecutor-v-ntaganda
 accused: bosco-ntaganda
-youtube_id: 'https://www.youtube.com/watch?v=yt4FE4D0uJw'
+youtube_id: yt4FE4D0uJw
 slug: ntaganda-events-bosco-ntaganda-trial-judgment
 ---
 
