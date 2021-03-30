@@ -16,3 +16,5 @@ In an oral decision on January 15, 2019, Trial Chamber I [acquitted](https://www
 The appeals judgment will be announced on March 31, 2021.
 
 The ICC authorized 727 persons to participate as victims in the Gbagbo and Blé Goudé proceedings.
+
+<br>**More on the Gbagbo and Blé Goudé Trial (non-ABA resources):**<br>[Gbagbo and Blé Goudé Trial Monitoring from International Justice Monitor](https://www.ijmonitor.org/category/laurent-koudou-gbagbo-charles-ble-goude/)<br>[Human Rights Watch, Q& A: The Laurent Gbagbo and Charles Blé Goudé Trial (2016)](https://www.hrw.org/news/2016/01/25/laurent-gbagbo-and-charles-ble-goude-trial)
