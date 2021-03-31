@@ -8,4 +8,5 @@ accused: laurent-gbagbo
 youtube_id: qI0abxHFPAg
 slug: gbagbo-and-ble-goude-events-laurent-gbagbo-appeals-judgment
 ---
-[Summary of the Judgment](https://www.icc-cpi.int/itemsDocuments/2021-03-31-gbagbo-ble-goude-appeals-judgment-summary.pdf)<br>[Questions & Answers on the Appeal from the ICC](https://www.icc-cpi.int/itemsDocuments/2021-03-31-gbagbo-ble-goude-judgment-faq-eng.pdf)
+
+[Press Release](https://www.icc-cpi.int/Pages/item.aspx?name=pr1583)<br>[Summary of the Judgment](https://www.icc-cpi.int/itemsDocuments/2021-03-31-gbagbo-ble-goude-appeals-judgment-summary.pdf)<br>[Questions & Answers on the Appeal from the ICC](https://www.icc-cpi.int/itemsDocuments/2021-03-31-gbagbo-ble-goude-judgment-faq-eng.pdf)
