@@ -20,7 +20,7 @@ If interested in applying for an internship at the ICC Project, please email the
 
 ---
 
-* **Cover letter.** Please explain your interests in interning with the ABA's ICC Project, your relevant skills and credentials, and any other relevant information that will be helpful to your application.
+* **Cover letter.** Please explain your interests in interning with the International Criminal Court Project, your relevant skills and credentials, and any other relevant information that will be helpful to your application.
 
 * **Resume/CV.** Please includes your current contact information as well as your academic, professional, and other related experiences.
 

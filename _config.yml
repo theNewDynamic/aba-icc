@@ -1,5 +1,5 @@
 url: https://www.aba-icc.org
-title: "The ABA's ICC Project"
+title: "International Criminal Court Project"
 description: "American Bar Association's International Criminal Court Project"
 twitter:
   username: ABAICCProject
@@ -234,7 +234,7 @@ defaults:
       type: 'the-aba-icc-project'
     values:
       layout: "page"
-      collectionName: "The ABA's ICC Project"
+      collectionName: "International Criminal Court Project"
   -
     scope:
       path: "" # an empty string here means all files in the project
