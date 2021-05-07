@@ -79,3 +79,12 @@ Mr. Ongwen was [charged](https://www.icc-cpi.int/CourtRecords/CR2016_02331.PDF) 
 >
 >
 > Sexual Slavery (War Crime): [Article 8(2)(e)(vi)-2](https://cilrap-lexsitus.org/clicc/8-2e-vi-2/8-2e-vi-2)
+>
+>
+> Forced Pregnancy (Crime against Humanity): [Article 7(1)(g)-4](https://cilrap-lexsitus.org/clicc/7-1-g-4/7-1-g-4)
+>
+>
+> Forced Pregnancy (War Crime): [Article 8(2)(e)(vi)-4](https://cilrap-lexsitus.org/clicc/8-2e-vi-4/8-2e-vi-4)
+>
+>
+> Conscription and Use of Child Soldiers (War Crime): [Article 8(2)(e)(vii)](https://cilrap-lexsitus.org/clicc/8-2-e-vii/8-2-e-vii)
