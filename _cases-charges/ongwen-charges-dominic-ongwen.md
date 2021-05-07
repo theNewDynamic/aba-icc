@@ -8,7 +8,6 @@ youtube_id:
 slug: ongwen-charges-dominic-ongwen
 ---
 
-
 ### Factual Allegations
 
 The ICC Office of the Prosecutor (OTP) alleges that Dominic Ongwen was Brigade Commander of the Sinia Brigade of the Lord’s Resistance Army (LRA) and that Mr. Ongwen was, along with [Joseph Kony](https://www.aba-icc.org/accused/joseph-kony/)&nbsp;(Chairman and Commander-in-Chief of the LRA) and [Vincent Otti](https://www.aba-icc.org/accused/vincent-otti/) (Vice-Chairman and Second-in-Command of the LRA), a member of the “Control Altar,” which is the leadership group that conceived of, planned, and implemented LRA strategy which included campaigns to attack civilian settlements and standing orders to attack, abduct, and loot civilians.&nbsp;
@@ -22,28 +21,61 @@ Please visit the Court's website for more information on [*The Prosecutor v. Ong
 
 ### Charges
 
-The Accused is alleged to have ordered, solicited, or induced the commission of the the crimes listed below under&nbsp;[Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute.
+Dominic Ongwen is alleged to have committed, either directly, indirectly, or as a commander the crimes listed below under various forms of liability under&nbsp;[Article 25](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)(3) and [Article 28](https://cilrap-lexsitus.org/clicc#c1201)&nbsp;of the Rome Statute.
 {: .present-before-paste}
 
-Under this mode of criminal liability, the Accused is charged with the following atrocity crimes:
+Mr. Ongwen was [charged](https://www.icc-cpi.int/CourtRecords/CR2016_02331.PDF) with the following atrocity crimes:
 {: .present-before-paste}
 
-> Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](){: .cc-active}
+&nbsp;
+{: .present-before-paste}
+
+> Directing an Attack against Civilians (War Crime):&nbsp;[Article 8(2)(e)(i)](https://cilrap-lexsitus.org/clicc/8-2-e-i/8-2-e-i)
 >
 >
-> Enslavement (Crime against Humanity):&nbsp;[Article 7(1)(c)](){: .cc-active}
+> Murder (and attempted murder) (Crime against Humanity): Article 7(1)(a)
+>
+>
+> Murder (and attempted murder) (War Crime):&nbsp;[Article 8(2)(c)(i)](https://cilrap-lexsitus.org/clicc/8-2-c-i-5/8-2-c-i-5)\-1
+>
+>
+> Torture (Crime against Humanity): [Article 7(1)(f)](https://cilrap-lexsitus.org/clicc/7-1-f/7-1-f)
+>
+>
+> Torture (War Crime): [Article 8(2)(c)(i)](https://cilrap-lexsitus.org/clicc/8-2-c-i-4/8-2-c-i-4)\-4
+>
+>
+> Cruel Treatment of Civilians (War Crime):[&nbsp;](__notset__)[Article 8(2)(c)(i)](https://cilrap-lexsitus.org/clicc/8-2-c-i-3/8-2-c-i-3){: .cc-active}[\-3](__notset__)
 >
 >
 > Inhumane Acts (Crime against Humanity): [Article 7(1)(k)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2301)
 >
 >
-> Murder (War Crime):&nbsp;[Article 8(2)(c)(i)-1](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
+> Enslavement (Crime against Humanity):&nbsp;[Article 7(1)(c)](){: .cc-active}
 >
 >
-> Cruel Treatment of Civilians (War Crime):&nbsp;[Article 8(2)(c)(i)-3](){: .cc-active}
+> Pillaging (War Crime):&nbsp;[Article 8(2)(e)(v)](https://cilrap-lexsitus.org/clicc/8-2-e-v/8-2-e-v){: .cc-active}
 >
 >
-> Directing an Attack against Civilians (War Crime):&nbsp;[Article 8(2)(e)(i)](){: .cc-active}
+> Persecution (Crime against Humanity): [Article 7(1)(h)](https://cilrap-lexsitus.org/clicc/7-1-h/7-1-h)
 >
 >
-> Pillaging (War Crime)&nbsp;[Article 8(2)(e)(v)](){: .cc-active}
+> Outrages upon Personal Dignity (War Crime): [Article 8(2)(c)(ii)](https://cilrap-lexsitus.org/clicc/8-2-c-ii/8-2-c-ii)
+>
+>
+> Destruction of Property (War Crime): [Article 8(2)(e)(xii)](https://cilrap-lexsitus.org/clicc/8-2-e-xii/8-2-e-xii)
+>
+>
+> Forced Marriage (Crime against Humanity): [Article 7(1)(k)](https://cilrap-lexsitus.org/clicc/7-1-k/7-1-k)
+>
+>
+> Rape (Crime against Humanity): [Article 7(1)(g)-1](https://cilrap-lexsitus.org/clicc/7-1-g-1/7-1-g-1)
+>
+>
+> Rape (War Crime): [Article 8(2)(e)(vi)-1](https://cilrap-lexsitus.org/clicc/8-2e-vi-1/8-2e-vi-1)
+>
+>
+> Sexual Slavery (Crime against Humanity): [Article 7(1)(g)-2](https://cilrap-lexsitus.org/clicc/7-1-g-2/7-1-g-2)
+>
+>
+> Sexual Slavery (War Crime): [Article 8(2)(e)(vi)-2](https://cilrap-lexsitus.org/clicc/8-2e-vi-2/8-2e-vi-2)
