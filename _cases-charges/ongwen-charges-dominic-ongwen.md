@@ -21,13 +21,24 @@ Please visit the Court's website for more information on [*The Prosecutor v. Ong
 
 ### Charges
 
-Dominic Ongwen is alleged to have committed, either directly, indirectly, or as a commander the crimes listed below under various forms of liability under&nbsp;[Article 25](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198)(3) and [Article 28](https://cilrap-lexsitus.org/clicc#c1201)&nbsp;of the Rome Statute.
+Dominic Ongwen is&nbsp;charged under a number of different modes of liability outlined in the Rome Statute:
 {: .present-before-paste}
 
-Mr. Ongwen was [charged](https://www.icc-cpi.int/CourtRecords/CR2016_02331.PDF) with the following atrocity crimes:
-{: .present-before-paste}
+> Committing atrocity crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198){: target="_blank"})
+>
+>
+> Ordering, soliciting, or inducing the commission of these crimes ([Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198){: target="_blank"})
+>
+>
+> Intentionally contributing to the commission or attempted commission of atrocity crimes by a group, with the aim of furthering the criminal activity or purpose of the perpetrators ([Article 25(3)(d)(i)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198){: target="_blank"}), and with knowledge of the perpetrators’ intention to commit these crimes ([Article 25(3)(d)(ii)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198){: target="_blank"})
+>
+>
+> Attempting to commit atrocity crimes by taking action that commences their execution by means of a substantial step, but the crime does not occur because of circumstances independent of the person's intentions ([Article 25(3)(f)](https://cilrap-lexsitus.org/clicc/25-3-f/25-3-f))
+>
+>
+> Having effective command and control over forces that committed these crimes, failing to exercise control properly ([Article 28(a)](https://cilrap-lexsitus.org/clicc/28-a))
 
-&nbsp;
+Mr. Ongwen is [charged](https://www.icc-cpi.int/CourtRecords/CR2016_02331.PDF) with the following atrocity crimes (70 counts total):
 {: .present-before-paste}
 
 > Directing an Attack against Civilians (War Crime):&nbsp;[Article 8(2)(e)(i)](https://cilrap-lexsitus.org/clicc/8-2-e-i/8-2-e-i)
