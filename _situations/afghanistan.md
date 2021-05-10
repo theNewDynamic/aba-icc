@@ -42,4 +42,4 @@ In April 2020, Afghanistan filed a&nbsp;[request](https://www.icc-cpi.int/CourtR
 
 **Other Resources (non-ABA)**<br><br>[Afghanistan and the International Criminal Court: Questions & Answers (Human Rights Watch 2017)](https://www.hrw.org/news/2017/11/20/afghanistan-and-international-criminal-court)<br>[The International Criminal Court and the United States: Questions & Answers (Human Rights Watch 2020)](https://www.hrw.org/news/2020/09/02/qa-international-criminal-court-and-united-states)<br>[Amb. David J. Scheffer, The ICC's Probe Into Atrocities in Afghanistan, What to Know (Council on Foreign Relations, Mar. 6, 2020)](https://www.cfr.org/article/iccs-probe-atrocities-afghanistan-what-know)<br>[International Criminal Court: U.S. Sanctions in Response to Investigation of War Crimes in Afghanistan (Congressional Research Service, June 19, 2020)](https://fas.org/sgp/crs/row/IN11428.pdf)
 
-<br>*Updated: 2/1/2021*
+<br>*Updated: 5/10/2021*
