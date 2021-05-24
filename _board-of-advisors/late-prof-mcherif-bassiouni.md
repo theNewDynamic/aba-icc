@@ -1,6 +1,6 @@
 ---
 title: Prof. M. Cherif Bassiouni (1937-2017)
-published: true
+published: false
 board_chair:
 last_name: Bassiouni
 image_path: /uploads/1423055277425_image-12.png
