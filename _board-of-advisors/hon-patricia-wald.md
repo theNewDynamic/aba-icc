@@ -1,6 +1,6 @@
 ---
 title: Hon. Patricia Wald (1928-2019)
-published: true
+published: false
 board_chair:
 last_name: Wald
 image_path: /uploads/1423056471646_image-8.png
