@@ -12,11 +12,11 @@ The American Bar Association's (ABA) International Criminal Court (ICC) Project 
 
 *ABA Center for Human Rights and International Criminal Court Project staff and interns celebrate International Criminal Justice Day 2014*
 
-Interns generally work from the ABA office in central Washington, D.C., but remote internships may be considered. Internships are unpaid, and can be completed for credit in accordance with relevant academic programs. There is a strong preference for applicants currently in law school with an understanding of international law; however, undergraduate applicants with background in international law and demonstrated capacity to work on typical ICC Project activities may be considered.&nbsp;*The ABA commits itself to building a multifaceted and diverse workforce, and thus strongly encourages applicants of any gender, sexual orientation, ethnic, religious, or other self-identified background.*
+Due to the ongoing COVID-19 pandemic, internships are currently conducted remotely within the United States. Unfortunately, we are not currently able to accommodate interns working remotely from a non-US location. Internships are unpaid, and can be completed for credit in accordance with relevant academic programs. There is a strong preference for applicants currently in law school with an understanding of international law; however, undergraduate applicants with background in international law and demonstrated capacity to work on typical ICC Project activities may be considered.&nbsp;*The ABA commits itself to building a multifaceted and diverse workforce, and thus strongly encourages applicants of any gender, sexual orientation, ethnic, religious, or other self-identified background.*
 
 If interested in applying for an internship at the ICC Project, please email the following PDF formatted material (as a whole or in individual pieces) to the Director of the ICC Project, [Kristin Smith](/staff/kristin-smith/)\:
 
-**For summer 2021 internships (June-August) please apply by May 1, 2021 at the latest. Applications will be considered on a rolling basis. Summer 2021 internships may be conducted remotely.&nbsp;<br><br>For fall 2021 internships (Sept.- early Dec.), please apply by August 1, 2021.**
+**For spring 2021 internships (Jan-May) please apply by Nov 1, 2021 at the latest. Applications will be considered on a rolling basis. Spring internships may be conducted remotely (TBD).<br><br>Applications for summer 2021 internships (June-Aug.) are welcome on a rolling basis.**
 
 ---
 
