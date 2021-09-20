@@ -7,9 +7,18 @@ phase: Preliminary Examinations, Admissibility Assessment
 link_to_more_information: https://www.icc-cpi.int/venezuela
 description: "The preliminary examination of the Situation in Venezuela I focuses on alleged atrocity crimes committed in the context of political unrest and related detentions in Venezuela since April 2017. As of September\_2021, the situation in Venezuela I is in the admissibility assessment phase."
 ---
+
 **Background**
 
 The preliminary examination of the Situation in Venezuela I focuses on alleged atrocity crimes committed in the context of political unrest and related detentions in Venezuela since April 2017.
+
+On February 9, 2006, the OTP [closed](https://www.icc-cpi.int/NR/rdonlyres/4E2BC725-6A63-40B8-8CDC-ADBA7BCAA91F/143684/OTP_letter_to_senders_re_Venezuela_9_February_2006.pdf) a previous&nbsp;[preliminary examination](https://www.aba-icc.org/country/venezuela/) into allegations of atrocity crimes committed in April 2002 due to a lack of temporal jurisdiction. A separate (at this stage) preliminary examination ([Venezuela I](https://www.aba-icc.org/country/venezuela/){: target="_blank"}I) is also ongoing.
+
+&nbsp;
+
+**ICC Status**
+
+Venezuela [ratified](https://asp.icc-cpi.int/en_menus/asp/states%20parties/latin%20american%20and%20caribbean%20states/Pages/venezuela.aspx) the Rome Statute on June 7, 2000. The ICC has jurisdiction over Rome Statute crimes committed since July 1, 2002.
 
 On [February 8, 2018](https://www.icc-cpi.int/Pages/item.aspx), the OTP opened a preliminary examination of the situation in Venezuela&nbsp; since April 2017.
 
@@ -20,16 +29,6 @@ In its [December 14, 2020 report](https://www.icc-cpi.int/itemsDocuments/2020-PE
 As of September 2021, the situation in Venezuela I is in the [admissibility assessment phase](https://www.icc-cpi.int/itemsDocuments/2020-PE/2020-pe-report-eng.pdf).
 
 For more information on the preliminary examination in Venezuela I, please visit the [ICC page](https://www.icc-cpi.int/venezuela).
-
-&nbsp;
-
-**ICC Status**
-
-Venezuela [ratified](https://asp.icc-cpi.int/en_menus/asp/states%20parties/latin%20american%20and%20caribbean%20states/Pages/venezuela.aspx) the Rome Statute on June 7, 2000. The ICC has jurisdiction over Rome Statute crimes committed since July 1, 2002.
-
-On February 9, 2006, the OTP [closed](https://www.icc-cpi.int/NR/rdonlyres/4E2BC725-6A63-40B8-8CDC-ADBA7BCAA91F/143684/OTP_letter_to_senders_re_Venezuela_9_February_2006.pdf) a previous&nbsp;[preliminary examination](https://www.aba-icc.org/country/venezuela/) into allegations of atrocity crimes committed in April 2002 due to a lack of temporal jurisdiction.
-
-See also, *Venezuela II*, for information about a separate preliminary examination.&nbsp;
 
 &nbsp;
 
