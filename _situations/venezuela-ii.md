@@ -7,6 +7,7 @@ phase: Preliminary Examinations, Subject Matter Jurisdiction Assessement
 link_to_more_information: https://www.icc-cpi.int/venezuelaII
 description: "The preliminary examination of the Situation in Venezuela II focuses on alleged crimes against humanity committed in Venezuela as a result of US sanctions. As of September\_2021, the preliminary examination of Venezuela II is in the subject-matter jurisdiction assessment phase."
 ---
+
 **Background**
 
 The preliminary examination of the Situation in Venezuela II focuses on alleged crimes against humanity committed in Venezuela as a result of US sanctions, which have allegedly resulted in increases in both adult and child mortality, and negatively impacted human rights such as right to food, access to medical care and education.
