@@ -1,7 +1,7 @@
 ---
 title: Philippines
 country: philippines
-published: false
+published: true
 date: 2021-09-20 12:12:00
 phase: Preliminary Examinations, Subject Matter Jurisdiction Assessement
 link_to_more_information: https://www.icc-cpi.int/philippines
@@ -13,13 +13,16 @@ description: >-
   committed in the Philippines between November 1, 2011 – March 16, 2019 related
   to the so-called "war on drugs" campaign.
 ---
-# **Background**
+
+**Background**
 
 The preliminary examination of the Situation in the Philippines focuses on [alleged atrocity crimes](https://www.icc-cpi.int/Pages/item.aspx?name=180208-otp-stat) committed since July 1, 2016 in the context of the Government of the Philippines’ “war on drugs” campaign. Specifically, there are allegations that thousands were killed related to their alleged involvement in illegal drug use or sale. Some of the alleged killings were committed by members of Philippine law enforcement and armed forces, while others were reportedly carried out by unidentified assailants.
 
 In [June 2020](https://www.icc-cpi.int/itemsDocuments/2020-PE/2020-pe-report-eng.pdf), the Government of the Philippines created an inter-agency panel to reinvestigate deaths in police war on drugs operations. While the OTP monitored domestic developments to determine the genuineness of the investigations, the Prosecutor ultimately [determined](https://www.icc-cpi.int/CourtRecords/CR2021_05381.PDF) that “the overall failure to take meaningful action to bring perpetrators to justice, particularly when combined with promises of immunity or protection from accountability, constitutes a form of encouragement to perpetrators to continue committing violent crimes against suspected drug users and dealers.”
 
-# **ICC Status**
+&nbsp;
+
+**ICC Status**
 
 The Philippines [ratified](https://asp.icc-cpi.int/en_menus/asp/press%20releases/press%20releases%202011/Pages/pr717.aspx) the Rome Statute on August 30, 2011. The ICC has jurisdiction over Rome Statute crimes committed since November 1, 2011. On March 17, 2018, the Government of the Philippines [deposited](https://www.icc-cpi.int/Pages/item.aspx?name=pr1371) a written notification of withdrawal from the Rome Statute. The [withdrawal took effect](https://www.coalitionfortheicc.org/news/20190315/philippines-leaves-icc) on March 17, 2019. However, the Court retains jurisdiction over alleged crimes that occurred in the Philippines during the time period when it was a State Party to the Court – from November 1, 2011 through March 16, 2019.
 
@@ -41,4 +44,4 @@ For more information on the preliminary examination in the Philippines, please v
 
 &nbsp;
 
-*Updated 9/20/2021 *
+*Updated 9/20/2021&nbsp;*
