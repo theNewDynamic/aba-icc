@@ -13,6 +13,7 @@ description: >-
   preliminary examination of the situation in Bolivia is in the subject-matter
   jurisdiction assessment phase. 
 ---
+
 **Background**
 
 The Preliminary Examination of the Situation in Bolivia focuses on alleged atrocity crimes committed during the COVID-19 pandemic. On [September 9, 2020](https://www.icc-cpi.int/Pages/item.aspx?name=200909-otp-statement-bolivia-referral), the OTP received a referral from the Government of Bolivia alleging Rome Statute crimes against humanity committed in Bolivia in August 2020. In its referral, the Government of Bolivia alleged that members of a political party, *Movimiento al Socialismo,* engaged in an attack on the Bolivian population by preventing the free passage of convoys, transport and communications. In the context of the COVID-19 pandemic, the impact of this blockade effectively prevented civilian populations in some Bolivian cities from accessing public health supplies and services, leading to severe illness without proper access to medical care, and sometimes death.
