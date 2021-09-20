@@ -3,7 +3,7 @@ title: Philippines
 country: philippines
 published: true
 date: 2021-09-20 12:12:00
-phase: Preliminary Examinations, Subject Matter Jurisdiction Assessement
+phase: Preliminary Examinations, Admissibility Assessment
 link_to_more_information: https://www.icc-cpi.int/philippines
 description: >-
   The Situation in the Philippines focuses on alleged crimes against humanity
@@ -20,8 +20,6 @@ The preliminary examination of the Situation in the Philippines focuses on [alle
 
 In [June 2020](https://www.icc-cpi.int/itemsDocuments/2020-PE/2020-pe-report-eng.pdf), the Government of the Philippines created an inter-agency panel to reinvestigate deaths in police war on drugs operations. While the OTP monitored domestic developments to determine the genuineness of the investigations, the Prosecutor ultimately [determined](https://www.icc-cpi.int/CourtRecords/CR2021_05381.PDF) that “the overall failure to take meaningful action to bring perpetrators to justice, particularly when combined with promises of immunity or protection from accountability, constitutes a form of encouragement to perpetrators to continue committing violent crimes against suspected drug users and dealers.”
 
-&nbsp;
-
 **ICC Status**
 
 The Philippines [ratified](https://asp.icc-cpi.int/en_menus/asp/press%20releases/press%20releases%202011/Pages/pr717.aspx) the Rome Statute on August 30, 2011. The ICC has jurisdiction over Rome Statute crimes committed since November 1, 2011. On March 17, 2018, the Government of the Philippines [deposited](https://www.icc-cpi.int/Pages/item.aspx?name=pr1371) a written notification of withdrawal from the Rome Statute. The [withdrawal took effect](https://www.coalitionfortheicc.org/news/20190315/philippines-leaves-icc) on March 17, 2019. However, the Court retains jurisdiction over alleged crimes that occurred in the Philippines during the time period when it was a State Party to the Court – from November 1, 2011 through March 16, 2019.
@@ -36,12 +34,8 @@ The Chamber considered 204 victim representations, and noted that 94% of the vic
 
 For more information on the preliminary examination in the Philippines, please visit the [ICC page](https://www.icc-cpi.int/philippines).
 
-&nbsp;
-
 **Other Resources (non-ABA)**
 
 [Report of the UN High Commissioner for Human Rights on the Situation of Human Rights in the Philippines (UN Human Rights Council, 2020)](https://www.ohchr.org/Documents/Countries/PH/Philippines-HRC44-AEV.pdf)<br>[Report: License to Kill: Philippine Police Killings in Duterte’s “War on Drugs” (Human Rights Watch, 2017)](https://www.hrw.org/sites/default/files/report_pdf/philippines0317_web_1.pdf)<br>[Ongoing Extrajudicial Executions and Other Violations in the Philippines’ ‘War on Drugs’ (Amnesty International, 2019)](https://www.amnesty.org/en/documents/asa35/0578/2019/en/)<br>[Frontline: Get the Backstory on Duterte’s ‘War on Drugs’ as ICC Green Lights Investigation into Philippines Killings (PBS, 2021)](https://www.pbs.org/wgbh/frontline/article/get-the-backstory-on-dutertes-war-on-drugs-as-icc-green-lights-investigation-into-philippines-killings/)
 
-&nbsp;
-
-*Updated 9/20/2021&nbsp;*
+*Updated 9/20/2021 *
