@@ -29,3 +29,7 @@ In its [December 14, 2020](https://www.icc-cpi.int/itemsDocuments/2020-PE/2020-p
 As of September 2021, the preliminary examination of the situation in Bolivia is in the [subject-matter jurisdiction assessment phase](https://www.icc-cpi.int/itemsDocuments/2020-PE/2020-pe-report-eng.pdf).
 
 For more information on the preliminary examination in Bolivia, please visit the [ICC page](https://www.icc-cpi.int/bolivia).
+
+&nbsp;
+
+*Updated 9/20/2021*
