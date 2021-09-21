@@ -6,11 +6,12 @@ date: 2015-02-23 18:44:00
 phase: Preliminary Examinations, Closed - Decision Not to Proceed
 link_to_more_information: https://www.icc-cpi.int/venezuela
 description: >-
-  The Preliminary Examination in Venezuela focuses on alleged atrocity crimes
-  (crimes against humanity) committed during a conflict (an attempted coup
-  d'état) which involved Venezuelan government forces and political opposition
-  groups and which occurred in April 2002. On February 9, 2006, the OTP closed
-  the preliminary examination.
+  There are two ongoing preliminary examinations in Venezuela. Venezuela I
+  focuses on alleged atrocity crimes committed in the context of political
+  unrest and related detentions in Venezuela since April 2017, and Venezuela II
+  involves crimes allegedly resulting from US sanctions. The OTP closed in 2006
+  a past preliminary examination into alleged atrocity crimes (crimes against
+  humanity) committed during a 2002 conflict (an attempted coup d'état). 
 slug: venezuela
 ---
 
