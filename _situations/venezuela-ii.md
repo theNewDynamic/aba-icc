@@ -29,3 +29,5 @@ As of September 2021, the preliminary examination of Venezuela II is in the [sub
 For more information on the preliminary examination in Venezuela II, please visit the [ICC page](https://www.icc-cpi.int/venezuelaII).&nbsp;
 
 &nbsp;
+
+*Updated 9/20/2021*
