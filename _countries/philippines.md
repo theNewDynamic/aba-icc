@@ -1,8 +1,8 @@
 ---
 title: Philippines
 published: true
-featured_image_path:
-featured_image_attribution:
+featured_image_path: /uploads/davao-city-philippines-daibo-taku-cc-by-3-0.jpg
+featured_image_attribution: Daibo Taku (CC by 3.0)
 geocode: PHL
 iso_code: PH
 territory: false
@@ -22,7 +22,7 @@ aggression:
 war_crimes: >-
   [Philippine Act on Crimes Against International Humanitarian Law, Chapter 3,
   Section 4](https://iccdb.hrlc.net/data/doc/411/keyword/145/l)
-note: 'Withdrawal effective on March 17, 2019.'
+note: Withdrawal effective on March 17, 2019.
 slug: philippines
 ---
 
