@@ -4,8 +4,9 @@ published: true
 featured_image_path:
 description:
 order: 30
-timeline: '//cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AtZ5yV_Pso2idDZQRXNfUzQxd3JTQzhhMXg5UEpVYmc&font=Bevan-PotanoSans&maptype=toner&lang=en&height=900'
+timeline: 'https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=0AtZ5yV_Pso2idDZQRXNfUzQxd3JTQzhhMXg5UEpVYmc&font=Bevan-PotanoSans&maptype=toner&lang=en&height=900'
 ---
+                                
 
 The United States (US) historically has been and continues to be an an ardent supporter of international criminal justice, having played critical roles in the establishment and operations of the United Nations (UN) War Crimes Commission, the World War II tribunals at Nuremberg and Tokyo, and the modern UN *ad hoc* and hybrid international tribunals for the former Yugoslavia, Rwanda, Sierra Leone, Cambodia, Lebanon and others. The International Criminal Court (ICC), the only permanent international criminal tribunal with a mandate to investigate and prosecute the international atrocity crimes of genocide, crimes against humanity, war crimes, and aggression, is the cornerstone of the system of international criminal justice.
 
