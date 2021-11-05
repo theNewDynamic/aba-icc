@@ -32,6 +32,10 @@ In its 2017 report on preliminary examinations, the OTP said it had found a reas
 
 On December 9, 2020, the Prosecutor [decided](https://www.icc-cpi.int/Pages/item.aspx?name=201209-otp-statement-iraq-uk) to close the preliminary examination in Iraq/UK without opening an investigation. After assessing the various domestic investigations and processes conducted by the UK in a [detailed report](https://www.icc-cpi.int/itemsDocuments/201209-otp-final-report-iraq-uk-eng.pdf), the Prosecutor determined that despite concerns expressed in the report regarding certain processes, the OTP could not conclude that the UK has been unwilling genuinely to investigate or prosecute, or that decisions not to prosecute resulted from that unwillingness. Specifically, the OTP:
 
-*\[could\] not conclude that the relevant investigative inquiries or investigative/prosecutorial decisions were made for the purpose of shielding the person concerned from criminal responsibility for crimes within the jurisdiction of the Court; that there has been an unjustified delay in the proceedings which in the circumstances is inconsistent with an intent to bring the person concerned to justice; or that the proceedings were not or are not being conducted independently or impartially, and they were or are being conducted in a manner which, in the circumstances, is inconsistent with an intent to bring the person concerned to justice.* (para. 502)
+*"\[could\] not conclude that the relevant investigative inquiries or investigative/prosecutorial decisions were made for the purpose of shielding the person concerned from criminal responsibility for crimes within the jurisdiction of the Court; that there has been an unjustified delay in the proceedings which in the circumstances is inconsistent with an intent to bring the person concerned to justice; or that the proceedings were not or are not being conducted independently or impartially, and they were or are being conducted in a manner which, in the circumstances, is inconsistent with an intent to bring the person concerned to justice."* (para. 502)
 
-examination in Iraq/UK, please visit the [ICC page](https://www.icc-cpi.int/iraq).
+For more information on the preliminary examination in Iraq/UK, please visit the [ICC page](https://www.icc-cpi.int/iraq).
+
+&nbsp;
+
+*Updated 11/5/2021*
