@@ -25,6 +25,6 @@ For more information on the preliminary examination in Colombia, please visit th
 
 &nbsp;
 
-**Other Resources (Non-ABA)**<br>[International Center for Transitional Justice, Transitional Justice and Prevention in Colombia (2021)](https://www.icc-cpi.int/itemsDocuments/20211028-OTP-COL-Cooperation-Agreement-ENG.pdf)<br>[Report of the United Nations High Commissioner for Human Rights on the Situation of human rights in Colombia (March 2021)](https://undocs.org/A/HRC/46/76)<br>[Kroc Institute for Int'l Peace Studies, Colombia Barometer Initiative Reports (2017-&nbsp; &nbsp; )](https://peaceaccords.nd.edu/barometer/colombia-reports)
+**Other Resources (Non-ABA)**<br>[International Center for Transitional Justice, Transitional Justice and Prevention in Colombia (2021)](https://www.icc-cpi.int/itemsDocuments/20211028-OTP-COL-Cooperation-Agreement-ENG.pdf)<br>[Report of the United Nations High Commissioner for Human Rights on the Situation of human rights in Colombia (March 2021)](https://undocs.org/A/HRC/46/76)<br>[Kroc Institute for Int'l Peace Studies, Colombia Barometer Initiative Reports (2017-&nbsp; &nbsp; )](https://peaceaccords.nd.edu/barometer/colombia-reports)<br>&nbsp;
 
 *Updated 11/8/2021*
