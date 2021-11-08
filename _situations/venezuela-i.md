@@ -3,9 +3,13 @@ title: Venezuela I
 country: venezuela
 published: true
 date: 2021-09-20 12:12:00
-phase: Preliminary Examinations, Admissibility Assessment
+phase: Situations & Cases
 link_to_more_information: https://www.icc-cpi.int/venezuela
-description: "The preliminary examination of the Situation in Venezuela I focuses on alleged atrocity crimes committed in the context of political unrest and related detentions in Venezuela since April 2017. As of September\_2021, the situation in Venezuela I is in the admissibility assessment phase."
+description: >-
+  The investigation of the Situation in Venezuela I focuses on alleged atrocity
+  crimes committed in the context of political unrest and related detentions in
+  Venezuela since April 2017. The Prosecutor opened an investigation in
+  Venezuela I in November 2021.
 ---
 
 **Background**
@@ -24,11 +28,11 @@ On [February 8, 2018](https://www.icc-cpi.int/Pages/item.aspx), the OTP opened a
 
 On [September 27, 2018](https://www.icc-cpi.int/Pages/item.aspx?name=180927-otp-stat-venezuela), the OTP received a [referral](https://www.icc-cpi.int/itemsDocuments/180925-otp-referral-venezuela_ENG.pdf) from several States Parties, including Argentina, Canada, Colombia, Chile, Paraguay, and Peru, regarding the situation in Venezuela—the first time States Parties have referred a situation occurring in another State Party. The referring States requested the Prosecutor investigate alleged atrocity crimes committed in Venezuela since February 12, 2014 and determine whether one or more persons should be charged with the commission of atrocity crimes.
 
-In its [December 14, 2020 report](https://www.icc-cpi.int/itemsDocuments/2020-PE/2020-pe-report-eng.pdf), the OTP announced that it had completed its subject-matter assessment of the situation in Venezuela I and concluded that there is a reasonable basis to believe that crimes against humanity (deprivation of liberty, torture, rape and/or other acts of sexual violence, and persecution on political grounds) &nbsp;have been committed in Venezuela since at least April 2017. In its analysis, the OTP focused on alleged mistreatment of detainees, finding a reasonable basis to believe that many security agencies/forces were involved in the crimes’ commission and that pro-government individuals worked with the security forces or with their acquiescence to repress individuals opposing or perceived to be opposing the Government of Venezuela. &nbsp;The OTP has requested information from the Government of Venezuela on any national proceedings relevant to these crimes.
+In its [December 14, 2020 report](https://www.icc-cpi.int/itemsDocuments/2020-PE/2020-pe-report-eng.pdf), the OTP announced that it had completed its subject-matter assessment of the situation in Venezuela I and concluded that there is a reasonable basis to believe that crimes against humanity (deprivation of liberty, torture, rape and/or other acts of sexual violence, and persecution on political grounds) &nbsp;have been committed in Venezuela since at least April 2017. In its analysis, the OTP focused on alleged mistreatment of detainees, finding a reasonable basis to believe that many security agencies/forces were involved in the crimes’ commission and that pro-government individuals worked with the security forces or with their acquiescence to repress individuals opposing or perceived to be opposing the Government of Venezuela. &nbsp;The OTP requested information from the Government of Venezuela on any national proceedings relevant to these crimes.
 
-As of September 2021, the situation in Venezuela I is in the [admissibility assessment phase](https://www.icc-cpi.int/itemsDocuments/2020-PE/2020-pe-report-eng.pdf).
+Following a visit to Venezuela in November 2021, the Prosecutor [opened an investigation](https://www.icc-cpi.int/Pages/item.aspx?name=pr1625) in Venezuela I. The OTP also concluded a [memorandum of understanding](https://www.icc-cpi.int/itemsDocuments/otp/acuerdo/acuerdo-eng.pdf)&nbsp;([Espa&ntilde;ol](https://www.icc-cpi.int/itemsDocuments/otp/acuerdo/acuerdo-spa.pdf)) aimed at facilitating dialogue and cooperation as the investigation proceeds.
 
-For more information on the preliminary examination in Venezuela I, please visit the [ICC page](https://www.icc-cpi.int/venezuela).
+For more information on the investigation in Venezuela I, please visit the [ICC page](https://www.icc-cpi.int/venezuela).
 
 &nbsp;
 
@@ -38,4 +42,4 @@ For more information on the preliminary examination in Venezuela I, please visit
 
 &nbsp;
 
-*Updated 9/20/2021*
+*Updated 11/8/2021*
