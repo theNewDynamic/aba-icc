@@ -2,7 +2,7 @@
 title: Bemba et al. - Jean-Jacques Magenda Kabongo - Trial Judgment
 published: true
 event_date: 2016-10-19 00:00:00
-action: 'Convicted '
+action: Convicted
 case: the-prosecutor-v-bemba-et-al
 accused: jean-jacques-magenda-kabongo
 youtube_id: rvDWFYpt4hQ
