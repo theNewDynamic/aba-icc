@@ -1,20 +1,19 @@
 ---
 title: Bemba et al. charges - Jean Pierre Bemba Gombo
 published: true
-charges_status: 'Trial: Ongoing'
+charges_status: 'Trial Complete: Sentenced'
 case: the-prosecutor-v-bemba-et-al
 accused: jean-pierre-bemba-gombo
 youtube_id:
 ---
 
-
 ### Factual Allegations
 
-*This case arises from the Accused's actions in connection with the case of [<u>The Prosecutor v. Jean-Pierre Bemba Gombo</u>](https://www.aba-icc.org/cases/case/the-prosecutor-v-bemba/), in which Jean-Pierre Bemba Gombo was charged, tried, and convicted of crimes against humanity (murder, rape) and war crimes (murder, rape, and pillaging) at the ICC.&nbsp;*
+*This case arises from the Accused's actions in connection with the case of [<u>The Prosecutor v. Jean-Pierre Bemba Gombo</u>](https://www.aba-icc.org/cases/case/the-prosecutor-v-bemba/), in which Jean-Pierre Bemba Gombo was charged, tried, and ultimately acquitted on appeal of crimes against humanity (murder, rape) and war crimes (murder, rape, and pillaging) at the ICC.&nbsp;*
 
-The ICC Office of the Prosecutor (OTP) alleges that Jean-Pierre Bemba Gombo was the head of a scheme to transfer financial compensation to defense witnesses in exchange for false testimony and false or forged documents\* favorable to the defense of Mr. Bemba in the case of [*The Prosecutor v. Jean-Pierre Bemba Gombo*](https://www.aba-icc.org/cases/case/the-prosecutor-v-bemba/). (\*Pre-Trial Chamber II declined to confirm the charge of false or forged documents.)
+The ICC Office of the Prosecutor (OTP) alleged that Jean-Pierre Bemba Gombo was the head of a scheme to transfer financial compensation to defense witnesses in exchange for false testimony and false or forged documents\* favorable to the defense of Mr. Bemba in the case of [*The Prosecutor v. Jean-Pierre Bemba Gombo*](https://www.aba-icc.org/cases/case/the-prosecutor-v-bemba/). (\*Pre-Trial Chamber II declined to confirm the charge of false or forged documents.)
 
-From 2011 to November 14, 2013, Mr. Bemba, as alleged by the OTP, made available financial resources and issued instructions to lead defense counsel [Aim&eacute; Kilolo Musamba](https://www.aba-icc.org/accused/aime-kilolo-musamba/), defense case manager [Jean-Jacques Mangenda Kabongo](https://www.aba-icc.org/accused/jean-jacques-magenda-kabongo/), his former primary political advisor [Fid&egrave;le Babala Wandu](https://www.aba-icc.org/accused/fid-le-babala-wandu/), and defense witness [Narcisse Arid](https://www.aba-icc.org/accused/narcisse-arido/) with regard to contacting and scheduling defense witnesses, coaching of false statements to be made by defense witnesses, and the amounts of money to be given to defense witnesses. &nbsp;&nbsp;
+From 2011 to November 14, 2013, Mr. Bemba, as alleged by the OTP, made available financial resources and issued instructions to lead defense counsel [Aimé Kilolo Musamba](https://www.aba-icc.org/accused/aime-kilolo-musamba/), defense case manager [Jean-Jacques Mangenda Kabongo](https://www.aba-icc.org/accused/jean-jacques-magenda-kabongo/), his former primary political advisor [Fid&egrave;le Babala Wandu](https://www.aba-icc.org/accused/fid-le-babala-wandu/), and defense witness [Narcisse Arid](https://www.aba-icc.org/accused/narcisse-arido/) with regard to contacting and scheduling defense witnesses, coaching of false statements to be made by defense witnesses, and the amounts of money to be given to defense witnesses. &nbsp;&nbsp;
 
 Please visit the Court’s website for more information on [*The Prosecutor v. Bemba et al*](https://www.icc-cpi.int/car/Bemba-et-al).
 
