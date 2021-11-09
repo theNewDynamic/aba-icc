@@ -7,6 +7,7 @@ case: the-prosecutor-v-bemba-et-al
 accused: fid-le-babala-wandu
 youtube_id: rvDWFYpt4hQ
 ---
+
 Mr. Babala and four other accused were convicted of various offenses against the administration of justice.
 
 Mr. Babala was convicted of aiding Mr. Bemba, Kilolo and Mangenda in corruptly influencing 2 witnesses (Article 70(1)(c)). He was acquitted of aiding, abetting or otherwise assisting in corruptly influencing the 12 other witnesses, and acquitted of aiding, abetting, or otherwise assisting in giving false testimony by witnesses or presenting&nbsp; false evidence by any of the 14 witnesses to the court (Article 70(1)(a) and (b)).
