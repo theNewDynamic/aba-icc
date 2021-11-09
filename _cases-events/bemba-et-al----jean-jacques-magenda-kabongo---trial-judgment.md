@@ -7,6 +7,7 @@ case: the-prosecutor-v-bemba-et-al
 accused: jean-jacques-magenda-kabongo
 youtube_id: rvDWFYpt4hQ
 ---
+
 Mr. Mangenda and four other accused were convicted of various offenses against the administration of justice.
 
 Mr. Mangenda was convicted of corruptly influencing 14 witnesses and presenting their false evidence (Articles 70(1)(b) and (c)), and aiding or abetting false testimony by witnesses (2 and 7 witnesses respectively).&nbsp;
