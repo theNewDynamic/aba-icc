@@ -1,7 +1,7 @@
 ---
 title: Bemba et al. charges - Aimé Kilolo Musamba
 published: true
-charges_status: 'Complete: Sentenced'
+charges_status: 'Trial Complete: Sentenced'
 case: the-prosecutor-v-bemba-et-al
 accused: aime-kilolo-musamba
 youtube_id:
