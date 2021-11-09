@@ -1,7 +1,7 @@
 ---
 title: Bemba et al. charges - Jean-Jacques Mangenda Kabongo
 published: true
-charges_status: 'Trial: Ongoing'
+charges_status: 'Trial Complete: Sentenced'
 case: the-prosecutor-v-bemba-et-al
 accused: jean-jacques-magenda-kabongo
 youtube_id:
