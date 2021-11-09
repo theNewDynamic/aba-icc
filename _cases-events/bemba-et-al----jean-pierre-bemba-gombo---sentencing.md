@@ -8,5 +8,4 @@ accused: jean-pierre-bemba-gombo
 youtube_id:
 ---
 
-
-Jean-Pierre Bemba Gombo was sentenced to one year imprisonment and EUR 300,000 fine. The imprisonment sentence will be served after the other sentence in the main case, The Prosecutor v. Bemba.
+Jean-Pierre Bemba Gombo was sentenced to one year imprisonment and EUR 300,000 fine.
