@@ -16,7 +16,7 @@ Due to the ongoing COVID-19 pandemic, internships are currently conducted remote
 
 If interested in applying for an internship at the ICC Project, please email the following PDF formatted material (as a whole or in individual pieces) to the Director of the ICC Project, [Kristin Smith](/staff/kristin-smith/)\:
 
-**For spring 2021 internships (Jan-May) please apply by Nov 1, 2021 at the latest. Applications will be considered on a rolling basis. Spring internships may be conducted remotely (TBD).<br><br>Applications for summer 2021 internships (June-Aug.) are welcome on a rolling basis.**
+**For spring 2021 internships (Jan-May) please apply by Nov 30, 2021 at the latest. Applications will be considered on a rolling basis. Spring internships may be conducted remotely (TBD).<br><br>Applications for summer 2021 internships (June-Aug.) are welcome on a rolling basis.**
 
 ---
 
