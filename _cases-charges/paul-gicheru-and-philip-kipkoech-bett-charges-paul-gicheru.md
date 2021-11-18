@@ -8,7 +8,6 @@ youtube_id:
 slug: paul-gicheru-and-philip-kipkoech-bett-charges-paul-gicheru
 ---
 
-
 ### Factual Allegations
 
 Paul Gicheru is suspected of offenses against the administration of justice consisting in corruptly influencing Prosecution witnesses. The ICC Office of the Prosecutor (OTP) has provided 58 annexes containing documentary evidence, including a number of witness statements and transcripts of interviews, official documents and correspondence. The OTP alleges, and the evidence demonstrates, that there has existed, from at least April 2013, a criminal scheme designed to systematically approach and corruptly influence witnesses of the OTP through bribery and other methods of inducements in exchange for their withdrawal as prosecution witnesses and/or recantation of their prior statements to the OTP.
@@ -19,4 +18,4 @@ Please visit the Court’s website for more information on *[The Prosecutor v. G
 
 ### Charges
 
-The Accused is alleged to have ordered, solicited, or induced the commission, under [Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute, of an Offence against the Administration of Justice: Corruptly Influencing Witnesses, under [Article 70(1)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243).
+The Accused is alleged to have committed crimes as an individual, jointly with another or through another person under [Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute or ordered, solicited, or induced the commission of crimes, under&nbsp;[Article 25(3)(b)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198){: target="_blank"}&nbsp;of the Rome Statute. Under these modes of liability, the Accused is alleged to have committed an Offence against the Administration of Justice: Corruptly Influencing Witnesses, under&nbsp;[Article 70(1)(c)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1243){: target="_blank"}.
