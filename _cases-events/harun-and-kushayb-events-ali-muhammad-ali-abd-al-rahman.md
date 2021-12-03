@@ -1,5 +1,5 @@
 ---
-title: Harun and Kushayb - Ali Muhammad Ali Abd-Al-Rahman
+title: Abd-Al-Rahman - Ali Muhammad Ali Abd-Al-Rahman
 published: true
 event_date:
 action:
