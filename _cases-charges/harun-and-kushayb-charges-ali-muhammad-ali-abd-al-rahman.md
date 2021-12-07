@@ -36,4 +36,10 @@ Under these modes of criminal liability, the Accused is [charged](https://www.ic
 
 > Intentionally directing attacks against the civilian population as such (War Crime): [Article 8(2)(e)(i)](https://cilrap-lexsitus.org/clicc/8-2-e-i/8-2-e-i)<br>Murder (Crime Against Humanity): [Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286){: target="_blank"}<br>Murder (War Crime): [Article 8(2)(c)(i)](https://cilrap-lexsitus.org/clicc/8-2-c-i-5/8-2-c-i-5)<br>Pillaging (War Crime): [Article 8(2)(e)(v)](https://cilrap-lexsitus.org/clicc/8-2-e-v/8-2-e-v)<br>Destruction of the property of an adversary without military necessity (War Crime): [Article 8(2)(e)(xii)](https://cilrap-lexsitus.org/clicc/8-2-e-xii/8-2-e-xii)<br>Other inhumane acts (Crime Against Humanity): [Article 7(1)(k)](https://cilrap-lexsitus.org/clicc/7-1-k/7-1-k)<br>Outrages upon personal dignity (War Crime): [Article 8(2)(c)(ii)](https://cilrap-lexsitus.org/clicc/8-2-c-ii/8-2-c-ii)<br>Rape (Crime Against Humanity): &nbsp;[Article 7(1)(g)](https://cilrap-lexsitus.org/clicc/7-1-g-1/7-1-g-1)<br>Rape (War Crime): [Article 8(2)(e)(vi)](https://cilrap-lexsitus.org/clicc/8-2e-vi-1/8-2e-vi-1)<br>Forcible transfer (Crime Against Humanity): [Article 7(1)(d)](https://cilrap-lexsitus.org/clicc/7-1-d/7-1-d)<br>Persecution (Crime Against Humanity): [Article 7(1)(h)](https://cilrap-lexsitus.org/clicc/7-1-h/7-1-h)<br>Torture (Crime Against Humanity): [Article 7(1)(f)](https://cilrap-lexsitus.org/clicc/7-1-f/7-1-f)<br>Torture (War Crime): [Article 8(2)(c)(i)](https://cilrap-lexsitus.org/clicc/8-2-c-i-4/8-2-c-i-4)<br>Cruel treatment (War Crime): [Article 8(2)(c)(i)](https://cilrap-lexsitus.org/clicc/8-2-c-i-3/8-2-c-i-3)
 
+&nbsp;
+
+### <u><strong>Other Resources (Non-ABA):&nbsp;</strong></u>
+
+[Justice Update – Darfur at the ICC: Mr “tough fibre” or not? (Asymmetrical Haircuts Podcast, May 31, 2021)](https://www.asymmetricalhaircuts.com/episodes/justice-update-darfur-at-the-icc-mr-tough-fibre-or-not/)
+
 > &nbsp;
