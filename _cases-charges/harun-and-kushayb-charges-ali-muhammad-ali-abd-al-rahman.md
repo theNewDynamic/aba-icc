@@ -26,45 +26,14 @@ Please visit the Court’s website for more information on&nbsp;[*The Prosecutor
 
 ### Charges
 
-The Accused is charged with the crimes listed below under the following modes of criminal liability:
+Mr. Abd-Al-Rahman is charged under a number of different modes of liability outlined in the Rome Statute:
 
-> Committing atrocity crimes as an individual, jointly with another or through another person ([Article 25(3)(a)](http://www.casematrixnetwork.org/case-m/klamberg-commentary/rome-statute/#c1198) of the Rome Statute)
+> Committing atrocity crimes as an individual, jointly with another or through another person:&nbsp;[Article 25(3)(a)](https://cilrap-lexsitus.org/clicc/25-3-a/25-3-a-co-perpetration)<br>Ordering, soliciting, or inducing the commission of these crimes:&nbsp;[Article 25(3)(b)](https://cilrap-lexsitus.org/clicc/25-3-b/25-3-b)<br>Attempting to commit a crime by taking action that commences its execution by means of a substantial step: [Article 25(3)(f)](https://cilrap-lexsitus.org/clicc/25-3-f/25-3-f)
 
-> Intentionally contributing to the commission or attempted commission of atrocity crimes crimes by a group, with the aim of furthering the criminal activity or purpose of the perpetrators ([Article 25(3)(d)(i)](https://www.casematrixnetwork.org/cmn-knowledge-hub/icc-commentary-clicc/rome-statute/#c1198)), and with knowledge of the perpetrators' intention to commit these crimes ([Article 25(3)(d)(ii)](https://www.casematrixnetwork.org/cmn-knowledge-hub/icc-commentary-clicc/rome-statute/#c1198))
+&nbsp;
 
-Under these modes of criminal liability, the Accused is charged with the following atrocity crimes:
+Under these modes of criminal liability, the Accused is [charged](https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-02/05-01/20-433-Corr) with the following atrocity crimes (31 counts total):
 
-> Murder (Crime against Humanity):&nbsp;[Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286)
->
->
-> Deportation (Crime against Humanity):&nbsp;[Article 7(1)(d)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2289)
->
->
-> Imprisonment (Crime against Humanity):&nbsp;[Article 7(1)(e)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2290)
->
->
-> Torture (Crime against Humanity):&nbsp;[Article 7(1)(f)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2291)
->
->
-> Persecution (Crime against Humanity):&nbsp;[Article 7(1)(h)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2298)
->
->
-> Inhumane Acts (Crime against Humanity):&nbsp;[Article 7(1)(k)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2301)
->
->
-> Violence to Life (War Crime): [Article 8(2)(c)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2359)
->
->
-> Outrage upon Personal Dignity (War Crime):[Article 8(2)(c)(ii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2363)
->
->
-> Directing Attacks against Civilians (War Crime):[Article 8(2)(e)(i)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2367)
->
->
-> Pillaging (War Crime):[Article 8(2)(e)(v)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2371)
->
->
-> Rape (War Crime):[Article 8(2)(e)(vi)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2372)
->
->
-> Destroying or Seizing Property (War Crime):[Article 8(2)(e)(xii)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2384)
+> Intentionally directing attacks against the civilian population as such (War Crime): [Article 8(2)(e)(i)](https://cilrap-lexsitus.org/clicc/8-2-e-i/8-2-e-i)<br>Murder (Crime Against Humanity): [Article 7(1)(a)](http://www.casematrixnetwork.org/cmn-knowledge-hub/klamberg-commentary/elements-of-crime/#c2286){: target="_blank"}<br>Murder (War Crime): [Article 8(2)(c)(i)](https://cilrap-lexsitus.org/clicc/8-2-c-i-5/8-2-c-i-5)<br>Pillaging (War Crime): [Article 8(2)(e)(v)](https://cilrap-lexsitus.org/clicc/8-2-e-v/8-2-e-v)<br>Destruction of the property of an adversary without military necessity (War Crime): [Article 8(2)(e)(xii)](https://cilrap-lexsitus.org/clicc/8-2-e-xii/8-2-e-xii)<br>Other inhumane acts (Crime Against Humanity): [Article 7(1)(k)](https://cilrap-lexsitus.org/clicc/7-1-k/7-1-k)<br>Outrages upon personal dignity (War Crime): [Article 8(2)(c)(ii)](https://cilrap-lexsitus.org/clicc/8-2-c-ii/8-2-c-ii)<br>Rape (Crime Against Humanity): &nbsp;[Article 7(1)(g)](https://cilrap-lexsitus.org/clicc/7-1-g-1/7-1-g-1)<br>Rape (War Crime): [Article 8(2)(e)(vi)](https://cilrap-lexsitus.org/clicc/8-2e-vi-1/8-2e-vi-1)<br>Forcible transfer (Crime Against Humanity): [Article 7(1)(d)](https://cilrap-lexsitus.org/clicc/7-1-d/7-1-d)<br>Persecution (Crime Against Humanity): [Article 7(1)(h)](https://cilrap-lexsitus.org/clicc/7-1-h/7-1-h)<br>Torture (Crime Against Humanity): [Article 7(1)(f)](https://cilrap-lexsitus.org/clicc/7-1-f/7-1-f)<br>Torture (War Crime): [Article 8(2)(c)(i)](https://cilrap-lexsitus.org/clicc/8-2-c-i-4/8-2-c-i-4)<br>Cruel treatment (War Crime): [Article 8(2)(c)(i)](https://cilrap-lexsitus.org/clicc/8-2-c-i-3/8-2-c-i-3)
+
+> &nbsp;
