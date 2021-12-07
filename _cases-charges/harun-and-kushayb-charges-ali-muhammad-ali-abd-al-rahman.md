@@ -5,12 +5,12 @@ charges_status: Pre-trial
 case: prosecutor-v--abd-al-rahman
 accused: ali-muhammad-ali-abd-al-rahman
 youtube_id:
-slug: harun-and-kushayb-charges-ali-muhammad-ali-abd-al-rahman
+slug: abd-al-rahman-charges-ali-muhammad-ali-abd-al-rahman
 ---
 
 ### Factual Allegations
 
-Ali Muhammad Ali Abd-Al-Rahman (also known as “Ali Kushayb”) is allegedly one of the leaders of the militia/ Janjaweed. The ICC Office of the Prosecutor (OTP) alleges that Mr. Abd-Al-Rahman was a senior leader in the Wadi Salih Locality in western Darfur, Republic of Sudan, and a member of the Popular Defense Forces (PDF).
+Ali Muhammad Ali Abd-Al-Rahman (also known as “Ali Kushayb”) is alleged to be one a senior leaders of the militia/ Janjaweed during the period under focus in the Sudan situation. The ICC Office of the Prosecutor (OTP) alleges that Mr. Abd-Al-Rahman was a senior leader in the Wadi Salih Locality in western Darfur, Republic of Sudan, and a member of the Popular Defense Forces (PDF).
 
 The OTP alleges that Mr. Abd-Al-Rahman commanded thousands of militia/Janjaweed from August 2003 to March 2004, and that Mr. Abd-Al-Rahman was perceived as a mediator between the militia/Janjaweed and the Sudanese Armed Forces. While in these positions, Kushayb Mr. Abd-Al-Rahman allegedly recruited, armed, and funded the Janjaweed and the militias aligned with the Government of the Republic of Sudan. In so doing, Mr. Abd-Al-Rahman allegedly contributed to the implementation of the Sudanese Armed Forces and the militia/Janjaweed’s plan to maintain security in Darfur by attacking civilian populations perceived to be associated with rebels.
 
