@@ -1,13 +1,12 @@
 ---
-title: Paul Gicheru and Philip Kipkoech Bett charges - Philip Kipkoech Bett
+title: Philip Kipkoech Bett charges - Philip Kipkoech Bett
 published: true
 charges_status: Pre-Trial
-case: the-prosecutor-v-paul-gicheru-and-philip-kipkoech-bett
+case: the-prosecutor-v--bett
 accused: philip-kipkoech-bett
 youtube_id:
-slug: paul-gicheru-and-philip-kipkoech-bett-charges-philip-kipkoech-bett
+slug: philip-kipkoech-bett-charges-philip-kipkoech-bett
 ---
-
 
 ### Factual Allegations
 
@@ -17,7 +16,7 @@ The evidence indicates that said scheme has been run in an organized manner and 
 
 There is also information that those witnesses who were successfully corrupted were enticed to make contact with other witnesses, for the purpose of their corruption.
 
-Please visit the Court’s website for more information on *[The Prosecutor v. Gicheru and Bett](https://www.icc-cpi.int/kenya/gicheru-bett)*.
+Please visit the Court’s website for more information on [*The Prosecutor v. Bett*](https://www.icc-cpi.int/kenya/bett).
 
 ### Charges
 
