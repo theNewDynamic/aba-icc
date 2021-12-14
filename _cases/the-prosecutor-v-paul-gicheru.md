@@ -7,6 +7,6 @@ case_status: Pre-trial
 long_name: The Prosecutor v. Paul Gicheru
 accuseds:
   - paul-gicheru
-slug:
+slug: the-prosecutor-v-paul-gicheru
 ---
 
