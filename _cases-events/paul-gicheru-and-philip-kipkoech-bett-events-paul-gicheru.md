@@ -1,11 +1,11 @@
 ---
-title: Paul Gicheru and Philip Kipkoech Bett - Paul Gicheru
+title: Paul Gicheru - Paul Gicheru
 published: true
 action:
 case: the-prosecutor-v-paul-gicheru-and-philip-kipkoech-bett
 accused: paul-gicheru
 youtube_id:
-slug: paul-gicheru-and-philip-kipkoech-bett-events-paul-gicheru
+slug: paul-gicheru-events-paul-gicheru
 ---
 
 On February 9, 2015 the Prosecutor requested an arrest warrant. PPre-Trial Chamber II&nbsp;[issued](https://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200109/related%20cases/ICC-01_09-01_15/court-records/chambers/ptcII/Pages/1.aspx){: target="_blank"}&nbsp;a sealed arrest warrant on March 10, 2015, which was&nbsp;[unsealed](https://www.icc-cpi.int/en_menus/icc/situations%20and%20cases/situations/situation%20icc%200109/related%20cases/ICC-01_09-01_15/court-records/chambers/ptcII/Pages/11.aspx){: target="_blank"}&nbsp;on September 10, 2015.
